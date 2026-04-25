@@ -1,23 +1,24 @@
 ---
-title: "How to prevent pending updates from installing when shutting down Windows"
-layout: "post"
-date: 2012-01-03T18:03:16Z
-slug: "how-to-prevent-pending-updates-from-installing-when-shutting-down-windows"
+title: How to prevent pending updates from installing when shutting down Windows
+layout: post
+date: '2012-01-03T18:03:16Z'
+slug: how-to-prevent-pending-updates-from-installing-when-shutting-down-windows
 aliases:
-  - "/2012/01/how-to-prevent-pending-updates-from-installing-when-shutting-down-windows/"
-description: "The meeting should have finished since 10 minutes but they keep on talking, you look at your watch and notice that you only have a few minutes until y..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-prevent-pending-updates-from-installing-when-shutting-down-windows.png"
+- /2012/01/how-to-prevent-pending-updates-from-installing-when-shutting-down-windows/
+description: The meeting should have finished since 10 minutes but they keep on talking,
+  you look at your watch and notice that you only have a few minutes until y...
+author: Alex Verboon
+image: img/post-heroes/how-to-prevent-pending-updates-from-installing-when-shutting-down-windows.png
 tags:
-  - pending-updates
-  - shutdown
-  - tip
-  - windows-update
-  - Windows
-  - Office
+- pending-updates
+- shutdown
+- tip
+- windows-update
+- Windows
+- Office
 categories:
-  - tip
-  - Windows
+- tip
+- Windows
 ---
 The meeting should have finished since 10 minutes but they keep on talking, you look at your watch and notice that you only have a few minutes until you need to leave the office so that you catch your train. Finally the call ended and you shutdown your machine, but then you get that message “*Please do not power off or unplug your machine. Installing update 1 of 5*”. 
 

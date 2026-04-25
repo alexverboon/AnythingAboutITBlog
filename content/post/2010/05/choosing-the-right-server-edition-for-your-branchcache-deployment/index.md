@@ -1,23 +1,24 @@
 ---
-title: "Choosing the right Server Edition for your BranchCache deployment"
-layout: "post"
-date: 2010-05-03T21:01:53Z
-slug: "choosing-the-right-server-edition-for-your-branchcache-deployment"
+title: Choosing the right Server Edition for your BranchCache deployment
+layout: post
+date: '2010-05-03T21:01:53Z'
+slug: choosing-the-right-server-edition-for-your-branchcache-deployment
 aliases:
-  - "/2010/05/choosing-the-right-server-edition-for-your-branchcache-deployment/"
-description: "Windows Server 2008 R2 is available in multiple editions. If you’re planning to deploy BranchCache it’s important to consider installing the right ser..."
-author: "Alex Verboon"
-image: "img/post-heroes/choosing-the-right-server-edition-for-your-branchcache-deployment.png"
+- /2010/05/choosing-the-right-server-edition-for-your-branchcache-deployment/
+description: Windows Server 2008 R2 is available in multiple editions. If you’re planning
+  to deploy BranchCache it’s important to consider installing the right ser...
+author: Alex Verboon
+image: img/post-heroes/choosing-the-right-server-edition-for-your-branchcache-deployment.png
 tags:
-  - branchcache
-  - edition
-  - feature-comparison
-  - server-2008-r2
-  - Windows
-  - Office
+- branchcache
+- edition
+- feature-comparison
+- server-2008-r2
+- Windows
+- Office
 categories:
-  - branchcache
-  - windows-server-2008-r2
+- branchcache
+- windows-server-2008-r2
 ---
 Windows Server 2008 R2 is available in multiple editions. If you’re planning to deploy BranchCache it’s important to consider installing the right server edition as there is a difference in the provided functionality between the different server editions. 
 

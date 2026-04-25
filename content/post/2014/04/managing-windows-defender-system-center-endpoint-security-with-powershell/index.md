@@ -1,28 +1,29 @@
 ---
-title: "Managing Windows Defender / System Center Endpoint Security with PowerShell"
-layout: "post"
-date: 2014-04-08T13:17:21Z
-slug: "managing-windows-defender-system-center-endpoint-security-with-powershell"
+title: Managing Windows Defender / System Center Endpoint Security with PowerShell
+layout: post
+date: '2014-04-08T13:17:21Z'
+slug: managing-windows-defender-system-center-endpoint-security-with-powershell
 aliases:
-  - "/2014/04/managing-windows-defender-system-center-endpoint-security-with-powershell/"
-description: "I just read a blog post from Ed Wilson (Scripting Guy) about [Use PowerShell to Configure Windows Defender Preferences](http://blogs.technet.com/b/hey..."
-author: "Alex Verboon"
-image: "img/post-heroes/managing-windows-defender-system-center-endpoint-security-with-powershell.png"
+- /2014/04/managing-windows-defender-system-center-endpoint-security-with-powershell/
+description: I just read a blog post from Ed Wilson (Scripting Guy) about [Use PowerShell
+  to Configure Windows Defender Preferences](http://blogs.technet.com/b/hey...
+author: Alex Verboon
+image: img/post-heroes/managing-windows-defender-system-center-endpoint-security-with-powershell.png
 tags:
-  - cmdlet
-  - defender-2
-  - module
-  - mpprovider
-  - scep
-  - system-center-endpoint-protection
-  - threat
-  - Windows
-  - PowerShell
+- cmdlet
+- defender-2
+- module
+- mpprovider
+- scep
+- system-center-endpoint-protection
+- threat
+- Windows
+- PowerShell
 categories:
-  - defender
-  - endpoint-protection
-  - Windows
-  - PowerShell
+- defender
+- endpoint-protection
+- Windows
+- PowerShell
 ---
 I just read a blog post from Ed Wilson (Scripting Guy) about [Use PowerShell to Configure Windows Defender Preferences](http://blogs.technet.com/b/heyscriptingguy/archive/2013/10/26/weekend-scripter-use-powershell-to-configure-windows-defender-preferences.aspx) and wondered if there’s more here. And yes there is. If you have a default insallation of Windows 8 and have defender enabled or work in an enterprise environment and use Configuration Manager with the  System Center Endpoint Security agent deployed on your clients then you the below listed cmdlets available. 
 

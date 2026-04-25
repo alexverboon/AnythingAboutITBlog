@@ -1,22 +1,23 @@
 ---
-title: "Windows 8 Consumer Preview Support Bulletins Feb 29&ndash;March 13, 2012"
-layout: "post"
-date: 2012-03-13T21:26:33Z
-slug: "windows-8-consumer-preview-support-bulletins-feb-29march-13-2012"
+title: Windows 8 Consumer Preview Support Bulletins Feb 29&ndash;March 13, 2012
+layout: post
+date: '2012-03-13T21:26:33Z'
+slug: windows-8-consumer-preview-support-bulletins-feb-29march-13-2012
 aliases:
-  - "/2012/03/windows-8-consumer-preview-support-bulletins-feb-29march-13-2012/"
-description: "Below are the Windows 8 Consumer Preview support bulletins I was able to capture since the release of the Consumer Preview build. The BITS service cra..."
-author: "Alex Verboon"
+- /2012/03/windows-8-consumer-preview-support-bulletins-feb-29march-13-2012/
+description: Below are the Windows 8 Consumer Preview support bulletins I was able
+  to capture since the release of the Consumer Preview build. The BITS service cra...
+author: Alex Verboon
 tags:
-  - bulletins
-  - support
-  - updates
-  - windows-8-consumer-preview
-  - Windows
-  - Office
+- bulletins
+- support
+- updates
+- windows-8-consumer-preview
+- Windows
+- Office
 categories:
-  - Windows
-  - Office
+- Windows
+- Office
 ---
 Below are the Windows 8 Consumer Preview support bulletins I was able to capture since the release of the Consumer Preview build. 
 

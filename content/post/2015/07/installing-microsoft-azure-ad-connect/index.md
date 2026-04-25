@@ -1,24 +1,25 @@
 ---
-title: "Installing Microsoft Azure AD Connect"
-layout: "post"
-date: 2015-07-01T18:34:37Z
-slug: "installing-microsoft-azure-ad-connect"
+title: Installing Microsoft Azure AD Connect
+layout: post
+date: '2015-07-01T18:34:37Z'
+slug: installing-microsoft-azure-ad-connect
 aliases:
-  - "/2015/07/installing-microsoft-azure-ad-connect/"
-description: "Last week Microsoft anounced GA for Azure AD Connect. To get a better understanding of how this all works, I installed it in my Cloud based lab that i..."
-author: "Alex Verboon"
-image: "img/post-heroes/installing-microsoft-azure-ad-connect.png"
+- /2015/07/installing-microsoft-azure-ad-connect/
+description: Last week Microsoft anounced GA for Azure AD Connect. To get a better
+  understanding of how this all works, I installed it in my Cloud based lab that i...
+author: Alex Verboon
+image: img/post-heroes/installing-microsoft-azure-ad-connect.png
 tags:
-  - active-directory
-  - azure
-  - azure-directory
-  - azure-directory-connect
-  - cloud
-  - PowerShell
+- active-directory
+- azure
+- azure-directory
+- azure-directory-connect
+- cloud
+- PowerShell
 categories:
-  - active-directory
-  - azure
-  - PowerShell
+- active-directory
+- azure
+- PowerShell
 ---
 Last week Microsoft anounced GA for Azure AD Connect. To get a better understanding of how this all works, I installed it in my Cloud based lab that is hosted in Azure. 
 

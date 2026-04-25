@@ -1,1 +1,0 @@
-Just came across the Windows 7 Compatibility Search provider, allowing you to do a quick Windows 7 compatibility check for an application or hardware. Download and install the Windows 7 Compatibility Search Provider from [here](http://ieaddons.com/en/details/searchhelpers/Windows_7_Compatibility_Search/)

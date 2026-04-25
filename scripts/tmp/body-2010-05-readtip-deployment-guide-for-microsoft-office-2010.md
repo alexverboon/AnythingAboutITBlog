@@ -1,1 +1,0 @@
-This book covers information about the fundamentals of Deploying Microsoft Office 2010. Get it [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=5d0e7e0e-9e9b-43ba-a9ab-4775a26ffc2e)

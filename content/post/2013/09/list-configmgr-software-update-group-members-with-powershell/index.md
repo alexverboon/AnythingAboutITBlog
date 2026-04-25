@@ -1,22 +1,23 @@
 ---
-title: "List ConfigMgr Software Update Group members with PowerShell"
-layout: "post"
-date: 2013-09-22T20:47:18Z
-slug: "list-configmgr-software-update-group-members-with-powershell"
+title: List ConfigMgr Software Update Group members with PowerShell
+layout: post
+date: '2013-09-22T20:47:18Z'
+slug: list-configmgr-software-update-group-members-with-powershell
 aliases:
-  - "/2013/09/list-configmgr-software-update-group-members-with-powershell/"
-description: "The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. ``` <..."
-author: "Alex Verboon"
+- /2013/09/list-configmgr-software-update-group-members-with-powershell/
+description: The below script allows you to select a Configuration Manager software
+  update group and then lists the software updates that are assigned to it. ``` <...
+author: Alex Verboon
 tags:
-  - configmgr
-  - get-cmsoftwareupdate
-  - get-cmsoftwareupdategroup
-  - software-update-group
-  - software-updates
-  - PowerShell
+- configmgr
+- get-cmsoftwareupdate
+- get-cmsoftwareupdategroup
+- software-update-group
+- software-updates
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. 
 

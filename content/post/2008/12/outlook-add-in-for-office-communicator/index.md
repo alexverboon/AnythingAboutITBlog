@@ -1,21 +1,22 @@
 ---
-title: "Outlook add-in for Office Communicator"
-layout: "post"
-date: 2008-12-31T15:47:04Z
-slug: "outlook-add-in-for-office-communicator"
+title: Outlook add-in for Office Communicator
+layout: post
+date: '2008-12-31T15:47:04Z'
+slug: outlook-add-in-for-office-communicator
 aliases:
-  - "/2008/12/outlook-add-in-for-office-communicator/"
-description: "Those of you who work with Microsoft Outlook 2007 and Office Communicator 2007 might be interested in this one. On the [MSDN code Gallery](http://code..."
-author: "Alex Verboon"
-image: "img/post-heroes/outlook-add-in-for-office-communicator.png"
+- /2008/12/outlook-add-in-for-office-communicator/
+description: Those of you who work with Microsoft Outlook 2007 and Office Communicator
+  2007 might be interested in this one. On the [MSDN code Gallery](http://code...
+author: Alex Verboon
+image: img/post-heroes/outlook-add-in-for-office-communicator.png
 tags:
-  - add-in
-  - office-communicator
-  - outlook-2007
-  - Office
+- add-in
+- office-communicator
+- outlook-2007
+- Office
 categories:
-  - tip
-  - tools
+- tip
+- tools
 ---
 Those of you who work with Microsoft Outlook 2007 and Office Communicator 2007 might be interested in this one.
 

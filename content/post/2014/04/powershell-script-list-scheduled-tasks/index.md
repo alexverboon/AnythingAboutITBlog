@@ -1,20 +1,21 @@
 ---
-title: "PowerShell Script - List Scheduled Tasks"
-layout: "post"
-date: 2014-04-28T14:43:55Z
-slug: "powershell-script-list-scheduled-tasks"
+title: PowerShell Script - List Scheduled Tasks
+layout: post
+date: '2014-04-28T14:43:55Z'
+slug: powershell-script-list-scheduled-tasks
 aliases:
-  - "/2014/04/powershell-script-list-scheduled-tasks/"
-description: "Here’s a simple script I put together to list the scheduled tasks including the description, status and whether the task is set to hidden or not. When..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-script-list-scheduled-tasks.png"
+- /2014/04/powershell-script-list-scheduled-tasks/
+description: Here’s a simple script I put together to list the scheduled tasks including
+  the description, status and whether the task is set to hidden or not. When...
+author: Alex Verboon
+image: img/post-heroes/powershell-script-list-scheduled-tasks.png
 tags:
-  - scheduled-task
-  - Windows
-  - PowerShell
+- scheduled-task
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 Here’s a simple script I put together to list the scheduled tasks including the description, status and whether the task is set to hidden or not. When deploying a new operating system I find it important to understand what scheduled tasks are enabled to run, as sometimes there might be some potential to improvie the systems performance by disabling those you feel are not needed in your environment. 
 

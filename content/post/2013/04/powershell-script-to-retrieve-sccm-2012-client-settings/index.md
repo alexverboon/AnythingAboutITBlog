@@ -1,21 +1,22 @@
 ---
-title: "PowerShell: Script to Retrieve SCCM 2012 Client Settings"
-layout: "post"
-date: 2013-04-30T22:16:54Z
-slug: "powershell-script-to-retrieve-sccm-2012-client-settings"
+title: 'PowerShell: Script to Retrieve SCCM 2012 Client Settings'
+layout: post
+date: '2013-04-30T22:16:54Z'
+slug: powershell-script-to-retrieve-sccm-2012-client-settings
 aliases:
-  - "/2013/04/powershell-script-to-retrieve-sccm-2012-client-settings/"
-description: "**4/3/2017 - Update: here's a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/ To make ..."
-author: "Alex Verboon"
+- /2013/04/powershell-script-to-retrieve-sccm-2012-client-settings/
+description: '**4/3/2017 - Update: here''s a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/
+  To make ...'
+author: Alex Verboon
 tags:
-  - client-settings
-  - documentation
-  - get-cmclientsetting
-  - sccm-2012
-  - PowerShell
+- client-settings
+- documentation
+- get-cmclientsetting
+- sccm-2012
+- PowerShell
 categories:
-  - sccm-2012
-  - PowerShell
+- sccm-2012
+- PowerShell
 ---
 **4/3/2017 - Update:  here's a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/
 

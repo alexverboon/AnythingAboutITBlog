@@ -1,22 +1,23 @@
 ---
-title: "ConfigMgr - How to find the Application Name for a ContentID"
-layout: "post"
-date: 2014-06-03T21:51:08Z
-slug: "configmgr-how-to-find-the-application-name-for-a-contentid"
+title: ConfigMgr - How to find the Application Name for a ContentID
+layout: post
+date: '2014-06-03T21:51:08Z'
+slug: configmgr-how-to-find-the-application-name-for-a-contentid
 aliases:
-  - "/2014/06/configmgr-how-to-find-the-application-name-for-a-contentid/"
-description: "While reviewing ConfigMgr status messages for clients reporting problems acquiring package content (Message ID 10025) I found some code snippets on [s..."
-author: "Alex Verboon"
-image: "img/post-heroes/configmgr-how-to-find-the-application-name-for-a-contentid.png"
+- /2014/06/configmgr-how-to-find-the-application-name-for-a-contentid/
+description: While reviewing ConfigMgr status messages for clients reporting problems
+  acquiring package content (Message ID 10025) I found some code snippets on [s...
+author: Alex Verboon
+image: img/post-heroes/configmgr-how-to-find-the-application-name-for-a-contentid.png
 tags:
-  - application
-  - configmgr
-  - contentid
-  - status-message-10025
-  - PowerShell
+- application
+- configmgr
+- contentid
+- status-message-10025
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 While reviewing ConfigMgr status messages for clients reporting problems acquiring package content (Message ID 10025) I found some code snippets on [sccmfaq.ch](http://sccmfaq.wordpress.com/2014/03/11/sccm-2012-get-from-content-id-to-the-name-of-an-application-with-powershell/) that maps the ContentID to the name of the application. As i had to do several lookups, I decided to create a function for it.
 

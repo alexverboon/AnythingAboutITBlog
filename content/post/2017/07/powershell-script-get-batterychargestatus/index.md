@@ -1,19 +1,21 @@
 ---
-title: "PowerShell Script Get-BatteryChargeStatus"
-layout: "post"
-date: 2017-07-30T15:05:03Z
-slug: "powershell-script-get-batterychargestatus"
+title: PowerShell Script Get-BatteryChargeStatus
+layout: post
+date: '2017-07-30T15:05:03Z'
+slug: powershell-script-get-batterychargestatus
 aliases:
-  - "/2017/07/powershell-script-get-batterychargestatus/"
-description: "**Update 01.08.2017** *I have updated the script to ensure that the Windows.Devices.Power.Battery class is properly loaded, as this wasn't the case in..."
-author: "Alex Verboon"
+- /2017/07/powershell-script-get-batterychargestatus/
+description: '**Update 01.08.2017** *I have updated the script to ensure that the
+  Windows.Devices.Power.Battery class is properly loaded, as this wasn''t the case
+  in...'
+author: Alex Verboon
 tags:
-  - battery
-  - power-management
-  - Windows
-  - PowerShell
+- battery
+- power-management
+- Windows
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 **Update 01.08.2017**
 

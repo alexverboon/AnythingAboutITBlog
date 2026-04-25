@@ -1,28 +1,29 @@
 ---
-title: "Monitoring Windows Defender Cloud Protection Service connectivity with ConfigMgr"
-layout: "post"
-date: 2019-07-12T14:30:04Z
-slug: "monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr"
+title: Monitoring Windows Defender Cloud Protection Service connectivity with ConfigMgr
+layout: post
+date: '2019-07-12T14:30:04Z'
+slug: monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr
 aliases:
-  - "/2019/07/monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr/"
-description: "How to test Microsoft Defender Cloud Protection Service (MAPS) connectivity and monitor it using ConfigMgr compliance baselines."
-author: "Alex Verboon"
-image: "img/post-heroes/monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr.png"
+- /2019/07/monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr/
+description: How to test Microsoft Defender Cloud Protection Service (MAPS) connectivity
+  and monitor it using ConfigMgr compliance baselines.
+author: Alex Verboon
+image: img/post-heroes/monitoring-windows-defender-cloud-protection-service-connectivity-with-configmgr.png
 tags:
-  - compliance-baseline
-  - compliance-settings
-  - configmgr
-  - defender-2
-  - definitions
-  - maps
-  - Windows
-  - PowerShell
+- compliance-baseline
+- compliance-settings
+- configmgr
+- defender-2
+- definitions
+- maps
+- Windows
+- PowerShell
 categories:
-  - compliance
-  - configmgr
-  - defender
-  - maps
-  - PowerShell
+- compliance
+- configmgr
+- defender
+- maps
+- PowerShell
 ---
 Hello everyone, earlier this week I wrote a blog post how to test Microsoft Defender Cloud Protection Service (MAPS) with PowerShell. Today I would like to share a possible approach how to actively monitor MAPS Connectivity across all your devices using ConfigMgr configuration baselines.
 

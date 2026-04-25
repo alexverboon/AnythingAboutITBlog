@@ -1,27 +1,28 @@
 ---
-title: "More about Microsoft product lifecycles"
-layout: "post"
-date: 2009-04-12T20:10:52Z
-slug: "more-about-microsoft-product-lifecycles"
+title: More about Microsoft product lifecycles
+layout: post
+date: '2009-04-12T20:10:52Z'
+slug: more-about-microsoft-product-lifecycles
 aliases:
-  - "/2009/04/more-about-microsoft-product-lifecycles/"
-description: "As I wrote the previous blog entry I started thinking about all the other products I come across in my daily professional life and started creating th..."
-author: "Alex Verboon"
+- /2009/04/more-about-microsoft-product-lifecycles/
+description: As I wrote the previous blog entry I started thinking about all the other
+  products I come across in my daily professional life and started creating th...
+author: Alex Verboon
 tags:
-  - extended-support
-  - mainstream-support
-  - product-lifecycle
-  - Windows
-  - Office
+- extended-support
+- mainstream-support
+- product-lifecycle
+- Windows
+- Office
 categories:
-  - knowledge
-  - licensing
-  - reading
-  - vista
-  - windows-2000
-  - windows-server-2008
-  - windows-xp
-  - Office
+- knowledge
+- licensing
+- reading
+- vista
+- windows-2000
+- windows-server-2008
+- windows-xp
+- Office
 ---
 As I wrote the previous blog entry I started thinking about all the other products I come across in my daily professional life and started creating the table shown below. 
 

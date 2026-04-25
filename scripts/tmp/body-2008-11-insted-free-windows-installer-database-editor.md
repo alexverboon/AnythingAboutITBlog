@@ -1,1 +1,0 @@
-For those dealing with application packaging here's an interesting tool you should know about. For more details check out the [InstEd ](http://www.instedit.com/home)site and read the[blog](http://blog.instedit.com/).

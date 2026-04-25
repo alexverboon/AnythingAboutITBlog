@@ -1,28 +1,30 @@
 ---
-title: "Microsoft User Experience Virtualization &ndash; Part 3: Creating and using Templates"
-layout: "post"
-date: 2012-07-04T20:32:52Z
-slug: "microsoft-user-experience-virtualization-part-3-creating-and-using-templates"
+title: 'Microsoft User Experience Virtualization &ndash; Part 3: Creating and using
+  Templates'
+layout: post
+date: '2012-07-04T20:32:52Z'
+slug: microsoft-user-experience-virtualization-part-3-creating-and-using-templates
 aliases:
-  - "/2012/07/microsoft-user-experience-virtualization-part-3-creating-and-using-templates/"
-description: "As explained in [Part 2 Setting up UE-V](https://www.verboon.info/index.php/2012/07/microsoft-user-experience-virtualization-part-2-setting-up-ue-v/) ..."
-author: "Alex Verboon"
+- /2012/07/microsoft-user-experience-virtualization-part-3-creating-and-using-templates/
+description: As explained in [Part 2 Setting up UE-V](https://www.verboon.info/index.php/2012/07/microsoft-user-experience-virtualization-part-2-setting-up-ue-v/)
+  ...
+author: Alex Verboon
 tags:
-  - application
-  - catalog-path
-  - files
-  - generator
-  - registry
-  - template
-  - ue-v
-  - user-experience-virtualization
-  - walkthrough
-  - Windows
-  - Office
+- application
+- catalog-path
+- files
+- generator
+- registry
+- template
+- ue-v
+- user-experience-virtualization
+- walkthrough
+- Windows
+- Office
 categories:
-  - ue-v
-  - Windows
-  - Office
+- ue-v
+- Windows
+- Office
 ---
 As explained in [Part 2 Setting up UE-V](https://www.verboon.info/index.php/2012/07/microsoft-user-experience-virtualization-part-2-setting-up-ue-v/) out of the box UE-V has build-in support for various Windows Settings and the Office 2010 suite. But to take full advantage of UE-V you will most likely want to have you other applications roam their settings as well. For that you will have to create so called UE-V Templates. 
 

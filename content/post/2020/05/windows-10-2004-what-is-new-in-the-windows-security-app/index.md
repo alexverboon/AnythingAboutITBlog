@@ -1,24 +1,25 @@
 ---
-title: "Windows 10 2004 - What is new in the Windows Security App"
-layout: "post"
-date: 2020-05-21T13:10:05Z
-slug: "windows-10-2004-what-is-new-in-the-windows-security-app"
+title: Windows 10 2004 - What is new in the Windows Security App
+layout: post
+date: '2020-05-21T13:10:05Z'
+slug: windows-10-2004-what-is-new-in-the-windows-security-app
 aliases:
-  - "/2020/05/windows-10-2004-what-is-new-in-the-windows-security-app/"
-description: "When all goes well, Microsoft will soon release the next version of Windows 10 aka Windows 10 2004."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-10-2004-what-is-new-in-the-windows-security-app.png"
+- /2020/05/windows-10-2004-what-is-new-in-the-windows-security-app/
+description: When all goes well, Microsoft will soon release the next version of Windows
+  10 aka Windows 10 2004.
+author: Alex Verboon
+image: img/post-heroes/windows-10-2004-what-is-new-in-the-windows-security-app.png
 tags:
-  - pua
-  - security
-  - security-app
-  - windowsinsider
-  - Windows
-  - PowerShell
+- pua
+- security
+- security-app
+- windowsinsider
+- Windows
+- PowerShell
 categories:
-  - security
-  - Windows
-  - PowerShell
+- security
+- Windows
+- PowerShell
 ---
 When all goes well, Microsoft will soon release the next version of Windows 10 aka as Windows 10 2004. I am an active Windows Insider user and noticed a few little changes within the Windows 10 Security App that I think are worth sharing.
 ![](https://www.verboon.info/wp-content/uploads/2020/05/052120_1307_Windows10201.png)

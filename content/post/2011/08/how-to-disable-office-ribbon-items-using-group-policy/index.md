@@ -1,25 +1,26 @@
 ---
-title: "How to disable Office Ribbon Items using Group Policy"
-layout: "post"
-date: 2011-08-04T20:20:56Z
-slug: "how-to-disable-office-ribbon-items-using-group-policy"
+title: How to disable Office Ribbon Items using Group Policy
+layout: post
+date: '2011-08-04T20:20:56Z'
+slug: how-to-disable-office-ribbon-items-using-group-policy
 aliases:
-  - "/2011/08/how-to-disable-office-ribbon-items-using-group-policy/"
-description: "Today I am going to show you how to disable a Ribbon Item using Group Policy, Okay, what’s the deal you might think, simply find the item within the O..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-disable-office-ribbon-items-using-group-policy.png"
+- /2011/08/how-to-disable-office-ribbon-items-using-group-policy/
+description: Today I am going to show you how to disable a Ribbon Item using Group
+  Policy, Okay, what’s the deal you might think, simply find the item within the O...
+author: Alex Verboon
+image: img/post-heroes/how-to-disable-office-ribbon-items-using-group-policy.png
 tags:
-  - disable
-  - gpo
-  - group-policy
-  - id
-  - policy-id
-  - ribbon
-  - Office
+- disable
+- gpo
+- group-policy
+- id
+- policy-id
+- ribbon
+- Office
 categories:
-  - gpo
-  - group-policy
-  - Office
+- gpo
+- group-policy
+- Office
 ---
 Today I am going to show you how to disable a Ribbon Item using Group Policy, Okay, what’s the deal you might think, simply find the item within the Office GPO settings and enable it. Right,almost, it’s just that Microsoft didn’t list all possible settings within the Office ADMX/ADML file, probably because there are too many of them. But there is a setting called “Disable command bar buttons and menu items” that you can enable and specify the Ribbon Policy ID. 
 

@@ -1,25 +1,28 @@
 ---
-title: "Preparing my Application Guard for Office test lab"
-layout: "post"
-date: 2020-11-21T17:24:13Z
-slug: "preparing-my-application-guard-for-office-test-lab"
+title: Preparing my Application Guard for Office test lab
+layout: post
+date: '2020-11-21T17:24:13Z'
+slug: preparing-my-application-guard-for-office-test-lab
 aliases:
-  - "/2020/11/preparing-my-application-guard-for-office-test-lab/"
-description: "Application Guard for Office in action - secure isolated container for Office documents."
-author: "Alex Verboon"
-image: "img/post-heroes/preparing-my-application-guard-for-office-test-lab.png"
+- /2020/11/preparing-my-application-guard-for-office-test-lab/
+description: Application Guard for Office in action - secure isolated container for
+  Office documents.
+author: Alex Verboon
+image: img/post-heroes/preparing-my-application-guard-for-office-test-lab.png
 tags:
-  - application-guard
-  - defender-atp
-  - security
-  - Windows
-  - Office
+- application-guard
+- defender-atp
+- security
+- Windows
+- Office
 categories:
   - application-guard
   - security
   - Windows
   - Office
+  - Microsoft Defender XDR
 ---
+
 Hello everyone, today I wanted to see application guard for office in action. If you are not familiar with application guard for office, I suggest you read the following articles / documentation.
 
 - [Microsoft Defender Application Guard for Office](#)

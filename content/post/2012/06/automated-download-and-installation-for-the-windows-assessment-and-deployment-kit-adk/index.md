@@ -1,26 +1,28 @@
 ---
-title: "Automated Download and Installation for the Windows Assessment and Deployment Kit (ADK)"
-layout: "post"
-date: 2012-06-02T17:13:55Z
-slug: "automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk"
+title: Automated Download and Installation for the Windows Assessment and Deployment
+  Kit (ADK)
+layout: post
+date: '2012-06-02T17:13:55Z'
+slug: automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk
 aliases:
-  - "/2012/06/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk/"
-description: "Since I am going install the ADK on several clients and servers, I decided to automate that process based on the information found in the MSDN article..."
-author: "Alex Verboon"
-image: "img/post-heroes/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk.png"
+- /2012/06/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk/
+description: Since I am going install the ADK on several clients and servers, I decided
+  to automate that process based on the information found in the MSDN article...
+author: Alex Verboon
+image: img/post-heroes/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk.png
 tags:
-  - adk
-  - automation
-  - installation
-  - script
-  - windows-assessment-and-deployment-kit
-  - winpe-4-0
-  - Windows
-  - WinPE
+- adk
+- automation
+- installation
+- script
+- windows-assessment-and-deployment-kit
+- winpe-4-0
+- Windows
+- WinPE
 categories:
-  - adk
-  - Windows
-  - WinPE
+- adk
+- Windows
+- WinPE
 ---
 Since I am going install the ADK on several clients and servers, I decided to automate that process based on the information found in the MSDN article [Installing the Windows ADK](http://msdn.microsoft.com/en-us/library/hh825494.aspx)
 

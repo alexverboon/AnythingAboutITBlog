@@ -1,26 +1,27 @@
 ---
-title: "Analysing the file content of Windows Installer files using PowerShell"
-layout: "post"
-date: 2014-10-05T18:59:14Z
-slug: "analysing-the-file-content-of-windows-installer-files-using-powershell"
+title: Analysing the file content of Windows Installer files using PowerShell
+layout: post
+date: '2014-10-05T18:59:14Z'
+slug: analysing-the-file-content-of-windows-installer-files-using-powershell
 aliases:
-  - "/2014/10/analysing-the-file-content-of-windows-installer-files-using-powershell/"
-description: "A few weeks ago we have started with the preparation for introducing Microsoft Office 2013 and Internet Explorer 11. As with every introduction of new..."
-author: "Alex Verboon"
-image: "img/post-heroes/analysing-the-file-content-of-windows-installer-files-using-powershell.png"
+- /2014/10/analysing-the-file-content-of-windows-installer-files-using-powershell/
+description: A few weeks ago we have started with the preparation for introducing
+  Microsoft Office 2013 and Internet Explorer 11. As with every introduction of new...
+author: Alex Verboon
+image: img/post-heroes/analysing-the-file-content-of-windows-installer-files-using-powershell.png
 tags:
-  - costfinalize
-  - costinitialize
-  - msi
-  - windows-installer
-  - Windows
-  - PowerShell
-  - Office
+- costfinalize
+- costinitialize
+- msi
+- windows-installer
+- Windows
+- PowerShell
+- Office
 categories:
-  - power
-  - windows-installer
-  - PowerShell
-  - Office
+- power
+- windows-installer
+- PowerShell
+- Office
 ---
 A few weeks ago we have started with the preparation for introducing Microsoft Office 2013 and Internet Explorer 11. As with every introduction of new software it’s all about compatibility. During the course of testing applications we were informed that some of them caused an issue due to hard coded paths. Each application is going to be installed anyway so that application owners can conduct testing, but at the same time I thought, it would be nice if we could identify potentially affected applications upfront without having to go through an actual install.
 

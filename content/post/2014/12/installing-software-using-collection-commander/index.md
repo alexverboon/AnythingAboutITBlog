@@ -1,23 +1,24 @@
 ---
-title: "Installing Software using Collection Commander"
-layout: "post"
-date: 2014-12-31T12:25:00Z
-slug: "installing-software-using-collection-commander"
+title: Installing Software using Collection Commander
+layout: post
+date: '2014-12-31T12:25:00Z'
+slug: installing-software-using-collection-commander
 aliases:
-  - "/2014/12/installing-software-using-collection-commander/"
-description: "In the past days I had to provision a number of clients for testing purposes. A specific set of software also needed to be installed on these clients...."
-author: "Alex Verboon"
-image: "img/post-heroes/installing-software-using-collection-commander.png"
+- /2014/12/installing-software-using-collection-commander/
+description: In the past days I had to provision a number of clients for testing purposes.
+  A specific set of software also needed to be installed on these clients....
+author: Alex Verboon
+image: img/post-heroes/installing-software-using-collection-commander.png
 tags:
-  - collection-commander
-  - configmgr
-  - deployment
-  - installation
-  - PowerShell
+- collection-commander
+- configmgr
+- deployment
+- installation
+- PowerShell
 categories:
-  - collection-commander
-  - configmgr
-  - PowerShell
+- collection-commander
+- configmgr
+- PowerShell
 ---
 In the past days I had to provision a number of clients for testing purposes. A specific set of software also needed to be installed on these clients. At our company when deploying software to computers, the deployment for none mandatory software is always set to “Available” so that users can choose themselves when to install the software via the Software Center. 
 

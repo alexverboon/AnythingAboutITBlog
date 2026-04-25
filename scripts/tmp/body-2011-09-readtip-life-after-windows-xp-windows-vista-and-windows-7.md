@@ -1,1 +1,0 @@
-A nice presentation highlighting the key technology and feature improvements from XP to Windows 7. Download the presentation from [here](http://www.microsoft.com/download/en/details.aspx?id=27405)

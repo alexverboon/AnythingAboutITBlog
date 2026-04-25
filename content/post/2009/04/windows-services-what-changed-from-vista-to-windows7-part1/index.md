@@ -1,24 +1,25 @@
 ---
-title: "Windows Services, what changed from Vista to Windows7 Part1"
-layout: "post"
-date: 2009-04-21T23:34:52Z
-slug: "windows-services-what-changed-from-vista-to-windows7-part1"
+title: Windows Services, what changed from Vista to Windows7 Part1
+layout: post
+date: '2009-04-21T23:34:52Z'
+slug: windows-services-what-changed-from-vista-to-windows7-part1
 aliases:
-  - "/2009/04/windows-services-what-changed-from-vista-to-windows7-part1/"
-description: "Today I took a closer look at the Windows Services running on Windows7. A lot of the performance improvements with Windows7 are related to the way how..."
-author: "Alex Verboon"
+- /2009/04/windows-services-what-changed-from-vista-to-windows7-part1/
+description: Today I took a closer look at the Windows Services running on Windows7.
+  A lot of the performance improvements with Windows7 are related to the way how...
+author: Alex Verboon
 tags:
-  - services
-  - startmode
-  - windows-vista
-  - Windows
-  - PowerShell
+- services
+- startmode
+- windows-vista
+- Windows
+- PowerShell
 categories:
-  - hyper-v
-  - knowledge
-  - vista
-  - Windows
-  - PowerShell
+- hyper-v
+- knowledge
+- vista
+- Windows
+- PowerShell
 ---
 Today I took a closer look at the Windows Services running on Windows7. A lot of the performance improvements with Windows7 are related to the way how and when services are being loaded so i thought it’s worth to see what’s happening there. 
 

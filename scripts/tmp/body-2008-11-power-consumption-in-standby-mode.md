@@ -1,1 +1,0 @@
-I have come across an article that describes the [power consumption of equipment in standby mode](http://www.hardwaresecrets.com/article/519/1), found it quite interesting.

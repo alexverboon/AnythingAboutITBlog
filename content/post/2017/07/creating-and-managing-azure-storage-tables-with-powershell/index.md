@@ -1,22 +1,23 @@
 ---
-title: "Creating and Managing Azure Storage Tables with PowerShell"
-layout: "post"
-date: 2017-07-01T23:36:39Z
-slug: "creating-and-managing-azure-storage-tables-with-powershell"
+title: Creating and Managing Azure Storage Tables with PowerShell
+layout: post
+date: '2017-07-01T23:36:39Z'
+slug: creating-and-managing-azure-storage-tables-with-powershell
 aliases:
-  - "/2017/07/creating-and-managing-azure-storage-tables-with-powershell/"
-description: "Today’s mission was to get more familiar with Azure Storage Tables and to manage them with PowerShell. On GitHub I found the [AzureTableEntity module]..."
-author: "Alex Verboon"
-image: "img/post-heroes/creating-and-managing-azure-storage-tables-with-powershell.png"
+- /2017/07/creating-and-managing-azure-storage-tables-with-powershell/
+description: Today’s mission was to get more familiar with Azure Storage Tables and
+  to manage them with PowerShell. On GitHub I found the [AzureTableEntity module]...
+author: Alex Verboon
+image: img/post-heroes/creating-and-managing-azure-storage-tables-with-powershell.png
 tags:
-  - azure
-  - azurestoragetables
-  - cosmosdb
-  - tables
-  - PowerShell
+- azure
+- azurestoragetables
+- cosmosdb
+- tables
+- PowerShell
 categories:
-  - azure
-  - PowerShell
+- azure
+- PowerShell
 ---
 Today’s mission was to get more familiar with Azure Storage Tables and to manage them with PowerShell. On GitHub I found the [AzureTableEntity module](https://github.com/tyconsulting/AzureTableEntity-PowerShell-Module) from Tao Yang. Below are a number of code snippets I used to get my hands dirty with Azure Storage tables and the module.
 

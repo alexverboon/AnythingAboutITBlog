@@ -1,23 +1,24 @@
 ---
-title: "Windows 8.1 Command Prompt or PowerShell"
-layout: "post"
-date: 2013-09-09T22:38:04Z
-slug: "windows-8-1-command-prompt-or-powershell"
+title: Windows 8.1 Command Prompt or PowerShell
+layout: post
+date: '2013-09-09T22:38:04Z'
+slug: windows-8-1-command-prompt-or-powershell
 aliases:
-  - "/2013/09/windows-8-1-command-prompt-or-powershell/"
-description: "If you have used the Windows 8.1 preview build, you will have noticed that the X-Menu by default had PowerShell enabled instead of the Command Prompt...."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-8-1-command-prompt-or-powershell.png"
+- /2013/09/windows-8-1-command-prompt-or-powershell/
+description: If you have used the Windows 8.1 preview build, you will have noticed
+  that the X-Menu by default had PowerShell enabled instead of the Command Prompt....
+author: Alex Verboon
+image: img/post-heroes/windows-8-1-command-prompt-or-powershell.png
 tags:
-  - command-prompt
-  - dontusepowershellonwinx
-  - group-policy
-  - registry
-  - Windows
-  - PowerShell
+- command-prompt
+- dontusepowershellonwinx
+- group-policy
+- registry
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 If you have used the Windows 8.1 preview build, you will have noticed that the X-Menu by default had PowerShell enabled instead of the Command Prompt.. However within the RTM release of Windows 8.1 Microsoft changed this, so now the command prompt is the default again as it was in Windows 8.
 

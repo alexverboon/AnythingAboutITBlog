@@ -1,28 +1,29 @@
 ---
-title: "The Microsoft Customer Experience Improvement Program&ndash;Part 1"
-layout: "post"
-date: 2011-04-20T11:53:38Z
-slug: "the-microsoft-customer-experience-improvement-programpart-1"
+title: The Microsoft Customer Experience Improvement Program&ndash;Part 1
+layout: post
+date: '2011-04-20T11:53:38Z'
+slug: the-microsoft-customer-experience-improvement-programpart-1
 aliases:
-  - "/2011/04/the-microsoft-customer-experience-improvement-programpart-1/"
-description: "The Microsoft Customer Experience Improvement Program ([CEIP](http://www.microsoft.com/products/ceip/EN-US/default.mspx)) collects information about h..."
-author: "Alex Verboon"
-image: "img/post-heroes/the-microsoft-customer-experience-improvement-programpart-1.png"
+- /2011/04/the-microsoft-customer-experience-improvement-programpart-1/
+description: The Microsoft Customer Experience Improvement Program ([CEIP](http://www.microsoft.com/products/ceip/EN-US/default.mspx))
+  collects information about h...
+author: Alex Verboon
+image: img/post-heroes/the-microsoft-customer-experience-improvement-programpart-1.png
 tags:
-  - ceip
-  - customer-experience-program
-  - experience
-  - feedback
-  - gpo
-  - improvement
-  - sqm
-  - telemetry
-  - Windows
-  - Office
+- ceip
+- customer-experience-program
+- experience
+- feedback
+- gpo
+- improvement
+- sqm
+- telemetry
+- Windows
+- Office
 categories:
-  - ceip
-  - Windows
-  - Office
+- ceip
+- Windows
+- Office
 ---
 The Microsoft Customer Experience Improvement Program ([CEIP](http://www.microsoft.com/products/ceip/EN-US/default.mspx)) collects information about how people use Microsoft products. The primary objective of this program is to solve problems and improve Microsoft’s products and features. During the past two days I have tried to get a better insight into what CEIP is really about, how it works and how it can be configured. 
 

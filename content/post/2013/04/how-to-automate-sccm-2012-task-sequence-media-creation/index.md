@@ -1,24 +1,25 @@
 ---
-title: "How to automate SCCM 2012 Task Sequence Media Creation"
-layout: "post"
-date: 2013-04-15T20:46:29Z
-slug: "how-to-automate-sccm-2012-task-sequence-media-creation"
+title: How to automate SCCM 2012 Task Sequence Media Creation
+layout: post
+date: '2013-04-15T20:46:29Z'
+slug: how-to-automate-sccm-2012-task-sequence-media-creation
 aliases:
-  - "/2013/04/how-to-automate-sccm-2012-task-sequence-media-creation/"
-description: "Just recently I went through the CM12 Console Task Sequence media creation wizard several times a day, so at some point I thought, this is a good cand..."
-author: "Alex Verboon"
+- /2013/04/how-to-automate-sccm-2012-task-sequence-media-creation/
+description: Just recently I went through the CM12 Console Task Sequence media creation
+  wizard several times a day, so at some point I thought, this is a good cand...
+author: Alex Verboon
 tags:
-  - automation
-  - boot-media
-  - cu1
-  - new-cmtasksequencemedia
-  - sccm-2012
-  - script
-  - task-sequence
-  - PowerShell
+- automation
+- boot-media
+- cu1
+- new-cmtasksequencemedia
+- sccm-2012
+- script
+- task-sequence
+- PowerShell
 categories:
-  - sccm-2012
-  - PowerShell
+- sccm-2012
+- PowerShell
 ---
 Just recently I went through the CM12 Console Task Sequence media creation wizard several times a day, so at some point I thought, this is a good candidate for automation. 
 

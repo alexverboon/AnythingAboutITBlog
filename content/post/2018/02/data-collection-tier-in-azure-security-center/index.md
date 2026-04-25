@@ -1,24 +1,25 @@
 ---
-title: "Data Collection Tier in Azure Security Center"
-layout: "post"
-date: 2018-02-25T17:22:05Z
-slug: "data-collection-tier-in-azure-security-center"
+title: Data Collection Tier in Azure Security Center
+layout: post
+date: '2018-02-25T17:22:05Z'
+slug: data-collection-tier-in-azure-security-center
 aliases:
-  - "/2018/02/data-collection-tier-in-azure-security-center/"
-description: "Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security eve..."
-author: "Alex Verboon"
-image: "img/post-heroes/data-collection-tier-in-azure-security-center.png"
+- /2018/02/data-collection-tier-in-azure-security-center/
+description: Within the Azure Security Center, Security Policy node, you can select
+  a workspace and there define the data collection configuration for security eve...
+author: Alex Verboon
+image: img/post-heroes/data-collection-tier-in-azure-security-center.png
 tags:
-  - azure
-  - data-collection
-  - eventid
-  - security
-  - security-center
-  - Windows
-  - PowerShell
+- azure
+- data-collection
+- eventid
+- security
+- security-center
+- Windows
+- PowerShell
 categories:
-  - azure
-  - PowerShell
+- azure
+- PowerShell
 ---
 Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security events.
 

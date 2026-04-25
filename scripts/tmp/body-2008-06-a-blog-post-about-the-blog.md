@@ -1,1 +1,0 @@
-Since i have moved the blog content from my previous blog site to this site, i'm using [Wordpress](http://wordpress.org/). I'm not going to loose much words now, but all i can tell you for now, it's great !!! Thanks to Steve who has been kind enough to setup this up for me.

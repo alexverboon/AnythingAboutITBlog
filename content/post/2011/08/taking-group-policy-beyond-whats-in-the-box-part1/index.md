@@ -1,28 +1,29 @@
 ---
-title: "Taking Group Policy beyond what&rsquo;s in the box &ndash; Part1"
-layout: "post"
-date: 2011-08-15T07:15:03Z
-slug: "taking-group-policy-beyond-whats-in-the-box-part1"
+title: Taking Group Policy beyond what&rsquo;s in the box &ndash; Part1
+layout: post
+date: '2011-08-15T07:15:03Z'
+slug: taking-group-policy-beyond-whats-in-the-box-part1
 aliases:
-  - "/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/"
-description: "Group Policy is a fundamental part of a managed Windows infrastructure. Using Group Policy Objects (GPO) allows IT administrators to configure and loc..."
-author: "Alex Verboon"
-image: "img/post-heroes/taking-group-policy-beyond-whats-in-the-box-part1.png"
+- /2011/08/taking-group-policy-beyond-whats-in-the-box-part1/
+description: Group Policy is a fundamental part of a managed Windows infrastructure.
+  Using Group Policy Objects (GPO) allows IT administrators to configure and loc...
+author: Alex Verboon
+image: img/post-heroes/taking-group-policy-beyond-whats-in-the-box-part1.png
 tags:
-  - disable
-  - enforece
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - lockdown
-  - policypak
-  - settings
-  - windows
-  - Office
+- disable
+- enforece
+- gpo
+- group-policy
+- group-policy-preferences
+- lockdown
+- policypak
+- settings
+- windows
+- Office
 categories:
-  - gpo
-  - group-policy
-  - policypak
+- gpo
+- group-policy
+- policypak
 ---
 Group Policy is a fundamental part of a managed Windows infrastructure. Using Group Policy Objects (GPO) allows IT administrators to configure and lock down clients and servers providing a standardized and secure environment. But despite the fact that Group Policy technology is around since the introduction of Windows 2000 its use seems to be limited to the Windows operating system and Microsoft Application product suite. Unfortunately not many 3rd party software vendors provide built-in Group Policy based configuration support for their applications.         If an application doesn’t provide native Group Policy support, the only possibility for IT administrators to configure and deliver application configuration settings is either by creating a custom ADM/ADMX template or use Group Policy Preferences.         Here are the main problems with ADM/ADMX solutions:         
 - Only works for Registry based application settings, but unfortunately some applications store their configuration data in other places and formats.       

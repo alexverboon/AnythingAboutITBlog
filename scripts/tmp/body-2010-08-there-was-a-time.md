@@ -1,1 +1,0 @@
-……..where you couldn’t just download forgotten or lost installation media from the internet or your company portal.

@@ -1,26 +1,27 @@
 ---
-title: "Windows 7: Application Compatibility"
-layout: "post"
-date: 2009-02-16T22:29:54Z
-slug: "windows-7-application-compatibility"
+title: 'Windows 7: Application Compatibility'
+layout: post
+date: '2009-02-16T22:29:54Z'
+slug: windows-7-application-compatibility
 aliases:
-  - "/2009/02/windows-7-application-compatibility/"
-description: "I’ve just spend an hour in gathering some additional information around Windows 7 Application Compatibility. Till now when we moved to a new operating..."
-author: "Alex Verboon"
+- /2009/02/windows-7-application-compatibility/
+description: I’ve just spend an hour in gathering some additional information around
+  Windows 7 Application Compatibility. Till now when we moved to a new operating...
+author: Alex Verboon
 tags:
-  - act
-  - application-compatibility
-  - windows-vista
-  - windows-xp
-  - Windows
-  - Office
+- act
+- application-compatibility
+- windows-vista
+- windows-xp
+- Windows
+- Office
 categories:
-  - act
-  - deployment
-  - knowledge
-  - packaging
-  - vista
-  - Windows
+- act
+- deployment
+- knowledge
+- packaging
+- vista
+- Windows
 ---
 I’ve just spend an hour in gathering some additional information around Windows 7 Application Compatibility. Till now when we moved to a new operating system version a significant amount of effort was required with regard to application compatibility. So will companies that invested in Windows Vista Application compatibility have to do all that work again for Windows 7 ?
 

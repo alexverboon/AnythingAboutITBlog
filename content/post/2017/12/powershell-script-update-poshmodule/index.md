@@ -1,19 +1,20 @@
 ---
-title: "PowerShell script Update-PoshModule"
-layout: "post"
-date: 2017-12-17T20:14:52Z
-slug: "powershell-script-update-poshmodule"
+title: PowerShell script Update-PoshModule
+layout: post
+date: '2017-12-17T20:14:52Z'
+slug: powershell-script-update-poshmodule
 aliases:
-  - "/2017/12/powershell-script-update-poshmodule/"
-description: "With nowadays rapid development and release cycles it’s a good practice to regularly check whether you have the latest available module versions insta..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-script-update-poshmodule.png"
+- /2017/12/powershell-script-update-poshmodule/
+description: With nowadays rapid development and release cycles it’s a good practice
+  to regularly check whether you have the latest available module versions insta...
+author: Alex Verboon
+image: img/post-heroes/powershell-script-update-poshmodule.png
 tags:
-  - module
-  - update
-  - PowerShell
+- module
+- update
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 With nowadays rapid development and release cycles it’s a good practice to regularly check whether you have the latest available module versions installed. Using native PowerShell cmdlets you would first list the module installed locally and then search for the latest module online.
 

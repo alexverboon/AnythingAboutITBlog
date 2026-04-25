@@ -1,23 +1,25 @@
 ---
-title: "Stay in Control of AzureAD Enterprise Application registrations with Cloud App Security"
-layout: "post"
-date: 2018-12-10T22:33:04Z
-slug: "stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security"
+title: Stay in Control of AzureAD Enterprise Application registrations with Cloud
+  App Security
+layout: post
+date: '2018-12-10T22:33:04Z'
+slug: stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security
 aliases:
-  - "/2018/12/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security/"
-description: "Azure Active Directory provides a simple process that provides users with a single sign-on (SSO) experience for accessing cloud-based applications usi..."
-author: "Alex Verboon"
-image: "img/post-heroes/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.png"
+- /2018/12/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security/
+description: Azure Active Directory provides a simple process that provides users
+  with a single sign-on (SSO) experience for accessing cloud-based applications usi...
+author: Alex Verboon
+image: img/post-heroes/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.png
 tags:
-  - azure-active-directory
-  - cloud-app-security
-  - mcas
-  - Windows
-  - Office
+- azure-active-directory
+- cloud-app-security
+- mcas
+- Windows
+- Office
 categories:
-  - azure-active-directory
-  - cloud-app-security
-  - Office
+- azure-active-directory
+- cloud-app-security
+- Office
 ---
 Azure Active Directory provides a simple process that provides users with a single sign-on (SSO) experience for accessing cloud-based applications using their AzureAD identity. This is a great capability as it removes the need for users to manage multiple identities while enterprises keep visibility and if needed control over which applications are used by their employees.
 

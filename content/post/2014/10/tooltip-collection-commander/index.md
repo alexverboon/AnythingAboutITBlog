@@ -1,24 +1,26 @@
 ---
-title: "ToolTip: Collection Commander"
-layout: "post"
-date: 2014-10-24T14:34:05Z
-slug: "tooltip-collection-commander"
+title: 'ToolTip: Collection Commander'
+layout: post
+date: '2014-10-24T14:34:05Z'
+slug: tooltip-collection-commander
 aliases:
-  - "/2014/10/tooltip-collection-commander/"
-description: "### Collection Commander Hey there, today I'd like to talk about an awesome tool called Collection Commander. If you're working with Microsoft System ..."
-author: "Alex Verboon"
-image: "img/post-heroes/tooltip-collection-commander.png"
+- /2014/10/tooltip-collection-commander/
+description: '### Collection Commander Hey there, today I''d like to talk about an
+  awesome tool called Collection Commander. If you''re working with Microsoft System
+  ...'
+author: Alex Verboon
+image: img/post-heroes/tooltip-collection-commander.png
 tags:
-  - client-center
-  - collection-commander
-  - configmgr
-  - configuration-manager
-  - tools
-  - Windows
-  - PowerShell
+- client-center
+- collection-commander
+- configmgr
+- configuration-manager
+- tools
+- Windows
+- PowerShell
 categories:
-  - tools
-  - PowerShell
+- tools
+- PowerShell
 ---
 ### Collection Commander
 

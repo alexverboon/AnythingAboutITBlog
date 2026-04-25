@@ -1,25 +1,26 @@
 ---
-title: "Hyper-V Terminology"
-layout: "post"
-date: 2009-03-16T21:04:25Z
-slug: "hyper-v-terminology"
+title: Hyper-V Terminology
+layout: post
+date: '2009-03-16T21:04:25Z'
+slug: hyper-v-terminology
 aliases:
-  - "/2009/03/hyper-v-terminology/"
-description: "Talking to people about virtualization almost every day, I notice that many aren’t that familiar yet with all the terminologies. [Ben Armstrong](http:..."
-author: "Alex Verboon"
+- /2009/03/hyper-v-terminology/
+description: Talking to people about virtualization almost every day, I notice that
+  many aren’t that familiar yet with all the terminologies. [Ben Armstrong](http:...
+author: Alex Verboon
 tags:
-  - hyper-v
-  - terminology
-  - virtualization
-  - Windows
-  - PowerShell
-  - Office
+- hyper-v
+- terminology
+- virtualization
+- Windows
+- PowerShell
+- Office
 categories:
-  - hyper-v
-  - virtualization
-  - windows-server-2008
-  - PowerShell
-  - Office
+- hyper-v
+- virtualization
+- windows-server-2008
+- PowerShell
+- Office
 ---
 Talking to people about virtualization almost every day, I notice that many aren’t that familiar yet with all the terminologies. [Ben Armstrong](http://blogs.msdn.com/Virtual_PC_Guy/) has written two good articles on his [blog](http://blogs.msdn.com/Virtual_PC_Guy/), describing all the terminologies used around Hyper-V. 
 

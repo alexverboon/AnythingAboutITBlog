@@ -1,26 +1,27 @@
 ---
-title: "PowerShell - Get latest Microsoft KB information"
-layout: "post"
-date: 2013-12-17T00:36:24Z
-slug: "powershell-get-latest-microsoft-kb-information"
+title: PowerShell - Get latest Microsoft KB information
+layout: post
+date: '2013-12-17T00:36:24Z'
+slug: powershell-get-latest-microsoft-kb-information
 aliases:
-  - "/2013/12/powershell-get-latest-microsoft-kb-information/"
-description: "I frequently visit kbupdate.info which is a great resource for finding latest KB updates, but still you have to manually click through the various lis..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-get-latest-microsoft-kb-information.png"
+- /2013/12/powershell-get-latest-microsoft-kb-information/
+description: I frequently visit kbupdate.info which is a great resource for finding
+  latest KB updates, but still you have to manually click through the various lis...
+author: Alex Verboon
+image: img/post-heroes/powershell-get-latest-microsoft-kb-information.png
 tags:
-  - kb
-  - knowledge-base
-  - microsoft
-  - rss-feed
-  - updates
-  - Windows
-  - PowerShell
-  - Office
+- kb
+- knowledge-base
+- microsoft
+- rss-feed
+- updates
+- Windows
+- PowerShell
+- Office
 categories:
-  - Windows
-  - PowerShell
-  - Office
+- Windows
+- PowerShell
+- Office
 ---
 I frequently visit kbupdate.info which is a great resource for finding latest KB updates, but still you have to manually click through the various lists. Now that I am learning PowerShell anyway, i thought i’ll give myself another task to further improve my PowerShell skills. So here we go, below you find a script that retrieves the latest KB update information for various products and displays them on screen so that I can quickly browse through them and directly launch the article of interest in Internet Explorer. 
 

@@ -1,23 +1,24 @@
 ---
-title: "Office 365 Centralized Deployment service"
-layout: "post"
-date: 2017-06-10T14:25:04Z
-slug: "office-365-centralized-deployment-service"
+title: Office 365 Centralized Deployment service
+layout: post
+date: '2017-06-10T14:25:04Z'
+slug: office-365-centralized-deployment-service
 aliases:
-  - "/2017/06/office-365-centralized-deployment-service/"
-description: "Just recently Microsoft announced the general availability of the Office 365 centralized deployment service. I have tested it and it really makes depl..."
-author: "Alex Verboon"
-image: "img/post-heroes/office-365-centralized-deployment-service.png"
+- /2017/06/office-365-centralized-deployment-service/
+description: Just recently Microsoft announced the general availability of the Office
+  365 centralized deployment service. I have tested it and it really makes depl...
+author: Alex Verboon
+image: img/post-heroes/office-365-centralized-deployment-service.png
 tags:
-  - add-on
-  - deployment
-  - manifest
-  - office-365-2
-  - PowerShell
-  - Office
+- add-on
+- deployment
+- manifest
+- office-365-2
+- PowerShell
+- Office
 categories:
-  - PowerShell
-  - Office
+- PowerShell
+- Office
 ---
 Just recently Microsoft announced the general availability of the Office 365 centralized deployment service. I have tested it and it really makes deploying Office Add-ins super easy. The add-in configuration and deployment can be managed through the Office 365 portal or using PowerShell.
 

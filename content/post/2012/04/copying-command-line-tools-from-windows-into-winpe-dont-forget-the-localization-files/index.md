@@ -1,22 +1,25 @@
 ---
-title: "Copying command-line tools from Windows into WinPE, don&rsquo;t forget the localization files"
-layout: "post"
-date: 2012-04-12T20:43:07Z
-slug: "copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files"
+title: Copying command-line tools from Windows into WinPE, don&rsquo;t forget the
+  localization files
+layout: post
+date: '2012-04-12T20:43:07Z'
+slug: copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files
 aliases:
-  - "/2012/04/copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files/"
-description: "To keep the footprint of WinPE as small as possible many services or tools usually found within a full Windows installation are not available within W..."
-author: "Alex Verboon"
-image: "img/post-heroes/copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files.png"
+- /2012/04/copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files/
+description: To keep the footprint of WinPE as small as possible many services or
+  tools usually found within a full Windows installation are not available within
+  W...
+author: Alex Verboon
+image: img/post-heroes/copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files.png
 tags:
-  - command-line
-  - localization
-  - mui
-  - multilanguage
-  - Windows
-  - WinPE
+- command-line
+- localization
+- mui
+- multilanguage
+- Windows
+- WinPE
 categories:
-  - WinPE
+- WinPE
 ---
 To keep the footprint of WinPE as small as possible many services or tools usually found within a full Windows installation are not available within WinPE. So if you need a command-line tool from Windows such as icacls.exe you just copy the executable into your WinPE sources and you’re done. 
 

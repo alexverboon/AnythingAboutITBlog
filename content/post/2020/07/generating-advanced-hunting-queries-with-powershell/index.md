@@ -1,23 +1,24 @@
 ---
-title: "Generating Advanced hunting queries with PowerShell"
-layout: "post"
-date: 2020-07-10T23:21:46Z
-slug: "generating-advanced-hunting-queries-with-powershell"
+title: Generating Advanced hunting queries with PowerShell
+layout: post
+date: '2020-07-10T23:21:46Z'
+slug: generating-advanced-hunting-queries-with-powershell
 aliases:
-  - "/2020/07/generating-advanced-hunting-queries-with-powershell/"
-description: "Writing advanced hunting queries for Microsoft Defender ATP to search for execution of specific PowerShell commands."
-author: "Alex Verboon"
-image: "img/post-heroes/generating-advanced-hunting-queries-with-powershell.png"
+- /2020/07/generating-advanced-hunting-queries-with-powershell/
+description: Writing advanced hunting queries for Microsoft Defender ATP to search
+  for execution of specific PowerShell commands.
+author: Alex Verboon
+image: img/post-heroes/generating-advanced-hunting-queries-with-powershell.png
 tags:
-  - advanced-hunting
-  - defe
-  - kql
-  - mdatp
-  - powershell
+- advanced-hunting
+- defe
+- kql
+- mdatp
+- PowerShell
 categories:
-  - defender-atp
-  - kql
-  - PowerShell
+- defender-atp
+- kql
+- PowerShell
 ---
 I was recently writing some advanced hunting queries for Microsoft Defender ATP to search for the execution of specific PowerShell commands. If you are just looking for one specific command, you can run query as sown below
 

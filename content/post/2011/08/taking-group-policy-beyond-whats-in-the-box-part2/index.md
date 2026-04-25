@@ -1,30 +1,31 @@
 ---
-title: "Taking Group Policy beyond what&rsquo;s in the box &ndash; Part2"
-layout: "post"
-date: 2011-08-22T10:01:29Z
-slug: "taking-group-policy-beyond-whats-in-the-box-part2"
+title: Taking Group Policy beyond what&rsquo;s in the box &ndash; Part2
+layout: post
+date: '2011-08-22T10:01:29Z'
+slug: taking-group-policy-beyond-whats-in-the-box-part2
 aliases:
-  - "/2011/08/taking-group-policy-beyond-whats-in-the-box-part2/"
-description: "In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/) I provided a brief overview of ho..."
-author: "Alex Verboon"
-image: "img/post-heroes/taking-group-policy-beyond-whats-in-the-box-part2.png"
+- /2011/08/taking-group-policy-beyond-whats-in-the-box-part2/
+description: In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/)
+  I provided a brief overview of ho...
+author: Alex Verboon
+image: img/post-heroes/taking-group-policy-beyond-whats-in-the-box-part2.png
 tags:
-  - disable
-  - enforece
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - lockdown
-  - policypak
-  - settings
-  - Windows
-  - Office
+- disable
+- enforece
+- gpo
+- group-policy
+- group-policy-preferences
+- lockdown
+- policypak
+- settings
+- Windows
+- Office
 categories:
-  - gpo
-  - group-policy
-  - policypak
-  - Windows
-  - Office
+- gpo
+- group-policy
+- policypak
+- Windows
+- Office
 ---
 In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/) I provided a brief overview of how PolicyPak can take you beyond default Group Policy management. In today’s post I am going to show you how easy it is to get PolicyPak up and running in your test environment. 
 

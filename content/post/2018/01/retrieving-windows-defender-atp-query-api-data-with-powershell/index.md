@@ -1,22 +1,23 @@
 ---
-title: "Retrieving Windows Defender ATP query API data with PowerShell"
-layout: "post"
-date: 2018-01-09T20:45:15Z
-slug: "retrieving-windows-defender-atp-query-api-data-with-powershell"
+title: Retrieving Windows Defender ATP query API data with PowerShell
+layout: post
+date: '2018-01-09T20:45:15Z'
+slug: retrieving-windows-defender-atp-query-api-data-with-powershell
 aliases:
-  - "/2018/01/retrieving-windows-defender-atp-query-api-data-with-powershell/"
-description: "I am currently working on some automation around Windows Defender, so started to look at the Windows Defender Advanced Threat Protection query API. No..."
-author: "Alex Verboon"
+- /2018/01/retrieving-windows-defender-atp-query-api-data-with-powershell/
+description: I am currently working on some automation around Windows Defender, so
+  started to look at the Windows Defender Advanced Threat Protection query API. No...
+author: Alex Verboon
 tags:
-  - api
-  - defender-atp
-  - Windows
-  - PowerShell
-  - Office
+- api
+- defender-atp
+- Windows
+- PowerShell
+- Office
 categories:
-  - defender-atp
-  - PowerShell
-  - Office
+- defender-atp
+- PowerShell
+- Office
 ---
 I am currently working on some automation around Windows Defender, so started to look at the Windows Defender Advanced Threat Protection query API.
 

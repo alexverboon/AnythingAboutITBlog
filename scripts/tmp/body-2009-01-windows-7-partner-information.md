@@ -1,1 +1,0 @@
-For those of you that have access to the Microsoft Partner Program website Microsoft has published a couple of Windows7 related documents today that might be of use such as a feature and deployment overview presentation.

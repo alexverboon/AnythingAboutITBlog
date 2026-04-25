@@ -1,24 +1,26 @@
 ---
-title: "Microsoft Defender ATP Advanced Hunting – Who's logging on with local admin rights?"
-layout: "post"
-date: 2019-10-29T16:00:07Z
-slug: "microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights"
+title: Microsoft Defender ATP Advanced Hunting – Who's logging on with local admin
+  rights?
+layout: post
+date: '2019-10-29T16:00:07Z'
+slug: microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights
 aliases:
-  - "/2019/10/microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights/"
-description: "Use KQL Advanced Hunting in Microsoft Defender ATP to find out who is logging on with local administrator rights."
-author: "Alex Verboon"
-image: "img/post-heroes/microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights.png"
+- /2019/10/microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights/
+description: Use KQL Advanced Hunting in Microsoft Defender ATP to find out who is
+  logging on with local administrator rights.
+author: Alex Verboon
+image: img/post-heroes/microsoft-defender-atp-advanced-hunting-whos-logging-on-with-local-admin-rights.png
 tags:
-  - advanced-hunting
-  - kql
-  - local-administrators
-  - mdatp
-  - PowerShell
+- advanced-hunting
+- kql
+- local-administrators
+- mdatp
+- PowerShell
 categories:
-  - defender-atp
-  - log-analytics
-  - mdatp
-  - PowerShell
+- defender-atp
+- log-analytics
+- mdatp
+- PowerShell
 ---
 **Note**: I have updated the kql queries below, but the screenshots itself still refer to the previous (old) schema names
 

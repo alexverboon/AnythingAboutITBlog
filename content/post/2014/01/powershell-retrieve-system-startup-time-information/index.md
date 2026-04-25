@@ -1,22 +1,23 @@
 ---
-title: "PowerShell - Retrieve System Startup Time Information"
-layout: "post"
-date: 2014-01-06T20:02:18Z
-slug: "powershell-retrieve-system-startup-time-information"
+title: PowerShell - Retrieve System Startup Time Information
+layout: post
+date: '2014-01-06T20:02:18Z'
+slug: powershell-retrieve-system-startup-time-information
 aliases:
-  - "/2014/01/powershell-retrieve-system-startup-time-information/"
-description: "The below script gathers the following system startup time information from a local or remote client. - Computername - Last Wakeup time (from Sleep, H..."
-author: "Alex Verboon"
+- /2014/01/powershell-retrieve-system-startup-time-information/
+description: The below script gathers the following system startup time information
+  from a local or remote client. - Computername - Last Wakeup time (from Sleep, H...
+author: Alex Verboon
 tags:
-  - boot-time
-  - eventlog
-  - last-wakeup
-  - startup
-  - timezone
-  - Windows
-  - PowerShell
+- boot-time
+- eventlog
+- last-wakeup
+- startup
+- timezone
+- Windows
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 The below script gathers the following system startup time information from a local or remote client. 
 

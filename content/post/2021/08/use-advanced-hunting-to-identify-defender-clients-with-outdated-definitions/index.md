@@ -14,8 +14,9 @@ tags:
   - definition updates
   - KQL
 categories:
-  - Microsoft Defender
+  - Microsoft Defender XDR
 ---
+
 In an ideal world all of our devices are fully patched and the Microsoft Defender antivirus agent has the latest definition updates installed. Unfortunately reality is often different. When using Microsoft Endpoint Manager we can find devices with outdated definition updates through the Microsoft Endpoint Manager portal as shown in the example below.
 
 ![](images/082521_1519_Useadvanced2.png)

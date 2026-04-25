@@ -1,24 +1,25 @@
 ---
-title: "How to check the status of BIOS & UEFI & Secure Boot with PowerShell"
-layout: "post"
-date: 2013-01-11T14:22:06Z
-slug: "how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell"
+title: How to check the status of BIOS & UEFI & Secure Boot with PowerShell
+layout: post
+date: '2013-01-11T14:22:06Z'
+slug: how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell
 aliases:
-  - "/2013/01/how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell/"
-description: "During the past weeks I spend a bit of time deploying Windows 8 to UEFI enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdl..."
-author: "Alex Verboon"
+- /2013/01/how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell/
+description: During the past weeks I spend a bit of time deploying Windows 8 to UEFI
+  enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdl...
+author: Alex Verboon
 tags:
-  - bios
-  - csm
-  - secure-boot
-  - uefi
-  - Windows
-  - PowerShell
+- bios
+- csm
+- secure-boot
+- uefi
+- Windows
+- PowerShell
 categories:
-  - secureboot
-  - uefi
-  - Windows
-  - PowerShell
+- secureboot
+- uefi
+- Windows
+- PowerShell
 ---
 During the past weeks I spend a bit of time deploying Windows 8 to UEFI enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdlets](http://technet.microsoft.com/en-us/library/jj603042.aspx) that provide information about the status of your system’s BIOS/UEFI/Secure boot configuration. 
 

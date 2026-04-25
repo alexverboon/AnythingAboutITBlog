@@ -1,1 +1,0 @@
-Back in 2008 I wrote about [Extending User Information in AD](https://www.verboon.info/index.php/2008/11/extending-user-information-in-ad/). Today I came across a blog post mentioning that there is now an unsupported 64 bit version available. More details and download [here](http://www.start64.com/index.php?option=com_content&task=view&id=4440&Itemid=55)

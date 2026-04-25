@@ -1,22 +1,23 @@
 ---
-title: "Microsoft releases DaRT 8 Beta"
-layout: "post"
-date: 2012-03-29T06:20:32Z
-slug: "microsoft-releases-dart-8-beta"
+title: Microsoft releases DaRT 8 Beta
+layout: post
+date: '2012-03-29T06:20:32Z'
+slug: microsoft-releases-dart-8-beta
 aliases:
-  - "/2012/03/microsoft-releases-dart-8-beta/"
-description: "Microsoft has released a Beta for DaRT 8. You find more details in the articles listed below. I’ve only been looking at it shortly, but here’s what I ..."
-author: "Alex Verboon"
+- /2012/03/microsoft-releases-dart-8-beta/
+description: Microsoft has released a Beta for DaRT 8. You find more details in the
+  articles listed below. I’ve only been looking at it shortly, but here’s what I ...
+author: Alex Verboon
 tags:
-  - dart
-  - mdop
-  - recovery
-  - Windows
-  - PowerShell
+- dart
+- mdop
+- recovery
+- Windows
+- PowerShell
 categories:
-  - mdop
-  - Windows
-  - PowerShell
+- mdop
+- Windows
+- PowerShell
 ---
 Microsoft has released a Beta for DaRT 8. You find more details in the articles listed below. I’ve only been looking at it shortly, but here’s what I liked most: 
 

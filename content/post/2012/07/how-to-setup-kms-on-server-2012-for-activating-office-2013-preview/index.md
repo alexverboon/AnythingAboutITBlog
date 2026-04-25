@@ -1,24 +1,25 @@
 ---
-title: "How to setup KMS on Server 2012 for activating Office 2013 Preview"
-layout: "post"
-date: 2012-07-24T21:17:59Z
-slug: "how-to-setup-kms-on-server-2012-for-activating-office-2013-preview"
+title: How to setup KMS on Server 2012 for activating Office 2013 Preview
+layout: post
+date: '2012-07-24T21:17:59Z'
+slug: how-to-setup-kms-on-server-2012-for-activating-office-2013-preview
 aliases:
-  - "/2012/07/how-to-setup-kms-on-server-2012-for-activating-office-2013-preview/"
-description: "Hey there, it’s been a while since I wrote the last blog post, but that is because I spend 2 excellent weeks at an Italian beach with my family and en..."
-author: "Alex Verboon"
+- /2012/07/how-to-setup-kms-on-server-2012-for-activating-office-2013-preview/
+description: Hey there, it’s been a while since I wrote the last blog post, but that
+  is because I spend 2 excellent weeks at an Italian beach with my family and en...
+author: Alex Verboon
 tags:
-  - activation
-  - deployment
-  - kms
-  - volume-activation-services
-  - Windows
-  - Office
+- activation
+- deployment
+- kms
+- volume-activation-services
+- Windows
+- Office
 categories:
-  - kms
-  - licensing
-  - Windows
-  - Office
+- kms
+- licensing
+- Windows
+- Office
 ---
 Hey there, it’s been a while since I wrote the last blog post, but that is because I spend 2 excellent weeks at an Italian beach with my family and enjoyed “[dolce far niente](http://en.wiktionary.org/wiki/dolce_far_niente)”. Now and then I did read some tweets so of course got notice of the Office 2013 Preview Microsoft released earlier last week. So now that I’m back I have started reading through the various documentations and so I came across the Microsoft [Office 2013 Preview Volume License Pack](http://www.microsoft.com/en-us/download/details.aspx?id=30342) that Microsoft released to activate Office 2013 Preview using KMS or Active Directory based activation.
 

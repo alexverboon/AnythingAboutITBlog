@@ -1,3 +1,0 @@
-Anyone who uses Windows has seen at least once a [BSOD](http://en.wikipedia.org/wiki/Blue_Screen_of_Death) (Blue Screen of Death). Even Bill Gates had to deal with it (watch [this](http://www.youtube.com/watch?v=RgriTO8UHvs) video). [NirSoft](http://www.nirsoft.net/utils/blue_screen_view.html) has released a utility called BlueScreenView that scans all the minidump files that are being created when a BSOD occurs and displays all information about these crashes.
-
-The utility is FREE and does not need to be installed. A detailed description of BlueScreenView can be found [here](http://www.nirsoft.net/utils/blue_screen_view.html)

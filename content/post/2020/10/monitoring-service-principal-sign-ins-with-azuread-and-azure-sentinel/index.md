@@ -16,8 +16,8 @@ tags:
   - service-principals
 categories:
   - azure-active-directory
-  - azure-sentinel
   - log-analytics
+  - Microsoft Sentinel
 ---
 Here is a conversation between Jeffrey (Developer) and Marc (IT Admin) working for ECorp Ltd.
 

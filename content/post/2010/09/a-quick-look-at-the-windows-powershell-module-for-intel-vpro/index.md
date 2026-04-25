@@ -1,26 +1,27 @@
 ---
-title: "A quick look at the Windows PowerShell Module for Intel vPro"
-layout: "post"
-date: 2010-09-04T18:41:44Z
-slug: "a-quick-look-at-the-windows-powershell-module-for-intel-vpro"
+title: A quick look at the Windows PowerShell Module for Intel vPro
+layout: post
+date: '2010-09-04T18:41:44Z'
+slug: a-quick-look-at-the-windows-powershell-module-for-intel-vpro
 aliases:
-  - "/2010/09/a-quick-look-at-the-windows-powershell-module-for-intel-vpro/"
-description: "In a previous post [Using Intel AMT Power Management @ Home](https://www.verboon.info/index.php/2009/07/using-intel-amt-power-management-home/) I wrot..."
-author: "Alex Verboon"
+- /2010/09/a-quick-look-at-the-windows-powershell-module-for-intel-vpro/
+description: In a previous post [Using Intel AMT Power Management @ Home](https://www.verboon.info/index.php/2009/07/using-intel-amt-power-management-home/)
+  I wrot...
+author: Alex Verboon
 tags:
-  - amt
-  - intel
-  - power-management
-  - vpro
-  - Windows
-  - PowerShell
+- amt
+- intel
+- power-management
+- vpro
+- Windows
+- PowerShell
 categories:
-  - amt
-  - intel
-  - tip
-  - vpro
-  - Windows
-  - PowerShell
+- amt
+- intel
+- tip
+- vpro
+- Windows
+- PowerShell
 ---
 In a previous post [Using Intel AMT Power Management @ Home](https://www.verboon.info/index.php/2009/07/using-intel-amt-power-management-home/) I wrote about how to use Intel AMT Power Management at home or let’s say in an environment where you don’t have systems managed by an infrastructure that provides integrated support for Intel AMT.
 

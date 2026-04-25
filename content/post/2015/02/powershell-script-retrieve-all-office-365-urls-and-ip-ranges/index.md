@@ -1,21 +1,22 @@
 ---
-title: "PowerShell Script: Retrieve all Office 365 URLs and IP Ranges"
-layout: "post"
-date: 2015-02-05T23:21:03Z
-slug: "powershell-script-retrieve-all-office-365-urls-and-ip-ranges"
+title: 'PowerShell Script: Retrieve all Office 365 URLs and IP Ranges'
+layout: post
+date: '2015-02-05T23:21:03Z'
+slug: powershell-script-retrieve-all-office-365-urls-and-ip-ranges
 aliases:
-  - "/2015/02/powershell-script-retrieve-all-office-365-urls-and-ip-ranges/"
-description: "This week I took the [Office 365 Performance Management](http://www.microsoftvirtualacademy.com/training-courses/office-365-performance-management) co..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-script-retrieve-all-office-365-urls-and-ip-ranges.png"
+- /2015/02/powershell-script-retrieve-all-office-365-urls-and-ip-ranges/
+description: This week I took the [Office 365 Performance Management](http://www.microsoftvirtualacademy.com/training-courses/office-365-performance-management)
+  co...
+author: Alex Verboon
+image: img/post-heroes/powershell-script-retrieve-all-office-365-urls-and-ip-ranges.png
 tags:
-  - Uncategorized
-  - PowerShell
-  - Office
+- Uncategorized
+- PowerShell
+- Office
 categories:
-  - Uncategorized
-  - PowerShell
-  - Office
+- Uncategorized
+- PowerShell
+- Office
 ---
 This week I took the [Office 365 Performance Management](http://www.microsoftvirtualacademy.com/training-courses/office-365-performance-management) course on the Microsoft Virtual Academy. If you have any plans using Office 365 I strongly recommend taking this course. One of the topics that was often highlighted is the importance of having all Office 365 URLs and IP Ranges configured on the outbound allow list. The Office 365 URLs and IP Ranges are documented [here](https://technet.microsoft.com/library/hh373144.aspx) and the changes to the list are described [here](https://technet.microsoft.com/en-us/library/jj129402.aspx).
 

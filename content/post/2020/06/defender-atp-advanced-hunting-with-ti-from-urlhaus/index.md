@@ -1,25 +1,26 @@
 ---
-title: "Defender ATP Advanced hunting with TI from URLhaus"
-layout: "post"
-date: 2020-06-21T14:57:47Z
-slug: "defender-atp-advanced-hunting-with-ti-from-urlhaus"
+title: Defender ATP Advanced hunting with TI from URLhaus
+layout: post
+date: '2020-06-21T14:57:47Z'
+slug: defender-atp-advanced-hunting-with-ti-from-urlhaus
 aliases:
-  - "/2020/06/defender-atp-advanced-hunting-with-ti-from-urlhaus/"
-description: "How to use Threat Intelligence (TI) data from URLhaus with Microsoft Defender ATP."
-author: "Alex Verboon"
-image: "img/post-heroes/defender-atp-advanced-hunting-with-ti-from-urlhaus.png"
+- /2020/06/defender-atp-advanced-hunting-with-ti-from-urlhaus/
+description: How to use Threat Intelligence (TI) data from URLhaus with Microsoft
+  Defender ATP.
+author: Alex Verboon
+image: img/post-heroes/defender-atp-advanced-hunting-with-ti-from-urlhaus.png
 tags:
-  - advanced-hunting
-  - defender-atp
-  - mtp
-  - security
-  - url
-  - urlhaus
-  - PowerShell
+- advanced-hunting
+- defender-atp
+- mtp
+- security
+- url
+- urlhaus
+- PowerShell
 categories:
-  - defender-atp
-  - mdatp
-  - PowerShell
+- defender-atp
+- mdatp
+- PowerShell
 ---
 Hello everyone, in today's article we are going to take look at how we can use Threat Intelligence (TI) data from URLhaus with Microsoft Defender ATP advanced hunting.
 

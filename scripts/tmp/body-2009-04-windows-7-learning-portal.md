@@ -1,1 +1,0 @@
-[https://www.microsoft.com/learning/windows-7/default.mspx](https://www.microsoft.com/learning/windows-7/default.mspx)

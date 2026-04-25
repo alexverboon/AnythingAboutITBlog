@@ -1,1 +1,0 @@
-Today i found a message in my private mailbox about the launch of the iPhone 3G in Switzerland, due on the 10th of July. For more information see: [http://iphone3g.swisscom.ch/?lang=en](http://iphone3g.swisscom.ch/?lang=en)

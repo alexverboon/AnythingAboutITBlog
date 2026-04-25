@@ -1,22 +1,25 @@
 ---
-title: "How to solve &ldquo;The RPC server is unavailable&rdquo; when loading the ConfigMgr PowerShell Module"
-layout: "post"
-date: 2014-10-29T17:03:43Z
-slug: "how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module"
+title: How to solve &ldquo;The RPC server is unavailable&rdquo; when loading the ConfigMgr
+  PowerShell Module
+layout: post
+date: '2014-10-29T17:03:43Z'
+slug: how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module
 aliases:
-  - "/2014/10/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module/"
-description: "Since a few weeks, I received the below error message when importing the ConfigMgr module in PowerShell, but everything I ran afterwards worked fine, ..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module.png"
+- /2014/10/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module/
+description: Since a few weeks, I received the below error message when importing
+  the ConfigMgr module in PowerShell, but everything I ran afterwards worked fine,
+  ...
+author: Alex Verboon
+image: img/post-heroes/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module.png
 tags:
-  - configmgr
-  - error
-  - import-mdoule
-  - rpc
-  - PowerShell
+- configmgr
+- error
+- import-mdoule
+- rpc
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 Since a few weeks, I received the below error message when importing the ConfigMgr module in PowerShell, but everything I ran afterwards worked fine, so I kept ignoring it for a while. [
 ![image](images/image_thumb4.png)

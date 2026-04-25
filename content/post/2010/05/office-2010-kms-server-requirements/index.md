@@ -1,24 +1,25 @@
 ---
-title: "Office 2010 KMS Server Requirements"
-layout: "post"
-date: 2010-05-12T21:54:12Z
-slug: "office-2010-kms-server-requirements"
+title: Office 2010 KMS Server Requirements
+layout: post
+date: '2010-05-12T21:54:12Z'
+slug: office-2010-kms-server-requirements
 aliases:
-  - "/2010/05/office-2010-kms-server-requirements/"
-description: "Although I have been working with Office 2010 for a while, I wasn’t aware of the KMS Server specific requirements until today when we were asked to lo..."
-author: "Alex Verboon"
+- /2010/05/office-2010-kms-server-requirements/
+description: Although I have been working with Office 2010 for a while, I wasn’t aware
+  of the KMS Server specific requirements until today when we were asked to lo...
+author: Alex Verboon
 tags:
-  - activation
-  - kms
-  - server-2008-r2
-  - Windows
-  - Office
+- activation
+- kms
+- server-2008-r2
+- Windows
+- Office
 categories:
-  - kms
-  - licensing
-  - windows-server-2008-r2
-  - Windows
-  - Office
+- kms
+- licensing
+- windows-server-2008-r2
+- Windows
+- Office
 ---
 Although I have been working with Office 2010 for a while, I wasn’t aware of the KMS Server specific requirements until today when we were asked to load the Office 2010 KMS key into one of our customers KMS servers. 
 

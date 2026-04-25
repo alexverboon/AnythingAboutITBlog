@@ -1,24 +1,25 @@
 ---
-title: "Finding unused User Accounts in Active Directory"
-layout: "post"
-date: 2009-12-10T00:05:17Z
-slug: "finding-unused-user-accounts-in-active-directory"
+title: Finding unused User Accounts in Active Directory
+layout: post
+date: '2009-12-10T00:05:17Z'
+slug: finding-unused-user-accounts-in-active-directory
 aliases:
-  - "/2009/12/finding-unused-user-accounts-in-active-directory/"
-description: "As we move towards the end of the year I thought it’s a good time to do some housekeeping activities within the lab infrastructure in which we work on..."
-author: "Alex Verboon"
+- /2009/12/finding-unused-user-accounts-in-active-directory/
+description: As we move towards the end of the year I thought it’s a good time to
+  do some housekeeping activities within the lab infrastructure in which we work on...
+author: Alex Verboon
 tags:
-  - active-directory
-  - lastlogontimestamp
-  - quest
-  - Windows
-  - PowerShell
+- active-directory
+- lastlogontimestamp
+- quest
+- Windows
+- PowerShell
 categories:
-  - active-directory
-  - automation
-  - tip
-  - Windows
-  - PowerShell
+- active-directory
+- automation
+- tip
+- Windows
+- PowerShell
 ---
 As we move towards the end of the year I thought it’s a good time to do some housekeeping activities within the lab infrastructure in which we work on a daily basis. Throughout the year we often create test user and computer objects within Active Directory and of course sometimes we forget to delete them. 
 

@@ -1,24 +1,25 @@
 ---
-title: "Intel KVM Remote Control and VNC Viewer Plus"
-layout: "post"
-date: 2010-03-21T11:52:37Z
-slug: "intel-kvm-remote-control-and-vnc-viewer-plus"
+title: Intel KVM Remote Control and VNC Viewer Plus
+layout: post
+date: '2010-03-21T11:52:37Z'
+slug: intel-kvm-remote-control-and-vnc-viewer-plus
 aliases:
-  - "/2010/03/intel-kvm-remote-control-and-vnc-viewer-plus/"
-description: "Back in December 2009 I posted [Remote Management of AMT/vPro machine with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management..."
-author: "Alex Verboon"
+- /2010/03/intel-kvm-remote-control-and-vnc-viewer-plus/
+description: Back in December 2009 I posted [Remote Management of AMT/vPro machine
+  with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management...
+author: Alex Verboon
 tags:
-  - amt
-  - remote-control
-  - vnc
-  - vnc-viewer
-  - vpro
-  - WinPE
+- amt
+- remote-control
+- vnc
+- vnc-viewer
+- vpro
+- WinPE
 categories:
-  - amt
-  - vnc
-  - vpro
-  - WinPE
+- amt
+- vnc
+- vpro
+- WinPE
 ---
 Back in December 2009 I posted [Remote Management of AMT/vPro machine with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management-of-amtvpro-machine-with-winpe-and-vnc/) which explained how to use VNC running in WinPE to remotely manage a vPro enabled device. For those that did try this themselves will have noticed that the process isn’t as comfortable as we would like it to be for day to day use. 
 

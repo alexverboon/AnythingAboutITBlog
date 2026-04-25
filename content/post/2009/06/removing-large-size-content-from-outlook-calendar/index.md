@@ -1,22 +1,23 @@
 ---
-title: "Removing large size content from outlook calendar"
-layout: "post"
-date: 2009-06-07T11:11:36Z
-slug: "removing-large-size-content-from-outlook-calendar"
+title: Removing large size content from outlook calendar
+layout: post
+date: '2009-06-07T11:11:36Z'
+slug: removing-large-size-content-from-outlook-calendar
 aliases:
-  - "/2009/06/removing-large-size-content-from-outlook-calendar/"
-description: "Most companies put storage limits on their users mailboxes. To avoid full mailboxes, some periodic housekeeping is required. This can be done by eithe..."
-author: "Alex Verboon"
-image: "img/post-heroes/removing-large-size-content-from-outlook-calendar.png"
+- /2009/06/removing-large-size-content-from-outlook-calendar/
+description: Most companies put storage limits on their users mailboxes. To avoid
+  full mailboxes, some periodic housekeeping is required. This can be done by eithe...
+author: Alex Verboon
+image: img/post-heroes/removing-large-size-content-from-outlook-calendar.png
 tags:
-  - large-content
-  - outlook-2007
-  - storage
-  - Office
+- large-content
+- outlook-2007
+- storage
+- Office
 categories:
-  - knowledge
-  - office-2007
-  - tip
+- knowledge
+- office-2007
+- tip
 ---
 Most companies put storage limits on their users mailboxes. To avoid full mailboxes, some periodic housekeeping is required. This can be done by either using the archiving function or by deleting content manually. 
 

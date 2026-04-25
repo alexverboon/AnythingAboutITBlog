@@ -1,26 +1,27 @@
 ---
-title: "OMS Security and Audit Baseline Assessment"
-layout: "post"
-date: 2018-02-19T20:53:31Z
-slug: "oms-security-and-audit-baseline-assessment"
+title: OMS Security and Audit Baseline Assessment
+layout: post
+date: '2018-02-19T20:53:31Z'
+slug: oms-security-and-audit-baseline-assessment
 aliases:
-  - "/2018/02/oms-security-and-audit-baseline-assessment/"
-description: "The Microsoft Operations and Management Suite, Security and Audit Solution includes a Baseline Assessment component. The Baseline configuration defini..."
-author: "Alex Verboon"
-image: "img/post-heroes/oms-security-and-audit-baseline-assessment.png"
+- /2018/02/oms-security-and-audit-baseline-assessment/
+description: The Microsoft Operations and Management Suite, Security and Audit Solution
+  includes a Baseline Assessment component. The Baseline configuration defini...
+author: Alex Verboon
+image: img/post-heroes/oms-security-and-audit-baseline-assessment.png
 tags:
-  - compliance-baseline
-  - compliance-settings
-  - log-analytics
-  - oms
-  - security-baseline
-  - Windows
-  - PowerShell
+- compliance-baseline
+- compliance-settings
+- log-analytics
+- oms
+- security-baseline
+- Windows
+- PowerShell
 categories:
-  - azure
-  - log-analytics
-  - oms
-  - PowerShell
+- azure
+- log-analytics
+- oms
+- PowerShell
 ---
 The Microsoft Operations and Management Suite, Security and Audit Solution includes a Baseline Assessment component. The Baseline configuration definition includes a set of Registry, audit policy and security policy settings rules that are recommended to configure to achieve a secure operating environment.
 

@@ -1,20 +1,21 @@
 ---
-title: "PowerShell Script - Get-CMInstalledSoftware"
-layout: "post"
-date: 2014-08-08T19:23:05Z
-slug: "powershell-script-get-cminstalledsoftware"
+title: PowerShell Script - Get-CMInstalledSoftware
+layout: post
+date: '2014-08-08T19:23:05Z'
+slug: powershell-script-get-cminstalledsoftware
 aliases:
-  - "/2014/08/powershell-script-get-cminstalledsoftware/"
-description: "ConfigMgr 2012 comes with a lot of build-in reports, but often it just does not contain all the information I want. Creating a custom report takes mor..."
-author: "Alex Verboon"
+- /2014/08/powershell-script-get-cminstalledsoftware/
+description: ConfigMgr 2012 comes with a lot of build-in reports, but often it just
+  does not contain all the information I want. Creating a custom report takes mor...
+author: Alex Verboon
 tags:
-  - configmgr
-  - software-inventory
-  - Windows
-  - PowerShell
+- configmgr
+- software-inventory
+- Windows
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 ConfigMgr 2012 comes with a lot of build-in reports, but often it just does not contain all the information I want. Creating a custom report takes more time than just writing a script.
 

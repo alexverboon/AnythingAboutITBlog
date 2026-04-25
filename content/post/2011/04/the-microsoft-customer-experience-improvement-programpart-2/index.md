@@ -1,27 +1,28 @@
 ---
-title: "The Microsoft Customer Experience Improvement Program&ndash;Part 2"
-layout: "post"
-date: 2011-04-20T22:14:08Z
-slug: "the-microsoft-customer-experience-improvement-programpart-2"
+title: The Microsoft Customer Experience Improvement Program&ndash;Part 2
+layout: post
+date: '2011-04-20T22:14:08Z'
+slug: the-microsoft-customer-experience-improvement-programpart-2
 aliases:
-  - "/2011/04/the-microsoft-customer-experience-improvement-programpart-2/"
-description: "In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/) explained the history, benefits..."
-author: "Alex Verboon"
-image: "img/post-heroes/the-microsoft-customer-experience-improvement-programpart-2.png"
+- /2011/04/the-microsoft-customer-experience-improvement-programpart-2/
+description: In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/)
+  explained the history, benefits...
+author: Alex Verboon
+image: img/post-heroes/the-microsoft-customer-experience-improvement-programpart-2.png
 tags:
-  - ceip
-  - customer-experience-program
-  - experience
-  - feedback
-  - gpo
-  - improvement
-  - sqm
-  - telemetry
-  - Windows
+- ceip
+- customer-experience-program
+- experience
+- feedback
+- gpo
+- improvement
+- sqm
+- telemetry
+- Windows
 categories:
-  - ceip
-  - Windows
-  - Office
+- ceip
+- Windows
+- Office
 ---
 In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/) explained the history, benefits and configuration of the CEIP. In part 2 we take a closer look at the SQM data processing and the involvement of the Windows Task Scheduler. 
 

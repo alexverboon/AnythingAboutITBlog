@@ -1,26 +1,27 @@
 ---
-title: "ConfigMgr OSD - Enable .NET Framework 3.5 on Windows 8.1"
-layout: "post"
-date: 2013-12-14T01:17:13Z
-slug: "configmgr-osd-enable-net-framework-3-5-on-windows-8-1"
+title: ConfigMgr OSD - Enable .NET Framework 3.5 on Windows 8.1
+layout: post
+date: '2013-12-14T01:17:13Z'
+slug: configmgr-osd-enable-net-framework-3-5-on-windows-8-1
 aliases:
-  - "/2013/12/configmgr-osd-enable-net-framework-3-5-on-windows-8-1/"
-description: "Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Framework 3.5 which also includes support for .NET 3.0, and 2.0, then yo..."
-author: "Alex Verboon"
-image: "img/post-heroes/configmgr-osd-enable-net-framework-3-5-on-windows-8-1.png"
+- /2013/12/configmgr-osd-enable-net-framework-3-5-on-windows-8-1/
+description: Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need
+  .NET Framework 3.5 which also includes support for .NET 3.0, and 2.0, then yo...
+author: Alex Verboon
+image: img/post-heroes/configmgr-osd-enable-net-framework-3-5-on-windows-8-1.png
 tags:
-  - net-framework
-  - configmgr
-  - enable-optionalwindowsfeature
-  - features
-  - osd
-  - Windows
-  - PowerShell
+- net-framework
+- configmgr
+- enable-optionalwindowsfeature
+- features
+- osd
+- Windows
+- PowerShell
 categories:
-  - net-framework
-  - configmgr
-  - Windows
-  - PowerShell
+- net-framework
+- configmgr
+- Windows
+- PowerShell
 ---
 Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Framework 3.5 which also includes support for .NET 3.0, and 2.0, then you must enable the feature as it is not enabled by default.However to enable it you need access to the content of the Sources\SXS folder that resides on the Windows 8.1 installation media. More details are described in the MSDN article [Installing the .NET Framework 3.5 on Windows 8 or 8.1](http://msdn.microsoft.com/en-us/library/hh506443(v=vs.110).aspx)
 

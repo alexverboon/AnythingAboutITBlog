@@ -1,1 +1,0 @@
-Looking for answers on Windows 7 ? have a look  on the [Microsoft Technet Forums for Windows 7 Beta](http://social.technet.microsoft.com/Forums/en/category/w7itpro/).

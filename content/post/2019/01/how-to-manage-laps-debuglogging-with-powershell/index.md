@@ -1,21 +1,23 @@
 ---
-title: "How to manage LAPS DebugLogging with PowerShell"
-layout: "post"
-date: 2019-01-14T19:10:39Z
-slug: "how-to-manage-laps-debuglogging-with-powershell"
+title: How to manage LAPS DebugLogging with PowerShell
+layout: post
+date: '2019-01-14T19:10:39Z'
+slug: how-to-manage-laps-debuglogging-with-powershell
 aliases:
-  - "/2019/01/how-to-manage-laps-debuglogging-with-powershell/"
-description: "If you need to troubleshoot the Local Administrator Password Solution (LAPS) you can configure how much information is written into the Windows Event log."
-author: "Alex Verboon"
+- /2019/01/how-to-manage-laps-debuglogging-with-powershell/
+description: If you need to troubleshoot the Local Administrator Password Solution
+  (LAPS) you can configure how much information is written into the Windows Event
+  log.
+author: Alex Verboon
 tags:
-  - laps
-  - logging
-  - verbose
-  - winrm
-  - Windows
-  - PowerShell
+- laps
+- logging
+- verbose
+- winrm
+- Windows
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 If you need to troubleshoot the Local Administrator Password Solution **LAPS **you can configure how much information is written into the Windows Event log. 
 

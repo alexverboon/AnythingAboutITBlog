@@ -1,26 +1,27 @@
 ---
-title: "Windows 7 and Multilanguage Packs"
-layout: "post"
-date: 2011-04-26T13:34:43Z
-slug: "windows-7-and-multilanguage-packs"
+title: Windows 7 and Multilanguage Packs
+layout: post
+date: '2011-04-26T13:34:43Z'
+slug: windows-7-and-multilanguage-packs
 aliases:
-  - "/2011/04/windows-7-and-multilanguage-packs/"
-description: "Most of you actively dealing with Windows 7 deployments probably know about the Multilanguage Packs for Windows 7 , but since I do still get questions..."
-author: "Alex Verboon"
+- /2011/04/windows-7-and-multilanguage-packs/
+description: Most of you actively dealing with Windows 7 deployments probably know
+  about the Multilanguage Packs for Windows 7 , but since I do still get questions...
+author: Alex Verboon
 tags:
-  - editions
-  - language-pack
-  - lip
-  - localization
-  - lp
-  - mui
-  - ui
-  - Windows
-  - Office
+- editions
+- language-pack
+- lip
+- localization
+- lp
+- mui
+- ui
+- Windows
+- Office
 categories:
-  - mui
-  - Windows
-  - Office
+- mui
+- Windows
+- Office
 ---
 Most of you actively dealing with Windows 7 deployments probably know about the Multilanguage Packs for Windows 7 , but since I do still get questions about this every now and then, I thought it’s worth to do a brief recap on this subject. 
 

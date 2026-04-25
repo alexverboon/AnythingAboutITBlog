@@ -1,1 +1,0 @@
-Just found this article about [Windows7 HD and SSD performance](http://hothardware.com/Articles/Windows-7-Disk-Performance-Analyzed/).

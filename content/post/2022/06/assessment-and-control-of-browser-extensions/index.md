@@ -13,7 +13,7 @@ tags:
   - Security
   - Vulnerability
 categories:
-  - Microsoft Defender
+  - Microsoft Defender XDR
 ---
 
 In this blog post we take a look at browser extensions and how Microsoft Defender for Endpoint, Microsoft Defender Threat and Vulnerability Management and system configuration policies can help us to gain control over the use of browser extensions.

@@ -1,26 +1,27 @@
 ---
-title: "ToolTip: SMB BranchCache deployment Diagnosis script"
-layout: "post"
-date: 2010-10-26T17:59:16Z
-slug: "tooltip-smb-branchcache-deployment-diagnosis-script"
+title: 'ToolTip: SMB BranchCache deployment Diagnosis script'
+layout: post
+date: '2010-10-26T17:59:16Z'
+slug: tooltip-smb-branchcache-deployment-diagnosis-script
 aliases:
-  - "/2010/10/tooltip-smb-branchcache-deployment-diagnosis-script/"
-description: "Just found this SMB BranchCache deployment diagnosis script on MSDN Code Gallery. *The Test-SMBBranchCache script is used to find common SMB BranchCac..."
-author: "Alex Verboon"
+- /2010/10/tooltip-smb-branchcache-deployment-diagnosis-script/
+description: Just found this SMB BranchCache deployment diagnosis script on MSDN Code
+  Gallery. *The Test-SMBBranchCache script is used to find common SMB BranchCac...
+author: Alex Verboon
 tags:
-  - branchcache
-  - script
-  - smb
-  - tool
-  - Windows
-  - PowerShell
+- branchcache
+- script
+- smb
+- tool
+- Windows
+- PowerShell
 categories:
-  - branchcache
-  - deployment
-  - tip
-  - windows-server-2008-r2
-  - Windows
-  - PowerShell
+- branchcache
+- deployment
+- tip
+- windows-server-2008-r2
+- Windows
+- PowerShell
 ---
 Just found this SMB BranchCache deployment diagnosis script on MSDN Code Gallery. 
 

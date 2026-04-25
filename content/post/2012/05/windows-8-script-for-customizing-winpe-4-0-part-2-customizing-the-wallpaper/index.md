@@ -1,29 +1,31 @@
 ---
-title: "Windows 8 &ndash; Script for customizing WinPE 4.0 &ndash; Part 2 - Customizing the Wallpaper"
-layout: "post"
-date: 2012-05-28T22:09:35Z
-slug: "windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper"
+title: Windows 8 &ndash; Script for customizing WinPE 4.0 &ndash; Part 2 - Customizing
+  the Wallpaper
+layout: post
+date: '2012-05-28T22:09:35Z'
+slug: windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper
 aliases:
-  - "/2012/05/windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper/"
-description: "As a follow up on my earlier post [Windows 8 – Script for customizing WinPE 4.0 – Part 1](https://www.verboon.info/index.php/2012/03/windows-8-script-..."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper.png"
+- /2012/05/windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper/
+description: As a follow up on my earlier post [Windows 8 – Script for customizing
+  WinPE 4.0 – Part 1](https://www.verboon.info/index.php/2012/03/windows-8-script-...
+author: Alex Verboon
+image: img/post-heroes/windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper.png
 tags:
-  - adk
-  - copype-cmd
-  - customization
-  - makewinpemedia-cmd
-  - registry
-  - script
-  - wallpaper
-  - winpe-4-0
-  - winpe-bmp
-  - winpe-jpg
-  - Windows
-  - WinPE
+- adk
+- copype-cmd
+- customization
+- makewinpemedia-cmd
+- registry
+- script
+- wallpaper
+- winpe-4-0
+- winpe-bmp
+- winpe-jpg
+- Windows
+- WinPE
 categories:
-  - Windows
-  - WinPE
+- Windows
+- WinPE
 ---
 As a follow up on my earlier post [Windows 8 – Script for customizing WinPE 4.0 – Part 1](https://www.verboon.info/index.php/2012/03/windows-8-script-for-customizing-winpe-4-0-part-1/) I want to share with you how to customize the WinPE wallpaper. Credits go to blog reader “Max” who responded on a question from reader Carl H. 
 

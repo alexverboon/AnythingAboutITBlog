@@ -1,22 +1,23 @@
 ---
-title: "Group Policy changes included in the Windows Management Framework 3.0"
-layout: "post"
-date: 2013-02-26T06:48:22Z
-slug: "group-policy-changes-included-in-the-windows-management-framework-3-0"
+title: Group Policy changes included in the Windows Management Framework 3.0
+layout: post
+date: '2013-02-26T06:48:22Z'
+slug: group-policy-changes-included-in-the-windows-management-framework-3-0
 aliases:
-  - "/2013/02/group-policy-changes-included-in-the-windows-management-framework-3-0/"
-description: "While creating a new Group Policy object to enable WinRM (Windows Remote Management) on clients, I noticed some Group Policy changes that are introduc..."
-author: "Alex Verboon"
+- /2013/02/group-policy-changes-included-in-the-windows-management-framework-3-0/
+description: While creating a new Group Policy object to enable WinRM (Windows Remote
+  Management) on clients, I noticed some Group Policy changes that are introduc...
+author: Alex Verboon
 tags:
-  - group-policy
-  - windows-remote-management
-  - winrm
-  - Windows
-  - PowerShell
+- group-policy
+- windows-remote-management
+- winrm
+- Windows
+- PowerShell
 categories:
-  - group-policy
-  - winrm
-  - PowerShell
+- group-policy
+- winrm
+- PowerShell
 ---
 While creating a new Group Policy object to enable WinRM (Windows Remote Management) on clients, I noticed some Group Policy changes that are introduced with the Windows Management Framework 3.0. The Windows Management Framework 3.0 contains the following updates:
 

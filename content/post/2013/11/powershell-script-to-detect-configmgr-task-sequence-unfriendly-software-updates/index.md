@@ -1,23 +1,24 @@
 ---
-title: "PowerShell Script to detect ConfigMgr Task Sequence unfriendly Software Updates"
-layout: "post"
-date: 2013-11-05T23:58:55Z
-slug: "powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates"
+title: PowerShell Script to detect ConfigMgr Task Sequence unfriendly Software Updates
+layout: post
+date: '2013-11-05T23:58:55Z'
+slug: powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates
 aliases:
-  - "/2013/11/powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates/"
-description: "**Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788) If you’re dealing with ConfigMgr and OS Deployment task sequences..."
-author: "Alex Verboon"
+- /2013/11/powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates/
+description: '**Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788)
+  If you’re dealing with ConfigMgr and OS Deployment task sequences...'
+author: Alex Verboon
 tags:
-  - configmgr
-  - kb2894518
-  - reboot
-  - task-sequence
-  - Windows
-  - PowerShell
+- configmgr
+- kb2894518
+- reboot
+- task-sequence
+- Windows
+- PowerShell
 categories:
-  - configmgr
-  - windows-update
-  - PowerShell
+- configmgr
+- windows-update
+- PowerShell
 ---
 **Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788)
 

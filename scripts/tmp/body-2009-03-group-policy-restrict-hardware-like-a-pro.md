@@ -1,1 +1,0 @@
-Here’s another video from [GPanswers](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) explaining how to restrict the use of certain devices within your managed environment.

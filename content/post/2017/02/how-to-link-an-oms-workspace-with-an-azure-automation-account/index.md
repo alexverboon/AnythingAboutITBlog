@@ -1,22 +1,23 @@
 ---
-title: "How to link an OMS Workspace with an Azure Automation Account"
-layout: "post"
-date: 2017-02-09T21:14:19Z
-slug: "how-to-link-an-oms-workspace-with-an-azure-automation-account"
+title: How to link an OMS Workspace with an Azure Automation Account
+layout: post
+date: '2017-02-09T21:14:19Z'
+slug: how-to-link-an-oms-workspace-with-an-azure-automation-account
 aliases:
-  - "/2017/02/how-to-link-an-oms-workspace-with-an-azure-automation-account/"
-description: "When adding solutions to your OMS workspace you might get prompted to specify an Azure Automation account which then results in a link being created b..."
-author: "Alex Verboon"
+- /2017/02/how-to-link-an-oms-workspace-with-an-azure-automation-account/
+description: When adding solutions to your OMS workspace you might get prompted to
+  specify an Azure Automation account which then results in a link being created b...
+author: Alex Verboon
 tags:
-  - automation-account
-  - azure
-  - link
-  - oms
-  - PowerShell
+- automation-account
+- azure
+- link
+- oms
+- PowerShell
 categories:
-  - azure
-  - oms
-  - PowerShell
+- azure
+- oms
+- PowerShell
 ---
 When adding solutions to your OMS workspace you might get prompted to specify an Azure Automation account which then results in a link being created between the OMS workspace and the Azure Automation account. Now let’s assume you don’t need a specific OMS solution but you still want to create a link to an Automation account. While there is an “unlink workspace” option in the Azure portal, there is no “link workspace option” . 
 

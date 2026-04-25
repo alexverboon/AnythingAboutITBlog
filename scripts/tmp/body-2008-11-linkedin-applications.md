@@ -1,1 +1,0 @@
-Those using Linkedin, check out [Linkedin Applications](http://www.linkedin.com/static?key=application_directory).

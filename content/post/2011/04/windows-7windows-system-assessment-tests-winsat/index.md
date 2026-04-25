@@ -1,26 +1,27 @@
 ---
-title: "Windows 7&ndash;Windows System Assessment Tests (WinSAT)"
-layout: "post"
-date: 2011-04-17T23:04:02Z
-slug: "windows-7windows-system-assessment-tests-winsat"
+title: Windows 7&ndash;Windows System Assessment Tests (WinSAT)
+layout: post
+date: '2011-04-17T23:04:02Z'
+slug: windows-7windows-system-assessment-tests-winsat
 aliases:
-  - "/2011/04/windows-7windows-system-assessment-tests-winsat/"
-description: "Hey there, today I am going to share some information I have gathered about the Windows System Assessment Tests aka as WinSAT. When WinSAT runs, vario..."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-7windows-system-assessment-tests-winsat.png"
+- /2011/04/windows-7windows-system-assessment-tests-winsat/
+description: Hey there, today I am going to share some information I have gathered
+  about the Windows System Assessment Tests aka as WinSAT. When WinSAT runs, vario...
+author: Alex Verboon
+image: img/post-heroes/windows-7windows-system-assessment-tests-winsat.png
 tags:
-  - performance
-  - rating
-  - score
-  - wei
-  - win32_winsat
-  - winsat
-  - Windows
-  - PowerShell
+- performance
+- rating
+- score
+- wei
+- win32_winsat
+- winsat
+- Windows
+- PowerShell
 categories:
-  - winsat
-  - Windows
-  - PowerShell
+- winsat
+- Windows
+- PowerShell
 ---
 Hey there, today I am going to share some information I have gathered about the Windows System Assessment Tests aka as WinSAT. When WinSAT runs, various performance tests are executed for the following system components:
 

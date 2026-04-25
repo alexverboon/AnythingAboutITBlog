@@ -1,1 +1,0 @@
-As of June 3rd 2009, we’ll have another search engine to find stuff on the internet. Microsoft’s new search engine is called bing. Find out more about bing [here](http://www.bing.com/).

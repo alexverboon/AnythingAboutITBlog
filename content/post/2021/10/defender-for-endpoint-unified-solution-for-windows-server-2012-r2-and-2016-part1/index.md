@@ -13,9 +13,10 @@ tags:
   - unified
   - Windows
 categories:
-  - Microsoft Defender
   - Windows
+  - Microsoft Defender XDR
 ---
+
 Hello everyone,
 
 Just in case you missed this, earlier in October, Microsoft [announced](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292) the public preview for the Microsoft Defender for endpoint, unified solution for Windows Server 2012 R2 and 2016 that enables additional protection features and brings a high level of parity with Microsoft Defender for endpoint on Windows Server 2019. The unified solution also provides a much simpler onboarding experience.

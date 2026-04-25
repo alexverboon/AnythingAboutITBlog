@@ -1,27 +1,28 @@
 ---
-title: "How the Windows Defender Offline Beta Tool works"
-layout: "post"
-date: 2012-01-02T00:21:02Z
-slug: "how-the-windows-defender-offline-beta-tool-works"
+title: How the Windows Defender Offline Beta Tool works
+layout: post
+date: '2012-01-02T00:21:02Z'
+slug: how-the-windows-defender-offline-beta-tool-works
 aliases:
-  - "/2012/01/how-the-windows-defender-offline-beta-tool-works/"
-description: "In addition to the [Microsoft Security Essentials](http://windows.microsoft.com/en-US/windows/products/security-essentials) software and the [Microsof..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-the-windows-defender-offline-beta-tool-works.png"
+- /2012/01/how-the-windows-defender-offline-beta-tool-works/
+description: In addition to the [Microsoft Security Essentials](http://windows.microsoft.com/en-US/windows/products/security-essentials)
+  software and the [Microsof...
+author: Alex Verboon
+image: img/post-heroes/how-the-windows-defender-offline-beta-tool-works.png
 tags:
-  - antivirus
-  - malware
-  - rootkit
-  - security
-  - virus
-  - windows-defender-offline
-  - Windows
-  - WinPE
+- antivirus
+- malware
+- rootkit
+- security
+- virus
+- windows-defender-offline
+- Windows
+- WinPE
 categories:
-  - security
-  - tools
-  - windows-defender-offline
-  - WinPE
+- security
+- tools
+- windows-defender-offline
+- WinPE
 ---
 In addition to the [Microsoft Security Essentials](http://windows.microsoft.com/en-US/windows/products/security-essentials) software and the [Microsoft Safety Scanner](http://www.microsoft.com/security/scanner/en-us/default.aspx) Microsoft just recently released another FREE antimalware removal product called the [Windows Defender Offline Beta](http://windows.microsoft.com/en-US/windows/what-is-windows-defender-offline). While Security Essentials and Safety Scanner run within Windows, the purpose of the  Windows Defender Offline Tool is to run offline from bootable USB or CD/DVD media. 
 

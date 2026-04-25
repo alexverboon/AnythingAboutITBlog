@@ -1,21 +1,22 @@
 ---
-title: "How to change the SCCM 2012 Package Source Path with PowerShell"
-layout: "post"
-date: 2013-05-13T20:08:57Z
-slug: "how-to-change-the-sccm-2012-package-source-path-with-powershell"
+title: How to change the SCCM 2012 Package Source Path with PowerShell
+layout: post
+date: '2013-05-13T20:08:57Z'
+slug: how-to-change-the-sccm-2012-package-source-path-with-powershell
 aliases:
-  - "/2013/05/how-to-change-the-sccm-2012-package-source-path-with-powershell/"
-description: "Let’s assume you’ve just created a larger number of packages within SCCM 2012 and then you’re asked to move the package sources to a different locatio..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-change-the-sccm-2012-package-source-path-with-powershell.png"
+- /2013/05/how-to-change-the-sccm-2012-package-source-path-with-powershell/
+description: Let’s assume you’ve just created a larger number of packages within SCCM
+  2012 and then you’re asked to move the package sources to a different locatio...
+author: Alex Verboon
+image: img/post-heroes/how-to-change-the-sccm-2012-package-source-path-with-powershell.png
 tags:
-  - packagesource
-  - sccm-2012
-  - set-cmpackage
-  - PowerShell
+- packagesource
+- sccm-2012
+- set-cmpackage
+- PowerShell
 categories:
-  - sccm-2012
-  - PowerShell
+- sccm-2012
+- PowerShell
 ---
 Let’s assume you’ve just created a larger number of packages within SCCM 2012 and then you’re asked to move the package sources to a different location. I guess no-one on earth would want to visit each package and update the data source manually, So I wrote 2 scripts that automate this task. It could actually be done with one script, but when it comes to changing such things I prefer to validate things. 
 

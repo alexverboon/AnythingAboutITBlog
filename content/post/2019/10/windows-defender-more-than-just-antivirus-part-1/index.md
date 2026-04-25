@@ -1,29 +1,30 @@
 ---
-title: "Windows Defender, More than just Antivirus – Part 1"
-layout: "post"
-date: 2019-10-19T15:35:26Z
-slug: "windows-defender-more-than-just-antivirus-part-1"
+title: Windows Defender, More than just Antivirus – Part 1
+layout: post
+date: '2019-10-19T15:35:26Z'
+slug: windows-defender-more-than-just-antivirus-part-1
 aliases:
-  - "/2019/10/windows-defender-more-than-just-antivirus-part-1/"
-description: "An overview of the history of Windows Defender and what it can do beyond just antivirus."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-defender-more-than-just-antivirus-part-1.png"
+- /2019/10/windows-defender-more-than-just-antivirus-part-1/
+description: An overview of the history of Windows Defender and what it can do beyond
+  just antivirus.
+author: Alex Verboon
+image: img/post-heroes/windows-defender-more-than-just-antivirus-part-1.png
 tags:
-  - antivirus
-  - defender-2
-  - defender-atp
-  - mdatp
-  - protection
-  - security
-  - smartscreen
-  - Windows
-  - PowerShell
+- antivirus
+- defender-2
+- defender-atp
+- mdatp
+- protection
+- security
+- smartscreen
+- Windows
+- PowerShell
 categories:
-  - defender
-  - defender-atp
-  - microsoft-defender
-  - Windows
-  - PowerShell
+- defender
+- defender-atp
+- microsoft-defender
+- Windows
+- PowerShell
 ---
 Due to my professional activity as a Cyber Security Consultant, I regularly speak with customers about Windows Defender and find that many are not fully aware of all the features and capabilities that Windows Defender offers. Also, when reviewing existing implementations, I've noticed a pattern of some common issues.
 

@@ -1,27 +1,28 @@
 ---
-title: "ToolTip: Xperf123 simplify Windows Performance Data Collection"
-layout: "post"
-date: 2011-07-18T19:26:06Z
-slug: "tooltip-xperf123-simplify-windows-performance-data-collection"
+title: 'ToolTip: Xperf123 simplify Windows Performance Data Collection'
+layout: post
+date: '2011-07-18T19:26:06Z'
+slug: tooltip-xperf123-simplify-windows-performance-data-collection
 aliases:
-  - "/2011/07/tooltip-xperf123-simplify-windows-performance-data-collection/"
-description: "Those of you who have been using the Windows Performance Analysis Toolkit know of the many command line options xperf provides. Xperf123 solves that c..."
-author: "Alex Verboon"
-image: "img/post-heroes/tooltip-xperf123-simplify-windows-performance-data-collection.png"
+- /2011/07/tooltip-xperf123-simplify-windows-performance-data-collection/
+description: Those of you who have been using the Windows Performance Analysis Toolkit
+  know of the many command line options xperf provides. Xperf123 solves that c...
+author: Alex Verboon
+image: img/post-heroes/tooltip-xperf123-simplify-windows-performance-data-collection.png
 tags:
-  - boot
-  - etl
-  - performance
-  - xperf
-  - xperf123
-  - Windows
-  - WinPE
+- boot
+- etl
+- performance
+- xperf
+- xperf123
+- Windows
+- WinPE
 categories:
-  - performance
-  - tip
-  - tools
-  - Windows
-  - WinPE
+- performance
+- tip
+- tools
+- Windows
+- WinPE
 ---
 Those of you who have been using the Windows Performance Analysis Toolkit know of the many command line options xperf provides. Xperf123 solves that challenge by providing an intuitive user interface to configure and start a trace. 
 

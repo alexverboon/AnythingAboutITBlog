@@ -1,24 +1,25 @@
 ---
-title: "Extract ConfigMgr Script Status Results with PowerShell"
-layout: "post"
-date: 2019-09-09T18:18:44Z
-slug: "extract-configmgr-script-status-results-with-powershell"
+title: Extract ConfigMgr Script Status Results with PowerShell
+layout: post
+date: '2019-09-09T18:18:44Z'
+slug: extract-configmgr-script-status-results-with-powershell
 aliases:
-  - "/2019/09/extract-configmgr-script-status-results-with-powershell/"
-description: "During a recent customer engagement I had to collect the size of user profiles across a large number of devices using ConfigMgr Run Scripts."
-author: "Alex Verboon"
-image: "img/post-heroes/extract-configmgr-script-status-results-with-powershell.png"
+- /2019/09/extract-configmgr-script-status-results-with-powershell/
+description: During a recent customer engagement I had to collect the size of user
+  profiles across a large number of devices using ConfigMgr Run Scripts.
+author: Alex Verboon
+image: img/post-heroes/extract-configmgr-script-status-results-with-powershell.png
 tags:
-  - configmgr
-  - extract
-  - run-scripts
-  - sms_scripts
-  - sms_scriptsexecutionsummary
-  - sms_scriptsexecutiontask
-  - PowerShell
+- configmgr
+- extract
+- run-scripts
+- sms_scripts
+- sms_scriptsexecutionsummary
+- sms_scriptsexecutiontask
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 ![Smile](images/wlEmoticon-smile.png)
 

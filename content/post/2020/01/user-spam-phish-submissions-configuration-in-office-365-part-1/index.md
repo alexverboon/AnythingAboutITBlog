@@ -1,24 +1,24 @@
 ---
-title: "User Spam & Phish Submissions configuration in Office 365 – Part 1"
-layout: "post"
-date: 2020-01-19T13:54:51Z
-slug: "user-spam-phish-submissions-configuration-in-office-365-part-1"
+title: User Spam & Phish Submissions configuration in Office 365 – Part 1
+layout: post
+date: '2020-01-19T13:54:51Z'
+slug: user-spam-phish-submissions-configuration-in-office-365-part-1
 aliases:
-  - "/2020/01/user-spam-phish-submissions-configuration-in-office-365-part-1/"
-description: "A new feature being rolled out in Office 365 to configure user submissions."
-author: "Alex Verboon"
-image: "img/post-heroes/user-spam-phish-submissions-configuration-in-office-365-part-1.png"
+- /2020/01/user-spam-phish-submissions-configuration-in-office-365-part-1/
+description: A new feature being rolled out in Office 365 to configure user submissions.
+author: Alex Verboon
+image: img/post-heroes/user-spam-phish-submissions-configuration-in-office-365-part-1.png
 tags:
-  - advanced-threat-protection
-  - pshishing
-  - security
-  - spam
-  - PowerShell
-  - Office
+- advanced-threat-protection
+- pshishing
+- security
+- spam
+- PowerShell
+- Office
 categories:
-  - officeatp
-  - PowerShell
-  - Office
+- officeatp
+- PowerShell
+- Office
 ---
 Yesterday I noticed a [tweet](#) from @Pawp81 about a new feature being rolled out in Office 365 to configure user submissions.  So, let's have a look at this. When enabling the 'Report Message' add-in in Office 365, users can report misclassified email, whether safe or malicious, to Microsoft and its affiliates for analysis. Until now IT admins had to deploy the 'Report Message' add-in to their end users by configuring the centralized add-in deployment within the Microsoft 365 admin center as described [here](#) Furthermore when IT admins wanted to receive a copy of a reported message, a transport rule had to be created as described [here](#).
 

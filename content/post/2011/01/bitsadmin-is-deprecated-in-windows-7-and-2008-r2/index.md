@@ -1,23 +1,24 @@
 ---
-title: "BITSAdmin is deprecated in Windows 7 and 2008 R2"
-layout: "post"
-date: 2011-01-19T23:38:07Z
-slug: "bitsadmin-is-deprecated-in-windows-7-and-2008-r2"
+title: BITSAdmin is deprecated in Windows 7 and 2008 R2
+layout: post
+date: '2011-01-19T23:38:07Z'
+slug: bitsadmin-is-deprecated-in-windows-7-and-2008-r2
 aliases:
-  - "/2011/01/bitsadmin-is-deprecated-in-windows-7-and-2008-r2/"
-description: "Just recently when I created a [script](https://www.verboon.info/index.php/2011/01/automated-microsoft-security-essentials-installation/) using BITSAd..."
-author: "Alex Verboon"
+- /2011/01/bitsadmin-is-deprecated-in-windows-7-and-2008-r2/
+description: Just recently when I created a [script](https://www.verboon.info/index.php/2011/01/automated-microsoft-security-essentials-installation/)
+  using BITSAd...
+author: Alex Verboon
 tags:
-  - bits
-  - bitsadmin
-  - download
-  - Windows
-  - PowerShell
+- bits
+- bitsadmin
+- download
+- Windows
+- PowerShell
 categories:
-  - bits
-  - scripting
-  - Windows
-  - PowerShell
+- bits
+- scripting
+- Windows
+- PowerShell
 ---
 Just recently when I created a [script](https://www.verboon.info/index.php/2011/01/automated-microsoft-security-essentials-installation/) using BITSAdmin, I noticed the following text when running the BITSAdmin executable: **BITSADMIN is deprecated and is not guaranteed to be available in future versions of Windows. Administrative tools for the BITS service are now provided by BITS PowerShell cmdlets**.
 

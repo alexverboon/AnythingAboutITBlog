@@ -1,27 +1,28 @@
 ---
-title: "Verifying your file downloads"
-layout: "post"
-date: 2009-04-02T21:40:59Z
-slug: "verifying-your-file-downloads"
+title: Verifying your file downloads
+layout: post
+date: '2009-04-02T21:40:59Z'
+slug: verifying-your-file-downloads
 aliases:
-  - "/2009/04/verifying-your-file-downloads/"
-description: "Today we once more ran into an issue caused by a corrupted file transfer. I mention “once more” because this is something I see happening all the time..."
-author: "Alex Verboon"
-image: "img/post-heroes/verifying-your-file-downloads.png"
+- /2009/04/verifying-your-file-downloads/
+description: Today we once more ran into an issue caused by a corrupted file transfer.
+  I mention “once more” because this is something I see happening all the time...
+author: Alex Verboon
+image: img/post-heroes/verifying-your-file-downloads.png
 tags:
-  - checksum
-  - crc
-  - download
-  - file-transfer
-  - md5
-  - quicksfv
-  - Windows
-  - WinPE
+- checksum
+- crc
+- download
+- file-transfer
+- md5
+- quicksfv
+- Windows
+- WinPE
 categories:
-  - knowledge
-  - tip
-  - tools
-  - WinPE
+- knowledge
+- tip
+- tools
+- WinPE
 ---
 Today we once more ran into an issue caused by a corrupted file transfer. I mention “once more” because this is something I see happening all the time. So let me drop a couple of words on this. 
 

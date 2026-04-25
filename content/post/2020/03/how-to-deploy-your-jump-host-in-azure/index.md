@@ -1,29 +1,30 @@
 ---
-title: "How to deploy your jump host in Azure"
-layout: "post"
-date: 2020-03-29T14:49:33Z
-slug: "how-to-deploy-your-jump-host-in-azure"
+title: How to deploy your jump host in Azure
+layout: post
+date: '2020-03-29T14:49:33Z'
+slug: how-to-deploy-your-jump-host-in-azure
 aliases:
-  - "/2020/03/how-to-deploy-your-jump-host-in-azure/"
-description: "Due to the current COVID 19 pandemic, governments are urging their citizens to stay at home."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-deploy-your-jump-host-in-azure.png"
+- /2020/03/how-to-deploy-your-jump-host-in-azure/
+description: Due to the current COVID 19 pandemic, governments are urging their citizens
+  to stay at home.
+author: Alex Verboon
+image: img/post-heroes/how-to-deploy-your-jump-host-in-azure.png
 tags:
-  - azure
-  - jump-host
-  - rdp
-  - remote-access
-  - securitiy
-  - virtual-machine
-  - Windows
-  - PowerShell
-  - Office
+- azure
+- jump-host
+- rdp
+- remote-access
+- securitiy
+- virtual-machine
+- Windows
+- PowerShell
+- Office
 categories:
-  - azure
-  - remote-management
-  - security
-  - Windows
-  - PowerShell
+- azure
+- remote-management
+- security
+- Windows
+- PowerShell
 ---
 Due to the current CODV 19 pandemic, governments are urging their citizens to stay at home. For many people this means finding alternative ways to continue their work from home. This article is primarily aimed at IT administrators or IT consultants who do not have an existing solution in place and who are looking for a simple but secure solution to access their IT infrastructure remotely.
 

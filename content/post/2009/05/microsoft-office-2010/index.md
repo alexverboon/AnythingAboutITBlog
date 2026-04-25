@@ -1,16 +1,17 @@
 ---
-title: "Microsoft Office 2010"
-layout: "post"
-date: 2009-05-16T00:12:04Z
-slug: "microsoft-office-2010"
+title: Microsoft Office 2010
+layout: post
+date: '2009-05-16T00:12:04Z'
+slug: microsoft-office-2010
 aliases:
-  - "/2009/05/microsoft-office-2010/"
-description: "Office 2010 is underway. If you’re interested to join the technical preview, register yourself on the Office 2010 website. [http://www.office2010themo..."
-author: "Alex Verboon"
+- /2009/05/microsoft-office-2010/
+description: Office 2010 is underway. If you’re interested to join the technical preview,
+  register yourself on the Office 2010 website. [http://www.office2010themo...
+author: Alex Verboon
 tags:
-  - Office
+- Office
 categories:
-  - Office
+- Office
 ---
 Office 2010 is underway. If you’re interested to join the technical preview, register yourself on the Office 2010 website. [http://www.office2010themovie.com/](http://www.office2010themovie.com/)
 

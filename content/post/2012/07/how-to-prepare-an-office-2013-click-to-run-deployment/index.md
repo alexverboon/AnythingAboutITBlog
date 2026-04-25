@@ -1,21 +1,22 @@
 ---
-title: "How to prepare an Office 2013 Click-to-Run deployment"
-layout: "post"
-date: 2012-07-30T22:22:38Z
-slug: "how-to-prepare-an-office-2013-click-to-run-deployment"
+title: How to prepare an Office 2013 Click-to-Run deployment
+layout: post
+date: '2012-07-30T22:22:38Z'
+slug: how-to-prepare-an-office-2013-click-to-run-deployment
 aliases:
-  - "/2012/07/how-to-prepare-an-office-2013-click-to-run-deployment/"
-description: "With the release of the Office 2013 preview Microsoft also made available the Office Deployment Tool for Click-to-Run deployments. Although we here a ..."
-author: "Alex Verboon"
+- /2012/07/how-to-prepare-an-office-2013-click-to-run-deployment/
+description: With the release of the Office 2013 preview Microsoft also made available
+  the Office Deployment Tool for Click-to-Run deployments. Although we here a ...
+author: Alex Verboon
 tags:
-  - click-to-run
-  - deployment
-  - Windows
-  - Office
+- click-to-run
+- deployment
+- Windows
+- Office
 categories:
-  - deployment
-  - Windows
-  - Office
+- deployment
+- Windows
+- Office
 ---
 With the release of the Office 2013 preview Microsoft also made available the Office Deployment Tool for Click-to-Run deployments. Although we here a lot about Click-to-Run these days, it’s not something totally new. Microsoft first introduced this with Office 2010 but it didn’t get that much attention within enterprise environment. For Office 2013 I can imagine that this will change.
 

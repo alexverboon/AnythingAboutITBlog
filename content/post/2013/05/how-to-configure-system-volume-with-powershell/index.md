@@ -1,21 +1,22 @@
 ---
-title: "How to configure system volume with PowerShell"
-layout: "post"
-date: 2013-05-29T16:53:47Z
-slug: "how-to-configure-system-volume-with-powershell"
+title: How to configure system volume with PowerShell
+layout: post
+date: '2013-05-29T16:53:47Z'
+slug: how-to-configure-system-volume-with-powershell
 aliases:
-  - "/2013/05/how-to-configure-system-volume-with-powershell/"
-description: "Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/) progra..."
-author: "Alex Verboon"
+- /2013/05/how-to-configure-system-volume-with-powershell/
+description: Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/)
+  progra...
+author: Alex Verboon
 tags:
-  - mute
-  - script
-  - volume
-  - Windows
-  - PowerShell
+- mute
+- script
+- volume
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/) programmatically.  This week I found another approach on GitHub using PowerShell. 
 

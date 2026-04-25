@@ -1,21 +1,25 @@
 ---
-title: "Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016 (Part2)"
-layout: "post"
-date: 2021-12-06T20:28:53Z
-slug: "defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2"
+title: Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016
+  (Part2)
+layout: post
+date: '2021-12-06T20:28:53Z'
+slug: defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2
 aliases:
-  - "/2021/12/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2/"
-description: "How to migrate Windows Server 2012 R2 and 2016 servers to the new unified Defender for Endpoint solution"
-author: "Alex Verboon"
-image: "img/post-heroes/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2.png"
+- /2021/12/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2/
+description: How to migrate Windows Server 2012 R2 and 2016 servers to the new unified
+  Defender for Endpoint solution
+author: Alex Verboon
+image: img/post-heroes/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2.png
 tags:
-  - defenderforendpoint
-  - Windows
-  - PowerShell
+- defenderforendpoint
+- Windows
+- PowerShell
 categories:
   - Security
   - PowerShell
+  - Microsoft Defender XDR
 ---
+
 Hello everyone,
 
 In my previous post ([Part1](https://www.verboon.info/2021/10/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part1/)) I provided an overview of the new Microsoft Defender for endpoint unified solution for Windows Server 2012-R2 and 2016 and how to deploy the solution manually to a new provisioned server. In this blog post I would like to walk you through the process of migrating a Windows 2016 server to the new unified solution using Microsoft Endpoint Configuration Manager.

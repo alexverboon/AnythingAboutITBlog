@@ -1,23 +1,24 @@
 ---
-title: "How to check if Control Flow Guard is enabled"
-layout: "post"
-date: 2017-07-29T10:53:56Z
-slug: "how-to-check-if-control-flow-guard-is-enabled"
+title: How to check if Control Flow Guard is enabled
+layout: post
+date: '2017-07-29T10:53:56Z'
+slug: how-to-check-if-control-flow-guard-is-enabled
 aliases:
-  - "/2017/07/how-to-check-if-control-flow-guard-is-enabled/"
-description: "How to check if Control Flow Guard is enabledControl Flow Guard helps mitigate exploits that are based on flow between code locations in memory. Contr..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-check-if-control-flow-guard-is-enabled.png"
+- /2017/07/how-to-check-if-control-flow-guard-is-enabled/
+description: How to check if Control Flow Guard is enabledControl Flow Guard helps
+  mitigate exploits that are based on flow between code locations in memory. Contr...
+author: Alex Verboon
+image: img/post-heroes/how-to-check-if-control-flow-guard-is-enabled.png
 tags:
-  - cfg
-  - control-flow-guard
-  - security
-  - Windows
-  - PowerShell
+- cfg
+- control-flow-guard
+- security
+- Windows
+- PowerShell
 categories:
-  - security
-  - Windows
-  - PowerShell
+- security
+- Windows
+- PowerShell
 ---
 How to check if Control Flow Guard is enabledControl Flow Guard helps mitigate exploits that are based on flow between code locations in memory. Control Flow Guard (CFG) is a mitigation that requires no configuration within the operating system, but instead is built into software when it’s compiled. So how to check if an Application is Control Flow Guard is enabled? For my own testing purposes I created two executables one called ConsoleApplication1.exe that has CFG enabled and ConsoleApplication1_NO_CFG.exe. One way to find out whether a running application has CFG enabled is to use the sysinternals process explorer utility. [
 ![clip_image002](images/clip_image002_thumb-1.png)

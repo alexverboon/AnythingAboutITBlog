@@ -1,1 +1,0 @@
-Here’s another great article from Stephen Rose, explaining XP Mode vs. MED-V. Read the entire article [here](http://windowsteamblog.com/blogs/springboard/archive/2009/08/08/xp-mode-vs-med-v.aspx)

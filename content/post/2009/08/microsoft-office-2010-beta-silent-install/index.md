@@ -1,24 +1,26 @@
 ---
-title: "Microsoft Office 2010 Beta Silent Install"
-layout: "post"
-date: 2009-08-19T21:57:41Z
-slug: "microsoft-office-2010-beta-silent-install"
+title: Microsoft Office 2010 Beta Silent Install
+layout: post
+date: '2009-08-19T21:57:41Z'
+slug: microsoft-office-2010-beta-silent-install
 aliases:
-  - "/2009/08/microsoft-office-2010-beta-silent-install/"
-description: "Being one of the lucky ones who was able to sign-up to the Microsoft Office 2010 Technical Preview program, I have started looking at the deployment o..."
-author: "Alex Verboon"
-image: "img/post-heroes/microsoft-office-2010-beta-silent-install.png"
+- /2009/08/microsoft-office-2010-beta-silent-install/
+description: Being one of the lucky ones who was able to sign-up to the Microsoft
+  Office 2010 Technical Preview program, I have started looking at the deployment
+  o...
+author: Alex Verboon
+image: img/post-heroes/microsoft-office-2010-beta-silent-install.png
 tags:
-  - deployment
-  - silent-installs
-  - Office
+- deployment
+- silent-installs
+- Office
 categories:
-  - automation
-  - beta
-  - deployment
-  - packaging
-  - tip
-  - Office
+- automation
+- beta
+- deployment
+- packaging
+- tip
+- Office
 ---
 Being one of the lucky ones who was able to sign-up to the Microsoft Office 2010 Technical Preview program, I have started looking at the deployment of Microsoft Office 2010 today. 
 

@@ -1,20 +1,21 @@
 ---
-title: "PowerShell Script to remove Office 365 Service Plans from a user"
-layout: "post"
-date: 2015-12-13T20:36:06Z
-slug: "powershell-script-to-remove-office-365-service-plans-from-a-user"
+title: PowerShell Script to remove Office 365 Service Plans from a user
+layout: post
+date: '2015-12-13T20:36:06Z'
+slug: powershell-script-to-remove-office-365-service-plans-from-a-user
 aliases:
-  - "/2015/12/powershell-script-to-remove-office-365-service-plans-from-a-user/"
-description: "When assigning an Office 365 license to a user, by default several service plans are enabled. When assigning an Office 365 **E3** license to a user, t..."
-author: "Alex Verboon"
+- /2015/12/powershell-script-to-remove-office-365-service-plans-from-a-user/
+description: When assigning an Office 365 license to a user, by default several service
+  plans are enabled. When assigning an Office 365 **E3** license to a user, t...
+author: Alex Verboon
 tags:
-  - license
-  - serviceplan
-  - PowerShell
-  - Office
+- license
+- serviceplan
+- PowerShell
+- Office
 categories:
-  - PowerShell
-  - Office
+- PowerShell
+- Office
 ---
 When assigning an Office 365 license to a user, by default several service plans are enabled. When assigning an Office 365 **E3** license to a user, the following service plans are enabled by default:
 

@@ -1,20 +1,21 @@
 ---
-title: "Classic Menu in Microsoft Word 2007"
-layout: "post"
-date: 2009-03-29T15:34:43Z
-slug: "classic-menu-in-microsoft-word-2007"
+title: Classic Menu in Microsoft Word 2007
+layout: post
+date: '2009-03-29T15:34:43Z'
+slug: classic-menu-in-microsoft-word-2007
 aliases:
-  - "/2009/03/classic-menu-in-microsoft-word-2007/"
-description: "With the release of the Office 2007 suite, Microsoft made some radical changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon*..."
-author: "Alex Verboon"
-image: "img/post-heroes/classic-menu-in-microsoft-word-2007.png"
+- /2009/03/classic-menu-in-microsoft-word-2007/
+description: With the release of the Office 2007 suite, Microsoft made some radical
+  changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon*...
+author: Alex Verboon
+image: img/post-heroes/classic-menu-in-microsoft-word-2007.png
 tags:
-  - ribbon
-  - winword
-  - Office
+- ribbon
+- winword
+- Office
 categories:
-  - microsoft-office
-  - reading
+- Office
+- reading
 ---
 With the release of the Office 2007 suite, Microsoft made some radical changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon**”
 

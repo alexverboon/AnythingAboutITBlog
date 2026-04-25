@@ -15,8 +15,9 @@ tags:
   - grouppolicy
   - kql
 categories:
-  - Microsoft Defender
+  - Microsoft Defender XDR
 ---
+
 Hello there,
 
 In today's blog post I want to share with you an advanced hunting query to detect audit policy modifications using Microsoft Defender 365 advanced hunting. Following the MITRE ATT&CK framework this would be [T1484.001 Domain Policy Modification: Group Policy Modification](https://attack.mitre.org/techniques/T1484/001/).

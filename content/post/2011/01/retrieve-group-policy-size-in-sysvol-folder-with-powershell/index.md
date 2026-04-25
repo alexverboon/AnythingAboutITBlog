@@ -1,27 +1,28 @@
 ---
-title: "Retrieve Group Policy size in SYSVOL folder with PowerShell"
-layout: "post"
-date: 2011-01-24T18:07:28Z
-slug: "retrieve-group-policy-size-in-sysvol-folder-with-powershell"
+title: Retrieve Group Policy size in SYSVOL folder with PowerShell
+layout: post
+date: '2011-01-24T18:07:28Z'
+slug: retrieve-group-policy-size-in-sysvol-folder-with-powershell
 aliases:
-  - "/2011/01/retrieve-group-policy-size-in-sysvol-folder-with-powershell/"
-description: "Needless to say that there are quite some benefits in using a central store for Group Policies, one of them is that you can prevent the so-called SYSV..."
-author: "Alex Verboon"
-image: "img/post-heroes/retrieve-group-policy-size-in-sysvol-folder-with-powershell.png"
+- /2011/01/retrieve-group-policy-size-in-sysvol-folder-with-powershell/
+description: Needless to say that there are quite some benefits in using a central
+  store for Group Policies, one of them is that you can prevent the so-called SYSV...
+author: Alex Verboon
+image: img/post-heroes/retrieve-group-policy-size-in-sysvol-folder-with-powershell.png
 tags:
-  - adm
-  - admx
-  - central-store
-  - gpo
-  - group-policy
-  - size
-  - Windows
-  - PowerShell
+- adm
+- admx
+- central-store
+- gpo
+- group-policy
+- size
+- Windows
+- PowerShell
 categories:
-  - gpo
-  - group-policy
-  - Windows
-  - PowerShell
+- gpo
+- group-policy
+- Windows
+- PowerShell
 ---
 Needless to say that there are quite some benefits in using a central store for Group Policies, one of them is that you can prevent the so-called SYSVOL bloat. A good description of the SYSVOL bloat is described [here](http://blogs.technet.com/b/askds/archive/2009/12/09/windows-7-windows-server-2008-r2-and-the-group-policy-central-store.aspx). So how much size do my GPOs currently consume within the SYSVOL folder? I asked myself that question a few days ago and ended up with let’s say my first version of the **GetGPOSize** PowerShell script.
 

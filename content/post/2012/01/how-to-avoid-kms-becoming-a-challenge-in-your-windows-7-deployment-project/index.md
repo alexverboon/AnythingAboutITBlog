@@ -1,28 +1,29 @@
 ---
-title: "How to avoid KMS becoming a challenge in your Windows 7 deployment project"
-layout: "post"
-date: 2012-01-25T22:44:30Z
-slug: "how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project"
+title: How to avoid KMS becoming a challenge in your Windows 7 deployment project
+layout: post
+date: '2012-01-25T22:44:30Z'
+slug: how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project
 aliases:
-  - "/2012/01/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project/"
-description: "I’ve been involved in Windows 7 deployments since the Beta came out in 2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and eve..."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project.png"
+- /2012/01/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project/
+description: I’ve been involved in Windows 7 deployments since the Beta came out in
+  2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and eve...
+author: Alex Verboon
+image: img/post-heroes/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project.png
 tags:
-  - dns
-  - key-management-server
-  - kms
-  - mak
-  - slmgr-vbs
-  - volume-licensing
-  - Windows
-  - Office
+- dns
+- key-management-server
+- kms
+- mak
+- slmgr-vbs
+- volume-licensing
+- Windows
+- Office
 categories:
-  - active-directory
-  - dns
-  - kms
-  - Windows
-  - Office
+- active-directory
+- dns
+- kms
+- Windows
+- Office
 ---
 I’ve been involved in Windows 7 deployments since the Beta came out in 2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and even Windows 3.11 and although over time the technology has changed the basic challenges of every migration remained the same. 
 

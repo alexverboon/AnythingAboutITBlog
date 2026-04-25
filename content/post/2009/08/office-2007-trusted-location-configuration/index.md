@@ -1,24 +1,26 @@
 ---
-title: "Office 2007 Trusted location configuration"
-layout: "post"
-date: 2009-08-26T17:14:02Z
-slug: "office-2007-trusted-location-configuration"
+title: Office 2007 Trusted location configuration
+layout: post
+date: '2009-08-26T17:14:02Z'
+slug: office-2007-trusted-location-configuration
 aliases:
-  - "/2009/08/office-2007-trusted-location-configuration/"
-description: "When opening an Excel file that contains macros, Microsoft Excel 2007 shows a security warning as shown in the picture below and disables the macros. ..."
-author: "Alex Verboon"
-image: "img/post-heroes/office-2007-trusted-location-configuration.png"
+- /2009/08/office-2007-trusted-location-configuration/
+description: When opening an Excel file that contains macros, Microsoft Excel 2007
+  shows a security warning as shown in the picture below and disables the macros.
+  ...
+author: Alex Verboon
+image: img/post-heroes/office-2007-trusted-location-configuration.png
 tags:
-  - excel-2007
-  - macros
-  - office-2007
-  - security
-  - trusted-location
-  - Office
+- excel-2007
+- macros
+- office-2007
+- security
+- trusted-location
+- Office
 categories:
-  - excel-2007
-  - office-2007
-  - tip
+- excel-2007
+- office-2007
+- tip
 ---
 When opening an Excel file that contains macros, Microsoft Excel 2007 shows a security warning as shown in the picture below and disables the macros. 
 

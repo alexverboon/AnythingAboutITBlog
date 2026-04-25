@@ -1,20 +1,21 @@
 ---
-title: "Azure Information Protection Scanner & Analytics – Resource Collection"
-layout: "post"
-date: 2018-10-31T18:42:25Z
-slug: "azure-information-protection-scanner-analytics-resource-collection"
+title: Azure Information Protection Scanner & Analytics – Resource Collection
+layout: post
+date: '2018-10-31T18:42:25Z'
+slug: azure-information-protection-scanner-analytics-resource-collection
 aliases:
-  - "/2018/10/azure-information-protection-scanner-analytics-resource-collection/"
-description: "Hey there, This might sound like a bad excuse for not writing up a whole blog post, but in fact I had planned to write a few words about the Azure Inf..."
-author: "Alex Verboon"
+- /2018/10/azure-information-protection-scanner-analytics-resource-collection/
+description: Hey there, This might sound like a bad excuse for not writing up a whole
+  blog post, but in fact I had planned to write a few words about the Azure Inf...
+author: Alex Verboon
 tags:
-  - aip
-  - protection
-  - scanner
-  - PowerShell
+- aip
+- protection
+- scanner
+- PowerShell
 categories:
-  - azure-information-protection
-  - PowerShell
+- azure-information-protection
+- PowerShell
 ---
 Hey there,
 

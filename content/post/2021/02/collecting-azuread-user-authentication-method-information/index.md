@@ -1,21 +1,22 @@
 ---
-title: "Collecting AzureAD User Authentication Method Information"
-layout: "post"
-date: 2021-02-07T13:28:44Z
-slug: "collecting-azuread-user-authentication-method-information"
+title: Collecting AzureAD User Authentication Method Information
+layout: post
+date: '2021-02-07T13:28:44Z'
+slug: collecting-azuread-user-authentication-method-information
 aliases:
-  - "/2021/02/collecting-azuread-user-authentication-method-information/"
-description: "Collect Azure AD user authentication methods using Microsoft Graph PowerShell for MFA and passwordless analysis."
-author: "Alex Verboon"
-image: "img/post-heroes/collecting-azuread-user-authentication-method-information.png"
+- /2021/02/collecting-azuread-user-authentication-method-information/
+description: Collect Azure AD user authentication methods using Microsoft Graph PowerShell
+  for MFA and passwordless analysis.
+author: Alex Verboon
+image: img/post-heroes/collecting-azuread-user-authentication-method-information.png
 tags:
-  - authenticationmethod
-  - Entra
-  - MFA
-  - powershell
+- authenticationmethod
+- Entra
+- MFA
+- PowerShell
 categories:
-  - EntraID
-  - PowerShell
+- EntraID
+- PowerShell
 ---
 Hello everyone, last Friday I received an email from one of my customers, asking how to identify users in Azure AD that have enabled [passwordless sign-in with the Microsoft Authenticator app](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-passwordless-phone). Previously I usually made use of the [Script for Azure MFA authentication method analysis](https://docs.microsoft.com/en-us/samples/azure-samples/azure-mfa-authentication-method-analysis/azure-mfa-authentication-method-analysis/) but that script uses the MSOnline PowerShell module where the `Get-MsolUser` cmdlet does not expose the information about these newer authentication methods.
 

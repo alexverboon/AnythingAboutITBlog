@@ -1,25 +1,26 @@
 ---
-title: "Testing Windows Defender MAPS Connectivity with PowerShell"
-layout: "post"
-date: 2019-07-08T22:33:36Z
-slug: "testing-windows-defender-maps-connectivity-with-powershell"
+title: Testing Windows Defender MAPS Connectivity with PowerShell
+layout: post
+date: '2019-07-08T22:33:36Z'
+slug: testing-windows-defender-maps-connectivity-with-powershell
 aliases:
-  - "/2019/07/testing-windows-defender-maps-connectivity-with-powershell/"
-description: "Whenever I work with customers on Windows Defender, one of the first things I review is the MAPS (Microsoft Active Protection Service) connectivity."
-author: "Alex Verboon"
-image: "img/post-heroes/testing-windows-defender-maps-connectivity-with-powershell.png"
+- /2019/07/testing-windows-defender-maps-connectivity-with-powershell/
+description: Whenever I work with customers on Windows Defender, one of the first
+  things I review is the MAPS (Microsoft Active Protection Service) connectivity.
+author: Alex Verboon
+image: img/post-heroes/testing-windows-defender-maps-connectivity-with-powershell.png
 tags:
-  - cloud
-  - defender-2
-  - maps
-  - protection
-  - Windows
-  - PowerShell
+- cloud
+- defender-2
+- maps
+- protection
+- Windows
+- PowerShell
 categories:
-  - defender
-  - defender-atp
-  - maps
-  - PowerShell
+- defender
+- defender-atp
+- maps
+- PowerShell
 ---
 Whenever I work with customers on Windows Defender or Microsoft Defender Advanced Threat Protection, one of the first things I usually review are the current Windows Defender settings. Having Windows Defender properly configured is key, because otherwise you might not be able to make use of all the capabilities Defender and Defender ATP provides. One of them is MAPS (Microsoft Active Protection Service) or also known as Windows Defender Antivirus cloud-delivered protection service. Quite often I notice that clients have no connection to MAPS, this can be validated by running the following command from an elevated command prompt:
 

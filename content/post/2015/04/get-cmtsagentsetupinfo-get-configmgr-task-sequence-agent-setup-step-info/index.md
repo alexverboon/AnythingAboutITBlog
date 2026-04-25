@@ -1,23 +1,24 @@
 ---
-title: "Get-CMTSAgentSetupInfo (Get ConfigMgr Task Sequence Agent Setup Step Info)"
-layout: "post"
-date: 2015-04-04T11:49:35Z
-slug: "get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info"
+title: Get-CMTSAgentSetupInfo (Get ConfigMgr Task Sequence Agent Setup Step Info)
+layout: post
+date: '2015-04-04T11:49:35Z'
+slug: get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info
 aliases:
-  - "/2015/04/get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info/"
-description: "We recently performed an upgrade of our ConfigMgr 2012 R2 Infrastructure and due to way how we install the Agent and Agent patches, we had to update t..."
-author: "Alex Verboon"
+- /2015/04/get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info/
+description: We recently performed an upgrade of our ConfigMgr 2012 R2 Infrastructure
+  and due to way how we install the Agent and Agent patches, we had to update t...
+author: Alex Verboon
 tags:
-  - agent
-  - configmgr
-  - properties
-  - task-sequence
-  - Windows
-  - PowerShell
+- agent
+- configmgr
+- properties
+- task-sequence
+- Windows
+- PowerShell
 categories:
-  - configmgr
-  - Windows
-  - PowerShell
+- configmgr
+- Windows
+- PowerShell
 ---
 We recently performed an upgrade of our ConfigMgr 2012 R2 Infrastructure and due to way how we install the Agent and Agent patches, we had to update the “Setup Windows and ConfigMgr” step within a number of our Task Sequences. I therefore wrote the below Get-CMTSAgentSetupInfo.ps1 PowerShell script which dumps all the ConfigMgr Agent Setup step information from all or specified task sequences.
 

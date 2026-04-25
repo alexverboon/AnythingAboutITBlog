@@ -1,21 +1,22 @@
 ---
-title: "Configuring Windows Defender Credential Guard with ConfigMgr"
-layout: "post"
-date: 2019-03-27T21:23:16Z
-slug: "configuring-windows-defender-credential-guard-with-configmgr"
+title: Configuring Windows Defender Credential Guard with ConfigMgr
+layout: post
+date: '2019-03-27T21:23:16Z'
+slug: configuring-windows-defender-credential-guard-with-configmgr
 aliases:
-  - "/2019/03/configuring-windows-defender-credential-guard-with-configmgr/"
-description: "Currently engaged in multiple customer projects where Windows 10 is in production but Windows Credential Guard has not been enabled yet."
-author: "Alex Verboon"
-image: "img/post-heroes/configuring-windows-defender-credential-guard-with-configmgr.png"
+- /2019/03/configuring-windows-defender-credential-guard-with-configmgr/
+description: Currently engaged in multiple customer projects where Windows 10 is in
+  production but Windows Credential Guard has not been enabled yet.
+author: Alex Verboon
+image: img/post-heroes/configuring-windows-defender-credential-guard-with-configmgr.png
 tags:
-  - configmgr
-  - credentialguard
-  - Windows
-  - PowerShell
+- configmgr
+- credentialguard
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 I'm currently engaged in multiple customer projects where Windows 10 is already in production, but unfortunately without Windows Credential Guard enabled. For those who think "Credential ….what?"
 

@@ -1,23 +1,24 @@
 ---
-title: "Exploring Microsoft Security Update information with PowerShell"
-layout: "post"
-date: 2017-12-29T13:36:30Z
-slug: "exploring-microsoft-security-update-information-with-powershell"
+title: Exploring Microsoft Security Update information with PowerShell
+layout: post
+date: '2017-12-29T13:36:30Z'
+slug: exploring-microsoft-security-update-information-with-powershell
 aliases:
-  - "/2017/12/exploring-microsoft-security-update-information-with-powershell/"
-description: "Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date..."
-author: "Alex Verboon"
+- /2017/12/exploring-microsoft-security-update-information-with-powershell/
+description: Nowadays regular deployment of security updates is a must, whether at
+  home or within the enterprise. If you are responsible to keep systems up to date...
+author: Alex Verboon
 tags:
-  - cve
-  - security
-  - updates
-  - vulnerability
-  - Windows
-  - PowerShell
+- cve
+- security
+- updates
+- vulnerability
+- Windows
+- PowerShell
 categories:
-  - security
-  - Windows
-  - PowerShell
+- security
+- Windows
+- PowerShell
 ---
 Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date you deploy the latest updates as soon as possible.  But it is equally important to understand the vulnerabilities being addressed by these updates.
 

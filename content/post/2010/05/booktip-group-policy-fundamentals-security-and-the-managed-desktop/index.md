@@ -1,26 +1,27 @@
 ---
-title: "BookTip: Group Policy &ndash; Fundamentals, Security and the Managed Desktop"
-layout: "post"
-date: 2010-05-07T16:34:15Z
-slug: "booktip-group-policy-fundamentals-security-and-the-managed-desktop"
+title: 'BookTip: Group Policy &ndash; Fundamentals, Security and the Managed Desktop'
+layout: post
+date: '2010-05-07T16:34:15Z'
+slug: booktip-group-policy-fundamentals-security-and-the-managed-desktop
 aliases:
-  - "/2010/05/booktip-group-policy-fundamentals-security-and-the-managed-desktop/"
-description: "Today I’ve received a signed copy of Jeremy Moskowitz latest Book “[Group Policy – Fundamentals, Security and the Managed Desktop](http://www.gpanswer..."
-author: "Alex Verboon"
-image: "img/post-heroes/booktip-group-policy-fundamentals-security-and-the-managed-desktop.png"
+- /2010/05/booktip-group-policy-fundamentals-security-and-the-managed-desktop/
+description: Today I’ve received a signed copy of Jeremy Moskowitz latest Book “[Group
+  Policy – Fundamentals, Security and the Managed Desktop](http://www.gpanswer...
+author: Alex Verboon
+image: img/post-heroes/booktip-group-policy-fundamentals-security-and-the-managed-desktop.png
 tags:
-  - book
-  - desktop
-  - gpo
-  - group-policy
-  - security
-  - Windows
-  - PowerShell
+- book
+- desktop
+- gpo
+- group-policy
+- security
+- Windows
+- PowerShell
 categories:
-  - group-policy
-  - reading
-  - tip
-  - PowerShell
+- group-policy
+- reading
+- tip
+- PowerShell
 ---
 Today I’ve received a signed copy of Jeremy Moskowitz latest Book “[Group Policy – Fundamentals, Security and the Managed Desktop](http://www.gpanswers.com/books.html#tabs)”, so instead of using my laptop I guess I’ll be holding a real book in my hands this weekend. 
 

@@ -1,21 +1,22 @@
 ---
-title: "How to identify ConfigMgr collections that take long to refresh"
-layout: "post"
-date: 2014-08-30T09:54:14Z
-slug: "how-to-identify-configmgr-collections-that-take-long-to-refresh"
+title: How to identify ConfigMgr collections that take long to refresh
+layout: post
+date: '2014-08-30T09:54:14Z'
+slug: how-to-identify-configmgr-collections-that-take-long-to-refresh
 aliases:
-  - "/2014/08/how-to-identify-configmgr-collections-that-take-long-to-refresh/"
-description: "I’ve put together the below PowerShell script this week to identify collections in ConfigMgr that require the longest time to refresh. If you ever exp..."
-author: "Alex Verboon"
+- /2014/08/how-to-identify-configmgr-collections-that-take-long-to-refresh/
+description: I’ve put together the below PowerShell script this week to identify collections
+  in ConfigMgr that require the longest time to refresh. If you ever exp...
+author: Alex Verboon
 tags:
-  - collections
-  - duration
-  - performance
-  - refresh
-  - PowerShell
+- collections
+- duration
+- performance
+- refresh
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 I’ve put together the below PowerShell script this week to identify collections in ConfigMgr that require the longest time to refresh. If you ever experience a decrease in ConfigMgr collection update performance, you might want to run this script to find potential collections that have a long refresh duration. 
 

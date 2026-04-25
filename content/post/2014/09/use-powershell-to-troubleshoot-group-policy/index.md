@@ -1,18 +1,19 @@
 ---
-title: "Use PowerShell to Troubleshoot Group Policy"
-layout: "post"
-date: 2014-09-04T21:44:17Z
-slug: "use-powershell-to-troubleshoot-group-policy"
+title: Use PowerShell to Troubleshoot Group Policy
+layout: post
+date: '2014-09-04T21:44:17Z'
+slug: use-powershell-to-troubleshoot-group-policy
 aliases:
-  - "/2014/09/use-powershell-to-troubleshoot-group-policy/"
-description: "While I was on vacation last summer Ed Wilson aka Microsoft Scripting Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blo..."
-author: "Alex Verboon"
+- /2014/09/use-powershell-to-troubleshoot-group-policy/
+description: While I was on vacation last summer Ed Wilson aka Microsoft Scripting
+  Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blo...
+author: Alex Verboon
 tags:
-  - group-policy
-  - powershell
+- group-policy
+- PowerShell
 categories:
-  - group-policy
-  - PowerShell
+- group-policy
+- PowerShell
 ---
 While I was on vacation last summer Ed Wilson aka Microsoft Scripting Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blog. Of course !! was my immediate response. 
 

@@ -1,1 +1,0 @@
-Although we have seen many creative ways on how to get a browser on Windows 7 E, it looks like the plans for Windows7 E have changed. Read the entire article [here](http://microsoftontheissues.com/cs/blogs/mscorp/archive/2009/07/31/windows-7-and-browser-choice-in-europe.aspx)

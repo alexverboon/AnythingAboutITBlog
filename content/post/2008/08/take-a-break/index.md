@@ -1,18 +1,19 @@
 ---
-title: "Take a break"
-layout: "post"
-date: 2008-08-26T19:37:52Z
-slug: "take-a-break"
+title: Take a break
+layout: post
+date: '2008-08-26T19:37:52Z'
+slug: take-a-break
 aliases:
-  - "/2008/08/take-a-break/"
-description: "Remember Space Invaders. ......if you're in the office, turn of sound :-) [ ![image](images/image-thumb10.png) ](https://www.verboon.info/wp-content/u..."
-author: "Alex Verboon"
-image: "img/post-heroes/take-a-break.png"
+- /2008/08/take-a-break/
+description: Remember Space Invaders. ......if you're in the office, turn of sound
+  :-) [ ![image](images/image-thumb10.png) ](https://www.verboon.info/wp-content/u...
+author: Alex Verboon
+image: img/post-heroes/take-a-break.png
 tags:
-  - game
-  - Office
+- game
+- Office
 categories:
-  - fun
+- fun
 ---
 Remember  Space Invaders. ......if you're in the office, turn of sound :-)
 

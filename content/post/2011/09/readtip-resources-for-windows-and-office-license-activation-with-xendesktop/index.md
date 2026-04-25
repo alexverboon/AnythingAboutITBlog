@@ -1,26 +1,27 @@
 ---
-title: "ReadTip: Resources for Windows and Office license activation with XenDesktop"
-layout: "post"
-date: 2011-09-04T10:59:42Z
-slug: "readtip-resources-for-windows-and-office-license-activation-with-xendesktop"
+title: 'ReadTip: Resources for Windows and Office license activation with XenDesktop'
+layout: post
+date: '2011-09-04T10:59:42Z'
+slug: readtip-resources-for-windows-and-office-license-activation-with-xendesktop
 aliases:
-  - "/2011/09/readtip-resources-for-windows-and-office-license-activation-with-xendesktop/"
-description: "Below just a few resources I have collected related to Windows and Office license activation with XenDesktop. Licensing is not an exciting topic but w..."
-author: "Alex Verboon"
+- /2011/09/readtip-resources-for-windows-and-office-license-activation-with-xendesktop/
+description: Below just a few resources I have collected related to Windows and Office
+  license activation with XenDesktop. Licensing is not an exciting topic but w...
+author: Alex Verboon
 tags:
-  - citrix
-  - kms
-  - licensing
-  - mak
-  - microsoft
-  - vda
-  - vdi
-  - Windows
-  - Office
+- citrix
+- kms
+- licensing
+- mak
+- microsoft
+- vda
+- vdi
+- Windows
+- Office
 categories:
-  - citrix
-  - licensing
-  - xendesktop
+- citrix
+- licensing
+- xendesktop
 ---
 Below just a few resources I have collected related to Windows and Office license activation with XenDesktop. Licensing is not an exciting topic but we have to deal with it anyway. 
 

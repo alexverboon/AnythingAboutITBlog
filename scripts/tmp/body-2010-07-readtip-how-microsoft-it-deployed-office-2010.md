@@ -1,1 +1,0 @@
-If you are planning deploying Office 2010 throughout an enterprise read [this](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9b56d0d5-7990-473f-85e5-75d9128d49ad).

@@ -1,21 +1,22 @@
 ---
-title: "The VistaPE project"
-layout: "post"
-date: 2008-09-07T20:11:45Z
-slug: "the-vistape-project"
+title: The VistaPE project
+layout: post
+date: '2008-09-07T20:11:45Z'
+slug: the-vistape-project
 aliases:
-  - "/2008/09/the-vistape-project/"
-description: "Those of you that work within the desktop management space might be familiar with the PE Builder aka as [BartPE](http://www.nu2.nu/pebuilder/).Since W..."
-author: "Alex Verboon"
-image: "img/post-heroes/the-vistape-project.png"
+- /2008/09/the-vistape-project/
+description: Those of you that work within the desktop management space might be familiar
+  with the PE Builder aka as [BartPE](http://www.nu2.nu/pebuilder/).Since W...
+author: Alex Verboon
+image: img/post-heroes/the-vistape-project.png
 tags:
-  - Uncategorized
-  - Windows
-  - WinPE
+- Uncategorized
+- Windows
+- WinPE
 categories:
-  - tools
-  - vista
-  - WinPE
+- tools
+- vista
+- WinPE
 ---
 Those of you that work within the desktop management space might be familiar with the PE Builder aka as [BartPE](http://www.nu2.nu/pebuilder/).Since WinPE was only available to enterprise customers, BartPE was a good alternative for those that had did not have access to WinPE. the PE builder allowed building a preboot environment boot CD by just using the Windows XP or Windows 2003 sources.
 

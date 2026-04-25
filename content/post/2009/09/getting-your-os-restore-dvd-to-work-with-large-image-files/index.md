@@ -1,30 +1,31 @@
 ---
-title: "Getting your OS Restore DVD to work with large image files"
-layout: "post"
-date: 2009-09-18T16:10:07Z
-slug: "getting-your-os-restore-dvd-to-work-with-large-image-files"
+title: Getting your OS Restore DVD to work with large image files
+layout: post
+date: '2009-09-18T16:10:07Z'
+slug: getting-your-os-restore-dvd-to-work-with-large-image-files
 aliases:
-  - "/2009/09/getting-your-os-restore-dvd-to-work-with-large-image-files/"
-description: "This week, we completed the Windows 7 x64 build for our internal Tech Community. During the testing of the OS Restore DVD we ran into a problem when a..."
-author: "Alex Verboon"
+- /2009/09/getting-your-os-restore-dvd-to-work-with-large-image-files/
+description: This week, we completed the Windows 7 x64 build for our internal Tech
+  Community. During the testing of the OS Restore DVD we ran into a problem when a...
+author: Alex Verboon
 tags:
-  - u2
-  - dual-layer
-  - dvd
-  - imagex
-  - large-files
-  - large-image
-  - oscdimg-exe
-  - Windows
-  - WinPE
-  - Office
+- u2
+- dual-layer
+- dvd
+- imagex
+- large-files
+- large-image
+- oscdimg-exe
+- Windows
+- WinPE
+- Office
 categories:
-  - deployment
-  - tip
-  - tools
-  - Windows
-  - WinPE
-  - Office
+- deployment
+- tip
+- tools
+- Windows
+- WinPE
+- Office
 ---
 This week, we completed the Windows 7 x64 build for our internal Tech Community. During the testing of the OS Restore DVD we ran into a problem when attempting to restore the image from DVD. 
 

@@ -1,20 +1,21 @@
 ---
-title: "PowerShell - Yet another Sysinternals download script"
-layout: "post"
-date: 2013-12-01T22:10:33Z
-slug: "powershell-yet-another-sysinternals-download-script"
+title: PowerShell - Yet another Sysinternals download script
+layout: post
+date: '2013-12-01T22:10:33Z'
+slug: powershell-yet-another-sysinternals-download-script
 aliases:
-  - "/2013/12/powershell-yet-another-sysinternals-download-script/"
-description: "Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/tra..."
-author: "Alex Verboon"
+- /2013/12/powershell-yet-another-sysinternals-download-script/
+description: Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting
+  with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/tra...
+author: Alex Verboon
 tags:
-  - whatif-verbose
-  - download
-  - invoke-webrequest
-  - sysinternals
-  - PowerShell
+- whatif-verbose
+- download
+- invoke-webrequest
+- sysinternals
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/advanced-tools-scripting-with-powershell-3-0-jump-start) course. If you haven’t looked at it yet, I realy recommend you do so, lots of good stuff there. So for the purpose of applying some of the stuff I’ve learned there regarding the use of -Whatif and -verbose messages i wrote the below script which downloads the sysinternals tools. 
 

@@ -1,21 +1,22 @@
 ---
-title: "Theme Configuration Group Policy support for Office 2013"
-layout: "post"
-date: 2013-09-30T21:29:49Z
-slug: "theme-configuration-group-policy-support-for-office-2013"
+title: Theme Configuration Group Policy support for Office 2013
+layout: post
+date: '2013-09-30T21:29:49Z'
+slug: theme-configuration-group-policy-support-for-office-2013
 aliases:
-  - "/2013/09/theme-configuration-group-policy-support-for-office-2013/"
-description: "As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27/setting-the-office-theme-using-group-policy.aspx) on the Office IT Pr..."
-author: "Alex Verboon"
-image: "img/post-heroes/theme-configuration-group-policy-support-for-office-2013.png"
+- /2013/09/theme-configuration-group-policy-support-for-office-2013/
+description: As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27/setting-the-office-theme-using-group-policy.aspx)
+  on the Office IT Pr...
+author: Alex Verboon
+image: img/post-heroes/theme-configuration-group-policy-support-for-office-2013.png
 tags:
-  - group-policy
-  - roaming
-  - theme
-  - Office
+- group-policy
+- roaming
+- theme
+- Office
 categories:
-  - group-policy
-  - Office
+- group-policy
+- Office
 ---
 As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27/setting-the-office-theme-using-group-policy.aspx) on the Office IT Pro blog a few days ago, there are updated [Office 2013 administrative templates](http://www.microsoft.com/en-us/download/details.aspx?id=35554) and Office updates that allow an administrator to pre-configure the Office 2013 Theme. 
 

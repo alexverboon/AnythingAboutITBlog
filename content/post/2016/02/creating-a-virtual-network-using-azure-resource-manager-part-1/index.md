@@ -1,23 +1,24 @@
 ---
-title: "Creating a Virtual Network using Azure Resource Manager &ndash; Part 1"
-layout: "post"
-date: 2016-02-29T22:41:51Z
-slug: "creating-a-virtual-network-using-azure-resource-manager-part-1"
+title: Creating a Virtual Network using Azure Resource Manager &ndash; Part 1
+layout: post
+date: '2016-02-29T22:41:51Z'
+slug: creating-a-virtual-network-using-azure-resource-manager-part-1
 aliases:
-  - "/2016/02/creating-a-virtual-network-using-azure-resource-manager-part-1/"
-description: "A few weeks ago I wondered why in the Azure Portal some of the resources where flagged as “classic”. The article [Understanding Resource Manager deplo..."
-author: "Alex Verboon"
-image: "img/post-heroes/creating-a-virtual-network-using-azure-resource-manager-part-1.png"
+- /2016/02/creating-a-virtual-network-using-azure-resource-manager-part-1/
+description: A few weeks ago I wondered why in the Azure Portal some of the resources
+  where flagged as “classic”. The article [Understanding Resource Manager deplo...
+author: Alex Verboon
+image: img/post-heroes/creating-a-virtual-network-using-azure-resource-manager-part-1.png
 tags:
-  - arm
-  - azure
-  - azure-resource-manager
-  - sdk
-  - virtual-network
-  - PowerShell
+- arm
+- azure
+- azure-resource-manager
+- sdk
+- virtual-network
+- PowerShell
 categories:
-  - azure
-  - PowerShell
+- azure
+- PowerShell
 ---
 A few weeks ago I wondered why in the Azure Portal some of the resources where flagged as “classic”. The article [Understanding Resource Manager deployment and classic deployment](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-deployment-model/) provided the answer I was looking for and was the start of an interesting journey into Azure Resource Manager. 
 

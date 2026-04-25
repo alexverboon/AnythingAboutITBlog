@@ -1,19 +1,20 @@
 ---
-title: "Select-MyAzureRmSubscription"
-layout: "post"
-date: 2017-02-07T15:08:07Z
-slug: "select-myazurermsubscription"
+title: Select-MyAzureRmSubscription
+layout: post
+date: '2017-02-07T15:08:07Z'
+slug: select-myazurermsubscription
 aliases:
-  - "/2017/02/select-myazurermsubscription/"
-description: "I have multiple Azure subscriptions linked to my account, so anytime I connect to Azure in PowerShell I have to make sure i am working in the right co..."
-author: "Alex Verboon"
+- /2017/02/select-myazurermsubscription/
+description: I have multiple Azure subscriptions linked to my account, so anytime
+  I connect to Azure in PowerShell I have to make sure i am working in the right co...
+author: Alex Verboon
 tags:
-  - azure
-  - powershell
+- azure
+- PowerShell
 categories:
-  - azure
-  - powerpoint-viewer-2010
-  - PowerShell
+- azure
+- powerpoint-viewer-2010
+- PowerShell
 ---
 I have multiple Azure subscriptions linked to my account, so anytime I connect to Azure in PowerShell I have to make sure i am working in the right context. To simplify this I wrote a little helper function called Select-MyAzureRmSubscription.
 

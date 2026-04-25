@@ -1,21 +1,22 @@
 ---
-title: "Windows 10 Upgrade Analytics &ndash; Notes and PowerShell snippets"
-layout: "post"
-date: 2016-10-03T22:55:04Z
-slug: "windows-10-upgrade-analytics-notes-and-powershell-snippets"
+title: Windows 10 Upgrade Analytics &ndash; Notes and PowerShell snippets
+layout: post
+date: '2016-10-03T22:55:04Z'
+slug: windows-10-upgrade-analytics-notes-and-powershell-snippets
 aliases:
-  - "/2016/10/windows-10-upgrade-analytics-notes-and-powershell-snippets/"
-description: "I am considering using the Windows 10 upgrade analytics for our Windows 10 project that we’ve just started just recently. Below you find some random n..."
-author: "Alex Verboon"
-image: "img/post-heroes/windows-10-upgrade-analytics-notes-and-powershell-snippets.png"
+- /2016/10/windows-10-upgrade-analytics-notes-and-powershell-snippets/
+description: I am considering using the Windows 10 upgrade analytics for our Windows
+  10 project that we’ve just started just recently. Below you find some random n...
+author: Alex Verboon
+image: img/post-heroes/windows-10-upgrade-analytics-notes-and-powershell-snippets.png
 tags:
-  - upgrade-analytics
-  - Windows
-  - PowerShell
+- upgrade-analytics
+- Windows
+- PowerShell
 categories:
-  - upgrade-analytics
-  - Windows
-  - PowerShell
+- upgrade-analytics
+- Windows
+- PowerShell
 ---
 I am considering using the Windows 10 upgrade analytics for our Windows 10 project that we’ve just started just recently. Below you find some random notes and references I have gathered during my exploration journey.
 

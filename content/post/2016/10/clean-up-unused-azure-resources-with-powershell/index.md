@@ -1,22 +1,23 @@
 ---
-title: "Clean up unused Azure Resources with PowerShell"
-layout: "post"
-date: 2016-10-02T00:25:26Z
-slug: "clean-up-unused-azure-resources-with-powershell"
+title: Clean up unused Azure Resources with PowerShell
+layout: post
+date: '2016-10-02T00:25:26Z'
+slug: clean-up-unused-azure-resources-with-powershell
 aliases:
-  - "/2016/10/clean-up-unused-azure-resources-with-powershell/"
-description: "Today when I opened my Azure portal I had a little surprise. The monthly MSDN subscription credit was much lower as I expected it to be. Did I eventua..."
-author: "Alex Verboon"
-image: "img/post-heroes/clean-up-unused-azure-resources-with-powershell.png"
+- /2016/10/clean-up-unused-azure-resources-with-powershell/
+description: Today when I opened my Azure portal I had a little surprise. The monthly
+  MSDN subscription credit was much lower as I expected it to be. Did I eventua...
+author: Alex Verboon
+image: img/post-heroes/clean-up-unused-azure-resources-with-powershell.png
 tags:
-  - azure
-  - azure-resource-manager
-  - blob
-  - storage
-  - PowerShell
+- azure
+- azure-resource-manager
+- blob
+- storage
+- PowerShell
 categories:
-  - azure
-  - PowerShell
+- azure
+- PowerShell
 ---
 Today when I opened my Azure portal I had a little surprise. The monthly MSDN subscription credit was much lower as I expected it to be. Did I eventually forget to turn off a virtual machine? Curious to find out where the cost had come from, I drilled into the subscription details and noticed that the higher costs had come from the Premium storage that I had used recently to deploy a virtual machine using an SSD disk  instead of a HDD disk. But still it wasn’t clear why just that one virtual machine would be that expensive, so i drilled into the premier storage account and noticed that there were several orphaned VHD disks there. A clean up was required.
 

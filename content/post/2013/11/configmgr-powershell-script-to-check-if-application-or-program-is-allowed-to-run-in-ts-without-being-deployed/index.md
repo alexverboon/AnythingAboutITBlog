@@ -1,22 +1,24 @@
 ---
-title: "ConfigMgr PowerShell Script to check if Application or Program is allowed to run in TS without being deployed"
-layout: "post"
-date: 2013-11-07T23:54:46Z
-slug: "configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed"
+title: ConfigMgr PowerShell Script to check if Application or Program is allowed to
+  run in TS without being deployed
+layout: post
+date: '2013-11-07T23:54:46Z'
+slug: configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed
 aliases:
-  - "/2013/11/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed/"
-description: "Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows..."
-author: "Alex Verboon"
-image: "img/post-heroes/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed.png"
+- /2013/11/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed/
+description: Kind of a long title for a blog post, but I could not come up with something
+  shorter to describe the content of this blog post. The below script shows...
+author: Alex Verboon
+image: img/post-heroes/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed.png
 tags:
-  - applications
-  - configmgr
-  - programs
-  - tasksequence-enabled
-  - PowerShell
+- applications
+- configmgr
+- programs
+- tasksequence-enabled
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows the status of the “**Allow this Application / program to be installed from the Application / program install task sequence action without being deployed”** setting. 
 

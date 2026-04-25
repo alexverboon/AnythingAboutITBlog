@@ -1,25 +1,26 @@
 ---
-title: "Using OpenSSH to access your Data @ Home"
-layout: "post"
-date: 2011-08-20T12:25:49Z
-slug: "using-openssh-to-access-your-data-home"
+title: Using OpenSSH to access your Data @ Home
+layout: post
+date: '2011-08-20T12:25:49Z'
+slug: using-openssh-to-access-your-data-home
 aliases:
-  - "/2011/08/using-openssh-to-access-your-data-home/"
-description: "Today I want to show you one of the many possibilities to access your data remotely that you have stored on your home PC or Server using [OpenSSH](htt..."
-author: "Alex Verboon"
-image: "img/post-heroes/using-openssh-to-access-your-data-home.png"
+- /2011/08/using-openssh-to-access-your-data-home/
+description: Today I want to show you one of the many possibilities to access your
+  data remotely that you have stored on your home PC or Server using [OpenSSH](htt...
+author: Alex Verboon
+image: img/post-heroes/using-openssh-to-access-your-data-home.png
 tags:
-  - copssh
-  - data
-  - dyndns
-  - openssh
-  - remote
-  - transfer
-  - winscp
-  - Windows
-  - Office
+- copssh
+- data
+- dyndns
+- openssh
+- remote
+- transfer
+- winscp
+- Windows
+- Office
 categories:
-  - openssh
+- openssh
 ---
 Today I want to show you one of the many possibilities to access your data remotely that you have stored on your home PC or Server using [OpenSSH](http://en.wikipedia.org/wiki/Secure_Shell). Before going into the details let’s have a short look at my setup. 
 

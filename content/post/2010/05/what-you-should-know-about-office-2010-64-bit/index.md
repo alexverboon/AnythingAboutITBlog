@@ -1,23 +1,24 @@
 ---
-title: "What you should know about Office 2010 64-bit"
-layout: "post"
-date: 2010-05-06T20:13:00Z
-slug: "what-you-should-know-about-office-2010-64-bit"
+title: What you should know about Office 2010 64-bit
+layout: post
+date: '2010-05-06T20:13:00Z'
+slug: what-you-should-know-about-office-2010-64-bit
 aliases:
-  - "/2010/05/what-you-should-know-about-office-2010-64-bit/"
-description: "If you are in the process of deciding whether to deploy Office 2010 32-bit or 64-bit, I recommend to read through the following content. Note that Mic..."
-author: "Alex Verboon"
+- /2010/05/what-you-should-know-about-office-2010-64-bit/
+description: If you are in the process of deciding whether to deploy Office 2010 32-bit
+  or 64-bit, I recommend to read through the following content. Note that Mic...
+author: Alex Verboon
 tags:
-  - 64-bit
-  - compatibility
-  - Windows
-  - Office
+- 64-bit
+- compatibility
+- Windows
+- Office
 categories:
-  - 64-bit
-  - compatibility
-  - reading
-  - Windows
-  - Office
+- 64-bit
+- compatibility
+- reading
+- Windows
+- Office
 ---
 If you are in the process of deciding whether to deploy Office 2010 32-bit or 64-bit, I recommend to read through the following content. Note that Microsoft recommends installing Office 32 Bit even on Windows 7 64 bit. 
 

@@ -1,23 +1,24 @@
 ---
-title: "ConfigMgr 2012 Script to retrieve source path locations"
-layout: "post"
-date: 2013-07-28T14:16:44Z
-slug: "configmgr-2012-script-to-retrieve-source-path-locations"
+title: ConfigMgr 2012 Script to retrieve source path locations
+layout: post
+date: '2013-07-28T14:16:44Z'
+slug: configmgr-2012-script-to-retrieve-source-path-locations
 aliases:
-  - "/2013/07/configmgr-2012-script-to-retrieve-source-path-locations/"
-description: "Here’s a PowerShell script we recently wrote to show the source path location for all the content that we put into ConfigMgr. The Script lists all the..."
-author: "Alex Verboon"
-image: "img/post-heroes/configmgr-2012-script-to-retrieve-source-path-locations.png"
+- /2013/07/configmgr-2012-script-to-retrieve-source-path-locations/
+description: Here’s a PowerShell script we recently wrote to show the source path
+  location for all the content that we put into ConfigMgr. The Script lists all the...
+author: Alex Verboon
+image: img/post-heroes/configmgr-2012-script-to-retrieve-source-path-locations.png
 tags:
-  - configmgr
-  - configuration-manager
-  - content
-  - source-path
-  - PowerShell
+- configmgr
+- configuration-manager
+- content
+- source-path
+- PowerShell
 categories:
-  - configmgr
-  - sccm-2012
-  - PowerShell
+- configmgr
+- sccm-2012
+- PowerShell
 ---
 Here’s a PowerShell script we recently wrote to show the source path location for all the content that we put into ConfigMgr. The Script lists all the content source paths for the following CM objects. 
 

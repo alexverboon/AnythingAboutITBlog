@@ -1,18 +1,19 @@
 ---
-title: "PowerShell - Get Stock Quote Information"
-layout: "post"
-date: 2013-12-15T13:29:17Z
-slug: "powershell-get-stock-quote-information"
+title: PowerShell - Get Stock Quote Information
+layout: post
+date: '2013-12-15T13:29:17Z'
+slug: powershell-get-stock-quote-information
 aliases:
-  - "/2013/12/powershell-get-stock-quote-information/"
-description: "The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. ``` <# .Synopsis Retrieve stock information..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-get-stock-quote-information.png"
+- /2013/12/powershell-get-stock-quote-information/
+description: The below script makes use of a webservice hosted by webserviceX.net
+  and provides stock quote information. ``` <# .Synopsis Retrieve stock information...
+author: Alex Verboon
+image: img/post-heroes/powershell-get-stock-quote-information.png
 tags:
-  - stockquote
-  - PowerShell
+- stockquote
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. 
 

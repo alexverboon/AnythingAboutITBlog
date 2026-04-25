@@ -1,21 +1,22 @@
 ---
-title: "ToolTip: Office 2010 Resource Kit Technical Library in Compiled Help format"
-layout: "post"
-date: 2011-02-01T19:10:42Z
-slug: "tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format"
+title: 'ToolTip: Office 2010 Resource Kit Technical Library in Compiled Help format'
+layout: post
+date: '2011-02-01T19:10:42Z'
+slug: tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format
 aliases:
-  - "/2011/02/tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format/"
-description: "For those that frequently need access to the Office 2010 Resource Kit, here’s an offline version available as downloadable CHM file. Download from [he..."
-author: "Alex Verboon"
+- /2011/02/tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format/
+description: For those that frequently need access to the Office 2010 Resource Kit,
+  here’s an offline version available as downloadable CHM file. Download from [he...
+author: Alex Verboon
 tags:
-  - help
-  - resource-kit
-  - Office
+- help
+- resource-kit
+- Office
 categories:
-  - resource-kit
-  - tip
-  - tools
-  - Office
+- resource-kit
+- tip
+- tools
+- Office
 ---
 For those that frequently need access to the Office 2010 Resource Kit, here’s an offline version available as downloadable CHM file. Download from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=e6dcc787-4653-49da-aeef-564a64dd4ac5)
 

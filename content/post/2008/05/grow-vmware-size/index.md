@@ -1,20 +1,21 @@
 ---
-title: "Grow vmware size"
-layout: "post"
-date: 2008-05-10T09:38:00Z
-slug: "grow-vmware-size"
+title: Grow vmware size
+layout: post
+date: '2008-05-10T09:38:00Z'
+slug: grow-vmware-size
 aliases:
-  - "/2008/05/grow-vmware-size/"
-description: "Today i ran out of diskspace on one of my systems that runs within a vmware session. The system disk only had 10 GB and I needed to add another 10 GB...."
-author: "Alex Verboon"
+- /2008/05/grow-vmware-size/
+description: Today i ran out of diskspace on one of my systems that runs within a
+  vmware session. The system disk only had 10 GB and I needed to add another 10 GB....
+author: Alex Verboon
 tags:
-  - virtual
-  - vmware
-  - Windows
-  - WinPE
+- virtual
+- vmware
+- Windows
+- WinPE
 categories:
-  - virtualization
-  - WinPE
+- virtualization
+- WinPE
 ---
 Today i ran out of diskspace on one of my systems that runs within a vmware session. The system disk only had 10 GB and I needed to add another 10 GB.
 

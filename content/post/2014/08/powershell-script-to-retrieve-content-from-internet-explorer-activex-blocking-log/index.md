@@ -1,20 +1,22 @@
 ---
-title: "PowerShell Script to retrieve content from Internet Explorer ActiveX blocking log"
-layout: "post"
-date: 2014-08-13T23:12:50Z
-slug: "powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log"
+title: PowerShell Script to retrieve content from Internet Explorer ActiveX blocking
+  log
+layout: post
+date: '2014-08-13T23:12:50Z'
+slug: powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log
 aliases:
-  - "/2014/08/powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log/"
-description: "In preparation of the Internet [Explorer out of date ActiveX control blocking](http://technet.microsoft.com/en-us/ie/dn798785.aspx) activities I wrote..."
-author: "Alex Verboon"
+- /2014/08/powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log/
+description: In preparation of the Internet [Explorer out of date ActiveX control
+  blocking](http://technet.microsoft.com/en-us/ie/dn798785.aspx) activities I wrote...
+author: Alex Verboon
 tags:
-  - activex
-  - internet-explorer
-  - Windows
-  - PowerShell
+- activex
+- internet-explorer
+- Windows
+- PowerShell
 categories:
-  - internet-explorer
-  - PowerShell
+- internet-explorer
+- PowerShell
 ---
 In preparation of the Internet [Explorer out of date ActiveX control blocking](http://technet.microsoft.com/en-us/ie/dn798785.aspx) activities I wrote the below script that retrieves the content of the log stored under LOCALAPPDATA%\Microsoft\Internet Explorer\AuditMode\VersionAuditLog.csv
 

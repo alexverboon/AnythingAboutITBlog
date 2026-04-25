@@ -1,25 +1,26 @@
 ---
-title: "Office Communicator&ndash;Do Not Disturb"
-layout: "post"
-date: 2011-04-27T06:15:17Z
-slug: "office-communicatordo-not-disturb"
+title: Office Communicator&ndash;Do Not Disturb
+layout: post
+date: '2011-04-27T06:15:17Z'
+slug: office-communicatordo-not-disturb
 aliases:
-  - "/2011/04/office-communicatordo-not-disturb/"
-description: "Nowadays most enterprises use some sort of instant messaging solution like Jabber or Microsoft Office Communicator which now is called Microsoft Lync...."
-author: "Alex Verboon"
-image: "img/post-heroes/office-communicatordo-not-disturb.png"
+- /2011/04/office-communicatordo-not-disturb/
+description: Nowadays most enterprises use some sort of instant messaging solution
+  like Jabber or Microsoft Office Communicator which now is called Microsoft Lync....
+author: Alex Verboon
+image: img/post-heroes/office-communicatordo-not-disturb.png
 tags:
-  - do-not-disturb
-  - im
-  - instant-messaging
-  - lync
-  - oc
-  - office-communicator
-  - Office
+- do-not-disturb
+- im
+- instant-messaging
+- lync
+- oc
+- office-communicator
+- Office
 categories:
-  - office-communicator
-  - tip
-  - Office
+- office-communicator
+- tip
+- Office
 ---
 Nowadays most enterprises use some sort of instant messaging solution like Jabber or Microsoft Office Communicator which now is called Microsoft Lync. 
 

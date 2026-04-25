@@ -1,1 +1,0 @@
-Just found out that Microsoft has released MDT 2010 AND AIK 2.0 BETA on Microsoft Connect. So now we cannot only test Windows 7 BETA but we can also start looking at it's deployment.

@@ -1,21 +1,22 @@
 ---
-title: "Creating Group Policy Reports with PowerShell"
-layout: "post"
-date: 2010-10-03T19:14:43Z
-slug: "creating-group-policy-reports-with-powershell"
+title: Creating Group Policy Reports with PowerShell
+layout: post
+date: '2010-10-03T19:14:43Z'
+slug: creating-group-policy-reports-with-powershell
 aliases:
-  - "/2010/10/creating-group-policy-reports-with-powershell/"
-description: "I’ve had this on my “must do some hands on” list for months, finally found some time to play a bit with the new [PowerShell Group Policy CmdLets](http..."
-author: "Alex Verboon"
-image: "img/post-heroes/creating-group-policy-reports-with-powershell.png"
+- /2010/10/creating-group-policy-reports-with-powershell/
+description: I’ve had this on my “must do some hands on” list for months, finally
+  found some time to play a bit with the new [PowerShell Group Policy CmdLets](http...
+author: Alex Verboon
+image: img/post-heroes/creating-group-policy-reports-with-powershell.png
 tags:
-  - group-policy
-  - Windows
-  - PowerShell
+- group-policy
+- Windows
+- PowerShell
 categories:
-  - group-policy
-  - Windows
-  - PowerShell
+- group-policy
+- Windows
+- PowerShell
 ---
 I’ve had this on my “must do some hands on” list for months, finally found some time to play a bit with the new [PowerShell Group Policy CmdLets](http://technet.microsoft.com/en-us/library/ee461027.aspx) that where introduced with Windows 7. For today i decided to work with the [Get-GPO](http://technet.microsoft.com/en-us/library/ee461059.aspx) and the [Get-GPOReport](http://technet.microsoft.com/en-us/library/ee461057.aspx) CmdLets.
 

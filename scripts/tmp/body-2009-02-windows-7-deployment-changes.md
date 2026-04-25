@@ -1,1 +1,0 @@
-Those looking at Windows 7 deployment read the “[Windows 7 Deployment Changes](http://blogs.technet.com/windowssystemdeployment/archive/2009/01/20/windows-7-deployment-changes.aspx)” article on the [Windows System Deployment Blog](http://blogs.technet.com/windowssystemdeployment/default.aspx).

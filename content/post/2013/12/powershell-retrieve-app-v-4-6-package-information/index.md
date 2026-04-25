@@ -1,23 +1,24 @@
 ---
-title: "PowerShell - Retrieve App-V 4.6 Package Information"
-layout: "post"
-date: 2013-12-02T21:44:12Z
-slug: "powershell-retrieve-app-v-4-6-package-information"
+title: PowerShell - Retrieve App-V 4.6 Package Information
+layout: post
+date: '2013-12-02T21:44:12Z'
+slug: powershell-retrieve-app-v-4-6-package-information
 aliases:
-  - "/2013/12/powershell-retrieve-app-v-4-6-package-information/"
-description: "Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-retrieve-app-v-4-6-package-information.png"
+- /2013/12/powershell-retrieve-app-v-4-6-package-information/
+description: Today we’ve been looking at App-V 4.6 package settings before and after
+  migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App...
+author: Alex Verboon
+image: img/post-heroes/powershell-retrieve-app-v-4-6-package-information.png
 tags:
-  - app-v
-  - cachesize
-  - configmgr
-  - packages
-  - Windows
-  - PowerShell
+- app-v
+- cachesize
+- configmgr
+- packages
+- Windows
+- PowerShell
 categories:
-  - app-v
-  - PowerShell
+- app-v
+- PowerShell
 ---
 Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App-V mmc console 3x manually…..another script was born. 
 

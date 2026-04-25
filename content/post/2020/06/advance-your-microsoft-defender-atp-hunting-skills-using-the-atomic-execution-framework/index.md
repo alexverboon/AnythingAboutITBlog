@@ -1,26 +1,28 @@
 ---
-title: "Advance your Microsoft Defender ATP hunting skills using the Atomic execution framework"
-layout: "post"
-date: 2020-06-05T12:38:56Z
-slug: "advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework"
+title: Advance your Microsoft Defender ATP hunting skills using the Atomic execution
+  framework
+layout: post
+date: '2020-06-05T12:38:56Z'
+slug: advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework
 aliases:
-  - "/2020/06/advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework/"
-description: "Advance my hunting skills using MITRE ATT&CK and Microsoft Defender Advanced Threat Protection."
-author: "Alex Verboon"
-image: "img/post-heroes/advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework.png"
+- /2020/06/advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework/
+description: Advance my hunting skills using MITRE ATT&CK and Microsoft Defender Advanced
+  Threat Protection.
+author: Alex Verboon
+image: img/post-heroes/advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework.png
 tags:
-  - advanced-hunting
-  - defender-atp
-  - kql
-  - mitreattack
-  - tactics
-  - techniques
-  - Windows
-  - PowerShell
+- advanced-hunting
+- defender-atp
+- kql
+- mitreattack
+- tactics
+- techniques
+- Windows
+- PowerShell
 categories:
-  - defender-atp
-  - security
-  - PowerShell
+- defender-atp
+- security
+- PowerShell
 ---
 Hello everyone, during the past months I took a closer look at [MITRE ATT&CK ](#) to advance my hunting skills using [Microsoft Defender Advanced Threat Protection](#). For those not familiar with MITRE ATT&CK, in short, it is a knowledge base knowledge base of adversary tactics and techniques based on real-world observations.
 

@@ -1,25 +1,26 @@
 ---
-title: "Exporting Windows Driver Store Information into Excel"
-layout: "post"
-date: 2011-02-02T21:16:51Z
-slug: "exporting-windows-driver-store-information-into-excel"
+title: Exporting Windows Driver Store Information into Excel
+layout: post
+date: '2011-02-02T21:16:51Z'
+slug: exporting-windows-driver-store-information-into-excel
 aliases:
-  - "/2011/02/exporting-windows-driver-store-information-into-excel/"
-description: "To obtain detailed information about a particular driver that is prestaged within the Windows 7 driver store, you can run the following command. `Dism..."
-author: "Alex Verboon"
+- /2011/02/exporting-windows-driver-store-information-into-excel/
+description: To obtain detailed information about a particular driver that is prestaged
+  within the Windows 7 driver store, you can run the following command. `Dism...
+author: Alex Verboon
 tags:
-  - dism
-  - driver
-  - driver-store
-  - excel
-  - export
-  - Windows
-  - PowerShell
+- dism
+- driver
+- driver-store
+- excel
+- export
+- Windows
+- PowerShell
 categories:
-  - driver-store
-  - excel
-  - Windows
-  - PowerShell
+- driver-store
+- excel
+- Windows
+- PowerShell
 ---
 To obtain detailed information about a particular driver that is prestaged within the Windows 7 driver store, you can run the following command.
 

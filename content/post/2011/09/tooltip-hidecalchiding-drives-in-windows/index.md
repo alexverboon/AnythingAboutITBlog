@@ -1,31 +1,32 @@
 ---
-title: "ToolTip: HIDECALC &ndash; Hiding Drives in Windows"
-layout: "post"
-date: 2011-09-02T18:00:28Z
-slug: "tooltip-hidecalchiding-drives-in-windows"
+title: 'ToolTip: HIDECALC &ndash; Hiding Drives in Windows'
+layout: post
+date: '2011-09-02T18:00:28Z'
+slug: tooltip-hidecalchiding-drives-in-windows
 aliases:
-  - "/2011/09/tooltip-hidecalchiding-drives-in-windows/"
-description: "Want to make a drive disappear in Windows or prevent users from accessing it? then here’s the tool you need. **HIDECALC** allows you to define the dri..."
-author: "Alex Verboon"
-image: "img/post-heroes/tooltip-hidecalchiding-drives-in-windows.png"
+- /2011/09/tooltip-hidecalchiding-drives-in-windows/
+description: Want to make a drive disappear in Windows or prevent users from accessing
+  it? then here’s the tool you need. **HIDECALC** allows you to define the dri...
+author: Alex Verboon
+image: img/post-heroes/tooltip-hidecalchiding-drives-in-windows.png
 tags:
-  - access
-  - admx
-  - drive-letter
-  - drives
-  - explorer
-  - hide
-  - registry
-  - terminal-server
-  - windows
-  - PowerShell
+- access
+- admx
+- drive-letter
+- drives
+- explorer
+- hide
+- registry
+- terminal-server
+- windows
+- PowerShell
 categories:
-  - explorer
-  - gpo
-  - tip
-  - tools
-  - windows
-  - PowerShell
+- explorer
+- gpo
+- tip
+- tools
+- windows
+- PowerShell
 ---
 Want to make a drive disappear in Windows or prevent users from accessing it? then here’s the tool you need. **HIDECALC** allows you to define the drives to hide or prevent access to. HIDECALC does not apply the change on the system itself, but provides various options for exporting the settings into the following formats:
 

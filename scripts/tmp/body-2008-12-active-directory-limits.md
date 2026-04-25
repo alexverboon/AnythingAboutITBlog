@@ -1,1 +1,0 @@
-Interesting in knowing how many objects you can create within AD ? how deep your OU structure can be ? Then read "[Active Directory Maximum Limits](http://technet.microsoft.com/en-us/library/cc756101.aspx)".

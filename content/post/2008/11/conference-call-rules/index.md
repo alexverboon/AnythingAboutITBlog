@@ -1,18 +1,19 @@
 ---
-title: "Conference Call Rules"
-layout: "post"
-date: 2008-11-12T21:38:04Z
-slug: "conference-call-rules"
+title: Conference Call Rules
+layout: post
+date: '2008-11-12T21:38:04Z'
+slug: conference-call-rules
 aliases:
-  - "/2008/11/conference-call-rules/"
-description: "As part of my job i am joining conference calls quite frequently, although whenever i can I stay away from them as mostly they aren't productive, espe..."
-author: "Alex Verboon"
+- /2008/11/conference-call-rules/
+description: As part of my job i am joining conference calls quite frequently, although
+  whenever i can I stay away from them as mostly they aren't productive, espe...
+author: Alex Verboon
 tags:
-  - conference-call
-  - phone
-  - Office
+- conference-call
+- phone
+- Office
 categories:
-  - tip
+- tip
 ---
 As part of my job i am joining conference calls quite frequently, although whenever i can I stay away from them as mostly they aren't productive, especially when there is more than 5 people in a call, as mostly you have 3 people having a dialogue and the rest stays quiet anyway even after the call ends :-)
 

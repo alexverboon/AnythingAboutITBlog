@@ -1,20 +1,21 @@
 ---
-title: "Group Policy Settings in Windows 10 Build 10.0.10130"
-layout: "post"
-date: 2015-06-05T12:25:54Z
-slug: "group-policy-settings-in-windows-10-build-10-0-10130"
+title: Group Policy Settings in Windows 10 Build 10.0.10130
+layout: post
+date: '2015-06-05T12:25:54Z'
+slug: group-policy-settings-in-windows-10-build-10-0-10130
 aliases:
-  - "/2015/06/group-policy-settings-in-windows-10-build-10-0-10130/"
-description: "Windows 10 build 10.0.10130 brought a couple more new Group Policy settings, here they are: **Location** **Setting** **Description** Computer Configur..."
-author: "Alex Verboon"
+- /2015/06/group-policy-settings-in-windows-10-build-10-0-10130/
+description: 'Windows 10 build 10.0.10130 brought a couple more new Group Policy settings,
+  here they are: **Location** **Setting** **Description** Computer Configur...'
+author: Alex Verboon
 tags:
-  - group-policy
-  - Windows
-  - PowerShell
+- group-policy
+- Windows
+- PowerShell
 categories:
-  - group-policy
-  - Windows
-  - PowerShell
+- group-policy
+- Windows
+- PowerShell
 ---
 Windows 10 build 10.0.10130 brought a couple more new Group Policy settings, here they are:
 

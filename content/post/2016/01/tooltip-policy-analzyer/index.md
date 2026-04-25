@@ -1,22 +1,23 @@
 ---
-title: "ToolTip: Policy Analyzer"
-layout: "post"
-date: 2016-01-30T15:27:20Z
-slug: "tooltip-policy-analzyer"
+title: 'ToolTip: Policy Analyzer'
+layout: post
+date: '2016-01-30T15:27:20Z'
+slug: tooltip-policy-analzyer
 aliases:
-  - "/2016/01/tooltip-policy-analzyer/"
-description: "Aaron Margosis recently [released Policy Analyzer](http://blogs.technet.com/b/secguide/archive/2016/01/22/new-tool-policy-analyzer.aspx), a utility fo..."
-author: "Alex Verboon"
-image: "img/post-heroes/tooltip-policy-analzyer.png"
+- /2016/01/tooltip-policy-analzyer/
+description: Aaron Margosis recently [released Policy Analyzer](http://blogs.technet.com/b/secguide/archive/2016/01/22/new-tool-policy-analyzer.aspx),
+  a utility fo...
+author: Alex Verboon
+image: img/post-heroes/tooltip-policy-analzyer.png
 tags:
-  - compare
-  - group-policy
-  - Windows
-  - PowerShell
+- compare
+- group-policy
+- Windows
+- PowerShell
 categories:
-  - group-policy
-  - Windows
-  - PowerShell
+- group-policy
+- Windows
+- PowerShell
 ---
 Aaron Margosis recently [released Policy Analyzer](http://blogs.technet.com/b/secguide/archive/2016/01/22/new-tool-policy-analyzer.aspx), a utility for analyzing and comparing sets of Group Policy Objects (GPOs). Here’s a brief description on how to use the tool to compare two Domain GPOs. 
 

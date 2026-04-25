@@ -1,28 +1,29 @@
 ---
-title: "Have you checked your Group Policy Health lately?"
-layout: "post"
-date: 2011-07-23T20:19:35Z
-slug: "have-you-checked-your-group-policy-health-lately"
+title: Have you checked your Group Policy Health lately?
+layout: post
+date: '2011-07-23T20:19:35Z'
+slug: have-you-checked-your-group-policy-health-lately
 aliases:
-  - "/2011/07/have-you-checked-your-group-policy-health-lately/"
-description: "Group Policies are an essential part of every Windows Client infrastructure and it’s therefore critical to regularly spend some effort to ensure that ..."
-author: "Alex Verboon"
-image: "img/post-heroes/have-you-checked-your-group-policy-health-lately.png"
+- /2011/07/have-you-checked-your-group-policy-health-lately/
+description: Group Policies are an essential part of every Windows Client infrastructure
+  and it’s therefore critical to regularly spend some effort to ensure that ...
+author: Alex Verboon
+image: img/post-heroes/have-you-checked-your-group-policy-health-lately.png
 tags:
-  - active-directory
-  - gpo
-  - gpotool
-  - group-policy
-  - health
-  - infrastructure
-  - Windows
-  - PowerShell
+- active-directory
+- gpo
+- gpotool
+- group-policy
+- health
+- infrastructure
+- Windows
+- PowerShell
 categories:
-  - active-directory
-  - gpo
-  - group-policy
-  - tools
-  - PowerShell
+- active-directory
+- gpo
+- group-policy
+- tools
+- PowerShell
 ---
 Group Policies are an essential part of every Windows Client infrastructure and it’s therefore critical to regularly spend some effort to ensure that things are in a healthy state. I would define a healthy Group Policy infrastructure as following:
 

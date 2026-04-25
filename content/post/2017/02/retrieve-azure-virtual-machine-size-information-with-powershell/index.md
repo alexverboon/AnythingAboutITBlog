@@ -1,22 +1,23 @@
 ---
-title: "Retrieve Azure Virtual Machine Size information with PowerShell"
-layout: "post"
-date: 2017-02-07T19:46:07Z
-slug: "retrieve-azure-virtual-machine-size-information-with-powershell"
+title: Retrieve Azure Virtual Machine Size information with PowerShell
+layout: post
+date: '2017-02-07T19:46:07Z'
+slug: retrieve-azure-virtual-machine-size-information-with-powershell
 aliases:
-  - "/2017/02/retrieve-azure-virtual-machine-size-information-with-powershell/"
-description: "One important topic to consider when deploying virtual machines in Azure is the [size](https://azure.microsoft.com/en-us/pricing/details/cloud-service..."
-author: "Alex Verboon"
+- /2017/02/retrieve-azure-virtual-machine-size-information-with-powershell/
+description: One important topic to consider when deploying virtual machines in Azure
+  is the [size](https://azure.microsoft.com/en-us/pricing/details/cloud-service...
+author: Alex Verboon
 tags:
-  - azure
-  - azure-storage
-  - compute
-  - pricing
-  - size
-  - PowerShell
+- azure
+- azure-storage
+- compute
+- pricing
+- size
+- PowerShell
 categories:
-  - azure
-  - PowerShell
+- azure
+- PowerShell
 ---
 One important topic to consider when deploying virtual machines in Azure is the [size](https://azure.microsoft.com/en-us/pricing/details/cloud-services/) of the virtual machine as this affects the pricing, but beware that not only virtual machine sizing has a pricing impact other factors like [storage](https://azure.microsoft.com/en-us/pricing/details/storage/disks/) and optional features like [IP address options](https://azure.microsoft.com/en-in/pricing/details/ip-addresses/) add to the costs as well.
 

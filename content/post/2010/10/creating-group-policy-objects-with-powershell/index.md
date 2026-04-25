@@ -1,22 +1,22 @@
 ---
-title: "Creating Group Policy Objects with PowerShell"
-layout: "post"
-date: 2010-10-16T16:52:03Z
-slug: "creating-group-policy-objects-with-powershell"
+title: Creating Group Policy Objects with PowerShell
+layout: post
+date: '2010-10-16T16:52:03Z'
+slug: creating-group-policy-objects-with-powershell
 aliases:
-  - "/2010/10/creating-group-policy-objects-with-powershell/"
-description: "In my previous post I wrote about how to [create Group Policy reports](https://www.verboon.info/index.php/2010/10/creating-group-policy-reports-with-p..."
-author: "Alex Verboon"
-image: "img/post-heroes/creating-group-policy-objects-with-powershell.png"
+- /2010/10/creating-group-policy-objects-with-powershell/
+description: In my previous post I wrote about how to [create Group Policy reports](https://www.verboon.info/index.php/2010/10/creating-group-policy-reports-with-p...
+author: Alex Verboon
+image: img/post-heroes/creating-group-policy-objects-with-powershell.png
 tags:
-  - gpo
-  - Windows
-  - PowerShell
+- gpo
+- Windows
+- PowerShell
 categories:
-  - gpo
-  - group-policy
-  - Windows
-  - PowerShell
+- gpo
+- group-policy
+- Windows
+- PowerShell
 ---
 In my previous post I wrote about how to [create Group Policy reports](https://www.verboon.info/index.php/2010/10/creating-group-policy-reports-with-powershell/) using the Group Policy PowerShell CmdLets. Today I want to share with you my first hands-on experiences with creating a Group Policy using PowerShell.
 

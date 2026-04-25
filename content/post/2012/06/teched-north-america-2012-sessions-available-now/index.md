@@ -1,23 +1,24 @@
 ---
-title: "TechEd North America 2012 Sessions available now"
-layout: "post"
-date: 2012-06-17T13:09:42Z
-slug: "teched-north-america-2012-sessions-available-now"
+title: TechEd North America 2012 Sessions available now
+layout: post
+date: '2012-06-17T13:09:42Z'
+slug: teched-north-america-2012-sessions-available-now
 aliases:
-  - "/2012/06/teched-north-america-2012-sessions-available-now/"
-description: "Last week TechEd 2012 North America took place in Orlando so now there’s a wealth of webcasts available on the TechEd 2012 [website](http://northameri..."
-author: "Alex Verboon"
+- /2012/06/teched-north-america-2012-sessions-available-now/
+description: Last week TechEd 2012 North America took place in Orlando so now there’s
+  a wealth of webcasts available on the TechEd 2012 [website](http://northameri...
+author: Alex Verboon
 tags:
-  - download
-  - sessions
-  - teched-2012
-  - webcasts
-  - Windows
-  - PowerShell
+- download
+- sessions
+- teched-2012
+- webcasts
+- Windows
+- PowerShell
 categories:
-  - teched
-  - Windows
-  - PowerShell
+- teched
+- Windows
+- PowerShell
 ---
 Last week TechEd 2012 North America took place in Orlando so now there’s a wealth of webcasts available on the TechEd 2012 [website](http://northamerica.msteched.com/) where you can register yourself to get access to all content (even if you didn't attend the event) or if you like to download the sessions and watch them offline I recommend reading [TechEd 2012 Orlando Download Sessions – Offline Viewing](http://blog.scomfaq.ch/2012/06/13/teched-2012-orlando-download-sessions-offline-viewing/) posted by Stefan Roth who blogs at SCOMfaq.ch. 
 

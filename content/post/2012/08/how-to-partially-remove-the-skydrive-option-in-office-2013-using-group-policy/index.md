@@ -1,21 +1,22 @@
 ---
-title: "How to partially remove the SkyDrive option in Office 2013 using Group Policy"
-layout: "post"
-date: 2012-08-02T19:05:46Z
-slug: "how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy"
+title: How to partially remove the SkyDrive option in Office 2013 using Group Policy
+layout: post
+date: '2012-08-02T19:05:46Z'
+slug: how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy
 aliases:
-  - "/2012/08/how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy/"
-description: "If you have tried out the Office 2013 Preview you probably noticed the SkyDrive integration within the File Open and Save dialogs in Word, Excel and o..."
-author: "Alex Verboon"
+- /2012/08/how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy/
+description: If you have tried out the Office 2013 Preview you probably noticed the
+  SkyDrive integration within the File Open and Save dialogs in Word, Excel and o...
+author: Alex Verboon
 tags:
-  - gpo
-  - group-policy
-  - skydrive
-  - Office
+- gpo
+- group-policy
+- skydrive
+- Office
 categories:
-  - group-policy
-  - skydrive
-  - Office
+- group-policy
+- skydrive
+- Office
 ---
 If you have tried out the Office 2013 Preview you probably noticed the SkyDrive integration within the File Open and Save dialogs in Word, Excel and other Office Applications. Personally have started using SkyDrive all the time, but I can imagine that some companies rather do not want to see their users storing sensitive data on SkyDrive. So I wondered if this option could be disabled.
 

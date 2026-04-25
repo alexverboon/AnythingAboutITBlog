@@ -1,1 +1,0 @@
-Learn more about Windows Server 2008 R2. All documents can be downloaded from [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=079eb880-6e15-4381-9edf-53cfaff3ab02)

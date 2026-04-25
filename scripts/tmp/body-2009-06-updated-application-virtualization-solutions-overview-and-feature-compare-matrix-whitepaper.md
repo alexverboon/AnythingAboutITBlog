@@ -1,1 +1,0 @@
-[Ruben Spruijt](http://www.brianmadden.com/members/rspruijt/default.aspx) has released an update of the Application Virtualization Solutions Overview and Feature Compare matrix whitepaper. Read [more](http://www.brianmadden.com/blogs/rubenspruijt/archive/2009/06/28/application-virtualization-solutions-overview-and-feature-compare-matrix-v2-2.aspx)

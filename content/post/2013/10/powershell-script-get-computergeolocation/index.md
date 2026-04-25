@@ -1,28 +1,29 @@
 ---
-title: "PowerShell Script - Get-ComputerGeolocation"
-layout: "post"
-date: 2013-10-27T13:35:01Z
-slug: "powershell-script-get-computergeolocation"
+title: PowerShell Script - Get-ComputerGeolocation
+layout: post
+date: '2013-10-27T13:35:01Z'
+slug: powershell-script-get-computergeolocation
 aliases:
-  - "/2013/10/powershell-script-get-computergeolocation/"
-description: "**28-OCT-2013 Update**: I have updated the script to retry when the status of the location provider is in initializing mode. The below script uses the..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-script-get-computergeolocation.png"
+- /2013/10/powershell-script-get-computergeolocation/
+description: '**28-OCT-2013 Update**: I have updated the script to retry when the
+  status of the location provider is in initializing mode. The below script uses the...'
+author: Alex Verboon
+image: img/post-heroes/powershell-script-get-computergeolocation.png
 tags:
-  - google-geocoding
-  - gps
-  - latitude
-  - longitude
-  - sensor
-  - wi-fi
-  - windows-location-platform
-  - windows-location-provider
-  - Windows
-  - PowerShell
+- google-geocoding
+- gps
+- latitude
+- longitude
+- sensor
+- wi-fi
+- windows-location-platform
+- windows-location-provider
+- Windows
+- PowerShell
 categories:
-  - windows-location-provider
-  - Windows
-  - PowerShell
+- windows-location-provider
+- Windows
+- PowerShell
 ---
 **28-OCT-2013 Update**: I have updated the script to retry when the status of the location provider is in initializing mode. 
 

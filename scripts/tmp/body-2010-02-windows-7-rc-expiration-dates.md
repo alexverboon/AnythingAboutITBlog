@@ -1,1 +1,0 @@
-if you are still running Windows 7 RC you might have noticed the expiration notification, if not then be aware that as of March 1st 2010 your client will automatically reboot every 2 hours. Conclusion, it’s about time to move to RTM. More information [here](http://support.microsoft.com/default.aspx/kb/971767)

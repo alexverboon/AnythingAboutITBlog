@@ -1,22 +1,23 @@
 ---
-title: "PowerShell - Using the WordPress Rest API"
-layout: "post"
-date: 2013-12-29T19:07:27Z
-slug: "powershell-using-the-wordpress-rest-api"
+title: PowerShell - Using the WordPress Rest API
+layout: post
+date: '2013-12-29T19:07:27Z'
+slug: powershell-using-the-wordpress-rest-api
 aliases:
-  - "/2013/12/powershell-using-the-wordpress-rest-api/"
-description: "I just found out that meanwhile (since October last year) the Rest API for wordpress now also works on self-hosted wordpress sites. So i can now acces..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-using-the-wordpress-rest-api.png"
+- /2013/12/powershell-using-the-wordpress-rest-api/
+description: I just found out that meanwhile (since October last year) the Rest API
+  for wordpress now also works on self-hosted wordpress sites. So i can now acces...
+author: Alex Verboon
+image: img/post-heroes/powershell-using-the-wordpress-rest-api.png
 tags:
-  - jetpack
-  - json
-  - rest-api
-  - wordpress-2
-  - PowerShell
+- jetpack
+- json
+- rest-api
+- wordpress-2
+- PowerShell
 categories:
-  - wordpress
-  - PowerShell
+- wordpress
+- PowerShell
 ---
 I just found out that meanwhile (since October last year) the Rest API for wordpress now also works on self-hosted wordpress sites. So i can now access the content of my blog through PowerShell. 
 

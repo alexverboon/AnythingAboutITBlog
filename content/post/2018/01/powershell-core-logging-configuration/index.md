@@ -1,20 +1,21 @@
 ---
-title: "PowerShell Core logging configuration"
-layout: "post"
-date: 2018-01-16T22:41:16Z
-slug: "powershell-core-logging-configuration"
+title: PowerShell Core logging configuration
+layout: post
+date: '2018-01-16T22:41:16Z'
+slug: powershell-core-logging-configuration
 aliases:
-  - "/2018/01/powershell-core-logging-configuration/"
-description: "After having browsed through the PowerShell code a bit, found some references as to how to configure PowerShell Core logging options through GPO or vi..."
-author: "Alex Verboon"
+- /2018/01/powershell-core-logging-configuration/
+description: After having browsed through the PowerShell code a bit, found some references
+  as to how to configure PowerShell Core logging options through GPO or vi...
+author: Alex Verboon
 tags:
-  - group-policy
-  - logging
-  - powershellcore
-  - Windows
-  - PowerShell
+- group-policy
+- logging
+- powershellcore
+- Windows
+- PowerShell
 categories:
-  - PowerShell
+- PowerShell
 ---
 After having browsed through the PowerShell code a bit, found some references as to how to configure PowerShell Core logging options through GPO or via a configuration file.
 

@@ -1,18 +1,19 @@
 ---
-title: "Don't send outlook messages without subject"
-layout: "post"
-date: 2009-01-13T19:13:36Z
-slug: "dont-send-outlook-messages-without-subject"
+title: Don't send outlook messages without subject
+layout: post
+date: '2009-01-13T19:13:36Z'
+slug: dont-send-outlook-messages-without-subject
 aliases:
-  - "/2009/01/dont-send-outlook-messages-without-subject/"
-description: "This probably has happened to each of us, writing an e-mail, then added the recipients and then clicked the send button, and as you clicked it, you no..."
-author: "Alex Verboon"
+- /2009/01/dont-send-outlook-messages-without-subject/
+description: This probably has happened to each of us, writing an e-mail, then added
+  the recipients and then clicked the send button, and as you clicked it, you no...
+author: Alex Verboon
 tags:
-  - outlook
-  - Office
+- outlook
+- Office
 categories:
-  - tip
-  - Office
+- tip
+- Office
 ---
 This probably has happened to each of us, writing an e-mail, then added the recipients and then clicked the send button, and as you clicked it, you notice that you forgot to fill in the subject.
 

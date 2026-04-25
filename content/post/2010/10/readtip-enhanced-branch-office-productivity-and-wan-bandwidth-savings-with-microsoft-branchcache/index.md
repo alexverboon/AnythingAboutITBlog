@@ -1,25 +1,27 @@
 ---
-title: "ReadTip: Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache"
-layout: "post"
-date: 2010-10-14T20:09:32Z
-slug: "readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache"
+title: 'ReadTip: Enhanced Branch Office Productivity and WAN Bandwidth Savings with
+  Microsoft BranchCache'
+layout: post
+date: '2010-10-14T20:09:32Z'
+slug: readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache
 aliases:
-  - "/2010/10/readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache/"
-description: "For those who are in the decision making process of using BranchCache, I strongly recommend to read the Enhanced Branch Office Productivity and WAN Ba..."
-author: "Alex Verboon"
+- /2010/10/readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache/
+description: For those who are in the decision making process of using BranchCache,
+  I strongly recommend to read the Enhanced Branch Office Productivity and WAN Ba...
+author: Alex Verboon
 tags:
-  - bandwidth
-  - branchcache
-  - server-2008-r2
-  - wan
-  - Windows
-  - Office
+- bandwidth
+- branchcache
+- server-2008-r2
+- wan
+- Windows
+- Office
 categories:
-  - branchcache
-  - reading
-  - windows-server-2008-r2
-  - Windows
-  - Office
+- branchcache
+- reading
+- windows-server-2008-r2
+- Windows
+- Office
 ---
 For those who are in the decision making process of using BranchCache, I strongly recommend to read the Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache Report from [Edison](http://www.theedison.com/). 
 

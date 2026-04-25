@@ -1,26 +1,27 @@
 ---
-title: "Deploying ConfigMgr Current Branch in Azure Dev Test Lab"
-layout: "post"
-date: 2017-02-10T21:36:02Z
-slug: "deploying-configmgr-current-branch-in-azure-dev-test-lab"
+title: Deploying ConfigMgr Current Branch in Azure Dev Test Lab
+layout: post
+date: '2017-02-10T21:36:02Z'
+slug: deploying-configmgr-current-branch-in-azure-dev-test-lab
 aliases:
-  - "/2017/02/deploying-configmgr-current-branch-in-azure-dev-test-lab/"
-description: "Remember the days when you spend hours if not days just to get a lab environment in place and any time you wanted to use the environment again, you sp..."
-author: "Alex Verboon"
+- /2017/02/deploying-configmgr-current-branch-in-azure-dev-test-lab/
+description: Remember the days when you spend hours if not days just to get a lab
+  environment in place and any time you wanted to use the environment again, you sp...
+author: Alex Verboon
 tags:
-  - azure
-  - azure-dev-test-lab
-  - cloud
-  - configmgr
-  - deployment
-  - lab-environment
-  - Windows
-  - PowerShell
+- azure
+- azure-dev-test-lab
+- cloud
+- configmgr
+- deployment
+- lab-environment
+- Windows
+- PowerShell
 categories:
-  - azure
-  - configmgr
-  - Windows
-  - PowerShell
+- azure
+- configmgr
+- Windows
+- PowerShell
 ---
 Remember the days when you spend hours if not days just to get a lab environment in place and any time you wanted to use the environment again, you spend another couple of hours to get It updated. About 3 years ago I started to make more use of Azure based compute to run my virtual machines, that I use for technology learning and research activities. Initially created the virtual machines through the portal, but then soon started to use Azure Resource Manager based provisioning techniques and PowerShell which speeded up provisioning times quite a bit.
 

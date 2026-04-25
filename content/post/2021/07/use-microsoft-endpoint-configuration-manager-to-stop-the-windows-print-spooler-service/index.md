@@ -1,25 +1,29 @@
 ---
-title: "Use Microsoft Endpoint Configuration Manager to stop the Windows Print Spooler Service"
-layout: "post"
-date: 2021-07-03T13:23:55Z
-slug: "use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service"
+title: Use Microsoft Endpoint Configuration Manager to stop the Windows Print Spooler
+  Service
+layout: post
+date: '2021-07-03T13:23:55Z'
+slug: use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service
 aliases:
-  - "/2021/07/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service/"
-description: "How to use Microsoft Endpoint Configuration Manager to identify and stop the Windows Print Spooler service to mitigate CVE-2021-34527."
-author: "Alex Verboon"
-image: "img/post-heroes/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service.png"
+- /2021/07/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service/
+description: How to use Microsoft Endpoint Configuration Manager to identify and stop
+  the Windows Print Spooler service to mitigate CVE-2021-34527.
+author: Alex Verboon
+image: img/post-heroes/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service.png
 tags:
-  - CVE-2021-34527
-  - DefenderforEndpoint
-  - MEMCM
-  - Security
-  - Vulnerability
-  - Windows
-  - PowerShell
+- CVE-2021-34527
+- DefenderforEndpoint
+- MEMCM
+- Security
+- Vulnerability
+- Windows
+- PowerShell
 categories:
   - Security
   - PowerShell
+  - Microsoft Defender XDR
 ---
+
 Hello there,
 
 I guess by now, everyone has heard of the Windows Print Spooler Remote Code Execution Vulnerability ([CVE-2021-34527](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527)). At this time Microsoft recommends disabling the Print Spooler service on domain controllers and on servers where it is not needed or to Disable inbound remote printing through Group Policy. In this short blog post I will demonstrate how you can use Microsoft Endpoint Configuration Manager to identify systems where the print spooler service is running and how to stop and disable the service.

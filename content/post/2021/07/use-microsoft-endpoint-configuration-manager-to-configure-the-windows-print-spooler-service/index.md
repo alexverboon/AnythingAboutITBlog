@@ -1,23 +1,25 @@
 ---
-title: "Use Microsoft Endpoint Configuration Manager to Configure the Windows Print Spooler Service"
-layout: "post"
-date: 2021-07-10T15:07:17Z
-slug: "use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service"
+title: Use Microsoft Endpoint Configuration Manager to Configure the Windows Print
+  Spooler Service
+layout: post
+date: '2021-07-10T15:07:17Z'
+slug: use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service
 aliases:
-  - "/2021/07/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service/"
-description: "How to use Microsoft Endpoint Configuration Manager and configuration baselines to ensure the Windows Print Spooler service remains stopped and disabled."
-author: "Alex Verboon"
-image: "img/post-heroes/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service.png"
+- /2021/07/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service/
+description: How to use Microsoft Endpoint Configuration Manager and configuration
+  baselines to ensure the Windows Print Spooler service remains stopped and disabled.
+author: Alex Verboon
+image: img/post-heroes/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service.png
 tags:
-  - ConfigMgr
-  - PrintNightMare
-  - PrintSpooler
-  - Security
-  - Windows
-  - PowerShell
+- ConfigMgr
+- PrintNightMare
+- PrintSpooler
+- Security
+- Windows
+- PowerShell
 categories:
-  - Security
-  - PowerShell
+- Security
+- PowerShell
 ---
 Hello there,
 

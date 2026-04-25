@@ -1,21 +1,22 @@
 ---
-title: "How to export third-party driver packages using PowerShell"
-layout: "post"
-date: 2014-04-04T19:43:09Z
-slug: "how-to-export-third-party-driver-packages-using-powershell"
+title: How to export third-party driver packages using PowerShell
+layout: post
+date: '2014-04-04T19:43:09Z'
+slug: how-to-export-third-party-driver-packages-using-powershell
 aliases:
-  - "/2014/04/how-to-export-third-party-driver-packages-using-powershell/"
-description: "Windows 8.1 Update introduces a new cmdlet that allows you to export third-party drivers that are located within the driver store of a Windows client...."
-author: "Alex Verboon"
-image: "img/post-heroes/how-to-export-third-party-driver-packages-using-powershell.png"
+- /2014/04/how-to-export-third-party-driver-packages-using-powershell/
+description: Windows 8.1 Update introduces a new cmdlet that allows you to export
+  third-party drivers that are located within the driver store of a Windows client....
+author: Alex Verboon
+image: img/post-heroes/how-to-export-third-party-driver-packages-using-powershell.png
 tags:
-  - dism
-  - windows-8-1-update
-  - Windows
-  - PowerShell
+- dism
+- windows-8-1-update
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 Windows 8.1 Update introduces a new cmdlet that allows you to export third-party drivers that are located within the driver store of a Windows client. 
 

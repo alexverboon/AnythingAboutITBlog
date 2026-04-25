@@ -1,22 +1,23 @@
 ---
-title: "PowerShell Script - Get-WinBuildInfo"
-layout: "post"
-date: 2016-11-12T16:19:36Z
-slug: "powershell-script-get-winbuildinfo"
+title: PowerShell Script - Get-WinBuildInfo
+layout: post
+date: '2016-11-12T16:19:36Z'
+slug: powershell-script-get-winbuildinfo
 aliases:
-  - "/2016/11/powershell-script-get-winbuildinfo/"
-description: "Here’s a script I wrote that retrieves all the Windows 10 build information, including Insider level when enabled. [ ![ss1](images/ss1_thumb.png) ](ht..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-script-get-winbuildinfo.png"
+- /2016/11/powershell-script-get-winbuildinfo/
+description: Here’s a script I wrote that retrieves all the Windows 10 build information,
+  including Insider level when enabled. [ ![ss1](images/ss1_thumb.png) ](ht...
+author: Alex Verboon
+image: img/post-heroes/powershell-script-get-winbuildinfo.png
 tags:
-  - branches
-  - builds
-  - insider
-  - Windows
-  - PowerShell
+- branches
+- builds
+- insider
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 Here’s a script I wrote that retrieves all the Windows 10 build information, including Insider level when enabled. 
 

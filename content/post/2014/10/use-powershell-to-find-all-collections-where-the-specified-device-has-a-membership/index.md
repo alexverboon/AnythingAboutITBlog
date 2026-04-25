@@ -1,21 +1,22 @@
 ---
-title: "Use PowerShell to find all collections where the specified device has a membership"
-layout: "post"
-date: 2014-10-14T18:44:28Z
-slug: "use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership"
+title: Use PowerShell to find all collections where the specified device has a membership
+layout: post
+date: '2014-10-14T18:44:28Z'
+slug: use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership
 aliases:
-  - "/2014/10/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership/"
-description: "Yesterday I deployed a computer with ConfigMgr and then wondered why it got certain software installed. And so another script was born. The Get-CMColl..."
-author: "Alex Verboon"
-image: "img/post-heroes/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership.png"
+- /2014/10/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership/
+description: Yesterday I deployed a computer with ConfigMgr and then wondered why
+  it got certain software installed. And so another script was born. The Get-CMColl...
+author: Alex Verboon
+image: img/post-heroes/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership.png
 tags:
-  - collections
-  - computername
-  - configmgr
-  - powershell
+- collections
+- computername
+- configmgr
+- PowerShell
 categories:
-  - configmgr
-  - PowerShell
+- configmgr
+- PowerShell
 ---
 Yesterday I deployed a computer with ConfigMgr and then wondered why it got certain software installed. And so another script was born.
 

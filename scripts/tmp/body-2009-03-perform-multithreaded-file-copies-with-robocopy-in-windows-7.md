@@ -1,1 +1,0 @@
-Read the TechNet article “[Perform Multithreaded File Copies with Robocopy in Windows](http://technet.microsoft.com/en-us/magazine/dd542631.aspx) 7”

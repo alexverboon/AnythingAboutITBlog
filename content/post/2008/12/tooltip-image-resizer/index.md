@@ -1,27 +1,28 @@
 ---
-title: "ToolTip - Image Resizer"
-layout: "post"
-date: 2008-12-29T14:00:50Z
-slug: "tooltip-image-resizer"
+title: ToolTip - Image Resizer
+layout: post
+date: '2008-12-29T14:00:50Z'
+slug: tooltip-image-resizer
 aliases:
-  - "/2008/12/tooltip-image-resizer/"
-description: "Just surfing a bit on the Internet, i get a Skype call from our friends who live in Perth Australia and asking me how to reduce the size of pictures b..."
-author: "Alex Verboon"
-image: "img/post-heroes/tooltip-image-resizer.png"
+- /2008/12/tooltip-image-resizer/
+description: Just surfing a bit on the Internet, i get a Skype call from our friends
+  who live in Perth Australia and asking me how to reduce the size of pictures b...
+author: Alex Verboon
+image: img/post-heroes/tooltip-image-resizer.png
 tags:
-  - picture
-  - resize
-  - tools
-  - utilities
-  - Windows
-  - Office
+- picture
+- resize
+- tools
+- utilities
+- Windows
+- Office
 categories:
-  - knowledge
-  - tip
-  - tools
-  - vista
-  - windows-xp
-  - Office
+- knowledge
+- tip
+- tools
+- vista
+- windows-xp
+- Office
 ---
 Just surfing a bit on the Internet, i get a Skype call from our friends who live in Perth Australia and asking me how to reduce the size of pictures before sending them via e-mail.
 

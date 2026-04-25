@@ -1,23 +1,24 @@
 ---
-title: "PowerShell Desired State Configuration - My first experiences"
-layout: "post"
-date: 2013-11-16T20:44:28Z
-slug: "powershell-desire-state-configuration-my-first-experiences"
+title: PowerShell Desired State Configuration - My first experiences
+layout: post
+date: '2013-11-16T20:44:28Z'
+slug: powershell-desire-state-configuration-my-first-experiences
 aliases:
-  - "/2013/11/powershell-desire-state-configuration-my-first-experiences/"
-description: "During the past weeks I have been reading and listening about PowerShell Desired State Configuration a new feature introduced with PowerShell 4.0 whic..."
-author: "Alex Verboon"
-image: "img/post-heroes/powershell-desire-state-configuration-my-first-experiences.png"
+- /2013/11/powershell-desire-state-configuration-my-first-experiences/
+description: During the past weeks I have been reading and listening about PowerShell
+  Desired State Configuration a new feature introduced with PowerShell 4.0 whic...
+author: Alex Verboon
+image: img/post-heroes/powershell-desire-state-configuration-my-first-experiences.png
 tags:
-  - applyandautocorrect
-  - desired-state-configuration
-  - dsc
-  - mof
-  - Windows
-  - PowerShell
+- applyandautocorrect
+- desired-state-configuration
+- dsc
+- mof
+- Windows
+- PowerShell
 categories:
-  - Windows
-  - PowerShell
+- Windows
+- PowerShell
 ---
 During the past weeks I have been reading and listening about PowerShell Desired State Configuration a new feature introduced with PowerShell 4.0 which ships with Windows 8.1 and Server 2012R2 but is also available for Windows 7 SP1 and Server 2008 R2 as part of the [Windows Management Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=40855)
 
