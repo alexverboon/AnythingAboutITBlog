@@ -13,12 +13,16 @@ tags:
   - automation
   - benchmark
   - cis-cat-pro
-  - powershell
   - vulnerability
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - automation
-  - powershell
   - security
+  - Windows
+  - PowerShell
+  - Office
 ---
 CIS-CAT stands for Center for internet Security Configuration Assessment Tool. The CIS-CAT tool is used to perform configuration and vulnerability assessments. The Pro version is only available to CIS members, however if you want to try out the software, you can download the CIS-CAT Lite version from here: [https://www.cisecurity.org/introducing-cis-cat-lite/](https://www.cisecurity.org/introducing-cis-cat-lite/) Note that the Lite version does not include the command line interface, so you won't be able to use the automation described in this blog post. But you're still welcome to continue reading this blog post. An overview of the CIS-CAT Pro can be found here: [https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/](https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/)
 

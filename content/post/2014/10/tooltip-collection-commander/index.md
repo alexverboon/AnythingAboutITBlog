@@ -13,11 +13,12 @@ tags:
   - collection-commander
   - configmgr
   - configuration-manager
-  - powershell
   - tools
+  - Windows
+  - PowerShell
 categories:
-  - powershell
   - tools
+  - PowerShell
 ---
 ### Collection Commander
 

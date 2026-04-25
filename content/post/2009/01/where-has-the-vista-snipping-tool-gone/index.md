@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/where-has-the-vista-snipping-tool-gone.png"
 tags:
   - snipping-tool
+  - Windows
 categories:
   - knowledge
   - tip

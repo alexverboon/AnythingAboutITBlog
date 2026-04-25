@@ -10,10 +10,13 @@ author: "Alex Verboon"
 tags:
   - api
   - defender-atp
-  - powershell
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - defender-atp
-  - powershell
+  - PowerShell
+  - Office
 ---
 I am currently working on some automation around Windows Defender, so started to look at the Windows Defender Advanced Threat Protection query API.
 

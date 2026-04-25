@@ -12,10 +12,13 @@ tags:
   - application-guard
   - defender-atp
   - security
+  - Windows
+  - Office
 categories:
   - application-guard
-  - office-365
   - security
+  - Windows
+  - Office
 ---
 Hello everyone, today I wanted to see application guard for office in action. If you are not familiar with application guard for office, I suggest you read the following articles / documentation.
 

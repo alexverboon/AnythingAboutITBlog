@@ -13,8 +13,11 @@ tags:
   - shutdown
   - start-menu
   - tiles
+  - Windows
+  - PowerShell
 categories:
-  - windows-8
+  - Windows
+  - PowerShell
 ---
 A PowerShell script shows how to create a Shutdown, Restart or Logoff Windows 8 tile for the Start menu.
 

@@ -14,6 +14,7 @@ tags:
   - network
   - transfer
   - trim-transfer
+  - Windows
 categories:
   - bits
   - deployment

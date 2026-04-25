@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/something-got-mixed-up.png"
 tags:
   - windows-2000
+  - Windows
 categories:
   - fun
 ---

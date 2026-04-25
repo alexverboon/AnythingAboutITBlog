@@ -18,6 +18,7 @@ tags:
   - policypak
   - settings
   - windows
+  - Office
 categories:
   - gpo
   - group-policy

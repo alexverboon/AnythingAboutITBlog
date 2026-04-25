@@ -15,16 +15,17 @@ tags:
   - drives
   - explorer
   - hide
-  - powershell
   - registry
   - terminal-server
   - windows
+  - PowerShell
 categories:
   - explorer
   - gpo
   - tip
   - tools
   - windows
+  - PowerShell
 ---
 Want to make a drive disappear in Windows or prevent users from accessing it? then here’s the tool you need. **HIDECALC** allows you to define the drives to hide or prevent access to. HIDECALC does not apply the change on the system itself, but provides various options for exporting the settings into the following formats:
 

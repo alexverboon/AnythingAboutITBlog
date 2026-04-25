@@ -14,6 +14,7 @@ tags:
   - learning
   - training
   - university
+  - Windows
 categories:
   - active-directory
   - deployment
@@ -22,8 +23,8 @@ categories:
   - scripting
   - tip
   - vista
-  - windows-7
   - windows-xp
+  - Windows
 ---
 In January 2009 [Jeremy Moskovitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) launched the Online University for Group Policy Management. I wrote about that earlier in my blog post “[Online Group Policy University](https://www.verboon.info/index.php/2009/01/online-group-policy-university/)”.
 

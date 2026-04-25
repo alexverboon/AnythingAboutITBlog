@@ -11,6 +11,7 @@ image: "img/post-heroes/extending-user-information-in-ad.png"
 tags:
   - active-directory
   - user-account-information
+  - Windows
 categories:
   - active-directory
   - security

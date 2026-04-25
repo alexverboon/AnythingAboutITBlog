@@ -14,13 +14,14 @@ tags:
   - restrict
   - virtual-pc
   - vmwindows-exe
+  - Windows
 categories:
   - applocker
   - gpo
   - group-policy
   - virtualization
-  - windows-7
   - xp-mode
+  - Windows
 ---
 Windows Virtual PC is a great feature of Windows 7, but unfortunately Microsoft did not consider to provide any Group Policy settings to control the use of it. In an enterprise or small business environment you might want to do the following:
 

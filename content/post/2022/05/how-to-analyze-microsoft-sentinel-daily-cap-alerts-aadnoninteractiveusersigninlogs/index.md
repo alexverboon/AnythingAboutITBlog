@@ -12,10 +12,10 @@ tags:
   - daily cap
   - KQL
   - sentinel
+  - Windows
 categories:
   - Microsoft Sentinel
 ---
-
 To avoid unplanned costs for Microsoft Sentinel, it is recommended to set a daily cap and create an analytics rule that triggers an alert when the daily cap is reached. Microsoft has published general guidance for monitoring costs [here](https://learn.microsoft.com/azure/sentinel/billing-monitor-costs).
 
 In the past months I have deployed a number of Microsoft Sentinel instances and in many cases the root cause for reaching the daily cap was related to data ingested into the AADNonInteractiveUserSignInLogs table. When analyzing the data we often found an individual user that created an unusually high amount of events. This can happen for various reasons such as:

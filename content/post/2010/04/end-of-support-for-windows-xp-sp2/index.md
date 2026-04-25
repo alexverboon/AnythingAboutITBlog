@@ -14,6 +14,7 @@ tags:
   - product-support
   - service-pack-2
   - windows-xp-service-pack-3
+  - Windows
 categories:
   - compatibility
   - deployment

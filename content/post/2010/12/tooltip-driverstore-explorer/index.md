@@ -13,12 +13,12 @@ tags:
   - driver-store
   - tool
   - utility
-  - windows-7
+  - Windows
 categories:
   - driver-store
   - tip
   - tools
-  - windows-7
+  - Windows
 ---
 In my previous blog post [Inside the Windows 7 Driver Store](https://www.verboon.info/index.php/2010/12/inside-the-windows-7-driver-store/) I explained how to retrieve information about the Windows in-box drivers. Beside the in-box drivers the driver store also hosts the drivers installed via Windows Update or the native OEM provided driver installation package. 
 

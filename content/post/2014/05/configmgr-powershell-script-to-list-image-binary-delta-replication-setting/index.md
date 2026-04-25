@@ -15,7 +15,7 @@ tags:
   - powershell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 Here’s a script that lists all Boot and Operating system images stored within Configuration Manager and shows whether the Binary Delta Replication Setting is enabled or not. 
 

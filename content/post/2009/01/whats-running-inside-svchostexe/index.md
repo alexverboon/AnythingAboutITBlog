@@ -11,6 +11,7 @@ image: "img/post-heroes/whats-running-inside-svchostexe.png"
 tags:
   - process
   - svchostexe
+  - Windows
 categories:
   - tip
   - tools

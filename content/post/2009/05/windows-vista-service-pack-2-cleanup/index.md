@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-vista-service-pack-2-cleanup.png"
 tags:
   - vista-sp2
+  - Windows
 categories:
   - vista
 ---

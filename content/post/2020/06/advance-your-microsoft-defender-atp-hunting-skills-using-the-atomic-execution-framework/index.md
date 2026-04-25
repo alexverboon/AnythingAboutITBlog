@@ -15,9 +15,12 @@ tags:
   - mitreattack
   - tactics
   - techniques
+  - Windows
+  - PowerShell
 categories:
   - defender-atp
   - security
+  - PowerShell
 ---
 Hello everyone, during the past months I took a closer look at [MITRE ATT&CK ](#) to advance my hunting skills using [Microsoft Defender Advanced Threat Protection](#). For those not familiar with MITRE ATT&CK, in short, it is a knowledge base knowledge base of adversary tactics and techniques based on real-world observations.
 

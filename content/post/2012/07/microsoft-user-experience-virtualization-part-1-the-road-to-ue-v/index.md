@@ -16,10 +16,10 @@ tags:
   - user-experience-virtualization
   - user-state-virtualization
   - usv
+  - Windows
 categories:
   - ue-v
-  - windows-7
-  - windows-8
+  - Windows
 ---
 Many IT Administrators will agree that managing Windows user profiles can be somewhat of a challenge especially when using roaming user profiles where data and settings can follow the user across multiple Windows Clients. The term roaming profiles was introduced in Windows NT 4.0 but my experience is that roaming profiles weren’t used much then because in these days most users just had their own dedicated desktop anyway and if roaming profiles were used then it was more for backup reasons. User data was typically stored on a home or group share and most applications were still using INI files instead of using the Windows registry. Some of you might remember the fun with [mapping INI files into the Registry](http://www.microsoft.com/resources/documentation/windowsnt/4/workstation/reskit/en-us/26_ini.mspx?mfr=true). Furthermore in these days many applications would not separate user data from application data hence the benefits of using a roaming profile were pretty limited.
 

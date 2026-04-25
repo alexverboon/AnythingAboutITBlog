@@ -16,11 +16,12 @@ tags:
   - session
   - sleep
   - tool
+  - Windows
 categories:
   - power
   - tip
   - tools
-  - windows-7
+  - Windows
 ---
 Here’s a tool that has came in handy for me during the past 3 days, so let me share this one with you. Move Mouse is a simple application that generates mouse activity. You can either move the mouse pointer, click the left mouse button, send a keystroke, or any combination of the three.
 

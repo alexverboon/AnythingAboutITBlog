@@ -15,6 +15,7 @@ tags:
   - mms-cfg
   - security
   - update
+  - Windows
 categories:
   - adobe
   - deployment

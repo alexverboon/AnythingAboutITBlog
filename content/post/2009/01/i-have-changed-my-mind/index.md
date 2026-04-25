@@ -9,13 +9,13 @@ description: "In October 2008 I dropped a post called [Don't wait for Windows 7]
 author: "Alex Verboon"
 tags:
   - migrate
-  - windows-7
   - windows-vista
+  - Windows
 categories:
   - beta
   - deployment
   - vista
-  - windows-7
+  - Windows
 ---
 In October 2008 I dropped a post called [Don't wait for Windows 7](https://www.verboon.info/index.php/2008/10/don%e2%80%99t-wait-for-windows-7/). Well during the past days I have changed my mind and I guess many others did as well concerning waiting for Windows 7.
 

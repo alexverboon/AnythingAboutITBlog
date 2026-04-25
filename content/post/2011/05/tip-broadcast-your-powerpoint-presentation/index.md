@@ -9,14 +9,14 @@ description: "Did you know that with PowerPoint 2010 you can broadcast your pres
 author: "Alex Verboon"
 tags:
   - broadcast
-  - office-2010
   - powerpoint-2010
   - publish
   - share
+  - Office
 categories:
   - microsoft-office
-  - office-2010
   - powerpoint
+  - Office
 ---
 Did you know that with PowerPoint 2010 you can broadcast your presentation over the internet? Well I didn’t. And I must say this is a really cool feature, especially when taking into account that sometimes it can be quite a challenge to get multiple participants join a virtual conference like Microsoft Live Meeting or similar live conference system. (especially when you collaborate with customers that work in a locked down environment and can’t install things themselves). 
 

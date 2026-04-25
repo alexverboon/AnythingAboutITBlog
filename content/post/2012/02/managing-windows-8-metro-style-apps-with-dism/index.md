@@ -14,10 +14,10 @@ tags:
   - installation
   - metro
   - metro-style-apps
-  - windows-8
+  - Windows
 categories:
   - metro
-  - windows8
+  - Windows
 ---
 As mentioned in my earlier post [Windows 8 – What’s new in the Deployment Image Servicing and Management tool (DISM)](https://www.verboon.info/index.php/2012/01/windows-8-whats-new-in-the-deployment-image-servicing-and-management-tool-dism/) the DISM tool now also contains commands for managing metro style applications. When running dism.exe /online /? we find the following APPX servicing commands. 
 

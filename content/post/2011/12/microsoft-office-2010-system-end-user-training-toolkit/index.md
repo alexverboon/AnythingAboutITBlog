@@ -10,11 +10,11 @@ author: "Alex Verboon"
 tags:
   - knowledge
   - learning
-  - office-2010
   - training
+  - Office
 categories:
   - knowledge
-  - office-2010
+  - Office
 ---
 In addition to the [Office 2010 Migration Guides](http://office.microsoft.com/en-us/excel-help/office-2010-migration-guides-HA101982272.aspx) that are available since a while Microsoft recently published the Microsoft Office 2010 System End User Training Toolkit. The Microsoft Office 2010 End User Training Kit is a set of end-user training content for Microsoft Office 2010 and includes Word, Excel, PowerPoint, Outlook and OneNote. Users can either download the full Office 2003 to 2010 or 2007 to 2010 upgrade Toolkit or select a training toolkit for an individual Office Application only. 
 

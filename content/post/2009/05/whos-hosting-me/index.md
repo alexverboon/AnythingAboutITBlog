@@ -11,6 +11,7 @@ image: "img/post-heroes/whos-hosting-me.png"
 tags:
   - guest
   - hyper-v
+  - Windows
 categories:
   - hyper-v
   - virtualization

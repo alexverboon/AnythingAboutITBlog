@@ -12,12 +12,12 @@ tags:
   - installation
   - registry
   - usb
-  - windows-7
+  - Windows
 categories:
   - tip
   - tools
   - usb
-  - windows7
+  - Windows
 ---
 If you want to install Windows 7 from USB you can use Microsoft’s Windows 7 USB/DVD Download Tool which you can download from [here](http://wudt.codeplex.com/). By default the tool requires that the USB disk is being erased before copying the Windows 7 installation media, hence you get the following messages. 
 

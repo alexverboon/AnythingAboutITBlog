@@ -12,9 +12,9 @@ tags:
   - scheduled-task
   - system-maintenance
   - troubleshooting
-  - windows-8
+  - Windows
 categories:
-  - windows-8
+  - Windows
 ---
 On Windows 7 many users suffer from disappearing shortcuts on their desktop. I wrote about this in [Control Windows 7 Scheduled Maintenance Behavior Through Group Policy](https://www.verboon.info/index.php/2010/11/control-windows-7-scheduled-maintenance-behavior-through-group-policy/). On Windows 8 this shouldn’t happen anymore, since Microsoft has removed the related scripts and Tasks from the Diagnosis troubleshooting pack (DiagPackage.diagpkg)
 

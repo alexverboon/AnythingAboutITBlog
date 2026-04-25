@@ -16,13 +16,13 @@ tags:
   - netsh
   - unrestricted
   - variable
-  - windows-8
   - wlan
   - wwan
+  - Windows
 categories:
   - group-policy
   - network
-  - windows-8
+  - Windows
 ---
 One of the new features in Windows 8 is that we can configure WLAN and WWAN cost settings. In the Windows UI this is called a metered connection. 
 

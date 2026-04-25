@@ -10,13 +10,13 @@ author: "Alex Verboon"
 tags:
   - active-directory
   - azureactivedirectory
-  - office365
-  - powershell
+  - PowerShell
+  - Office
 categories:
   - active-directory
   - azure
-  - office-365
-  - powershell
+  - PowerShell
+  - Office
 ---
 The Get-MsolUserInformation cmdlet provides an easy way to retrieve all users that are a member or guest and/or are registered in Azure Directory or Active Directory.
 

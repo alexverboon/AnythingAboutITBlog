@@ -15,8 +15,10 @@ tags:
   - registry
   - registry-to-xml
   - xml
+  - Windows
 categories:
   - group-policy
+  - Windows
 ---
 Creating registry settings manually within the Group Policy Preferences editor can become a cumbersome task, especially when you need to create many of them. Although the Group Policy Management console allows you to import registry keys stored within an XML formatted file, unfortunately out of the box Microsoft doesn’t provide any tooling to export and convert registry settings into xml. 
 

@@ -12,13 +12,13 @@ tags:
   - bitlocker
   - bitlockertogo
   - encryption
-  - windows7
+  - Windows
 categories:
   - automation
   - bitlocker
   - security
   - tip
-  - windows-7
+  - Windows
 ---
 With Windows 7 we can not only encrypt our local fixed drives but also USB devices. Considering that probably many of do carry around one or more memory sticks that could contain sensitive data or just data you don’t want anyone else to get access too. 
 

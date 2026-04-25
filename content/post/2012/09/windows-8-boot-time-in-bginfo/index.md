@@ -14,11 +14,11 @@ tags:
   - fast-boot
   - restart
   - wake-time
-  - windows-8
   - wmi
+  - Windows
 categories:
   - bginfo
-  - windows-8
+  - Windows
 ---
 Last week I noticed that the Boot Time shown on my BGInfo generated desktop wallpaper had a date of several days ago. This is because of the new Fast Startup feature introduced with Windows 8. 
 

@@ -11,12 +11,12 @@ tags:
   - applocker
   - bitlocker
   - usmt-40
-  - windows-7
+  - Windows
 categories:
   - aik
   - automation
   - deployment
-  - windows-7
+  - Windows
 ---
 Learn more about Windows 7, watch the Walkthroughs.
 

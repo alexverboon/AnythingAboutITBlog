@@ -11,11 +11,11 @@ tags:
   - bandwidth
   - branchcache
   - windows-2008-r2
-  - windows-7
+  - Windows
 categories:
   - branchcache
-  - windows-7
   - windows-server-2008-r2
+  - Windows
 ---
 In this video Oliver Rist, Technical Product Manager at the Windows Server group, talks about BranchCache, the Features, the usage modes and the benefits. 
 

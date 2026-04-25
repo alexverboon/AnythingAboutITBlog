@@ -12,6 +12,7 @@ tags:
   - gpo
   - gpotool-exe
   - group-policy
+  - Windows
 categories:
   - active-directory
   - gpo

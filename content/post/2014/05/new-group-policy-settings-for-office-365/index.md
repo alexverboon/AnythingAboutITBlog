@@ -14,9 +14,11 @@ tags:
   - group-policy
   - group-policy-templates
   - office-365-2
+  - Windows
+  - Office
 categories:
   - group-policy
-  - office-365
+  - Office
 ---
 On April 28th 2014 Microsoft finally released an [fix for the Office 2013 SP1 Office customization tool](http://blogs.technet.com/b/odsupport/archive/2014/03/14/lync-2013-and-onedrive-for-business-are-not-installed-when-installing-office-2013-with-service-pack-1.aspx) as the version released with SP1 caused some issues with Lync 2013 and OneDrive for Business. But there’s more in this update.A few new Group Policy settings for Office 365 are included as well. 
 

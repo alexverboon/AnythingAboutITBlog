@@ -13,12 +13,12 @@ tags:
   - waik
   - x32
   - x64
+  - Windows
 categories:
   - aik
   - tip
   - waik
-  - windows-7
-  - windows7
+  - Windows
 ---
 Many of you have probably already considered installing the 64 bit version of Windows 7 if not done already. I just found a “must read” article on the [Deployment Guys](http://blogs.technet.com/deploymentguys/archive/2009/08/27/windows-7-waik-and-custom-images.aspx) blog about the WAIK and creating unattends for x32 and x64 images.  Click [here](http://blogs.technet.com/deploymentguys/archive/2009/08/27/windows-7-waik-and-custom-images.aspx) to read the entire article.
 

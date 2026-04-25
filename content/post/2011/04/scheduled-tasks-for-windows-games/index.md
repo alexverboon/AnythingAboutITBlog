@@ -12,11 +12,11 @@ tags:
   - games
   - scheduled-task
   - update
-  - windows-7
+  - Windows
 categories:
   - games
   - scheduling
-  - windows7
+  - Windows
 ---
 When opening the Windows Task Scheduler you might see a Task called “UpdateCheck_” located within the Games folder of the Task Scheduler Library. 
 

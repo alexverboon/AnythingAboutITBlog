@@ -12,11 +12,12 @@ tags:
   - configmgr
   - configuration-manager
   - content
-  - powershell
   - source-path
+  - PowerShell
 categories:
   - configmgr
   - sccm-2012
+  - PowerShell
 ---
 Here’s a PowerShell script we recently wrote to show the source path location for all the content that we put into ConfigMgr. The Script lists all the content source paths for the following CM objects. 
 

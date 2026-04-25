@@ -11,6 +11,7 @@ tags:
   - configuration
   - registry
   - tcpip
+  - Windows
 categories:
   - protocols
   - reading

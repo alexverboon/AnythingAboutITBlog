@@ -10,10 +10,12 @@ author: "Alex Verboon"
 tags:
   - act-55
   - application-compatibility
+  - Windows
 categories:
   - compatibility
   - packaging
   - scripting
+  - Windows
 ---
 Microsoft has released ACT 5.5 (Application Compatibility Toolkit). ACT 5.5 provides support for pre-RTM version of Windows7. 
 

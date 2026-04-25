@@ -10,10 +10,11 @@ author: "Alex Verboon"
 tags:
   - med-v
   - xp-mode
+  - Windows
 categories:
   - med-v
   - virtualization
-  - windows7
+  - Windows
 ---
 Windows XP Mode on Windows7  with [Windows Virtual PC](http://www.microsoft.com/windows/virtual-pc/default.aspx) is designed for small business users, For Enterprise customers, [MED-V](http://www.microsoft.com/windows/enterprise/products/med-v.aspx) is the way to go. 
 

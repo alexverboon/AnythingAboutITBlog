@@ -11,8 +11,8 @@ tags:
   - profile
   - reduce-size
   - shrink
-  - windows-pe
-  - winpe
+  - Windows
+  - WinPE
 categories:
   - aik
   - automation
@@ -20,7 +20,8 @@ categories:
   - scripting
   - tip
   - vista
-  - windows-7
+  - Windows
+  - WinPE
 ---
 Today I have been looking into the new "Profiling" options for Windows PE 3.0. Using the profiling options allow you to reduce the content of Windows PE to an absolute minimum without removing any boot critical content.
 

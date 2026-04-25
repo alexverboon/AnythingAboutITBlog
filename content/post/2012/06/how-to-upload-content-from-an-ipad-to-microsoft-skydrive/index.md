@@ -12,9 +12,11 @@ tags:
   - ipad
   - skydrive
   - upload
+  - Windows
 categories:
   - ipad
   - skydrive
+  - Windows
 ---
 Most of the time I use my IPad (Until I get a Windows 8 Tablet) for reading manuals, whitepapers etc. but then I often used to e-mail the links to myself so I could download the content on my PC later as well. But now that there’s SkyDrive for the IPad this has an end. So far I had only used SkyDrive on the IPad to access content I had uploaded form my PC, but yesterday I actually figured out how I can also easily upload content from my IPad. So just in case you had not figured that one out yet, here’s how it goes. 
 

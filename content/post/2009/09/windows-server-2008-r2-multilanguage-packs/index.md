@@ -12,6 +12,7 @@ tags:
   - multilanguage-pack
   - server-2008
   - server-2008-r2
+  - Windows
 categories:
   - deployment
   - mui

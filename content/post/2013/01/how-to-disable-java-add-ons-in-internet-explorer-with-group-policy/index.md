@@ -14,6 +14,7 @@ tags:
   - group-policy
   - internet-explorer
   - java
+  - Windows
 categories:
   - internet-explorer
   - java

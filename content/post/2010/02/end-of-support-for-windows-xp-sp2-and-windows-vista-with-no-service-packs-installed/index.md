@@ -14,6 +14,7 @@ tags:
   - service-pack
   - vista
   - windows-xp
+  - Windows
 categories:
   - product-lifecycle
   - rtm

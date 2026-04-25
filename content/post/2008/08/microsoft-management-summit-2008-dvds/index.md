@@ -9,6 +9,7 @@ description: "Since a couple of days I have access to the MMS 2008 content that 
 author: "Alex Verboon"
 tags:
   - mms-2008
+  - Office
 categories:
   - deployment
   - reading

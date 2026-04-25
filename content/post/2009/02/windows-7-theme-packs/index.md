@@ -13,10 +13,10 @@ tags:
   - theme-pack
   - themes
   - wallpaper
-  - windows7
+  - Windows
 categories:
   - tip
-  - windows-7
+  - Windows
 ---
 Just found a nice article on Mike Swanson’s blog about Windows 7 Theme Packs. Windows 7 introduces [theme packs](http://msdn.microsoft.com/en-us/library/bb773190(VS.85).aspx), which are .cab files that contain all of the necessary assets to implement a theme, including sound files and images.
 

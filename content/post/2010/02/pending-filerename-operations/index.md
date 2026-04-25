@@ -13,6 +13,7 @@ tags:
   - pendingfilerenameoperations
   - reboot
   - session-manager
+  - Windows
 categories:
   - automation
   - deployment

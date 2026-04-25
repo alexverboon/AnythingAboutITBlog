@@ -11,9 +11,10 @@ tags:
   - application-compatibility
   - compatibility
   - windws-7
+  - Windows
 categories:
   - compatibility
-  - windows-7
+  - Windows
 ---
 Source: [ars technica](http://arstechnica.com/)
 

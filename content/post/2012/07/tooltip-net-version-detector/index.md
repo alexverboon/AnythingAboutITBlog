@@ -12,6 +12,7 @@ tags:
   - net-framework
   - detection
   - version
+  - Windows
 categories:
   - net-framework
   - tools

@@ -12,6 +12,7 @@ tags:
   - defender-atp
   - mdatp
   - rbac
+  - Windows
 categories:
   - defender-atp
   - mdatp

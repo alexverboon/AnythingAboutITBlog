@@ -9,12 +9,13 @@ description: "I am considering using the Windows 10 upgrade analytics for our Wi
 author: "Alex Verboon"
 image: "img/post-heroes/windows-10-upgrade-analytics-notes-and-powershell-snippets.png"
 tags:
-  - powershell
   - upgrade-analytics
-  - widnows-10
+  - Windows
+  - PowerShell
 categories:
   - upgrade-analytics
-  - windows-10
+  - Windows
+  - PowerShell
 ---
 I am considering using the Windows 10 upgrade analytics for our Windows 10 project that we’ve just started just recently. Below you find some random notes and references I have gathered during my exploration journey.
 

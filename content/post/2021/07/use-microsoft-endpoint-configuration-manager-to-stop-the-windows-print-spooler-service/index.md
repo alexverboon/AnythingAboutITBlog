@@ -12,11 +12,13 @@ tags:
   - CVE-2021-34527
   - DefenderforEndpoint
   - MEMCM
-  - PowerShell
   - Security
   - Vulnerability
+  - Windows
+  - PowerShell
 categories:
   - Security
+  - PowerShell
 ---
 Hello there,
 

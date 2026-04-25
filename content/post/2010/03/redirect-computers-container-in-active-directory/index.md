@@ -16,6 +16,7 @@ tags:
   - redircomp
   - redirection
   - wellknownobjects
+  - Windows
 categories:
   - active-directory
   - tip

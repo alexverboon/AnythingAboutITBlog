@@ -12,11 +12,12 @@ tags:
   - appvcachesize-exe
   - cachesize
   - clientappfs
-  - powershell
   - remote
+  - Windows
+  - PowerShell
 categories:
   - app-v
-  - powershell
+  - PowerShell
 ---
 Background: As part of our migration process from Configuration Manager 2007 to Configuration Manager 2012 R2 we also adjust the App-V Cache Size that is currently set to 6GB to 11GB because the ConfigMgr Agent Cache is set to 10GB, this by following the best practice described in Microsoft’s whitepaper [Virtual Application Management with Microsoft Application Virtualization 4.5/4.6 and System Center Configuration Manager 2007 R2](http://www.google.ch/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2Ff%2F7%2F8%2Ff784a197-73be-48ff-83da-4102c05a6d44%2FAPP-V%2FApp-V_and_ConfigMgr_Whitepaper_Final.docx&ei=ZdaYUrSUM_PzyAOOq4CwDQ&usg=AFQjCNG4EECrJQw6YqoBPTF3BYBCTh9Fnw&sig2=Za3zNXB5Gjb_YZg0Yw8zzw&bvm=bv.57155469,d.bGQ)**** where it says. 
 

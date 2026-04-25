@@ -10,14 +10,14 @@ author: "Alex Verboon"
 tags:
   - beta
   - forum
-  - windows-7
+  - Windows
 categories:
   - beta
   - deployment
   - knowledge
   - reading
   - tip
-  - windows-7
+  - Windows
 ---
 Looking for answers on Windows 7 ? have a look  on the [Microsoft Technet Forums for Windows 7 Beta](http://social.technet.microsoft.com/Forums/en/category/w7itpro/).
 

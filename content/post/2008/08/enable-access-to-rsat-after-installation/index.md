@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/enable-access-to-rsat-after-installation.png"
 tags:
   - rsat
+  - Windows
 categories:
   - tip
   - vista

@@ -13,6 +13,7 @@ tags:
   - pop
   - update
   - windows-mobile-6-1
+  - Windows
 categories:
   - mobile
   - tip

@@ -11,8 +11,9 @@ tags:
   - group-policy
   - microsoft-edge
   - spartan
+  - Windows
 categories:
-  - windows-10
+  - Windows
 ---
 Continuing exploring the Windows 10 preview builds for new Group Policy settings, I come across some new settings for the [Microsoft Edge browser](https://msdn.microsoft.com/en-us/library/hh772401(v=vs.85).aspx).
 

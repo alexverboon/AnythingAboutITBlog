@@ -9,6 +9,7 @@ description: "This week i found a nice little tool called [ShadowExplorer](http:
 author: "Alex Verboon"
 tags:
   - tools
+  - Windows
 categories:
   - tools
   - vista

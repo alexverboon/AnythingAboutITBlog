@@ -14,6 +14,7 @@ tags:
   - forgotten-attachment-detector
   - message
   - outlook
+  - Office
 categories:
   - microsoft-office
   - office-2007

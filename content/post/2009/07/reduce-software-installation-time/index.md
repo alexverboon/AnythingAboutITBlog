@@ -14,11 +14,12 @@ tags:
   - msifastinstall
   - packaging
   - time
+  - Windows
 categories:
   - automation
   - deployment
   - packaging
-  - windows7
+  - Windows
 ---
 Windows7 comes with Windows Installer 5.0 that has a new installation property called MSIFASTINSTALL. Using the MSIFASTINSTALL property can help reduce time required to install a windows installer package. 
 

@@ -12,9 +12,12 @@ tags:
   - azure-active-directory
   - cloud-app-security
   - mcas
+  - Windows
+  - Office
 categories:
   - azure-active-directory
   - cloud-app-security
+  - Office
 ---
 Azure Active Directory provides a simple process that provides users with a single sign-on (SSO) experience for accessing cloud-based applications using their AzureAD identity. This is a great capability as it removes the need for users to manage multiple identities while enterprises keep visibility and if needed control over which applications are used by their employees.
 

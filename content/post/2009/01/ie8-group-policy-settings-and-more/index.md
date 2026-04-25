@@ -12,6 +12,7 @@ tags:
   - gpo
   - ie8
   - internet-explorer
+  - Windows
 categories:
   - deployment
   - group-policy

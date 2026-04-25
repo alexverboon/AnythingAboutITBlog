@@ -13,14 +13,14 @@ tags:
   - driverstore
   - image
   - imagex
-  - windows-7
+  - Windows
 categories:
   - aik
   - deployment
   - drivers
   - scripting
   - vista
-  - windows-7
+  - Windows
 ---
 When it comes to OS deployment the size of the image to some extend does matter. Windows by default comes with a large set of plug and play device drivers that are included within the operating system installation sources.
 

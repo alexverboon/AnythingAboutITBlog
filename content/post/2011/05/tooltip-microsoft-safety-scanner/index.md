@@ -15,10 +15,12 @@ tags:
   - msert
   - protection
   - scan
+  - Windows
 categories:
   - antivirus
   - tip
   - tools
+  - Windows
 ---
 If you’re looking for a FREE Virus and Malware scanning tool that does not require installation, have a look at the Microsoft Safety Scanner tool. The software runs on Windows 7, Windows Server 2003, Windows Vista and Windows XP. I wonder why Server 2008 and 2008-R2 are not listed, but the fact that it does support Server 2003 makes it a perfect utility for my Windows Home Server. 
 

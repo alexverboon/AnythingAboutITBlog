@@ -11,12 +11,12 @@ image: "img/post-heroes/configmgr-powershell-script-to-check-if-application-or-p
 tags:
   - applications
   - configmgr
-  - powershell
   - programs
   - tasksequence-enabled
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows the status of the “**Allow this Application / program to be installed from the Application / program install task sequence action without being deployed”** setting. 
 

@@ -15,6 +15,7 @@ tags:
   - screen-capture
   - screenshot
   - script
+  - Windows
 categories:
   - screencapture
   - tip

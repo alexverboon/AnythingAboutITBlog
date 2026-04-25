@@ -12,8 +12,9 @@ tags:
   - group-policy
   - wi-fi
   - wi-fi-sense
+  - Windows
 categories:
-  - windows-10
+  - Windows
 ---
 Wi-FI Sense is a new feature in Windows 10 that automatically connects you to suggested open hotspots or networks shared by your skype or outlook.com contacts or facebook friends. Sounds like a nice feature, but I’m sure Enterprise Security won’t be to keen about it. 
 

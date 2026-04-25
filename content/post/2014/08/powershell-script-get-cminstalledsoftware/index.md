@@ -9,11 +9,12 @@ description: "ConfigMgr 2012 comes with a lot of build-in reports, but often it 
 author: "Alex Verboon"
 tags:
   - configmgr
-  - powershell
   - software-inventory
+  - Windows
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 ConfigMgr 2012 comes with a lot of build-in reports, but often it just does not contain all the information I want. Creating a custom report takes more time than just writing a script.
 

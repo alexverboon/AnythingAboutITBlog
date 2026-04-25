@@ -15,6 +15,7 @@ tags:
   - numlock
   - scrolllock
   - traffice
+  - Windows
 categories:
   - network
   - tools

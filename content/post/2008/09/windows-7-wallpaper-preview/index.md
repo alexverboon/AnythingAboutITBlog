@@ -8,10 +8,10 @@ aliases:
 description: "It will take a while until we see Microsoft's next operating system Windows 7, but for those that can't wait, some creative people have already posted..."
 author: "Alex Verboon"
 tags:
-  - windows7
+  - Windows
 categories:
   - fun
-  - windows-7
+  - Windows
 ---
 It will take a while until we see Microsoft's next operating system Windows 7, but for those that can't wait, some creative people have already posted some [wallpapers](http://www.technobuzz.net/windows-7-wallpapers/) :-). Well one thing we know for sure, it won't be the wallpapers that will cause a potential delay of the final release.
 

@@ -11,6 +11,7 @@ tags:
   - features
   - r2
   - server-2008-r2
+  - Windows
 categories:
   - knowledge
   - reading

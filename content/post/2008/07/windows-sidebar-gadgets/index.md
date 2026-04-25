@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-sidebar-gadgets.png"
 tags:
   - Uncategorized
+  - Windows
 categories:
   - tip
 ---

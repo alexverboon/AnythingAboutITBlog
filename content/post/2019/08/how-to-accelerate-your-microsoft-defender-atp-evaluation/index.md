@@ -13,11 +13,13 @@ tags:
   - evaluation
   - lab
   - mdatp
+  - Windows
 categories:
   - defender-atp
   - evaluation
   - lab
   - labs
+  - Windows
 ---
 As with almost any solution, one of the time consuming activities is to get the prerequisites in place until you get things up and running, this is no different with Microsoft Defender Advanced Threat Protection. Although the solution itself is entirely hosted in the cloud, there are a few prerequisites on the client side that must be put in place before you can get your hands on MDATP. Getting these prerequisites in place is no rocket science but depending on the organization, even getting a few Windows 10 test clients prepared and a few service URLs approved to go through the firewall/proxy can trigger a lot of internal processes that must be reviewed, approved and executed. Going through such processes makes perfect sense when conducting a proof of concept / pilot or production deployment within an organizations production environment, but what if you have little time and just want to get an idea of how Microsoft Defender ATP works and want to see it in action?
 

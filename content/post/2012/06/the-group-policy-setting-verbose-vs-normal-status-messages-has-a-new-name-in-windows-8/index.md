@@ -12,11 +12,11 @@ tags:
   - group-policy
   - highly-detailed-messages
   - verbose-status-messages
-  - windows-8
+  - Windows
 categories:
   - gpo
   - group-policy
-  - windows-8
+  - Windows
 ---
 If you want to show your users more details of what is going on during start, logon, logoff and shutdown of a system you can enable a Group Policy setting that is called “**Verbose vs normal status messages**’ in Windows 7 and earlier versions of Windows, but in Windows 8 the setting has a new name and is now called “**Display highly detailed messages**”. 
 

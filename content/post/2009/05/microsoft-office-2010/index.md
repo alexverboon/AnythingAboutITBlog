@@ -8,9 +8,9 @@ aliases:
 description: "Office 2010 is underway. If you’re interested to join the technical preview, register yourself on the Office 2010 website. [http://www.office2010themo..."
 author: "Alex Verboon"
 tags:
-  - office-2010
+  - Office
 categories:
-  - office-2010
+  - Office
 ---
 Office 2010 is underway. If you’re interested to join the technical preview, register yourself on the Office 2010 website. [http://www.office2010themovie.com/](http://www.office2010themovie.com/)
 

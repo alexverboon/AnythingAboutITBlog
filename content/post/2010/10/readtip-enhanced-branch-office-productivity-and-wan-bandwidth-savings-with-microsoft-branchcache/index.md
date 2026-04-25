@@ -12,12 +12,14 @@ tags:
   - branchcache
   - server-2008-r2
   - wan
-  - windows-7
+  - Windows
+  - Office
 categories:
   - branchcache
   - reading
-  - windows-7
   - windows-server-2008-r2
+  - Windows
+  - Office
 ---
 For those who are in the decision making process of using BranchCache, I strongly recommend to read the Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache Report from [Edison](http://www.theedison.com/). 
 

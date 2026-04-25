@@ -12,9 +12,11 @@ tags:
   - branches
   - builds
   - insider
-  - windows-10
+  - Windows
+  - PowerShell
 categories:
-  - windows-10
+  - Windows
+  - PowerShell
 ---
 Here’s a script I wrote that retrieves all the Windows 10 build information, including Insider level when enabled. 
 

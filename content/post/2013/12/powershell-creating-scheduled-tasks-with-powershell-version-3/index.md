@@ -8,12 +8,13 @@ aliases:
 description: "I am currently working on a script where I need to create a scheduled task that runs a powershell script at a given time. With PowerShell 4.0 a schedu..."
 author: "Alex Verboon"
 tags:
-  - powershell
   - schedule
   - scheduled-tasks
   - schtasks-exe
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 I am currently working on a script where I need to create a scheduled task that runs a powershell script at a given time. With PowerShell 4.0 a scheduled task can be easily created with the new cmdlets [New-ScheduledTaskAction](http://technet.microsoft.com/en-us/library/jj649817.aspx), [New-ScheduledTaskTrigger](http://technet.microsoft.com/en-us/library/jj649821.aspx) and [Register-ScheduledTask](http://technet.microsoft.com/en-us/library/jj649811.aspx), but unfortunately i have to create a solution that works on clients running PowerSshell version 3.0. 
 

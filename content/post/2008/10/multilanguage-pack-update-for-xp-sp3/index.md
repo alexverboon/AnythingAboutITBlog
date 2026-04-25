@@ -9,6 +9,7 @@ description: "Those that deploy Windows XP Service Pack 3 English and use multil
 author: "Alex Verboon"
 tags:
   - mui
+  - Windows
 categories:
   - deployment
   - windows-xp

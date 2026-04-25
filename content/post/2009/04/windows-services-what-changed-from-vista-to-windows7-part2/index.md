@@ -10,11 +10,11 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-services-what-changed-from-vista-to-windows7-part2.png"
 tags:
   - services
-  - windows-7
   - windows-vista
+  - Windows
 categories:
   - vista
-  - windows7
+  - Windows
 ---
 In part one of “[Windows Services, What changed from Vista to Windows7](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-vista-to-windows7-part1/)”  I highlighted the new, renamed and removed services that come with Windows7. 
 

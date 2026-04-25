@@ -1,0 +1,766 @@
+{
+  "root": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog",
+  "scanned_files": 917,
+  "unique_tags": 1493,
+  "unique_categories": 312,
+  "top_tags": [
+    {
+      "name": "windows-7",
+      "count": 111
+    },
+    {
+      "name": "powershell",
+      "count": 95
+    },
+    {
+      "name": "group-policy",
+      "count": 80
+    },
+    {
+      "name": "gpo",
+      "count": 62
+    },
+    {
+      "name": "windows-8",
+      "count": 46
+    },
+    {
+      "name": "deployment",
+      "count": 39
+    },
+    {
+      "name": "virtualization",
+      "count": 39
+    },
+    {
+      "name": "security",
+      "count": 34
+    },
+    {
+      "name": "configmgr",
+      "count": 29
+    },
+    {
+      "name": "tool",
+      "count": 28
+    },
+    {
+      "name": "tools",
+      "count": 26
+    },
+    {
+      "name": "windows7",
+      "count": 24
+    },
+    {
+      "name": "Uncategorized",
+      "count": 22
+    },
+    {
+      "name": "script",
+      "count": 22
+    },
+    {
+      "name": "registry",
+      "count": 22
+    },
+    {
+      "name": "compatibility",
+      "count": 21
+    },
+    {
+      "name": "active-directory",
+      "count": 20
+    },
+    {
+      "name": "office-2010",
+      "count": 19
+    },
+    {
+      "name": "tip",
+      "count": 18
+    },
+    {
+      "name": "vista",
+      "count": 17
+    },
+    {
+      "name": "azure",
+      "count": 17
+    },
+    {
+      "name": "hyper-v",
+      "count": 15
+    },
+    {
+      "name": "installation",
+      "count": 15
+    },
+    {
+      "name": "defender-atp",
+      "count": 15
+    },
+    {
+      "name": "windows",
+      "count": 14
+    },
+    {
+      "name": "windows-vista",
+      "count": 14
+    },
+    {
+      "name": "group-policy-preferences",
+      "count": 14
+    },
+    {
+      "name": "app-v",
+      "count": 14
+    },
+    {
+      "name": "internet-explorer",
+      "count": 14
+    },
+    {
+      "name": "download",
+      "count": 14
+    }
+  ],
+  "top_categories": [
+    {
+      "name": "tip",
+      "count": 247
+    },
+    {
+      "name": "tools",
+      "count": 171
+    },
+    {
+      "name": "windows-7",
+      "count": 169
+    },
+    {
+      "name": "deployment",
+      "count": 113
+    },
+    {
+      "name": "group-policy",
+      "count": 92
+    },
+    {
+      "name": "powershell",
+      "count": 79
+    },
+    {
+      "name": "vista",
+      "count": 76
+    },
+    {
+      "name": "automation",
+      "count": 70
+    },
+    {
+      "name": "virtualization",
+      "count": 69
+    },
+    {
+      "name": "knowledge",
+      "count": 65
+    },
+    {
+      "name": "reading",
+      "count": 54
+    },
+    {
+      "name": "windows-8",
+      "count": 53
+    },
+    {
+      "name": "windows7",
+      "count": 47
+    },
+    {
+      "name": "security",
+      "count": 43
+    },
+    {
+      "name": "windows-xp",
+      "count": 39
+    },
+    {
+      "name": "gpo",
+      "count": 38
+    },
+    {
+      "name": "active-directory",
+      "count": 35
+    },
+    {
+      "name": "fun",
+      "count": 33
+    },
+    {
+      "name": "windows-server-2008",
+      "count": 28
+    },
+    {
+      "name": "configmgr",
+      "count": 27
+    },
+    {
+      "name": "compatibility",
+      "count": 26
+    },
+    {
+      "name": "scripting",
+      "count": 24
+    },
+    {
+      "name": "internet-explorer",
+      "count": 19
+    },
+    {
+      "name": "windows-server-2008-r2",
+      "count": 19
+    },
+    {
+      "name": "azure",
+      "count": 19
+    },
+    {
+      "name": "licensing",
+      "count": 17
+    },
+    {
+      "name": "hyper-v",
+      "count": 17
+    },
+    {
+      "name": "defender-atp",
+      "count": 17
+    },
+    {
+      "name": "network",
+      "count": 16
+    },
+    {
+      "name": "bios",
+      "count": 15
+    }
+  ],
+  "high_confidence_duplicate_groups": [
+    {
+      "taxonomy": "tags",
+      "normalized": "2008r2",
+      "preferred": "2008-r2",
+      "variants": [
+        {
+          "name": "2008-r2",
+          "count": 4
+        },
+        {
+          "name": "2008r2",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "advancedhunting",
+      "preferred": "advanced-hunting",
+      "variants": [
+        {
+          "name": "advanced-hunting",
+          "count": 7
+        },
+        {
+          "name": "Advanced Hunting",
+          "count": 1
+        },
+        {
+          "name": "advancedhunting",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "azureactivedirectory",
+      "preferred": "azure-active-directory",
+      "variants": [
+        {
+          "name": "azure-active-directory",
+          "count": 1
+        },
+        {
+          "name": "azureactivedirectory",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "browser",
+      "preferred": "browser",
+      "variants": [
+        {
+          "name": "browser",
+          "count": 1
+        },
+        {
+          "name": "Browser",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "cloudappsecurity",
+      "preferred": "cloud-app-security",
+      "variants": [
+        {
+          "name": "cloud-app-security",
+          "count": 2
+        },
+        {
+          "name": "cloudappsecurity",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "configmgr",
+      "preferred": "configmgr",
+      "variants": [
+        {
+          "name": "configmgr",
+          "count": 29
+        },
+        {
+          "name": "ConfigMgr",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "defenderatp",
+      "preferred": "defender-atp",
+      "variants": [
+        {
+          "name": "defender-atp",
+          "count": 15
+        },
+        {
+          "name": "defenderatp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "defenderforendpoint",
+      "preferred": "DefenderforEndpoint",
+      "variants": [
+        {
+          "name": "DefenderforEndpoint",
+          "count": 3
+        },
+        {
+          "name": "defenderforendpoint",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "driverstore",
+      "preferred": "driver-store",
+      "variants": [
+        {
+          "name": "driver-store",
+          "count": 5
+        },
+        {
+          "name": "driverstore",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "grouppolicy",
+      "preferred": "group-policy",
+      "variants": [
+        {
+          "name": "group-policy",
+          "count": 80
+        },
+        {
+          "name": "grouppolicy",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "hardlink",
+      "preferred": "hard-link",
+      "variants": [
+        {
+          "name": "hard-link",
+          "count": 5
+        },
+        {
+          "name": "hardlink",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "kql",
+      "preferred": "kql",
+      "variants": [
+        {
+          "name": "kql",
+          "count": 7
+        },
+        {
+          "name": "KQL",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "mfa",
+      "preferred": "mfa",
+      "variants": [
+        {
+          "name": "mfa",
+          "count": 1
+        },
+        {
+          "name": "MFA",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "office2010",
+      "preferred": "office-2010",
+      "variants": [
+        {
+          "name": "office-2010",
+          "count": 19
+        },
+        {
+          "name": "office2010",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "powershell",
+      "preferred": "powershell",
+      "variants": [
+        {
+          "name": "powershell",
+          "count": 95
+        },
+        {
+          "name": "PowerShell",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "powershellcore",
+      "preferred": "powershell-core",
+      "variants": [
+        {
+          "name": "powershell-core",
+          "count": 2
+        },
+        {
+          "name": "powershellcore",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "restapi",
+      "preferred": "rest-api",
+      "variants": [
+        {
+          "name": "rest-api",
+          "count": 1
+        },
+        {
+          "name": "restapi",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "security",
+      "preferred": "security",
+      "variants": [
+        {
+          "name": "security",
+          "count": 34
+        },
+        {
+          "name": "Security",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "sensor",
+      "preferred": "sensor",
+      "variants": [
+        {
+          "name": "sensor",
+          "count": 1
+        },
+        {
+          "name": "Sensor",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "tasksequence",
+      "preferred": "task-sequence",
+      "variants": [
+        {
+          "name": "task-sequence",
+          "count": 5
+        },
+        {
+          "name": "tasksequence",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "vulnerability",
+      "preferred": "vulnerability",
+      "variants": [
+        {
+          "name": "vulnerability",
+          "count": 4
+        },
+        {
+          "name": "Vulnerability",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "widnows10",
+      "preferred": "widnows-10",
+      "variants": [
+        {
+          "name": "widnows-10",
+          "count": 2
+        },
+        {
+          "name": "widnows10",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "windows10",
+      "preferred": "windows-10",
+      "variants": [
+        {
+          "name": "windows-10",
+          "count": 7
+        },
+        {
+          "name": "windows10",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "windows7",
+      "preferred": "windows-7",
+      "variants": [
+        {
+          "name": "windows-7",
+          "count": 111
+        },
+        {
+          "name": "windows7",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "taxonomy": "tags",
+      "normalized": "windowsinsider",
+      "preferred": "windowsinsider",
+      "variants": [
+        {
+          "name": "windowsinsider",
+          "count": 2
+        },
+        {
+          "name": "windows-insider",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "microsoftdefender",
+      "preferred": "Microsoft Defender",
+      "variants": [
+        {
+          "name": "Microsoft Defender",
+          "count": 8
+        },
+        {
+          "name": "microsoft-defender",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "office2010",
+      "preferred": "office-2010",
+      "variants": [
+        {
+          "name": "office-2010",
+          "count": 12
+        },
+        {
+          "name": "office2010",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "powershell",
+      "preferred": "powershell",
+      "variants": [
+        {
+          "name": "powershell",
+          "count": 79
+        },
+        {
+          "name": "PowerShell",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "security",
+      "preferred": "security",
+      "variants": [
+        {
+          "name": "security",
+          "count": 43
+        },
+        {
+          "name": "Security",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "servicepack",
+      "preferred": "service-pack",
+      "variants": [
+        {
+          "name": "service-pack",
+          "count": 2
+        },
+        {
+          "name": "servicepack",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "windows",
+      "preferred": "windows",
+      "variants": [
+        {
+          "name": "windows",
+          "count": 3
+        },
+        {
+          "name": "Windows",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "windows7",
+      "preferred": "windows-7",
+      "variants": [
+        {
+          "name": "windows-7",
+          "count": 169
+        },
+        {
+          "name": "windows7",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "windows8",
+      "preferred": "windows-8",
+      "variants": [
+        {
+          "name": "windows-8",
+          "count": 53
+        },
+        {
+          "name": "windows8",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "taxonomy": "categories",
+      "normalized": "windowsserver2008r2",
+      "preferred": "windows-server-2008-r2",
+      "variants": [
+        {
+          "name": "windows-server-2008-r2",
+          "count": 19
+        },
+        {
+          "name": "windows-server-2008r2",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

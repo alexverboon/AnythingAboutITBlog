@@ -13,6 +13,7 @@ tags:
   - slipstream
   - unattendtxt
   - windows-xp
+  - Windows
 categories:
   - knowledge
   - tip

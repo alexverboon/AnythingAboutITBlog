@@ -9,9 +9,9 @@ description: "For those who just can't get enough, there is a new vide on TechNe
 author: "Alex Verboon"
 tags:
   - directaccess
-  - windows7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 For those who just can't get enough, there is a new vide on TechNet Edge where [Keith Combs ](http://blogs.technet.com/keithcombs/)demonstrates the DirectAccess.
 

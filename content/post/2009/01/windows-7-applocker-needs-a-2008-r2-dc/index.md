@@ -10,11 +10,11 @@ author: "Alex Verboon"
 tags:
   - 2008-r2
   - applocker
-  - windows7
+  - Windows
 categories:
   - active-directory
   - group-policy
-  - windows-7
+  - Windows
 ---
 Yesterday evening I looked at some of the new features within Windows 7. So at some stage I wanted to see Applocker running. I spend about an hour reviewing my settings, checking GPO processing until I went back to the documentation, just to find out that little sentence at the very bottom of that page..... "***At least one Windows Server 2008 R2 domain controller is required to host the Applocker rules***".
 

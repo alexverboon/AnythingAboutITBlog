@@ -10,10 +10,10 @@ author: "Alex Verboon"
 tags:
   - application-compatibility
   - isv
-  - windows7
+  - Windows
 categories:
   - compatibility
-  - windows7
+  - Windows
 ---
 [http://blogs.msdn.com/usisvde/archive/2009/04/25/walkthrough-to-get-your-applications-ready-for-windows-7.aspx](http://blogs.msdn.com/usisvde/archive/2009/04/25/walkthrough-to-get-your-applications-ready-for-windows-7.aspx)
 

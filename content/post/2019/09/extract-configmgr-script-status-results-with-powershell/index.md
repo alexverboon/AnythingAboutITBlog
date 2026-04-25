@@ -11,14 +11,14 @@ image: "img/post-heroes/extract-configmgr-script-status-results-with-powershell.
 tags:
   - configmgr
   - extract
-  - powershell
   - run-scripts
   - sms_scripts
   - sms_scriptsexecutionsummary
   - sms_scriptsexecutiontask
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 ![Smile](images/wlEmoticon-smile.png)
 

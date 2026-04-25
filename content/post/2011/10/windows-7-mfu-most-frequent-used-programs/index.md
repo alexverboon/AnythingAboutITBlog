@@ -14,10 +14,10 @@ tags:
   - rot13
   - start-menu
   - userassist
-  - windows-7
+  - Windows
 categories:
   - tools
-  - windows-7
+  - Windows
 ---
 This week I found an interesting tool called UserAssist.exe written by Didier Stevens. The UserAssist tool lists the UserAssist registry keys  stored under HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist. This is the location where Windows 7 (and earlier versions of Windows) retrieves the information about the execution frequency of applications started by users. If you are interested about the details of the UserAssist registry keys I recommend that you read some of Didier Stevens [blog posts](http://blog.didierstevens.com/?s=user+assist) and his [article](http://intotheboxes.files.wordpress.com/2010/04/intotheboxes_2010_q1.pdf) he wrote for the Digital Forensics and Incident Response Magazine. 
 

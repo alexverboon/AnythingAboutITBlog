@@ -11,9 +11,11 @@ tags:
   - msi
   - silent-installs
   - silverlight
+  - Windows
 categories:
   - deployment
   - silverlight
+  - Windows
 ---
 This morning I integrated Microsoft Silverlight 3 into our Windows 7 build. Since we use an automated image build process, i prepared the Silverlight package for a silent install.
 

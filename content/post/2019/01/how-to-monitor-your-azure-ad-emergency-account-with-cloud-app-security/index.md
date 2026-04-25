@@ -14,7 +14,6 @@ tags:
   - emergencyaccount
 categories:
   - EntraID
-
 ---
 As a best practice you should have at least one or two emergency accounts in your Azure Active Directory. You would use these accounts in the event where due to a configuration mistake you inadvertently locked yourself out of the Azure Active Directory or when for some reason you can't use MFA that should be enabled on all administrative accounts.
 

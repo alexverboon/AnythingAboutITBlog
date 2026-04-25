@@ -12,6 +12,7 @@ tags:
   - mobile
   - myphone
   - synchronize
+  - Windows
 categories:
   - beta
   - windows-mobile

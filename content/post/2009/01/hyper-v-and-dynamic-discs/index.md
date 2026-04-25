@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/hyper-v-and-dynamic-discs.png"
 tags:
   - hyper-v
+  - Windows
 categories:
   - hyper-v
   - knowledge

@@ -11,10 +11,10 @@ tags:
   - branchcache
   - http
   - wan
-  - windows-7
+  - Windows
 categories:
   - branchcache
-  - windows-7
+  - Windows
 ---
 If you have an interest in Windows 7 BrachCache Technology I recommend reading the TechNet Magazine article “[End-to-End WAN Optimization with BranchCache](http://technet.microsoft.com/en-us/magazine/ee914606.aspx)”. 
 

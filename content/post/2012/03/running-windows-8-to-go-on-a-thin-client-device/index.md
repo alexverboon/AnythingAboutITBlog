@@ -11,10 +11,10 @@ image: "img/post-heroes/running-windows-8-to-go-on-a-thin-client-device.png"
 tags:
   - thin-client
   - usb
-  - windows-8
   - windows-8-to-go
+  - Windows
 categories:
-  - windows-8
+  - Windows
 ---
 Yesterday I tried out the Windows 8 To Go feature which allows you to run Windows 8 form a USB drive or USB stick. If you’re looking for a step by step guide, I suggest you look at the Microsoft TechNet Wiki [here](http://social.technet.microsoft.com/wiki/contents/articles/6991.windows-to-go-step-by-step.aspx). 
 

@@ -11,12 +11,12 @@ image: "img/post-heroes/tooltip-ubitmenu-for-office-2007-and-2010.png"
 tags:
   - classic
   - menu
-  - office-2010
   - ribbon
+  - Office
 categories:
-  - office-2010
   - tip
   - tools
+  - Office
 ---
 For those that do still struggle with the Office Ribbon here’s a nice add-on from [Ubit Software](http://www.ubit.ch/software/ubitmenu-languages/) that brings back the classic menu for Office 2007 and Office 2010. 
 

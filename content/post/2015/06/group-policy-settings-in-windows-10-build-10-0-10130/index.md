@@ -9,10 +9,12 @@ description: "Windows 10 build 10.0.10130 brought a couple more new Group Policy
 author: "Alex Verboon"
 tags:
   - group-policy
-  - windows-10
+  - Windows
+  - PowerShell
 categories:
   - group-policy
-  - windows-10
+  - Windows
+  - PowerShell
 ---
 Windows 10 build 10.0.10130 brought a couple more new Group Policy settings, here they are:
 

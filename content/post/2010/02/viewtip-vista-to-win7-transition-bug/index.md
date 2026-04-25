@@ -13,13 +13,13 @@ tags:
   - central-store
   - gpo
   - templates
-  - windows-7
   - windows-vista
+  - Windows
 categories:
   - group-policy
   - tip
   - vista
-  - windows-7
+  - Windows
 ---
 This week [Jeremy Moskowitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) wrote about a Vista/Win7 GPO bug in his weekly newsletter you should know about if you are transitioning to Windows 7. 
 

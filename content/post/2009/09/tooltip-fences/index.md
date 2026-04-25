@@ -13,6 +13,7 @@ tags:
   - program-manager
   - shell
   - shortcuts
+  - Windows
 categories:
   - tip
   - tools

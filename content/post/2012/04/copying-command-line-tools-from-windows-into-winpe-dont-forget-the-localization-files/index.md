@@ -13,9 +13,10 @@ tags:
   - localization
   - mui
   - multilanguage
-  - winpe
+  - Windows
+  - WinPE
 categories:
-  - winpe
+  - WinPE
 ---
 To keep the footprint of WinPE as small as possible many services or tools usually found within a full Windows installation are not available within WinPE. So if you need a command-line tool from Windows such as icacls.exe you just copy the executable into your WinPE sources and you’re done. 
 

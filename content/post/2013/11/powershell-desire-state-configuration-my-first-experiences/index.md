@@ -13,9 +13,11 @@ tags:
   - desired-state-configuration
   - dsc
   - mof
-  - powershell
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - Windows
+  - PowerShell
 ---
 During the past weeks I have been reading and listening about PowerShell Desired State Configuration a new feature introduced with PowerShell 4.0 which ships with Windows 8.1 and Server 2012R2 but is also available for Windows 7 SP1 and Server 2008 R2 as part of the [Windows Management Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=40855)
 

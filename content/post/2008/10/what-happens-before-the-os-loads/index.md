@@ -11,6 +11,7 @@ tags:
   - bios
   - boot
   - uefi
+  - Windows
 categories:
   - bios
 ---

@@ -13,11 +13,11 @@ tags:
   - patch-management-software
   - patches
   - security
-  - windows-8
+  - Windows
 categories:
   - mbsa
   - security
-  - windows-8
+  - Windows
 ---
 Many companies and individuals use the Microsoft Baseline Security Analyzer ([MBSA](http://technet.microsoft.com/en-US/security/cc184924.aspx)) to assess the security state of their Windows Clients. But according to a statement from Microsoft in their [August 2012 Security Bulletin](http://blogs.technet.com/b/msrc/p/august-2012-security-bulletin-q-a.aspx), there are currently no plans to release an updated version for Windows 8. 
 

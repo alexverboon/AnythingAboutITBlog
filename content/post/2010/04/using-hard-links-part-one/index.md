@@ -14,13 +14,13 @@ tags:
   - hardlink
   - mklink
   - usmt-40
-  - windows-7
+  - Windows
 categories:
   - hard-links
   - knowledge
   - ntfs
   - usmt
-  - windows-7
+  - Windows
 ---
 Nowadays we often hear the term **Hard link** in conjunction with Windows 7 deployments, this because the User State Migration Tool 4.0 aka USMT now provides support for hard links. The advantage of using hard links is that there is no explicit need to copy the data away from the machine before installing Windows 7. I plan to write about USMT 4.0 and the use of hard links in another post. The purpose of this article is to provide a practical understanding of what hard links are and how to create them.
 

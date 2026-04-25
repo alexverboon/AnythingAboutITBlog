@@ -13,6 +13,7 @@ tags:
   - delegation
   - gpo
   - mdop
+  - Windows
 categories:
   - agpm
   - deployment

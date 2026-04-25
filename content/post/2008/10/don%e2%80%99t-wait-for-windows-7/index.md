@@ -8,12 +8,12 @@ aliases:
 description: "I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7. *There is no need to wait fo..."
 author: "Alex Verboon"
 tags:
-  - windows-7
   - windows-vista
+  - Windows
 categories:
   - deployment
   - vista
-  - windows-7
+  - Windows
 ---
 I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7.
 

@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - dynamic-memory
   - windows-server-2008-r2-sp1
+  - Windows
 categories:
   - windows-server-2008-r2
 ---

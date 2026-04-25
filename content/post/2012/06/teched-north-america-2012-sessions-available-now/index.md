@@ -12,9 +12,12 @@ tags:
   - sessions
   - teched-2012
   - webcasts
+  - Windows
+  - PowerShell
 categories:
   - teched
-  - windows-8
+  - Windows
+  - PowerShell
 ---
 Last week TechEd 2012 North America took place in Orlando so now there’s a wealth of webcasts available on the TechEd 2012 [website](http://northamerica.msteched.com/) where you can register yourself to get access to all content (even if you didn't attend the event) or if you like to download the sessions and watch them offline I recommend reading [TechEd 2012 Orlando Download Sessions – Offline Viewing](http://blog.scomfaq.ch/2012/06/13/teched-2012-orlando-download-sessions-offline-viewing/) posted by Stefan Roth who blogs at SCOMfaq.ch. 
 

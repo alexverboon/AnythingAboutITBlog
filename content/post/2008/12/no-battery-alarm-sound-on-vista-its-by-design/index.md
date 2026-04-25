@@ -12,6 +12,7 @@ tags:
   - battery
   - batterymeter
   - power
+  - Windows
 categories:
   - tip
   - tools

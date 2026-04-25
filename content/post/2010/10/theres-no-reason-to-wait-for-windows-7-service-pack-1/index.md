@@ -11,10 +11,10 @@ tags:
   - deployment
   - rc
   - sp1
-  - windows-7
+  - Windows
 categories:
   - deployment
-  - windows-7
+  - Windows
 ---
 This week Microsoft released the Release Candidate (RC) of Windows 7 and Server 2008 R2 Service Pack 1. Some companies follow the rule of not deploying a new Windows operating system before the release of the first Service Pack, however for Windows 7 there is simply no need for postponing deployments because SP1 doesn’t add any new features but only addresses some minor usability issues. On the Windows client operating system side SP1 is basically a rollup of hotfixes and security updates released since Windows 7 RTM. 
 

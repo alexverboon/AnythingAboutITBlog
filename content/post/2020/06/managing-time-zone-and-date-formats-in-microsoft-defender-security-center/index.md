@@ -14,6 +14,7 @@ tags:
   - defender-atp
   - mdatp
   - utc
+  - Windows
 categories:
   - defender-atp
   - security

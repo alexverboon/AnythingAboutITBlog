@@ -11,11 +11,11 @@ image: "img/post-heroes/windows7-branchcache-test-results.png"
 tags:
   - branchcache
   - windows-2008-r2
-  - windows7
+  - Windows
 categories:
   - branchcache
   - deployment
-  - windows7
+  - Windows
 ---
 Back in April I was [playing with BranchCache](https://www.verboon.info/index.php/2009/04/playing-with-branchcache/) in my home lab environment to get an idea about how things are supposed to work but simulating a real world WAN network isn’t that easy, unless you have access to some expensive software or you can simulate a network on a Linux box, but unfortunately my knowledge with Linux is near zero. So to see how [BranchCache](http://www.microsoft.com/windows/enterprise/products/branchcache.aspx) really works out in a real environment, I asked a colleague to setup a Windows 2008-R2 system with BranchCache enabled within a remote location that could be accessed through our corporate WAN. Once that system was setup BranchCache configuration was applied and Group Policies were prepared, as described within the [BranchCache Early Adopter’s Guide](http://www.microsoft.com/downloads/details.aspx?FamilyID=A9A1ED8A-71AB-468E-A7E0-470FD46E46B3&displaylang=en). 
 

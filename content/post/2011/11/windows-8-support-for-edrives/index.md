@@ -11,10 +11,10 @@ tags:
   - adk
   - edrive
   - unattendxml
-  - windows-8
+  - Windows
 categories:
   - edrive
-  - windows-8
+  - Windows
 ---
 I have just installed the Windows 8 Assessment and Deployment Kit and came across some information about Windows 8 support for eDrive also known as the Encrypted Hard Disk Drive.. 
 

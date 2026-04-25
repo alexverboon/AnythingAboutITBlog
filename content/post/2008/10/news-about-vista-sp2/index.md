@@ -9,6 +9,7 @@ description: "Until last week we have just seen rumours around the Service Pack 
 author: "Alex Verboon"
 tags:
   - vista
+  - Windows
 categories:
   - vista
 ---

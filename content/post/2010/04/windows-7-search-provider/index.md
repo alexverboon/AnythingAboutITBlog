@@ -12,12 +12,12 @@ tags:
   - federated-search
   - search-engine
   - search-provider
-  - windows-7
+  - Windows
 categories:
   - federated-search
   - search-provider
   - tip
-  - windows-7
+  - Windows
 ---
 Inspired by the [Windows 7 Federated Search](http://windowsteamblog.com/blogs/developers/archive/2010/04/18/windows-7-federated-search.aspx) blog post I created a Search Extender for my Anything about IT blog. You can download the Anything About IT Search Provider from [here](https://www.verboon.info/fun/aait_search_extender.zip)
 

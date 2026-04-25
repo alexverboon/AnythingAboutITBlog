@@ -12,6 +12,7 @@ tags:
   - cloud
   - live-mesh
   - remote
+  - Windows
 categories:
   - cloud
   - live-mesh

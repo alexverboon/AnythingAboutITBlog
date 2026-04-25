@@ -12,6 +12,7 @@ tags:
   - ie7
   - installation
   - xpsp3
+  - Windows
 categories:
   - deployment
   - internet-explorer

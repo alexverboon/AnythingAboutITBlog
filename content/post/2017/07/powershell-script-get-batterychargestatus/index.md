@@ -10,8 +10,10 @@ author: "Alex Verboon"
 tags:
   - battery
   - power-management
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 **Update 01.08.2017**
 

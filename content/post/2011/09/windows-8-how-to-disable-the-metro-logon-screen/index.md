@@ -15,10 +15,10 @@ tags:
   - metro
   - start-menu
   - ui
-  - windows-8
+  - Windows
 categories:
   - metro
-  - windows-8
+  - Windows
 ---
 When starting Windows 8 you’ll see the Metro logon screen as shown in the picture below. 
 

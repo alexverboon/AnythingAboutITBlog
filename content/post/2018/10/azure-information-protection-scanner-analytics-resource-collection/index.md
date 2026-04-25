@@ -11,8 +11,10 @@ tags:
   - aip
   - protection
   - scanner
+  - PowerShell
 categories:
   - azure-information-protection
+  - PowerShell
 ---
 Hey there,
 

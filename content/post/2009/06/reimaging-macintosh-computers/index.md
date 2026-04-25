@@ -12,6 +12,7 @@ tags:
   - apple
   - mac
   - macintosh
+  - Windows
 categories:
   - apple
   - automation

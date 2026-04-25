@@ -10,10 +10,12 @@ author: "Alex Verboon"
 tags:
   - click-to-run
   - deployment
-  - office-2013
+  - Windows
+  - Office
 categories:
   - deployment
-  - office-2013
+  - Windows
+  - Office
 ---
 With the release of the Office 2013 preview Microsoft also made available the Office Deployment Tool for Click-to-Run deployments. Although we here a lot about Click-to-Run these days, it’s not something totally new. Microsoft first introduced this with Office 2010 but it didn’t get that much attention within enterprise environment. For Office 2013 I can imagine that this will change.
 

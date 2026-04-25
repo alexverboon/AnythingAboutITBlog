@@ -12,9 +12,10 @@ tags:
   - duration
   - performance
   - refresh
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 I’ve put together the below PowerShell script this week to identify collections in ConfigMgr that require the longest time to refresh. If you ever experience a decrease in ConfigMgr collection update performance, you might want to run this script to find potential collections that have a long refresh duration. 
 

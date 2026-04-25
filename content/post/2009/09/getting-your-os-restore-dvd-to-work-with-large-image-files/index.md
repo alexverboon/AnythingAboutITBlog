@@ -15,11 +15,16 @@ tags:
   - large-files
   - large-image
   - oscdimg-exe
+  - Windows
+  - WinPE
+  - Office
 categories:
   - deployment
   - tip
   - tools
-  - windows7
+  - Windows
+  - WinPE
+  - Office
 ---
 This week, we completed the Windows 7 x64 build for our internal Tech Community. During the testing of the OS Restore DVD we ran into a problem when attempting to restore the image from DVD. 
 

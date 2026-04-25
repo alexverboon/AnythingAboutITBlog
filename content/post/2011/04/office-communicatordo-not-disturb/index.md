@@ -15,9 +15,11 @@ tags:
   - lync
   - oc
   - office-communicator
+  - Office
 categories:
   - office-communicator
   - tip
+  - Office
 ---
 Nowadays most enterprises use some sort of instant messaging solution like Jabber or Microsoft Office Communicator which now is called Microsoft Lync. 
 

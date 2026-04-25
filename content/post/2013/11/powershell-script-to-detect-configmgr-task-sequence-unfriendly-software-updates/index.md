@@ -10,13 +10,14 @@ author: "Alex Verboon"
 tags:
   - configmgr
   - kb2894518
-  - powershell
   - reboot
   - task-sequence
+  - Windows
+  - PowerShell
 categories:
   - configmgr
-  - powershell
   - windows-update
+  - PowerShell
 ---
 **Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788)
 

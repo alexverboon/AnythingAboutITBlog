@@ -9,12 +9,12 @@ description: "The Windows App Certification Kit is an easy to use tool to check 
 author: "Alex Verboon"
 tags:
   - application-compatibility
-  - powershell
-  - windows-10
+  - Windows
+  - PowerShell
 categories:
   - compatibility
-  - powershell
-  - windows-10
+  - Windows
+  - PowerShell
 ---
 The Windows App Certification Kit is an easy to use tool to check whether an application has potential compatibility issues when running on Windows 10.  The tool can be executed in GUI mode and in command line mode. I wrote a PowerShell script that runs the Windows App Certification Kit in a more or less automated way.
 

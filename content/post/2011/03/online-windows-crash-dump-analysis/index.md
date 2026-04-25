@@ -14,6 +14,7 @@ tags:
   - bsod
   - debugging
   - dump
+  - Windows
 categories:
   - bsod
   - dump

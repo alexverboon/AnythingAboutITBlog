@@ -15,10 +15,13 @@ tags:
   - file-transfer
   - md5
   - quicksfv
+  - Windows
+  - WinPE
 categories:
   - knowledge
   - tip
   - tools
+  - WinPE
 ---
 Today we once more ran into an issue caused by a corrupted file transfer. I mention “once more” because this is something I see happening all the time. So let me drop a couple of words on this. 
 

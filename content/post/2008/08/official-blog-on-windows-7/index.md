@@ -9,8 +9,9 @@ description: "Looks like Microsoft has launched its first official blog that foc
 author: "Alex Verboon"
 tags:
   - Uncategorized
+  - Windows
 categories:
-  - windows7
+  - Windows
 ---
 Looks like Microsoft has launched its first official blog that focuses on Windows 7. Read more here:
 

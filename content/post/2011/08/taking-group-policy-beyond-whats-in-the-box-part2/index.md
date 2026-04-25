@@ -17,11 +17,14 @@ tags:
   - lockdown
   - policypak
   - settings
-  - windows-7
+  - Windows
+  - Office
 categories:
   - gpo
   - group-policy
   - policypak
+  - Windows
+  - Office
 ---
 In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/) I provided a brief overview of how PolicyPak can take you beyond default Group Policy management. In today’s post I am going to show you how easy it is to get PolicyPak up and running in your test environment. 
 

@@ -11,11 +11,12 @@ tags:
   - rc
   - vmware
   - vmware-workstation-7
+  - Windows
 categories:
   - drivers
   - virtualization
   - vmware
-  - windows-7
+  - Windows
 ---
 Finally, after a long waiting time, VMware has released a release candidate for VMware Workstation 7. 
 

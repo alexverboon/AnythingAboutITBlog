@@ -9,11 +9,11 @@ description: "Application Compatibility in these days is a hot topic. Watch this
 author: "Alex Verboon"
 tags:
   - application-compatibility
-  - windows-7
+  - Windows
 categories:
   - appdna
   - compatibility
-  - windows-7
+  - Windows
 ---
 Application Compatibility in these days is a hot topic. Watch this Demo and find out how AppTitude from AppDNA can help you to speed up your Application Compatibility analysis and remediation effort. 
 

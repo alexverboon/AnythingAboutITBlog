@@ -9,10 +9,10 @@ description: "Like with every new version of the Windows operating system we can
 author: "Alex Verboon"
 tags:
   - group-policy
-  - windows-10
+  - Windows
 categories:
   - group-policy
-  - windows-10
+  - Windows
 ---
 Like with every new version of the Windows operating system we can expect new Group Policy settings. Today I took a look at Windows 10 build 10.0.10074 and found the follownig settings. 
 

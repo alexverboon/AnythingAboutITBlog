@@ -13,10 +13,10 @@ tags:
   - licensingdiag-exe
   - server-2012
   - troubleshooting
-  - windows-8
+  - Windows
 categories:
   - licensing
-  - windows-8
+  - Windows
 ---
 Should you encounter problems with activating Windows 8 or Server 2012 then have a look at the new added command-line tool **licensingdiag.exe**.
 

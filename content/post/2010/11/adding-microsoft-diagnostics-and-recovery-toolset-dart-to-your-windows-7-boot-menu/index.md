@@ -14,11 +14,14 @@ tags:
   - diagnostic
   - mdop
   - recovery
+  - Windows
+  - WinPE
 categories:
   - dart
   - mdop
   - recovery
-  - windows-7
+  - Windows
+  - WinPE
 ---
 Last weekend I went through the Microsoft TechEd 2010 presentations and one of the presentations that got my attention was “Keeping Windows Running Effeciently with the Microsoft Diagnostics and Recovery Toolset”. Presentation video and slides from this session can be found [here](http://www.msteched.com/2010/NorthAmerica/WCL309) (TechEd USA) or [here](http://www.msteched.com/2010/Europe/WCL318) (TechEd Europe)
 

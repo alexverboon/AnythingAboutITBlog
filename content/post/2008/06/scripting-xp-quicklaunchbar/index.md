@@ -11,6 +11,7 @@ tags:
   - quicklaunch
   - registry
   - script
+  - Windows
 categories:
   - automation
   - deployment

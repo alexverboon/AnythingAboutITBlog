@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - 2008r2
   - active-directory
+  - Windows
 categories:
   - active-directory
   - knowledge

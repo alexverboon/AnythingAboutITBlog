@@ -14,6 +14,7 @@ tags:
   - web
   - wiki-os
   - windows4all
+  - Windows
 categories:
   - cloud
   - virtualization

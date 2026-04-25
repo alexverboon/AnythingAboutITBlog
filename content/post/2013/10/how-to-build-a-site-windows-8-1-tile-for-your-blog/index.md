@@ -14,10 +14,10 @@ tags:
   - internet-explorer
   - live-tile
   - start-menu
-  - windows-8-1
+  - Windows
 categories:
   - internet-explorer
-  - windows-8-1
+  - Windows
 ---
 With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do. 
 

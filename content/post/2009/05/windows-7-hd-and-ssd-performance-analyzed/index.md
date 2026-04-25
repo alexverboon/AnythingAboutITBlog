@@ -10,9 +10,9 @@ author: "Alex Verboon"
 tags:
   - hd
   - ssd
-  - windows7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Just found this article about [Windows7 HD and SSD performance](http://hothardware.com/Articles/Windows-7-Disk-Performance-Analyzed/).
 

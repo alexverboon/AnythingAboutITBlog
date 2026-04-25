@@ -15,6 +15,7 @@ tags:
   - gpo
   - group-policy
   - silverlight
+  - Windows
 categories:
   - gpo
   - group-policy

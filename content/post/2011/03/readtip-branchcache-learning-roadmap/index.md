@@ -11,12 +11,12 @@ tags:
   - branchcache
   - learning
   - windows-2008-r2
-  - windows-7
+  - Windows
 categories:
   - branchcache
   - knowledge
-  - windows-7
   - windows-server-2008-r2
+  - Windows
 ---
 Microsoft has published a BranchCache Learning Roadmap document. Download the document from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=cda652cf-c954-4b78-9e1b-7a660dc3b867)
 

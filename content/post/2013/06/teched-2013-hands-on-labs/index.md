@@ -17,8 +17,10 @@ tags:
   - software-management
   - teched-2013
   - ue-v
+  - Windows
 categories:
   - labs
+  - Windows
 ---
 The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually start testing out things. I was therefore very pleased to see that Microsoft has made the Hands-On labs from TechEd 2013 available online. 
 

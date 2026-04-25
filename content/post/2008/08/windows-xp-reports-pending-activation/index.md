@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-xp-reports-pending-activation.png"
 tags:
   - activation
+  - Windows
 categories:
   - deployment
   - windows-xp

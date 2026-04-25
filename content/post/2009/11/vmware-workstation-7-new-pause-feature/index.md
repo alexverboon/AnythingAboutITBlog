@@ -14,10 +14,12 @@ tags:
   - virtualization
   - vm
   - vmware-workstation-7
+  - Windows
 categories:
   - tip
   - virtualization
   - vmware
+  - Windows
 ---
 As I wrote in my [earlier post](https://www.verboon.info/index.php/2009/10/vmware-workstation-7-rc-available/) this month, VMWare published a Release Candidate for VMWare Workstation 7. One of the most interesting new features (to me) is the Pause feature that is described as following:
 

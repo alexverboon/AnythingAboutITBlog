@@ -17,6 +17,7 @@ tags:
   - network
   - performance
   - xendesktop
+  - Windows
 categories:
   - citrix
   - hdx

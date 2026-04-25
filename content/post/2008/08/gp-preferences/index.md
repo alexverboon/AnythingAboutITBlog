@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - group-policy
   - vista
+  - Windows
 categories:
   - deployment
   - group-policy

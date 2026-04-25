@@ -13,9 +13,11 @@ tags:
   - sha1
   - tip
   - tool
+  - Windows
 categories:
   - tip
   - tools
+  - Windows
 ---
 Today’s ToolTip is about a utility called **checksum** and guess what, it can create and verify checksums. But beside all the other checksum utilities i came across so far this one has some nice features that make it worth mentioning it. 
 

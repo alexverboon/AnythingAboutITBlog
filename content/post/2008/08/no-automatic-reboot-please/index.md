@@ -11,6 +11,7 @@ image: "img/post-heroes/no-automatic-reboot-please.png"
 tags:
   - automatic-updates
   - registry
+  - Windows
 categories:
   - tip
   - vista

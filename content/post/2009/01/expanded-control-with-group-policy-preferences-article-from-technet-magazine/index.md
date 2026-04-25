@@ -11,14 +11,15 @@ tags:
   - active-directory
   - gpp
   - group-policy-preferences
+  - Windows
 categories:
   - active-directory
   - deployment
   - group-policy
   - vista
-  - windows-7
   - windows-server-2008
   - windows-xp
+  - Windows
 ---
 For those interested in Group Policy Preferences I recommend reading the "[Expanded Control with Group Policy Preferences](http://technet.microsoft.com/en-us/magazine/dd314380.aspx)" that is published in the January 2009 issue on [TechNet Magazine](http://technet.microsoft.com/en-us/magazine/default.aspx).
 

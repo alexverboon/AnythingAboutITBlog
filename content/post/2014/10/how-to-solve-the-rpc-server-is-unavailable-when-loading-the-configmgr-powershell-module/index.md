@@ -12,11 +12,11 @@ tags:
   - configmgr
   - error
   - import-mdoule
-  - powershell
   - rpc
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 Since a few weeks, I received the below error message when importing the ConfigMgr module in PowerShell, but everything I ran afterwards worked fine, so I kept ignoring it for a while. [
 ![image](images/image_thumb4.png)

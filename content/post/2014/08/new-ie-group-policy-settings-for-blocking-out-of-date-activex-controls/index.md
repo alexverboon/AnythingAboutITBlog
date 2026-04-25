@@ -11,6 +11,7 @@ tags:
   - activex
   - group-policy
   - internet-explorer
+  - Windows
 categories:
   - group-policy
   - internet-explorer

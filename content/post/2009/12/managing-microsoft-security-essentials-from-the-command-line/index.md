@@ -17,12 +17,14 @@ tags:
   - security-essentials
   - spyware
   - update
+  - Windows
 categories:
   - automation
   - mse
   - security
   - tip
   - tools
+  - Windows
 ---
 Microsoft Security Essentials (MSE) is Microsoft's free Antivirus Software which helps protecting clients against viruses and spyware. For years I had used other free Antivirus programs on my home based clients, but have switched them all to MSE since it’s release in September 2009. 
 

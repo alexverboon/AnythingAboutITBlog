@@ -13,12 +13,13 @@ tags:
   - disk
   - vhd
   - virtualization
+  - Windows
 categories:
   - knowledge
   - reading
   - vhd
   - virtualization
-  - windows7
+  - Windows
 ---
 Microsoft recently published the “Virtual Hard Disk Getting Started Guide”. This paper provides you with all the information you need around VHD. 
 

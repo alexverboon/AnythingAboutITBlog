@@ -9,10 +9,10 @@ description: "Jeremy Moskowitz from [GPanswers.com ](http://www.gpanswers.com/)j
 author: "Alex Verboon"
 tags:
   - gpo
-  - windows-7
+  - Windows
 categories:
   - group-policy
-  - windows-7
+  - Windows
 ---
 Jeremy Moskowitz from [GPanswers.com ](http://www.gpanswers.com/)just uploaded 2 videos on YouTube demonstrating some of the new GP features in Windows 7.
 

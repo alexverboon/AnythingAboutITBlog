@@ -9,6 +9,7 @@ description: "Earlier as planned, Microsoft has released Internet Explorer 8 Bet
 author: "Alex Verboon"
 tags:
   - ie
+  - Windows
 categories:
   - beta
 ---

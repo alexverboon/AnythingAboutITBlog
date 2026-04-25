@@ -18,11 +18,13 @@ tags:
   - security
   - security-compliance-manager
   - sla
+  - Windows
 categories:
   - compliance
   - group-policy
   - sccm-2012
   - scm
+  - Windows
 ---
 Most enterprises take advantage of Group Policies to manage security configuration settings across their server and desktop infrastructure. Usually once tested and implemented it’s assumed they get applied correctly. But can we be 100% sure that our clients and servers do actually receive these settings? 
 

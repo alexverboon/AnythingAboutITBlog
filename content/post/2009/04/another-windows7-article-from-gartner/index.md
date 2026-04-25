@@ -10,10 +10,10 @@ author: "Alex Verboon"
 tags:
   - deployment
   - sp1
-  - windows7
+  - Windows
 categories:
   - deployment
-  - windows7
+  - Windows
 ---
 This article discusses some thoughts around Windows 7 and Service Pack 1. 
 

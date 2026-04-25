@@ -10,12 +10,14 @@ author: "Alex Verboon"
 image: "img/post-heroes/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service.png"
 tags:
   - ConfigMgr
-  - PowerShell
   - PrintNightMare
   - PrintSpooler
   - Security
+  - Windows
+  - PowerShell
 categories:
   - Security
+  - PowerShell
 ---
 Hello there,
 

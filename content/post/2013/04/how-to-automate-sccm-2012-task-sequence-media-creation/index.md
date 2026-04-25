@@ -12,13 +12,13 @@ tags:
   - boot-media
   - cu1
   - new-cmtasksequencemedia
-  - powershell
   - sccm-2012
   - script
   - task-sequence
+  - PowerShell
 categories:
-  - powershell
   - sccm-2012
+  - PowerShell
 ---
 Just recently I went through the CM12 Console Task Sequence media creation wizard several times a day, so at some point I thought, this is a good candidate for automation. 
 

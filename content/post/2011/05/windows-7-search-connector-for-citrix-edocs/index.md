@@ -14,8 +14,10 @@ tags:
   - explorer
   - search
   - search-connector
+  - Windows
 categories:
   - citrix
+  - Windows
 ---
 Here’s another Search Connector for Windows 7 I’ve just created. Start your [Citrix eDocs](http://support.citrix.com/proddocs/index.jsp) search directly from the Windows Explorer. 
 

@@ -11,10 +11,10 @@ tags:
   - federated-search
   - search
   - search-provider
-  - windows-7
+  - Windows
 categories:
   - federated-search
-  - windows-7
+  - Windows
 ---
 Well this isn’t really the Part2 I intended to write, but I just stumbled upon some interesting content that relates to Windows 7 Search, and wanted to share this. Part3 will follow in the near future. 
 

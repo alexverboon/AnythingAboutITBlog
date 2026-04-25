@@ -12,6 +12,7 @@ tags:
   - configuration
   - sconfig
   - server-core
+  - Windows
 categories:
   - tip
   - windows-server-2008

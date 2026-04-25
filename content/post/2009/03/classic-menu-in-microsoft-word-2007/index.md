@@ -11,6 +11,7 @@ image: "img/post-heroes/classic-menu-in-microsoft-word-2007.png"
 tags:
   - ribbon
   - winword
+  - Office
 categories:
   - microsoft-office
   - reading

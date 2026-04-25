@@ -18,7 +18,7 @@ categories:
   - automation
   - deployment
   - vista
-  - windows-7
+  - Windows
 ---
 The below video is from Technet where [Gordon Ryan ](http://www.longneckconsulting.com/)explains how to use multicast transmission to deploy multiple clients.
 

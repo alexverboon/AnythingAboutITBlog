@@ -11,11 +11,11 @@ tags:
   - group-policy
   - library
   - library-definition-files
-  - windows-8
   - windows-explorer
+  - Windows
 categories:
   - group-policy
-  - windows-8
+  - Windows
 ---
 There is a new Group Policy setting for Windows 8 and Server 2012 called “**Location where all default Library definition files for users/machines reside**”. The policy can be found under Computer or User Configuration / Administrative Templates / Windows Components / Windows Explorer.
 

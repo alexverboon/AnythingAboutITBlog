@@ -14,7 +14,7 @@ tags:
   - powershell
 categories:
   - group-policy
-  - powershell
+  - PowerShell
 ---
 **Update: 22. August 2014**: I have posted an updated version of the script [here](http://gallery.technet.microsoft.com/Get-GPEventByCorrelationID-97944972). 
 

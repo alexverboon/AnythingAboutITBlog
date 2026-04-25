@@ -14,12 +14,13 @@ tags:
   - dvd
   - tool
   - usb
-  - windows-7
+  - Windows
+  - WinPE
 categories:
   - tip
   - usb
-  - windows-7
-  - winpe
+  - Windows
+  - WinPE
 ---
 Most of you are probably familiar with the Microsoft [Windows 7 USB/DVD Download Tool](http://wudt.codeplex.com/) which allows you to create a copy of your Windows 7 ISO file on a USB or a DVD. Now the Tool works great with the original Microsoft Windows 7 ISO files, but when you want to use the tool for your own customized Windows 7 installation ISO files you might get an error as shown below. 
 

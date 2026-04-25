@@ -14,7 +14,7 @@ tags:
   - message
   - powershell
 categories:
-  - powershell
+  - PowerShell
 ---
 I have had a request this week to make the font size of the Message text displayed by the PowerShell App Deployment Tookit function **Show-InstallationPrompt **a bit larger. 
 

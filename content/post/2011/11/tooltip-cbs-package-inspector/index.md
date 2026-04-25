@@ -16,11 +16,12 @@ tags:
   - security-patch
   - tool
   - windows-update
+  - Windows
 categories:
   - qfe
   - tip
   - tools
-  - windows-7
+  - Windows
 ---
 CBS Package Inspector (Package Inspector) is a GUI tool that allows you to open up a Component Based Servicing (CBS) package and view and examine its manifests. In simple words, with this utility you can open and view the content of Microsoft Security Update and QFE packages provided as MUS or a CAB file.
 

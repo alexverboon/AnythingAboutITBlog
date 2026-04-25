@@ -9,6 +9,7 @@ description: "If you are sure about what you are doing and you want to speed up 
 author: "Alex Verboon"
 tags:
   - script
+  - Windows
 categories:
   - automation
   - tip

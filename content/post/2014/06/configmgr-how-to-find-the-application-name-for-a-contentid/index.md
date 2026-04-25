@@ -12,10 +12,11 @@ tags:
   - application
   - configmgr
   - contentid
-  - powershell
   - status-message-10025
+  - PowerShell
 categories:
   - configmgr
+  - PowerShell
 ---
 While reviewing ConfigMgr status messages for clients reporting problems acquiring package content (Message ID 10025) I found some code snippets on [sccmfaq.ch](http://sccmfaq.wordpress.com/2014/03/11/sccm-2012-get-from-content-id-to-the-name-of-an-application-with-powershell/) that maps the ContentID to the name of the application. As i had to do several lookups, I decided to create a function for it.
 

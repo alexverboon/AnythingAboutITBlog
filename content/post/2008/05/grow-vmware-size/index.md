@@ -10,8 +10,11 @@ author: "Alex Verboon"
 tags:
   - virtual
   - vmware
+  - Windows
+  - WinPE
 categories:
   - virtualization
+  - WinPE
 ---
 Today i ran out of diskspace on one of my systems that runs within a vmware session. The system disk only had 10 GB and I needed to add another 10 GB.
 

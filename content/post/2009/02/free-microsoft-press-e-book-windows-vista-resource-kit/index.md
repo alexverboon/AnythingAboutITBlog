@@ -14,6 +14,7 @@ tags:
   - free
   - resource-kit
   - windows-vista
+  - Windows
 categories:
   - reading
   - tip

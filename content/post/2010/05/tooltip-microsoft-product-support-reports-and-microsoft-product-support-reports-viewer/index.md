@@ -11,6 +11,7 @@ image: "img/post-heroes/tooltip-microsoft-product-support-reports-and-microsoft-
 tags:
   - support
   - troubleshooting
+  - Windows
 categories:
   - active-directory
   - drivers
@@ -23,7 +24,7 @@ categories:
   - sql
   - tip
   - tools
-  - windows-7
+  - Windows
 ---
 If you get tasked to do some system troubleshooting and you just want to get as many information possible from a client, then have a look at the Microsoft Product Support Report Tool and the Product Support Reports Viewer. 
 

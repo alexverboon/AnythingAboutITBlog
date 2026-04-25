@@ -9,9 +9,9 @@ description: "After months of silence (last post was on August 10, 2009) a new b
 author: "Alex Verboon"
 tags:
   - battery
-  - windows-7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 After months of silence (last post was on August 10, 2009) a new blog post was added on the Engineering Windows 7 blog. Looks like there is something to say about Batteries. Read the full story about “Windows 7 Battery Notification Messages” [here](http://blogs.msdn.com/e7/archive/2010/02/08/windows-7-battery-notification-messages.aspx)
 

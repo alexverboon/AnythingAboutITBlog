@@ -10,10 +10,10 @@ author: "Alex Verboon"
 image: "img/post-heroes/powershell-script-update-poshmodule.png"
 tags:
   - module
-  - powershell
   - update
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 With nowadays rapid development and release cycles it’s a good practice to regularly check whether you have the latest available module versions installed. Using native PowerShell cmdlets you would first list the module installed locally and then search for the latest module online.
 

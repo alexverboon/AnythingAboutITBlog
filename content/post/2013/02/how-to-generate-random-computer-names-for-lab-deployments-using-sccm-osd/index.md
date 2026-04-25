@@ -15,9 +15,11 @@ tags:
   - osd
   - random
   - sccm
+  - Windows
 categories:
   - osd
   - sccm-2012
+  - Windows
 ---
 For my **lab** environment I use the below described approach to generate random computernames for my clients. The script does the following:
 

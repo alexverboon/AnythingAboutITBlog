@@ -12,13 +12,14 @@ tags:
   - desktop-virtualization
   - med-v
   - virtualization
+  - Windows
 categories:
   - deployment
   - reading
   - virtualization
   - vista
-  - windows-7
   - windows-xp
+  - Windows
 ---
 Microsoft Enterprise Desktop Virtualization (MED-V) is Microsoft's new product offering for so-called local virtualization or client based virtualization. The solution itself originates from Kidaro that was acquired by Microsoft last year.
 

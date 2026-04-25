@@ -14,12 +14,13 @@ tags:
   - support
   - tool
   - version
+  - Windows
 categories:
   - security
   - symantec
   - tip
   - tools
-  - windows-7
+  - Windows
 ---
 I’m currently busy with integrating the Symantec Endpoint Protection software into a Windows 7 build for one of our customers. I wondered if the Security team had really provided me with the latest and greatest version and ended up searching for that information on the Symantec web site where I came across a post mentioning the Symantec Endpoint Protection Support Tool.
 

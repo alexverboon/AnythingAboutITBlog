@@ -15,11 +15,13 @@ tags:
   - makewinpemedia-cmd
   - optional-components
   - script
-  - windows-8
-  - winpe
+  - Windows
+  - PowerShell
+  - WinPE
 categories:
-  - windows-8
-  - winpe
+  - Windows
+  - PowerShell
+  - WinPE
 ---
 Today I want to share with you a small script I’ve put together for customizing WinPE 4.0 that will ship with Windows 8. I’ve rewritten the script based on some existing script code we already use today, but wanted by purpose a small independent script that I can hook in between the standard scripts provided within the ADK sources, mainly for familiarizing myself with anything new within WinPE 4.0.
 

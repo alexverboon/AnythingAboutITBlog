@@ -12,12 +12,15 @@ tags:
   - costfinalize
   - costinitialize
   - msi
-  - powershell
   - windows-installer
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - power
-  - powershell
   - windows-installer
+  - PowerShell
+  - Office
 ---
 A few weeks ago we have started with the preparation for introducing Microsoft Office 2013 and Internet Explorer 11. As with every introduction of new software it’s all about compatibility. During the course of testing applications we were informed that some of them caused an issue due to hard coded paths. Each application is going to be installed anyway so that application owners can conduct testing, but at the same time I thought, it would be nice if we could identify potentially affected applications upfront without having to go through an actual install.
 

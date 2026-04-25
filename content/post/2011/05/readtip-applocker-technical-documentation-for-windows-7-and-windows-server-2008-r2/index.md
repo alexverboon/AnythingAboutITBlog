@@ -10,8 +10,10 @@ author: "Alex Verboon"
 tags:
   - applocker
   - documentation
+  - Windows
 categories:
   - applocker
+  - Windows
 ---
 The AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2 provides technical guidance about understanding how AppLocker works and how to effectively plan and deploy AppLocker policies.
 

@@ -12,11 +12,11 @@ tags:
   - azure
   - azure-resource-manager
   - new-azurermresourcegroupdeployment
-  - powershell
   - virtual-network
+  - PowerShell
 categories:
   - azure
-  - powershell
+  - PowerShell
 ---
 In the previous article ([Part1](https://www.verboon.info/2016/02/creating-a-virtual-network-using-azure-resource-manager-part-1/)) I walked through the steps of creating a Virtual Network using Azure Resource Manager and Visual Studio. In this article, we’ll look at using the Azure PowerShell cmdlets the some options for using parameters. 
 

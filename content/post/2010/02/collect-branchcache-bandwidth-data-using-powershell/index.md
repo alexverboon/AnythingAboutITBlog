@@ -12,13 +12,15 @@ tags:
   - branchcache
   - measure
   - wan
-  - windows-7
+  - Windows
+  - PowerShell
 categories:
   - branchcache
   - deployment
   - tools
-  - windows-7
   - windows-server-2008-r2
+  - Windows
+  - PowerShell
 ---
 If you have BranchCache deployed within your enterprise environment you might be interested in the    
 *BranchCache Bandwidth Saving Calculation PowerShell Script for the SMB Protocol* which allows you to collect and measure the amount of WAN bandwidth that is saved by your BranchCache deployment. 

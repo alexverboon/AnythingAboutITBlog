@@ -13,12 +13,12 @@ tags:
   - licensing
   - mak
   - slmgr
-  - windows-7
+  - Windows
 categories:
   - deployment
   - kms
   - licensing
-  - windows7
+  - Windows
 ---
 A great article from Kevin Ledman - Microsoft Platforms Support, covering the following topics around Windows activation: 
 

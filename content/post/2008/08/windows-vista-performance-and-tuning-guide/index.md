@@ -9,6 +9,7 @@ description: "Microsoft has published a [Windows Vista Performance and Tuning Gu
 author: "Alex Verboon"
 tags:
   - vista
+  - Windows
 categories:
   - tip
   - vista

@@ -16,12 +16,12 @@ tags:
   - defragmentation
   - schedule
   - scheduled-tasks
-  - windows-7
+  - Windows
 categories:
   - defrag
   - scheduled-tasks
   - tip
-  - windows-7
+  - Windows
 ---
 As you probably know Windows 7 has a build-in scheduled task to run Defrag every Wednesday every week. One of my clients asked me to have the day changed from Wednesday to Thursday. Well,  hat I thought would be done in a few minutes ended up in a little journey, but finally I got it to work. As you can see from the below screenshot, by default Defrag is started every Wednesday every week. 
 

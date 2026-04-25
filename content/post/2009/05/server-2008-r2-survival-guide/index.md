@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - 2008-r2
   - guide
+  - Windows
 categories:
   - tip
   - windows-server-2008

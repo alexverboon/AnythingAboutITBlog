@@ -12,6 +12,7 @@ tags:
   - product-lifecycle
   - support
   - windows-xp
+  - Windows
 categories:
   - 64-bit
   - product-lifecycle

@@ -16,12 +16,17 @@ tags:
   - exploit-guard
   - mdatp
   - network-protection
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - defender-atp
   - endpoint-protection
   - eventlog
   - mdatp
   - microsoft-defender
+  - Windows
+  - PowerShell
 ---
 In the [previous post](https://www.verboon.info/2019/10/windows-defender-more-than-just-antivirus-part-1/) I provided an overview of the history of Windows Defender and an overview of the various features that have the name Windows Defender in them. When then looked at Windows Defender SmartScreen and Windows Defender Cloud based protection. Today I'd like to continue with my notes from the field and personal experiences and take a look at Windows Defender Exploit guard. Again, the objective of this blog post is to inspire you getting the most out of the Defender feature set to improve your security posture.
 

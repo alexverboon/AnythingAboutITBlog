@@ -13,9 +13,11 @@ tags:
   - evaluation
   - mdatp
   - security
+  - Windows
 categories:
   - defender-atp
   - security
+  - Windows
 ---
 This week Hadar Feldmann, senior program manager and security researcher at Microsoft [announced](#) the public preview of the new Microsoft Defender ATP evaluation lab that now includes two attack simulation solutions from AttackIQ and SafeBreach. The term 'evaluation' might indicate that the lab is only intended for new customers hat are in the process of evaluating Microsoft Defender ATP, but that's not the case, personally I think that it is also a perfect playground for existing customers to advance their investigation and hunting skills using Microsoft Defender ATP.
 

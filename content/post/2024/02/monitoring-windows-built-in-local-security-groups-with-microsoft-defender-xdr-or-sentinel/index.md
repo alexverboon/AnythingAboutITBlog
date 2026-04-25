@@ -8,10 +8,14 @@ aliases:
 description: "Detect and monitor local security group changes using Microsoft Defender XDR and Microsoft Sentinel."
 author: "Alex Verboon"
 image: "img/post-heroes/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel.png"
-tags: ["microsoft defender xdr", "microsoft sentinel", "kql"]
-categories: ["Microsoft Defender"]
+tags:
+  - microsoft defender xdr
+  - microsoft sentinel
+  - kql
+  - Windows
+categories:
+  - Microsoft Defender
 ---
-
 # Windows Built-in local security groups
 
 Windows has several built-in local security groups that are designed to manage permissions and access rights on a computer. These groups are predefined by Windows, and each group has specific rights and permissions. The exact groups available can vary depending on the version of Windows you're using or the features that are enabled, but here's a general overview of the most commonly found built-in local security groups in Windows systems:

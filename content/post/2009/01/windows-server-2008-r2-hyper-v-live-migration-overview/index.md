@@ -11,6 +11,7 @@ tags:
   - hyper-v
   - live-migration
   - virtualization
+  - Windows
 categories:
   - automation
   - deployment

@@ -12,10 +12,11 @@ tags:
   - kms
   - troubleshooting
   - volume-licensing
+  - Windows
 categories:
   - kms
   - licensing
-  - windows-7
+  - Windows
 ---
 Here are some good resources for KMS troubleshooting:
 

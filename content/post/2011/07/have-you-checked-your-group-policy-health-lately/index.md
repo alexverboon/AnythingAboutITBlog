@@ -15,12 +15,14 @@ tags:
   - group-policy
   - health
   - infrastructure
-  - powershell
+  - Windows
+  - PowerShell
 categories:
   - active-directory
   - gpo
   - group-policy
   - tools
+  - PowerShell
 ---
 Group Policies are an essential part of every Windows Client infrastructure and it’s therefore critical to regularly spend some effort to ensure that things are in a healthy state. I would define a healthy Group Policy infrastructure as following:
 

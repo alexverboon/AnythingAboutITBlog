@@ -15,6 +15,7 @@ tags:
   - group-policy-preferences
   - wallpaper
   - xendesktop
+  - Windows
 categories:
   - bginfo
   - gpo

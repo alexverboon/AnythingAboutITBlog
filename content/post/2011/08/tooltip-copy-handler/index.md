@@ -14,6 +14,7 @@ tags:
   - copying-data
   - tip
   - tools
+  - Windows
 categories:
   - tip
   - tools

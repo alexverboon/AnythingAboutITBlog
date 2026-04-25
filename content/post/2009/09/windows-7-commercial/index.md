@@ -11,9 +11,9 @@ image: "img/post-heroes/windows-7-commercial.png"
 tags:
   - commercial
   - video
-  - windows-7
+  - Windows
 categories:
-  - windows7
+  - Windows
 ---
 Here’s one of the first official Windows 7 Commercial video’s. Nice. 
 

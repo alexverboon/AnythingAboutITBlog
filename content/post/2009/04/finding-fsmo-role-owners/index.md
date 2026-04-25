@@ -11,6 +11,7 @@ image: "img/post-heroes/finding-fsmo-role-owners.png"
 tags:
   - active-directory
   - fsmo
+  - Windows
 categories:
   - active-directory
   - group-policy

@@ -9,10 +9,11 @@ description: "With the launch of Windows Virtual PC for Windows7, there is a lot
 author: "Alex Verboon"
 tags:
   - Uncategorized
+  - Windows
 categories:
   - bios
   - virtualization
-  - windows-7
+  - Windows
 ---
 With the launch of Windows Virtual PC for Windows7, there is a lot of talk about the Virtualization Technology again. I found this introduction video from Intel that provides an overview on VT.
 

@@ -13,6 +13,7 @@ tags:
   - hyper-v
   - virtualization
   - windows-server-2008
+  - Windows
 categories:
   - hyper-v
   - virtualization

@@ -13,6 +13,7 @@ tags:
   - configuration
   - deployment
   - scripting
+  - Windows
 categories:
   - automation
   - bitlocker
@@ -20,7 +21,7 @@ categories:
   - tip
   - tools
   - vista
-  - windows7
+  - Windows
 ---
 During my weekly “let’s see what’s new”  search on some of my favorite websites, I found the “[Bitlocker Deployment Sample Resources](http://code.msdn.microsoft.com/bdedeploy)” on the [MSDN Code Gallery](http://code.msdn.microsoft.com/). The Resource Page contains a lot of documentation and useful script samples for the deployment and management of Microsoft [Bitlocker](http://www.microsoft.com/windows/windows-vista/features/bitlocker.aspx).
 

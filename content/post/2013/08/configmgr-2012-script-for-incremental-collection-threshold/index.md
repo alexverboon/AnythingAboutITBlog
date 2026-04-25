@@ -12,11 +12,11 @@ tags:
   - collections
   - configuration-manager
   - incremental-updates
-  - powershell
   - threshold
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 As described within the [ConfigMgr 2012 Best Practices Wiki](http://social.technet.microsoft.com/wiki/contents/articles/11215.system-center-2012-configuration-manager-best-practices.aspx#Best_Practices_for_Collections) on TechNet it’s recommended to keep the number of collections with incremental updates enabled to around 200, this to prevent evaluation delays. So I thought it might be a good idea to keep an eye on collections with incremental updates enabled within our infrastructure using a PowerShell script. 
 

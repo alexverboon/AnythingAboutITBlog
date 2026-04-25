@@ -12,12 +12,10 @@ tags:
   - mbsa
   - scan
   - security
-  - windows-8
-  - windows-8-1
+  - Windows
 categories:
   - mbsa
-  - windows-8
-  - windows-8-1
+  - Windows
 ---
 Based on a statement made by Microsoft in the August 2012 security bulletin, I wrote a short blog post back in November 2012 that there would be [no MBSA version available for Windows 8](https://www.verboon.info/index.php/2012/11/no-mbsa-for-windows-8-planned/). But it looks like plans have changed as Microsoft has now released a preview version of MBSA 2.3 that does provide support for Windows 8, Windows 8.1 as well as the new server editions. 
 

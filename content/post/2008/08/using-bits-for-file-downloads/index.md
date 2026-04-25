@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/using-bits-for-file-downloads.png"
 tags:
   - script
+  - Windows
 categories:
   - automation
   - tools

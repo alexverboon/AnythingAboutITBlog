@@ -13,6 +13,7 @@ tags:
   - home-server
   - hp-mediasmart
   - sharing
+  - Windows
 categories:
   - backup
   - hp
@@ -20,8 +21,8 @@ categories:
   - streaming
   - tip
   - whs
-  - windows-7
   - windows-home-server
+  - Windows
 ---
 This week I bought a HP MediaSmart Server EX490 which runs Windows Home Server. The primary reason for buying a Windows Home Server was to get an easy to use solution in place that allows us to perform automated backups and share the data across the multiple devices. 
 

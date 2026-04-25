@@ -14,11 +14,13 @@ tags:
   - score
   - wei
   - win32_winsat
-  - windows-7
   - winsat
+  - Windows
+  - PowerShell
 categories:
-  - windows-7
   - winsat
+  - Windows
+  - PowerShell
 ---
 Hey there, today I am going to share some information I have gathered about the Windows System Assessment Tests aka as WinSAT. When WinSAT runs, various performance tests are executed for the following system components:
 

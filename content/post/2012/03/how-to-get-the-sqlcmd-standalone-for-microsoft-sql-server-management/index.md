@@ -14,6 +14,7 @@ tags:
   - microsoft-sql-server
   - sql
   - sqlcmd
+  - Windows
 categories:
   - sql
   - sql-server

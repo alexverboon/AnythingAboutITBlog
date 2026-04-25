@@ -14,6 +14,7 @@ tags:
   - office-2007
   - security
   - trusted-location
+  - Office
 categories:
   - excel-2007
   - office-2007

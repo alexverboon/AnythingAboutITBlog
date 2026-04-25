@@ -10,9 +10,10 @@ author: "Alex Verboon"
 tags:
   - laps
   - logging
-  - powershell
   - verbose
   - winrm
+  - Windows
+  - PowerShell
 categories:
   - PowerShell
 ---

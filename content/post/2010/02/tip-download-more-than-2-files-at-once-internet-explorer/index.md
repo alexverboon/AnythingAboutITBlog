@@ -13,6 +13,7 @@ tags:
   - ie7
   - ie8
   - internet-explorer
+  - Windows
 categories:
   - internet-explorer
   - tip

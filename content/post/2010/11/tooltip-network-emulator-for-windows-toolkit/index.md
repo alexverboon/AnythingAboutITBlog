@@ -15,6 +15,7 @@ tags:
   - link
   - network
   - wan
+  - Windows
 categories:
   - bandwidth
   - branchcache

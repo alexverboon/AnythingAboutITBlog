@@ -11,12 +11,12 @@ tags:
   - appdna
   - application-compatibility
   - compatibility
-  - windows-7
+  - Windows
 categories:
   - appdna
   - compatibility
   - packaging
-  - windows-7
+  - Windows
 ---
 Seeing is believing – watch this 20 minute recorded demonstration of the AppTitude application testing and application remediation platform to learn how to accelerate your Windows 7, Microsoft App-V, Citrix XenApp, 64x, Windows Server and IE8 projects. . Video [here](http://www.app-dna.com/Resources/Videos/AppTitude-Demo.aspx) (one-time registration required).
 

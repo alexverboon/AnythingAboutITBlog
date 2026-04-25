@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - hypervisor
   - xenclient
+  - Windows
 categories:
   - citrix
   - hypervisor

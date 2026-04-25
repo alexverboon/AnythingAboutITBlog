@@ -13,6 +13,7 @@ tags:
   - media-player
   - video
   - vlc
+  - Windows
 categories:
   - media-player
   - tip

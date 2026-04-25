@@ -12,12 +12,12 @@ tags:
   - connectivity
   - dca
   - directaccess
-  - windows-7
+  - Windows
 categories:
   - directaccess
   - tools
-  - windows-7
   - windows-server-2008-r2
+  - Windows
 ---
 For those of you that do already use Windows 7 DirectAccess or plan to do so in the near future have a look at the Microsoft DirectAccess Connectivity Assistant (DCA). 
 

@@ -11,11 +11,11 @@ image: "img/post-heroes/windows-7-user-account-control.png"
 tags:
   - uac
   - user-account-control
-  - windows-7
+  - Windows
 categories:
   - knowledge
   - uac
-  - windows-7
+  - Windows
 ---
 Today I spend a bit of time in refreshing my UAC knowledge, below a listing of the content I’ve been reading and watching. 
 

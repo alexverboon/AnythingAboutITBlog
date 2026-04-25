@@ -11,6 +11,8 @@ tags:
   - extended-support
   - mainstream-support
   - product-lifecycle
+  - Windows
+  - Office
 categories:
   - knowledge
   - licensing
@@ -19,6 +21,7 @@ categories:
   - windows-2000
   - windows-server-2008
   - windows-xp
+  - Office
 ---
 As I wrote the previous blog entry I started thinking about all the other products I come across in my daily professional life and started creating the table shown below. 
 

@@ -18,6 +18,7 @@ tags:
 categories:
   - tip
   - tools
+  - Windows
 ---
 During my periodic visit on CodePlex I came across the Windows Services Dependency Viewer utility. The tool provides access to the following information:
 

@@ -15,11 +15,11 @@ tags:
   - in-box
   - oem
   - pnputil
-  - windows-7
+  - Windows
 categories:
   - drivers
   - driverstore-2
-  - windows-7
+  - Windows
 ---
 Since I wrote my previous post [Inside the Windows 7 Driver Store](https://www.verboon.info/index.php/2010/12/inside-the-windows-7-driver-store/), I continued exploring the content of the Driver Store. The results are as following: 
 

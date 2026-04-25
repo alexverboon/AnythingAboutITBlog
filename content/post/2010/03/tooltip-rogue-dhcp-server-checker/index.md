@@ -13,6 +13,7 @@ tags:
   - dhcp
   - dhcp-server
   - ip-address
+  - Windows
 categories:
   - dhcp
   - network

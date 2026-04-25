@@ -9,6 +9,7 @@ description: "If you haven't done so yet, it's about time you get the [MS08-067 
 author: "Alex Verboon"
 tags:
   - patches
+  - Windows
 categories:
   - security
   - vista

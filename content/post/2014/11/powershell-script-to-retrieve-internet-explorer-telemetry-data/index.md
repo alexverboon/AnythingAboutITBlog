@@ -14,11 +14,14 @@ tags:
   - document-mode
   - enterprise-mode
   - internet-explorer
-  - powershell
   - telemetry
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - internet-explorer
-  - powershell
+  - PowerShell
+  - Office
 ---
 During the past days I have been busy deploying the [Internet Explorer Site Discovery Toolkit](http://blogs.msdn.com/b/ie/archive/2014/10/24/announcing-the-enterprise-site-discovery-toolkit-for-internet-explorer-11.aspx) to our Internet Explorer 11 test clients. I will write about the deployment of the Toolkit in a separate post. Today I would like to share with you a PowerShell script I put together that allows you to retrieve the collected Internet Explorer Telemetry data from local or remote computers.
 

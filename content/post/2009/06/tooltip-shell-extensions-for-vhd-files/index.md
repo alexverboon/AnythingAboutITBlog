@@ -11,6 +11,7 @@ tags:
   - shell-extension
   - tool
   - vhd
+  - Windows
 categories:
   - hyper-v
   - virtualization

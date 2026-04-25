@@ -9,16 +9,18 @@ description: "Just found this SMB BranchCache deployment diagnosis script on MSD
 author: "Alex Verboon"
 tags:
   - branchcache
-  - powershell
   - script
   - smb
   - tool
+  - Windows
+  - PowerShell
 categories:
   - branchcache
   - deployment
   - tip
-  - windows-7
   - windows-server-2008-r2
+  - Windows
+  - PowerShell
 ---
 Just found this SMB BranchCache deployment diagnosis script on MSDN Code Gallery. 
 

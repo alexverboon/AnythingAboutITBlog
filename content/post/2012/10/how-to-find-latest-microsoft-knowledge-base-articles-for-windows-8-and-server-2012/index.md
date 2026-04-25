@@ -13,11 +13,11 @@ tags:
   - knowledge-base
   - microsoft
   - support
-  - windows-8
+  - Windows
 categories:
   - knowledge
   - microsoft
-  - windows-8
+  - Windows
 ---
 A great resource I am using for years already to proactively read through the Microsoft KB’s is [kbupdate.info](http://kbupdate.info/) a monitoring system that scans the entire Microsoft Knowledge Base every night. Now that Windows 8 and Server 2012 are out and Microsoft starts publishing KBs for it, you can track them easily via kbupdate.info
 

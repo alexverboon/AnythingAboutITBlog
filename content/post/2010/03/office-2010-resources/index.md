@@ -11,12 +11,12 @@ tags:
   - compatibility
   - deployment
   - migration
-  - office-2010
   - onramp
   - planning
+  - Office
 categories:
   - knowledge
-  - office-2010
+  - Office
 ---
 On march 4th Microsoft communicated on their [Office 2010 Engineering blog](http://blogs.technet.com/office2010/archive/2010/03/04/get-office-today-or-tomorrow.aspx) that they are on Schedule with Office 2010 and will release it to manufacturing next month. For Enterprise customers Office 2010 will be available as of May 12th, consumers will get Office 2010 in June. 
 

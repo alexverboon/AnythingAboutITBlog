@@ -9,12 +9,12 @@ description: "During the past 2 days I have been looking at the Windows 7 Branch
 author: "Alex Verboon"
 tags:
   - branchcache
-  - windows-7
   - windows-server-2008r2
+  - Windows
 categories:
   - branchcache
-  - windows-7
   - windows-server-2008
+  - Windows
 ---
 During the past 2 days I have been looking at the Windows 7 BranchCache feature. After hearing, reading and talking about this for months, it was about time to do some hands-on stuff. 
 

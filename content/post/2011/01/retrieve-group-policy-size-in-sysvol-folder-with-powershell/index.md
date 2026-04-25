@@ -15,10 +15,13 @@ tags:
   - gpo
   - group-policy
   - size
+  - Windows
+  - PowerShell
 categories:
   - gpo
   - group-policy
-  - windows7
+  - Windows
+  - PowerShell
 ---
 Needless to say that there are quite some benefits in using a central store for Group Policies, one of them is that you can prevent the so-called SYSVOL bloat. A good description of the SYSVOL bloat is described [here](http://blogs.technet.com/b/askds/archive/2009/12/09/windows-7-windows-server-2008-r2-and-the-group-policy-central-store.aspx). So how much size do my GPOs currently consume within the SYSVOL folder? I asked myself that question a few days ago and ended up with let’s say my first version of the **GetGPOSize** PowerShell script.
 

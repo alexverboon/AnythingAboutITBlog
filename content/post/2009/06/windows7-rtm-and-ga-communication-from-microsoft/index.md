@@ -9,9 +9,9 @@ description: "Windows 7 and Windows Server 2008 R2 RTM and General Availability 
 author: "Alex Verboon"
 tags:
   - rtm
-  - windows-7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Windows 7 and Windows Server 2008 R2 RTM and General Availability dates were confirmed today by Microsoft.
 

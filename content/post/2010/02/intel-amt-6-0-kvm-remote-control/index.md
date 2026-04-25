@@ -12,10 +12,12 @@ tags:
   - manageability
   - remote-control
   - vpro
+  - WinPE
 categories:
   - amt
   - intel
   - vpro
+  - WinPE
 ---
 Back in December 2009 I wrote an article about [Remote Management of AMT/vPro machine with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management-of-amtvpro-machine-with-winpe-and-vnc/) the reason for using VNC is because until [AMT](http://en.wikipedia.org/wiki/Intel_AMT_versions) 5.0 only text based console redirection is supported, hence AMT 5.0 does only support text based operating systems, so if we wanted to remotely manage a PC to fix a problem we ended up using DOS or Linux based recovery media or a solution as described in the above mentioned article. 
 

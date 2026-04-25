@@ -14,10 +14,13 @@ tags:
   - gpo
   - group-policy
   - security
+  - Windows
+  - PowerShell
 categories:
   - group-policy
   - reading
   - tip
+  - PowerShell
 ---
 Today I’ve received a signed copy of Jeremy Moskowitz latest Book “[Group Policy – Fundamentals, Security and the Managed Desktop](http://www.gpanswers.com/books.html#tabs)”, so instead of using my laptop I guess I’ll be holding a real book in my hands this weekend. 
 

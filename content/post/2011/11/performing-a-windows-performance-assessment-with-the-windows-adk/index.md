@@ -17,11 +17,13 @@ tags:
   - job
   - performance
   - standby
-  - windows-8
+  - Windows
+  - WinPE
 categories:
   - adk
   - performance
-  - windows-8
+  - Windows
+  - WinPE
 ---
 By now most of you have probably looked at the Windows 8 client or server preview build and unfortunately the most attention is given to the new Metro look, but hey there’s more than that coming, in fact there’s some awesome stuff coming I’d like you to know about. With Windows Vista and Windows 7 Microsoft also released the Windows Automated Installation Kit known as WAIK. For Windows 8 this is now being rebranded into Windows Assessment and Deployment Kit in short ADK. Now don’t get confused by the word Assessment here as it has nothing to do with the Microsoft Assessment and Planning Toolkit (MAP) that is used to assess your current infrastructure. 
 

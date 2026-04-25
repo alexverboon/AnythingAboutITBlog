@@ -11,6 +11,7 @@ tags:
   - book
   - security
   - vista
+  - Windows
 categories:
   - reading
   - vista

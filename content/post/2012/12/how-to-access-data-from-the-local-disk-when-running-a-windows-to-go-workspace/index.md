@@ -15,11 +15,11 @@ tags:
   - diskpart
   - online
   - san-policy
-  - windows-8
   - windows-8-to-go
+  - Windows
 categories:
   - windows-to-go-2
-  - windows8
+  - Windows
 ---
 When provisioning a Windows To Go Workspace using the Windows 8 build-in Windows To Go creator or following the [step by step instructions](http://social.technet.microsoft.com/wiki/contents/articles/6991.windows-to-go-step-by-step-en-us.aspx) described within the TechNet Wiki a SAN policy is applied that prevents the Windows To Go Workspace from bringing online any internally connected disks from the host system. The result is that you cannot access any data that is stored there. 
 

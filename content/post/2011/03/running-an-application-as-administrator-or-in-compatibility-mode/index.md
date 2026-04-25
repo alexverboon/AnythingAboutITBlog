@@ -13,11 +13,11 @@ tags:
   - compatibility
   - registry
   - security
-  - windows-7
+  - Windows
 categories:
   - compatibility
   - security
-  - windows-7
+  - Windows
 ---
 Today someone in a forum asked how to programmatically configure an application so that it runs in compatibility mode. Configuring this manually is easy, just open the file’s properties, select the Compatibility tab and apply the required settings. On Windows 7 this then looks as shown in the picture below. 
 

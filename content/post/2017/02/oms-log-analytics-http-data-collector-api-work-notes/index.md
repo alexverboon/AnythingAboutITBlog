@@ -15,10 +15,13 @@ tags:
   - log-analytics
   - oms
   - post
+  - Windows
+  - PowerShell
 categories:
   - azure
   - log-analytics
   - oms
+  - PowerShell
 ---
 I believe that the Microsoft Operations Management Suite is yet another example of how cool Cloud based solutions can be. Instead of first having to spin up an entire backend infrastructure before you can actually start collecting data, with the Microsoft Operations Management Suite you can directly start focusing on the task of collecting and visualizing your data. This blog post is basically a summary of my notes and scripts that I created while exploring the OMS Log Analytics HTTP Data Collector API, that allows you to submit any type of data to an OMS Workspace.
 

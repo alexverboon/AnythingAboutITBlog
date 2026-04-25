@@ -11,11 +11,13 @@ image: "img/post-heroes/configmgr-powershell-script-to-collect-remote-log-files.
 tags:
   - configmgr
   - log-files
-  - powershell
   - remoting
   - transfer
+  - Windows
+  - PowerShell
 categories:
   - configmgr
+  - PowerShell
 ---
 Looking at a client’s ConfigMgr Agent log files is inevitable when managing a Configuration Manager infrastructure. If you are working within a local area network only, then you will most likely just connect to the remote systems configuration manager log folder and drag and drop the appropriate log files into CMTrace.exe. But if your clients are distributed across a WAN network with slow network links opening the log file from a remote location is probably not the most efficient way for analyzing the log files content. And because troubleshooting typically requires looking at multiple log files you finally end up copying multiple log files or just the whole log folder to your client to open them locally. 
 

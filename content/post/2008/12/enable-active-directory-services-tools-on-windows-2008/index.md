@@ -13,6 +13,7 @@ tags:
   - gpmc
   - group-policy
   - windows-server-2008
+  - Windows
 categories:
   - active-directory
   - group-policy

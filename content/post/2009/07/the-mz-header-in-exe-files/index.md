@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/the-mz-header-in-exe-files.png"
 tags:
   - mz
+  - Windows
 categories:
   - knowledge
   - tip

@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - deployment
   - windows-vista
+  - Windows
 categories:
   - automation
   - deployment

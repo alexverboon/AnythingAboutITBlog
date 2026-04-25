@@ -15,9 +15,11 @@ tags:
   - security
   - url
   - urlhaus
+  - PowerShell
 categories:
   - defender-atp
   - mdatp
+  - PowerShell
 ---
 Hello everyone, in today's article we are going to take look at how we can use Threat Intelligence (TI) data from URLhaus with Microsoft Defender ATP advanced hunting.
 

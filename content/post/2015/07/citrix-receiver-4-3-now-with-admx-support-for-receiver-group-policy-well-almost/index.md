@@ -13,6 +13,7 @@ tags:
   - citrix
   - group-policy
   - templates
+  - Windows
 categories:
   - citrix
 ---

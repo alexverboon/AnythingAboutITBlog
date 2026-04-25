@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - msi
   - packaging
+  - Windows
 categories:
   - automation
   - packaging

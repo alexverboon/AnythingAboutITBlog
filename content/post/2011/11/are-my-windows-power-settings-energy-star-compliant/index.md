@@ -12,10 +12,10 @@ tags:
   - energy-star
   - power-management
   - power-settings
-  - windows-7
+  - Windows
 categories:
   - energy
-  - windows-7
+  - Windows
 ---
 I am often asked by customers whether their Windows 7 Power Settings are [Energy Star](http://www.energystar.gov/index.cfm?c=home.index) compliant. 
 

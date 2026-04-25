@@ -12,14 +12,14 @@ tags:
   - deployment
   - enduser
   - migration
-  - office-2010
   - training
-  - windows-7
+  - Windows
+  - Office
 categories:
   - deployment
   - knowledge
   - tip
-  - windows-7
+  - Windows
 ---
 One of the objectives of deploying a new operating system within an Enterprise is to provide end users with a state of the art Operating System that builds the foundation for adopting new technologies and to increase end user productivity. 
 

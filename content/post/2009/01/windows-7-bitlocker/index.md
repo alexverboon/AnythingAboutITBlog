@@ -10,12 +10,12 @@ author: "Alex Verboon"
 tags:
   - bitlocker
   - encryption
-  - windows-7
+  - Windows
 categories:
   - aik
   - automation
   - deployment
-  - windows-7
+  - Windows
 ---
 Bitlocker is the build-in disc encryption solution that was first shipped with Windows Vista. The deployment of Bitlocker with Windows Vista wasn't a straight forward process both in deployment and configuration. Reading and watching the current content that is provided around Windows 7 it looks that we can expect a number of improvements for Bitlocker.
 

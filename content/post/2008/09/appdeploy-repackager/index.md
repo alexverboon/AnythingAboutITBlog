@@ -9,6 +9,7 @@ description: "Bob Kelly has launched a free MSI Packaging tool called the [AppDe
 author: "Alex Verboon"
 tags:
   - msi
+  - Windows
 categories:
   - tools
 ---

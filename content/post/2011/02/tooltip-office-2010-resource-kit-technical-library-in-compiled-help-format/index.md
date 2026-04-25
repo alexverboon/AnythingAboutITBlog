@@ -9,13 +9,13 @@ description: "For those that frequently need access to the Office 2010 Resource 
 author: "Alex Verboon"
 tags:
   - help
-  - office-2010
   - resource-kit
+  - Office
 categories:
-  - office2010
   - resource-kit
   - tip
   - tools
+  - Office
 ---
 For those that frequently need access to the Office 2010 Resource Kit, here’s an offline version available as downloadable CHM file. Download from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=e6dcc787-4653-49da-aeef-564a64dd4ac5)
 

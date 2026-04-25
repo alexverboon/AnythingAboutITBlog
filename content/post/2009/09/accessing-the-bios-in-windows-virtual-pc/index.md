@@ -12,12 +12,13 @@ tags:
   - bios
   - boot
   - virtual-pc
+  - Windows
 categories:
   - bios
   - tip
   - virtualization
-  - windows7
   - xp-mode
+  - Windows
 ---
 When setting up a Virtual Machine in Windows Virtual PC, You will see the following progress window when the VM is started. [
 ![image](images/image_thumb1.png)

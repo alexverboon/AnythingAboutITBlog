@@ -18,11 +18,12 @@ tags:
   - savings
   - sccm-2007-r3
   - sccm-agent
+  - Windows
 categories:
   - energy
   - power
   - sccm-2007
-  - windows-7
+  - Windows
 ---
 Almost all companies I know do have some sort of a Green-IT policy in place but in my view this should go beyond just putting an e-mail footnote like “*Please consider the environment before printing this e-mail*”. Many companies use Microsoft System Center Configuration Manager 2007 R3, but don’t bail out its Power Management capabilities whereas it could help save energy costs and carbon footprint with just a few clicks. 
 

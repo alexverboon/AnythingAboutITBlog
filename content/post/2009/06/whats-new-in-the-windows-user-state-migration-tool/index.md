@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - hard-link
   - usmt-40
+  - Windows
 categories:
   - deployment
   - knowledge

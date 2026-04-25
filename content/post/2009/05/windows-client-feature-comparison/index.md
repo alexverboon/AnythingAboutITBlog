@@ -9,8 +9,9 @@ description: "Source Microsoft: *This chart compares features of interest to IT 
 author: "Alex Verboon"
 tags:
   - feature-comparison
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Source Microsoft: *This chart compares features of interest to IT professionals across three versions of the Windows client operating system: Windows XP SP3, Windows Vista SP1, and Windows 7*
 

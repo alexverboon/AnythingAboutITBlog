@@ -12,13 +12,12 @@ tags:
   - kms
   - mak
   - vlk
-  - windows-7
   - windows-server-2008
+  - Windows
 categories:
   - deployment
   - licensing
-  - windows-7
-  - windows7
+  - Windows
 ---
 If you are looking for a very easy 5 minute video that explains Volume Activation for Windows 7, then click [here](http://technet.microsoft.com/en-us/dd936198.aspx)
 

@@ -14,6 +14,7 @@ tags:
   - reader
   - tip
   - tool
+  - Windows
 categories:
   - pdf
   - tip

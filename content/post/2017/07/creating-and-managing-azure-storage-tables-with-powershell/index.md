@@ -12,11 +12,11 @@ tags:
   - azure
   - azurestoragetables
   - cosmosdb
-  - powershell
   - tables
+  - PowerShell
 categories:
   - azure
-  - powershell
+  - PowerShell
 ---
 Today’s mission was to get more familiar with Azure Storage Tables and to manage them with PowerShell. On GitHub I found the [AzureTableEntity module](https://github.com/tyconsulting/AzureTableEntity-PowerShell-Module) from Tao Yang. Below are a number of code snippets I used to get my hands dirty with Azure Storage tables and the module.
 

@@ -13,6 +13,8 @@ tags:
   - rdp
   - remote-desktop
   - widnows
+  - Windows
+  - Office
 categories:
   - mac-2
   - remote

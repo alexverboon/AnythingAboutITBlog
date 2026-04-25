@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - patches
   - security
+  - Windows
 categories:
   - deployment
   - security

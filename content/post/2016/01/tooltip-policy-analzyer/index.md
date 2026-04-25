@@ -11,8 +11,12 @@ image: "img/post-heroes/tooltip-policy-analzyer.png"
 tags:
   - compare
   - group-policy
+  - Windows
+  - PowerShell
 categories:
   - group-policy
+  - Windows
+  - PowerShell
 ---
 Aaron Margosis recently [released Policy Analyzer](http://blogs.technet.com/b/secguide/archive/2016/01/22/new-tool-policy-analyzer.aspx), a utility for analyzing and comparing sets of Group Policy Objects (GPOs). Here’s a brief description on how to use the tool to compare two Domain GPOs. 
 

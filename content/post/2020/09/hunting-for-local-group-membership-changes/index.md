@@ -14,6 +14,7 @@ tags:
   - local-groups
   - mtp
   - security
+  - Windows
 categories:
   - defender-atp
   - mtp

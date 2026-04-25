@@ -17,10 +17,11 @@ tags:
   - profile
   - thumbnailphoto
   - tool
+  - Windows
 categories:
   - active-directory
   - tools
-  - windows7
+  - Windows
 ---
 Back in august 2011 I wrote about a utility called [AD Photo Edit](https://www.verboon.info/index.php/2011/08/tooltip-ad-photo-edit/) which allows you to upload your personal picture into Active Directory. Today I want to share with you another utility I came across called ADUserTile. 
 

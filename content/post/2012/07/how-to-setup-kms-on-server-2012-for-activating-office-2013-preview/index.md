@@ -11,12 +11,14 @@ tags:
   - activation
   - deployment
   - kms
-  - office-2013
   - volume-activation-services
+  - Windows
+  - Office
 categories:
   - kms
   - licensing
-  - office-2013
+  - Windows
+  - Office
 ---
 Hey there, it’s been a while since I wrote the last blog post, but that is because I spend 2 excellent weeks at an Italian beach with my family and enjoyed “[dolce far niente](http://en.wiktionary.org/wiki/dolce_far_niente)”. Now and then I did read some tweets so of course got notice of the Office 2013 Preview Microsoft released earlier last week. So now that I’m back I have started reading through the various documentations and so I came across the Microsoft [Office 2013 Preview Volume License Pack](http://www.microsoft.com/en-us/download/details.aspx?id=30342) that Microsoft released to activate Office 2013 Preview using KMS or Active Directory based activation.
 

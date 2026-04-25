@@ -12,9 +12,10 @@ tags:
   - logo
   - software
   - windows7-logo
+  - Windows
 categories:
   - compatibility
-  - windows7
+  - Windows
 ---
 In the past days Microsoft has released additional information around the Windows Logo program for Windows7. For most users the logo on hardware and software is an important symbol indicating compatibility and reliability on Windows. 
 

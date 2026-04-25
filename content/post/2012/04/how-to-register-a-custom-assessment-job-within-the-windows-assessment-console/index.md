@@ -13,10 +13,10 @@ tags:
   - assessment
   - axe
   - custom-jobs
+  - Windows
 categories:
   - adk
-  - windows-7
-  - windows-8
+  - Windows
 ---
 In the [Scaling And Extending Windows Assessments To Improve System Quality (Part I & II)](http://channel9.msdn.com/Events/BUILD/BUILD2011/HW-148P) presentation shown at the //BUILD conference in September Jason Cohen a Senior Software Development Engineer at Microsoft demonstrated how to create a custom Assessment job using a Ping test as example. 
 

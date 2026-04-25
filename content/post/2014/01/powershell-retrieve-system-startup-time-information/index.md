@@ -11,11 +11,12 @@ tags:
   - boot-time
   - eventlog
   - last-wakeup
-  - powershell
   - startup
   - timezone
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 The below script gathers the following system startup time information from a local or remote client. 
 

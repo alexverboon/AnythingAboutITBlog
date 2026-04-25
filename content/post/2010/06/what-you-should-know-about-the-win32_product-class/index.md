@@ -13,6 +13,7 @@ tags:
   - msi
   - wmi
   - wmic
+  - Windows
 categories:
   - gpo
   - group-policy

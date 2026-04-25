@@ -10,11 +10,12 @@ author: "Alex Verboon"
 tags:
   - med-v
   - xp-mode
+  - Windows
 categories:
   - med-v
   - virtualization
-  - windows7
   - xp-mode
+  - Windows
 ---
 Here is an excellent post that explains Windows7 XP Mode. The article describes clearly who should use XP Mode standalone or MED-V which is the product designed for enterprises. 
 

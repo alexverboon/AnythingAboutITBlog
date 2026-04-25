@@ -14,9 +14,11 @@ tags:
   - azure-directory
   - azure-directory-connect
   - cloud
+  - PowerShell
 categories:
   - active-directory
   - azure
+  - PowerShell
 ---
 Last week Microsoft anounced GA for Azure AD Connect. To get a better understanding of how this all works, I installed it in my Cloud based lab that is hosted in Azure. 
 

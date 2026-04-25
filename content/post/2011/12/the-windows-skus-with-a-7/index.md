@@ -10,8 +10,9 @@ author: "Alex Verboon"
 tags:
   - editions
   - sku
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 I was listening to a podcast from [RunAs Radio](http://www.runasradio.com/default.aspx) today and someone mentioned wondering about how many Windows SKU’s with a “7” there are. Well here we go. 
 

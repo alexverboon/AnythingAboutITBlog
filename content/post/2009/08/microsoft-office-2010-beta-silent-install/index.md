@@ -10,15 +10,15 @@ author: "Alex Verboon"
 image: "img/post-heroes/microsoft-office-2010-beta-silent-install.png"
 tags:
   - deployment
-  - office-2010
   - silent-installs
+  - Office
 categories:
   - automation
   - beta
   - deployment
-  - office2010
   - packaging
   - tip
+  - Office
 ---
 Being one of the lucky ones who was able to sign-up to the Microsoft Office 2010 Technical Preview program, I have started looking at the deployment of Microsoft Office 2010 today. 
 

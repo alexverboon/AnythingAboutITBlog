@@ -14,9 +14,13 @@ tags:
   - configmgr
   - deployment
   - lab-environment
+  - Windows
+  - PowerShell
 categories:
   - azure
   - configmgr
+  - Windows
+  - PowerShell
 ---
 Remember the days when you spend hours if not days just to get a lab environment in place and any time you wanted to use the environment again, you spend another couple of hours to get It updated. About 3 years ago I started to make more use of Azure based compute to run my virtual machines, that I use for technology learning and research activities. Initially created the virtual machines through the portal, but then soon started to use Azure Resource Manager based provisioning techniques and PowerShell which speeded up provisioning times quite a bit.
 

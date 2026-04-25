@@ -11,8 +11,7 @@ image: "img/post-heroes/tooltip-known-folders-browser.png"
 tags:
   - known-folders
   - special-folders
-  - windows-7
-  - windows-8
+  - Windows
 categories:
   - tools
 ---

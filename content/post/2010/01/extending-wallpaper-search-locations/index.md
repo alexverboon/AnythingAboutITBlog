@@ -15,11 +15,12 @@ tags:
   - registry
   - tweak
   - wallpaper
+  - Windows
 categories:
   - registry
   - tip
   - tweak
-  - windows-7
+  - Windows
 ---
 When opening the “Change Desktop Background” Control Panel Windows by default uses the “Windows Desktop Backgrounds” picture location which is the content stored under C:\Windows\Web\Wallpaper
 

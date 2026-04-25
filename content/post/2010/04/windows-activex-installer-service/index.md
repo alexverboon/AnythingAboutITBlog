@@ -15,7 +15,7 @@ tags:
   - gpo
   - sites
   - vista
-  - windows-7
+  - Windows
 categories:
   - active-directory
   - automation
@@ -23,7 +23,7 @@ categories:
   - gpo
   - group-policy
   - vista
-  - windows-7
+  - Windows
 ---
 Managing ActiveX Components within an enterprise sometimes can be a pain. Users with standard user privileges by default can’t install ActiveX components, hence whenever a larger group of users require an ActiveX component you usually end up creating a software package and distribute it via Software Distribution or you provide them with temporary Administrative rights. But if the clients are running Windows Vista or Windows 7 there is another solution available I noticed many people aren’t aware of, hence that’s why I am writing this article. 
 

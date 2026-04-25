@@ -15,10 +15,10 @@ tags:
   - disk-management
   - diskpart
   - system-reserved-partition
+  - Windows
 categories:
   - tip
-  - windows-7
-  - windows-8
+  - Windows
 ---
 Today I worked on something where I needed a Windows 8 client that does not have a system reserved partition. To avoid a fresh installation of Windows I decided to re-use one of my Virtual Machine templates and apply the process described below. 
 

@@ -12,6 +12,7 @@ tags:
   - large-content
   - outlook-2007
   - storage
+  - Office
 categories:
   - knowledge
   - office-2007

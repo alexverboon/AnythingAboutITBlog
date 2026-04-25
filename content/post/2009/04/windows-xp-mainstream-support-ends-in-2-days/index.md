@@ -12,6 +12,7 @@ tags:
   - extended-support
   - mainstream-support
   - windows-xp
+  - Windows
 categories:
   - licensing
   - reading

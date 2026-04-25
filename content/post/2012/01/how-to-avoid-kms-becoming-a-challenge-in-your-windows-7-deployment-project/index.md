@@ -13,16 +13,16 @@ tags:
   - key-management-server
   - kms
   - mak
-  - office-2010
   - slmgr-vbs
   - volume-licensing
-  - windows-7
+  - Windows
+  - Office
 categories:
   - active-directory
   - dns
   - kms
-  - office2010
-  - windows-7
+  - Windows
+  - Office
 ---
 I’ve been involved in Windows 7 deployments since the Beta came out in 2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and even Windows 3.11 and although over time the technology has changed the basic challenges of every migration remained the same. 
 

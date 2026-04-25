@@ -12,11 +12,13 @@ tags:
   - pua
   - security
   - security-app
-  - windows-10
   - windowsinsider
+  - Windows
+  - PowerShell
 categories:
   - security
-  - windows-10
+  - Windows
+  - PowerShell
 ---
 When all goes well, Microsoft will soon release the next version of Windows 10 aka as Windows 10 2004. I am an active Windows Insider user and noticed a few little changes within the Windows 10 Security App that I think are worth sharing.
 ![](https://www.verboon.info/wp-content/uploads/2020/05/052120_1307_Windows10201.png)

@@ -12,13 +12,13 @@ tags:
   - design-guide
   - reading
   - tip
-  - windows-7
+  - Windows
 categories:
   - branchcache
   - reading
   - tip
-  - windows-7
   - windows-server-2008-r2
+  - Windows
 ---
 Source: *Microsoft*
 

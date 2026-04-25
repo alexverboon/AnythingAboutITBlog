@@ -13,8 +13,10 @@ tags:
   - compatibility-view-list
   - internet-explorer
   - microsoft-edge
+  - Windows
 categories:
   - internet-explorer
+  - Windows
 ---
 As you probably know by know, Microsoft Edge is now the default Browser on Windows 10, but IE11 can still be used.  While using the Microsoft Edge browser I’ve noticed that now and then when opening a website, the following message is displayed. 
 

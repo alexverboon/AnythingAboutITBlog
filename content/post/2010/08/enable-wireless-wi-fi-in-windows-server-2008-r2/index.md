@@ -11,6 +11,7 @@ tags:
   - server-2008
   - server-2008-r2
   - wireless
+  - Windows
 categories:
   - windows-server-2008
   - windows-server-2008-r2

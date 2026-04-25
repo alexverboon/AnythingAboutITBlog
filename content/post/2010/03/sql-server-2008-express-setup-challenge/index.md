@@ -13,6 +13,7 @@ tags:
   - server-2008
   - setup
   - sql-server-2008-express
+  - Windows
 categories:
   - sql-server-2008-express
   - windows-server-2008

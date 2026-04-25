@@ -17,11 +17,11 @@ tags:
   - slat
   - systeminfo
   - virtualization
-  - windows-8
+  - Windows
 categories:
   - hyper-v
   - virtualization
-  - windows-8
+  - Windows
 ---
 Many articles refer to the Sysinternals [Coreinfo](http://technet.microsoft.com/en-us/sysinternals/cc835722) utility to check whether your system can run Hyper-V on Windows 8 or not. But just this morning I found out that the **systeminfo** command that is included in Windows provides some additional Hyper-V related information. 
 

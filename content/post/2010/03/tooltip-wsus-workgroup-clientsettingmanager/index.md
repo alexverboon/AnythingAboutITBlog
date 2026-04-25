@@ -14,6 +14,7 @@ tags:
   - troubleshooting
   - windows-update-services
   - wsus
+  - Windows
 categories:
   - patch-manegement-software
   - tip

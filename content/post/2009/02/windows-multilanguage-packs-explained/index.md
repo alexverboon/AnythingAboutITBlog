@@ -13,14 +13,15 @@ tags:
   - mui
   - multilanguage-pack
   - user-interface
+  - Windows
 categories:
   - automation
   - deployment
   - knowledge
   - vista
-  - windows-7
   - windows-server-2008
   - windows-xp
+  - Windows
 ---
 Speaking with various people I often notice that some do not understand in detail the concepts and benefits around the Windows Multilanguage Packs. The video below provides an in depth overview around the concepts and use of Windows MUI Packs.  Hope it's usefull.
 

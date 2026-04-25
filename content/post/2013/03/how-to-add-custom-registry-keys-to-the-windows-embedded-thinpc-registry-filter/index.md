@@ -18,6 +18,7 @@ tags:
   - registry
   - thinpc
   - windows-embedded
+  - Windows
 categories:
   - registry
   - thinpc

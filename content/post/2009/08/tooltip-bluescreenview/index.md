@@ -14,6 +14,7 @@ tags:
   - driver
   - failure
   - minidump
+  - Windows
 categories:
   - bsod
   - drivers

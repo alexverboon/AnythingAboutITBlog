@@ -11,11 +11,11 @@ image: "img/post-heroes/configuring-windows-defender-credential-guard-with-confi
 tags:
   - configmgr
   - credentialguard
-  - windows10
+  - Windows
+  - PowerShell
 categories:
   - Windows
-  
-  
+  - PowerShell
 ---
 I'm currently engaged in multiple customer projects where Windows 10 is already in production, but unfortunately without Windows Credential Guard enabled. For those who think "Credential ….what?"
 

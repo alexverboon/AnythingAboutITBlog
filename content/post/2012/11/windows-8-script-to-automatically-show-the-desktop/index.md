@@ -13,9 +13,9 @@ tags:
   - desktop
   - explorer
   - startup
-  - windows-8
+  - Windows
 categories:
-  - windows-8
+  - Windows
 ---
 A few weeks ago I came across a blog [post from Brandon](http://netitude.bc3tech.net/2012/08/26/log-in-to-desktop-in-windows-8-yup-its-possible/) where he provides a solution how to automatically show the Windows Desktop when logging on to Windows 8. The solution is actually quite straight forward, all you need to do is to add a shortcut that points to explorer.exe to the Start Menu startup folder. When a user logs on, Windows processes the items stored within the Startup folder and executing explorer.exe then causes Windows to switch to the Desktop. 
 

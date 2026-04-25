@@ -10,10 +10,10 @@ author: "Alex Verboon"
 tags:
   - features
   - video
-  - windows-7
+  - Windows
 categories:
   - knowledge
-  - windows7
+  - Windows
 ---
 The Windows7 Enterprise videos provide a great high-level overview for the following features:
 

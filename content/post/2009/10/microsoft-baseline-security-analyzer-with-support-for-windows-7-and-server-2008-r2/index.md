@@ -13,13 +13,13 @@ tags:
   - baseline-analyzer
   - mbsa
   - security
-  - windows-7
+  - Windows
 categories:
   - deployment
   - security
   - tools
-  - windows-7
   - windows-server-2008-r2
+  - Windows
 ---
 With the launch of Windows 7 Microsoft also released an updated version of the Microsoft Baseline Security Analyzer also known as MBSA. The version is 2.1.1 which is indicating that this is basically just a minor revision of the previous MBSA 2.1, and that is exactly what it is . MBSA 2.1.1 does not appear to bring any new features other than adding support for Windows 7 and Windows Server 2008 R2. 
 

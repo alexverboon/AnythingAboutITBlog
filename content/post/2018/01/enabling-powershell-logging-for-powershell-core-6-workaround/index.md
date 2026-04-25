@@ -10,8 +10,10 @@ author: "Alex Verboon"
 tags:
   - eventlog
   - powershell-core
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 By default, PowerShell Core does not log events to the Windows Event logs. From a security perspective this isn’t ideal, but that’s something I’ll take a closer look at later. To enable PowerShell logging you have to run `RegisterManifest.ps1 which is located in the "C:\Program Files\PowerShell\6.0.0" folder. But unfortunately running that command would not work for me. Now this is the beauty of PowerShell being open sourced, the code as well as the comments from developers is publicly available. So after a short search within the GitHub repo of PowerShell Core I found references about the issue. `
 

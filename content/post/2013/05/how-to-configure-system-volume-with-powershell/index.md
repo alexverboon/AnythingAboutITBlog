@@ -9,11 +9,13 @@ description: "Back in 2011 I wrote a blog post on [how to mute Windows System Vo
 author: "Alex Verboon"
 tags:
   - mute
-  - powershell
   - script
   - volume
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - Windows
+  - PowerShell
 ---
 Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/) programmatically.  This week I found another approach on GitHub using PowerShell. 
 

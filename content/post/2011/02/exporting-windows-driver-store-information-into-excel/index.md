@@ -13,10 +13,13 @@ tags:
   - driver-store
   - excel
   - export
+  - Windows
+  - PowerShell
 categories:
   - driver-store
   - excel
-  - windows7
+  - Windows
+  - PowerShell
 ---
 To obtain detailed information about a particular driver that is prestaged within the Windows 7 driver store, you can run the following command.
 

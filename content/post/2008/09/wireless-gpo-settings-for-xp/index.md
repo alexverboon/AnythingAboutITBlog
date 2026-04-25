@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - gpo
   - wireless
+  - Windows
 categories:
   - deployment
   - group-policy

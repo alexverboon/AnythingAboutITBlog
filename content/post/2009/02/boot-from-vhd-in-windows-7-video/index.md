@@ -14,11 +14,12 @@ tags:
   - mount
   - native
   - vhd
+  - Windows
 categories:
   - aik
   - automation
   - deployment
-  - windows-7
+  - Windows
 ---
 In this video Jeremy Chapman senior product manager from the Microsoft enterprise product management team talks about booting from VHD as well as some of the new imaging features. 
 

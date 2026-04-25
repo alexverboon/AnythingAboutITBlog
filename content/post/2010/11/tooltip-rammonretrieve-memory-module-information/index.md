@@ -15,6 +15,7 @@ tags:
   - spd
   - tip
   - tool
+  - Windows
 categories:
   - memory
   - tip

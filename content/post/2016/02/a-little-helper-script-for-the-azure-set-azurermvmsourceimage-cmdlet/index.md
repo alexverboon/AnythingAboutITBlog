@@ -12,11 +12,13 @@ tags:
   - get-azurermvmimageoffer
   - get-azurermvmimagepublisher
   - get-azurermvmimagesku
-  - powershell
   - set-azurermvmsourceimage
+  - Windows
+  - PowerShell
 categories:
   - azure
-  - powershell
+  - Windows
+  - PowerShell
 ---
 To keep a long story short, today i started looking into Azure PowerShell and Azure Resource Manager and quickly found out that if I wanted to make use of ARM, i have to change some scripts I have used so far to deploy my Azure VMs. More on that in a later post.
 

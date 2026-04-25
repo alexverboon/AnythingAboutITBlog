@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - ie8
   - slipstream
+  - Windows
 categories:
   - deployment
   - tip

@@ -9,11 +9,12 @@ description: "Here’s a small cmdlet I wrote today to pull the Office 365 roadm
 author: "Alex Verboon"
 tags:
   - office-365-2
-  - powershell
   - roadmap
+  - PowerShell
+  - Office
 categories:
-  - office-365
-  - powershell
+  - PowerShell
+  - Office
 ---
 Here’s a small cmdlet I wrote today to pull the Office 365 roadmap information with PowerShell.
 

@@ -14,10 +14,11 @@ tags:
   - mount
   - subst
   - virtual
-  - windows-7
+  - Windows
 categories:
   - dvd
   - tip
+  - Windows
 ---
 While running the BETA version of the Microsoft DaRT Recovery Image Wizard (part of the MDOP Diagnostics and Recovery Toolset) I get prompted to select the DVD Drive that holds the Windows 7 installation sources. Well unfortunately I have the ISO file available but not burned on DVD and since it’s already late I’m not really willing to find an empty DVD and burn one. Now one option is to use an ISO mounting tool like PowerISO, but while considering installing an ISO mounting utility another idea came to my mind. SUBST.
 

@@ -11,12 +11,12 @@ tags:
   - configmgr
   - get-cmsoftwareupdate
   - get-cmsoftwareupdategroup
-  - powershell
   - software-update-group
   - software-updates
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. 
 

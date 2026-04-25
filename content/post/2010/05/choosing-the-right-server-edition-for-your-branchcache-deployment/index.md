@@ -13,6 +13,8 @@ tags:
   - edition
   - feature-comparison
   - server-2008-r2
+  - Windows
+  - Office
 categories:
   - branchcache
   - windows-server-2008-r2

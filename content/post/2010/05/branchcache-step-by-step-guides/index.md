@@ -10,10 +10,10 @@ author: "Alex Verboon"
 tags:
   - branchcache
   - windows-2008-r2
-  - windows-7
+  - Windows
 categories:
   - branchcache
-  - windows-7
+  - Windows
 ---
 These two BranchCache Step by Step guides provide practical guidance for setting up BranchCache in Distributed or Hosted Cache Mode within a test network.  
 

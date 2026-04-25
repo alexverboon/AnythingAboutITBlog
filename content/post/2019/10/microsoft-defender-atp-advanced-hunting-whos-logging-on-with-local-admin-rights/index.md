@@ -13,10 +13,12 @@ tags:
   - kql
   - local-administrators
   - mdatp
+  - PowerShell
 categories:
   - defender-atp
   - log-analytics
   - mdatp
+  - PowerShell
 ---
 **Note**: I have updated the kql queries below, but the screenshots itself still refer to the previous (old) schema names
 

@@ -12,7 +12,7 @@ tags:
   - powershell
 categories:
   - group-policy
-  - powershell
+  - PowerShell
 ---
 While I was on vacation last summer Ed Wilson aka Microsoft Scripting Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blog. Of course !! was my immediate response. 
 

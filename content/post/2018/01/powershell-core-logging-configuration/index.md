@@ -11,8 +11,10 @@ tags:
   - group-policy
   - logging
   - powershellcore
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 After having browsed through the PowerShell code a bit, found some references as to how to configure PowerShell Core logging options through GPO or via a configuration file.
 

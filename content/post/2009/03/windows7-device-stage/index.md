@@ -10,8 +10,9 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows7-device-stage.png"
 tags:
   - device-stage
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Another great feature that will come with Windows7 is Device Stage. 
 

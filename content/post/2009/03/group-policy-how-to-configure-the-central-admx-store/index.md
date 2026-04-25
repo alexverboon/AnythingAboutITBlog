@@ -12,6 +12,7 @@ tags:
   - central-store
   - gpo
   - group-policy
+  - Windows
 categories:
   - active-directory
   - group-policy

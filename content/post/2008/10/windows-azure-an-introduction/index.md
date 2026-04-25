@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - azure
   - cloud
+  - Windows
 categories:
   - virtualization
 ---

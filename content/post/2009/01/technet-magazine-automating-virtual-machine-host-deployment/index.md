@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - deployment
   - hyper-v
+  - Windows
 categories:
   - aik
   - automation

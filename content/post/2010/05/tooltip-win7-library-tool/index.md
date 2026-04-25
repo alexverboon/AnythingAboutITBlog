@@ -9,10 +9,10 @@ description: "A nice FREE Tool to manage Windows 7 Libraries. Download from [her
 author: "Alex Verboon"
 tags:
   - libraries
-  - windows-7
+  - Windows
 categories:
   - library
-  - windows-7
+  - Windows
 ---
 A nice FREE Tool to manage Windows 7 Libraries. Download from [here](http://zornsoftware.talsit.info/?p=3)
 

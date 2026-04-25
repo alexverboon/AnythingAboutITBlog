@@ -11,8 +11,9 @@ image: "img/post-heroes/windows-7-beta-available-now-on-msdn.png"
 tags:
   - beta
   - win7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Although available on the various torrents since a couple of weeks, last night Microsoft has posted Windows 7 Beta on MSDN.
 

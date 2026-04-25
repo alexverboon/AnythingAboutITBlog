@@ -14,14 +14,14 @@ tags:
   - installation
   - test
   - vhd
-  - windows-7
+  - Windows
 categories:
   - compatibility
   - deployment
   - licensing
   - tip
   - vhd
-  - windows-7
+  - Windows
 ---
 Most IT pro’s probably don’t have a problem in getting access to the Windows 7 operating system installation sources because they can access them through their corporate volume license agreement and/or MSDN or TechNet subscription. But unfortunately there are still some out there who do not have such easy access to these sources. 
 

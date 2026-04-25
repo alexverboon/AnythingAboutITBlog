@@ -9,6 +9,7 @@ description: "Just recently Microsoft launched the [System Center Virtual Machin
 author: "Alex Verboon"
 tags:
   - virtualization
+  - Windows
 categories:
   - automation
   - deployment

@@ -10,10 +10,10 @@ author: "Alex Verboon"
 tags:
   - defrag
   - optimization
-  - windows-8
+  - Windows
 categories:
   - defrag
-  - windows-8
+  - Windows
 ---
 Looks like Windows 8 introduces some additional DEFRAG options. 
 

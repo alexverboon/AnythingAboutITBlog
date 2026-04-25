@@ -9,10 +9,11 @@ description: "Windows7 and Windows Server 2008 R2 will support booting directly 
 author: "Alex Verboon"
 tags:
   - vhd
+  - Windows
 categories:
   - tip
   - virtualization
-  - windows-7
+  - Windows
 ---
 Windows7 and Windows Server 2008 R2 will support booting directly from a [VHD](http://technet.microsoft.com/en-us/bb738373.aspx) (Virtual hard disk) file. This will allow you to run multiple operating systems on a single hard disk without the need of creating multiple partitions. 
 

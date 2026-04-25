@@ -13,10 +13,11 @@ tags:
   - cachesize
   - configmgr
   - packages
-  - powershell
+  - Windows
+  - PowerShell
 categories:
   - app-v
-  - powershell
+  - PowerShell
 ---
 Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App-V mmc console 3x manually…..another script was born. 
 

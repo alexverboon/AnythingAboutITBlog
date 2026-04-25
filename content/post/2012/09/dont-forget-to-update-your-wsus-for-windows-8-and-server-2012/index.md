@@ -9,14 +9,14 @@ description: "If you’re running a WSUS Server you might want to update it to s
 author: "Alex Verboon"
 tags:
   - server-2012
-  - windows-8
   - windows-update-services
   - wsus
+  - Windows
 categories:
-  - windows-8
   - windows-server-2012
   - windows-update
   - wsus
+  - Windows
 ---
 If you’re running a WSUS Server you might want to update it to support Windows 8 and Server 2012. There is Windows 8. Windows RT and Server 2012
 

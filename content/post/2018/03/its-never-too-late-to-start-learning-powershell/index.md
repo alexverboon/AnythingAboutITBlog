@@ -9,9 +9,10 @@ description: "It's 2018 now and you might think who doesn't know PowerShell yet.
 author: "Alex Verboon"
 tags:
   - learning
-  - powershell
+  - Windows
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 It's 2018 now and you might think who doesn't know PowerShell yet. Although I've seen the number of people using PowerShell increasing over the past years, there's still plenty of people out there that have the learning curve for PowerShell ahead of them. A few years ago, when the use of PowerShell got traction amongst many IT professionals the web was full of learning resources by means of blog posts, podcasts and online trainings. It seems that nowadays we expect everyone to be past the beginner's level and so the type of content that is shared within the community is slightly changing to more advanced topics as well and that's good for those that are riding the PowerShell wave already. However, let's take into consideration that even in 2018, twelve years after [PowerShell (Monad) arrived](https://blogs.msdn.microsoft.com/powershell/2006/04/25/windows-powershell-monad-has-arrived/) there are people that just start their journey into PowerShell. Think of the younger generation of IT professionals who spend the last ten years in school or the senior IT pro who's changing their career into a field where PowerShell knowledge becomes inevitable.
 

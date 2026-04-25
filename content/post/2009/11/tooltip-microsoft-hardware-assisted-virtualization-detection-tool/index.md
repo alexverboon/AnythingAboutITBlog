@@ -13,8 +13,8 @@ tags:
   - havtool
   - scripting
   - virtualization
-  - windows-7
   - xp-mode
+  - Windows
 categories:
   - automation
   - bios
@@ -23,8 +23,8 @@ categories:
   - tip
   - tools
   - virtualization
-  - windows-7
   - xp-mode
+  - Windows
 ---
 Windows Virtual PC requires that your hardware supports hardware-assisted virtualization. There are a number of third party utilities around already, but now Microsoft released one as well. It’s called the Hardware-Assisted Virtualization Detection Tool and can be downloaded from [here](http://www.microsoft.com/downloads/details.aspx?FamilyID=0ee2a17f-8538-4619-8d1c-05d27e11adb2&displaylang=en#filelist)
 

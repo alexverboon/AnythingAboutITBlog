@@ -11,10 +11,12 @@ tags:
   - dart
   - mdop
   - recovery
-  - windows-8
+  - Windows
+  - PowerShell
 categories:
   - mdop
-  - windows-8
+  - Windows
+  - PowerShell
 ---
 Microsoft has released a Beta for DaRT 8. You find more details in the articles listed below. I’ve only been looking at it shortly, but here’s what I liked most: 
 

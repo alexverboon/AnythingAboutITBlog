@@ -17,9 +17,11 @@ tags:
   - improvement
   - sqm
   - telemetry
+  - Windows
 categories:
   - ceip
-  - windows-7
+  - Windows
+  - Office
 ---
 In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/) explained the history, benefits and configuration of the CEIP. In part 2 we take a closer look at the SQM data processing and the involvement of the Windows Task Scheduler. 
 

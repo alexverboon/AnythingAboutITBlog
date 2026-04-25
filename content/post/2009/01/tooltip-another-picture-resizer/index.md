@@ -14,6 +14,7 @@ tags:
   - resize
   - tool
   - utility
+  - Windows
 categories:
   - tip
   - tools

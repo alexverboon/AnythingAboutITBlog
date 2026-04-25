@@ -9,12 +9,11 @@ description: "Just came back from vacation and cleaning up my mailbox. One had s
 author: "Alex Verboon"
 tags:
   - video
-  - windows-7
-  - windows7
+  - Windows
 categories:
   - knowledge
   - tip
-  - windows-7
+  - Windows
 ---
 Just came back from vacation and cleaning up my mailbox. One had send a link that contains a number of nice short hands-on videos about Windows 7. Don’t expect any level 500 deep technical insight from these videos, but they are good enough to get a general overview on what’s new around the following topics:
 

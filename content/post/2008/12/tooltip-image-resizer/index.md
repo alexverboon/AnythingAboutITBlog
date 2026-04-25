@@ -13,12 +13,15 @@ tags:
   - resize
   - tools
   - utilities
+  - Windows
+  - Office
 categories:
   - knowledge
   - tip
   - tools
   - vista
   - windows-xp
+  - Office
 ---
 Just surfing a bit on the Internet, i get a Skype call from our friends who live in Perth Australia and asking me how to reduce the size of pictures before sending them via e-mail.
 

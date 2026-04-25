@@ -13,15 +13,15 @@ tags:
   - hyper-v
   - vhd
   - wim
-  - windows7
+  - Windows
 categories:
   - aik
   - automation
   - deployment
   - hyper-v
   - virtualization
-  - windows-7
   - windows-server-2008
+  - Windows
 ---
 Today I've tested the WIM2VHD script provided by [Mike Kolitz](http://blogs.msdn.com/mikekol/default.aspx) a Software Design Engineer from the Hyper-V Team at Microsoft.
 

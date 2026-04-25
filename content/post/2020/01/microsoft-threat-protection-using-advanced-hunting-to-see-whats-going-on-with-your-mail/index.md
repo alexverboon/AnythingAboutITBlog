@@ -13,12 +13,12 @@ tags:
   - hunting
   - kusto
   - mtp
-  - office365
   - safeattachments
   - safelinks
+  - Office
 categories:
   - mtp
-  - office-365
+  - Office
 ---
 Last December Microsoft introduced Microsoft Threat Protection (MTP) including advanced hunting that allows us to run queries across multiple data sources i.e. Microsoft Defender ATP and Office 365 ATP. If you haven't heard yet about MTP I recommend reading Christian Müller's blog post [Microsoft Threat Protection – unified hunting](#)Now while the primary purpose of the unified hunting capability is to find information about indicators and entities, we can also use it to get an overview of what's going on inside the systems that feed information into MTP i.e. Office 365.  So, I created a few simple queries that summarizes various attributes from the EmailEvents table.
 ![](https://www.verboon.info/wp-content/uploads/2020/01/011520_2205_MicrosoftTh1.png)QuerySample OutputEmailEvents

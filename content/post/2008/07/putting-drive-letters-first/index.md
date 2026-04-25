@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/putting-drive-letters-first.png"
 tags:
   - registry
+  - Windows
 categories:
   - automation
   - tip

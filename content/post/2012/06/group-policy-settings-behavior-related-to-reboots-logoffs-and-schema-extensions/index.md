@@ -14,11 +14,10 @@ tags:
   - logoff
   - reboot
   - settings
-  - windows-7
-  - windows-8
+  - Windows
 categories:
   - group-policy
-  - windows-8
+  - Windows
 ---
 The Group Policy Settings Reference for Windows 8 and Windows Server 2012 now includes 3 additional columns providing additional information about each policy setting's behavior related to reboots, logoffs, and schema extensions.
 

@@ -11,6 +11,7 @@ image: "img/post-heroes/scripting-windows-explorer-details-view.png"
 tags:
   - registry
   - scripting
+  - Windows
 categories:
   - automation
   - deployment

@@ -14,11 +14,11 @@ tags:
   - compatibility
   - internet-explorer
   - inventory
-  - windows-7
-  - windows-8
+  - Windows
 categories:
   - internet-explorer
   - tools
+  - Windows
 ---
 The Windows 8 developer preview build installation media contains an executable called wicainventory.exe. Wicainventory tool collects application and device information. There is also a wica.ini file that contains 2 URLs. I assume that the Tool is used by Microsoft to collect telemetry data. 
 

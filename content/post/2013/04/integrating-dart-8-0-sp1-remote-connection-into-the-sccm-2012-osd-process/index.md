@@ -16,10 +16,13 @@ tags:
   - sccm-2012
   - software-assurance
   - task-sequence
+  - Windows
+  - WinPE
 categories:
   - dart
   - mdop
   - sccm-2012
+  - WinPE
 ---
 While preparing for an SCCM 2012 upgrade, I thought it might be a good idea to consider implementing some of the best practices that are around such as integrating the DaRT Remote Connection tool into the OSD deployment process. I’m sure it comes in handy when having to troubleshoot OSD related tings, as it allows us to access the client remotely without having to give lengthy instructions to an onsite engineer. 
 

@@ -15,10 +15,12 @@ tags:
   - lp
   - mui
   - ui
-  - windows-7
+  - Windows
+  - Office
 categories:
   - mui
-  - windows-7
+  - Windows
+  - Office
 ---
 Most of you actively dealing with Windows 7 deployments probably know about the Multilanguage Packs for Windows 7 , but since I do still get questions about this every now and then, I thought it’s worth to do a brief recap on this subject. 
 

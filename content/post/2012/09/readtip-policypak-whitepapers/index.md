@@ -12,10 +12,12 @@ tags:
   - group-policy-preferences
   - policypak
   - whitepaper
+  - Windows
 categories:
   - gpo
   - group-policy
   - policypak
+  - Windows
 ---
 Jeremy Moskowitz, Group Policy MVP and founder of Policy Pak Software wrote up 3 Whitepapers I recommend reading. 
 

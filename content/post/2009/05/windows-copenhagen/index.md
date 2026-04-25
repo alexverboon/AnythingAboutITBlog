@@ -11,6 +11,7 @@ image: "img/post-heroes/windows-copenhagen.png"
 tags:
   - concept
   - copenhagen
+  - Windows
 categories:
   - fun
 ---

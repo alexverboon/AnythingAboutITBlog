@@ -12,8 +12,11 @@ tags:
   - support
   - updates
   - windows-8-consumer-preview
+  - Windows
+  - Office
 categories:
-  - windows-8
+  - Windows
+  - Office
 ---
 Below are the Windows 8 Consumer Preview support bulletins I was able to capture since the release of the Consumer Preview build. 
 

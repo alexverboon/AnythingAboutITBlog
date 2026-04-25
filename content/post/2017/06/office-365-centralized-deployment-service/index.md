@@ -13,8 +13,11 @@ tags:
   - deployment
   - manifest
   - office-365-2
+  - PowerShell
+  - Office
 categories:
-  - office-365
+  - PowerShell
+  - Office
 ---
 Just recently Microsoft announced the general availability of the Office 365 centralized deployment service. I have tested it and it really makes deploying Office Add-ins super easy. The add-in configuration and deployment can be managed through the Office 365 portal or using PowerShell.
 

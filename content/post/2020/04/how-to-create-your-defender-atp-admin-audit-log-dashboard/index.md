@@ -14,6 +14,7 @@ tags:
   - azure-logic-app
   - defender-atp
   - log-analytics
+  - Windows
 categories:
   - azure-logic-app
   - defender-atp

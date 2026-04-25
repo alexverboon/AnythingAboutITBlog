@@ -14,6 +14,7 @@ tags:
   - port
   - setup
   - sql-server-2008
+  - Windows
 categories:
   - app-v
   - protocols

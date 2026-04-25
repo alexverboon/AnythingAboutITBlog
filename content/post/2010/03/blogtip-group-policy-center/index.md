@@ -11,6 +11,7 @@ tags:
   - gpo
   - group-policy
   - group-policy-preferences
+  - Windows
 categories:
   - group-policy
   - knowledge

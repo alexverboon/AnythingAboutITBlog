@@ -12,6 +12,7 @@ tags:
   - add-in
   - office-communicator
   - outlook-2007
+  - Office
 categories:
   - tip
   - tools

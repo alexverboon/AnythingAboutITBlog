@@ -9,6 +9,7 @@ description: "VI - last time i had my very personal fight with this text editor 
 author: "Alex Verboon"
 tags:
   - editor
+  - Windows
 categories:
   - tip
 ---

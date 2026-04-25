@@ -13,6 +13,7 @@ tags:
   - screenshot
   - tip
   - tool
+  - Windows
 categories:
   - screencapture
   - tip

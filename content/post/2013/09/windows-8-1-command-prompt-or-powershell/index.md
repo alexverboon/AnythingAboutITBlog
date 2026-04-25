@@ -12,12 +12,12 @@ tags:
   - command-prompt
   - dontusepowershellonwinx
   - group-policy
-  - powershell
   - registry
-  - windows-8-1
+  - Windows
+  - PowerShell
 categories:
-  - powershell
-  - windows-8-1
+  - Windows
+  - PowerShell
 ---
 If you have used the Windows 8.1 preview build, you will have noticed that the X-Menu by default had PowerShell enabled instead of the Command Prompt.. However within the RTM release of Windows 8.1 Microsoft changed this, so now the command prompt is the default again as it was in Windows 8.
 

@@ -14,9 +14,10 @@ tags:
   - eventlog
   - performance
   - script
+  - Windows
 categories:
   - scripting
-  - windows-7
+  - Windows
 ---
 Here’s a small batch script to get the Windows 7 Boot time shown in milliseconds.
 

@@ -13,6 +13,7 @@ tags:
   - script
   - unmute
   - volume
+  - Windows
 categories:
   - scripting
   - tip

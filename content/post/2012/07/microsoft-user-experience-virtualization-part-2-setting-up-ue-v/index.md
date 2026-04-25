@@ -13,10 +13,12 @@ tags:
   - setup
   - ue-v
   - user-experience-virtualization
+  - Windows
+  - Office
 categories:
   - ue-v
-  - windows-7
-  - windows-8
+  - Windows
+  - Office
 ---
 As a follow up on my earlier post [Microsoft User Experience Virtualization – Part 1: The Road to UE-V](https://www.verboon.info/index.php/2012/07/microsoft-user-experience-virtualization-part-1-the-road-to-ue-v/) in todays’ post I am going to describe how to get UE-V up and running in just a few steps. 
 

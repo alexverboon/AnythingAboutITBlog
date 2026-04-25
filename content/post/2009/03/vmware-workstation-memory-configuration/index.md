@@ -14,11 +14,12 @@ tags:
   - ram
   - swapping
   - vmware
+  - Windows
 categories:
   - tip
   - virtualization
   - vmware
-  - windows-7
+  - Windows
 ---
 One of the key hardware related prerequisites when using Virtualization software is RAM. To improve performance of my virtual environment that I have running on my notebook, I had ordered an additional memory module of 2 GB RAM. 
 

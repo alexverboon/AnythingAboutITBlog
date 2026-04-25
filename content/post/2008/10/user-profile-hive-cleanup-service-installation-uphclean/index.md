@@ -9,6 +9,7 @@ description: "Today's challenge was to get UPHClean.msi installing correctly. Yo
 author: "Alex Verboon"
 tags:
   - profiles
+  - Windows
 categories:
   - automation
   - deployment

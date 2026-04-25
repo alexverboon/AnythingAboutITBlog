@@ -16,6 +16,7 @@ tags:
   - settings
   - skype
   - update
+  - Windows
 categories:
   - group-policy
   - skype

@@ -15,12 +15,13 @@ tags:
   - winodws-remote-management
   - winrm
   - winrs
+  - Windows
 categories:
   - group-policy
   - remote-management
-  - windows-7
   - windows-server-2008r2
   - winrm
+  - Windows
 ---
 In today’s post I am going to show you how to enable Windows Remote Management through Group Policy.If you haven’t heard of Windows Remote Management yet I recommend you read the articles I have referenced below. When enabled and configured Windows Remote Management provides an easy way for IT Administrators to remotely access and manage Windows Clients and Servers. If you have used the Microsoft Sysinternals [PSTools](http://technet.microsoft.com/en-us/sysinternals/bb896649) suite, you’re going to like this one as well. 
 

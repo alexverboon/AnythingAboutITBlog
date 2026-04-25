@@ -12,6 +12,7 @@ tags:
   - EntraID
   - hybridjoin
   - mfa
+  - Windows
 categories:
   - Windows
 ---

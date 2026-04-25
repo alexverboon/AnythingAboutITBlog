@@ -17,10 +17,12 @@ tags:
   - improvement
   - sqm
   - telemetry
+  - Windows
+  - Office
 categories:
   - ceip
-  - office2010
-  - windows-7
+  - Windows
+  - Office
 ---
 The Microsoft Customer Experience Improvement Program ([CEIP](http://www.microsoft.com/products/ceip/EN-US/default.mspx)) collects information about how people use Microsoft products. The primary objective of this program is to solve problems and improve Microsoft’s products and features. During the past two days I have tried to get a better insight into what CEIP is really about, how it works and how it can be configured. 
 

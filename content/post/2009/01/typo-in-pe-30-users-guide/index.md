@@ -10,10 +10,13 @@ author: "Alex Verboon"
 tags:
   - aik
   - dismexe
+  - Windows
+  - WinPE
 categories:
   - aik
   - automation
-  - windows-7
+  - Windows
+  - WinPE
 ---
 I've just found a typo in the Windows PE 3.0 Users guide.
 

@@ -11,6 +11,7 @@ image: "img/post-heroes/quick-access-to-installed-qfes.png"
 tags:
   - qfe
   - wmic
+  - Windows
 categories:
   - automation
   - knowledge

@@ -14,15 +14,15 @@ tags:
   - tools
   - vista
   - windows-2008-r2
-  - windows-7
   - windows-server-2008
   - windows-update
+  - Windows
 categories:
   - tip
   - tools
   - update
-  - windows-7
   - windows-server-2008
+  - Windows
 ---
 Issues with installing Windows Updates? Then have a look at the following Microsoft Support Articles:
 

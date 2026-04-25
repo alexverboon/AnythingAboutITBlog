@@ -14,10 +14,11 @@ tags:
   - quality
   - wireless
   - wlan
+  - Windows
 categories:
   - eventlog
-  - windows-7
   - wlan
+  - Windows
 ---
 When using WLAN on a day to day basis we can see the WLAN signal strength via the Windows User Interface as shown in the screenshot below. 
 

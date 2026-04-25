@@ -10,13 +10,14 @@ author: "Alex Verboon"
 tags:
   - manageability
   - windows-7-whitepaper
+  - Windows
 categories:
   - automation
   - deployment
   - group-policy
   - knowledge
   - reading
-  - windows-7
+  - Windows
 ---
 *Windows 7 introduces a number of manageability improvements that can reduce total cost of ownership by helping to increase automation, improve user productivity, and provide flexible administrative control to meet compliance requirements. This paper provides an overview of each of these improvements.*
 

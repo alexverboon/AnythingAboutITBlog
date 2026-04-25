@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - security
   - vista
+  - Windows
 categories:
   - security
   - tip

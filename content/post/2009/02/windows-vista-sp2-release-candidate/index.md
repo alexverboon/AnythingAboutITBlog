@@ -11,9 +11,11 @@ tags:
   - rc
   - sp2
   - vista-sp2
+  - Windows
 categories:
   - deployment
   - vista
+  - Windows
 ---
 It looks like the folks in Redmond have a busy time, after Internet Explorer 8, Microsoft now announces that the Windows Vista Service Pack 2 has reached RC status. I suggest they keep up the speed and bring us Windows 7 soon as well. 
 

@@ -14,6 +14,7 @@ tags:
   - patch-management-software
   - troubleshooting
   - wsus
+  - Windows
 categories:
   - bits
   - patch-manegement-software

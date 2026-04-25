@@ -14,6 +14,7 @@ tags:
   - redirection
   - remote-desktop
   - transfer
+  - Windows
 categories:
   - rdp
   - tip

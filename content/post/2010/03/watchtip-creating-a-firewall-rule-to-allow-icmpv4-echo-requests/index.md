@@ -11,12 +11,13 @@ tags:
   - firewall
   - icmpv4
   - ping
-  - windows-7
+  - Windows
 categories:
   - network
   - protocols
   - tcpip
   - tip
+  - Windows
 ---
 Windows 7 with the Firewall enabled by default does not allow ping requests, hence when you ping a remote Windows 7 client it will not respond. 
 

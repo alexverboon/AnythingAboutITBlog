@@ -15,7 +15,7 @@ tags:
   - powershell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 Yesterday I deployed a computer with ConfigMgr and then wondered why it got certain software installed. And so another script was born.
 

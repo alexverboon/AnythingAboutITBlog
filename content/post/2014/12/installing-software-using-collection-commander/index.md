@@ -13,10 +13,11 @@ tags:
   - configmgr
   - deployment
   - installation
+  - PowerShell
 categories:
   - collection-commander
   - configmgr
-  - powershell
+  - PowerShell
 ---
 In the past days I had to provision a number of clients for testing purposes. A specific set of software also needed to be installed on these clients. At our company when deploying software to computers, the deployment for none mandatory software is always set to “Available” so that users can choose themselves when to install the software via the Software Center. 
 

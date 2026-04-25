@@ -13,6 +13,7 @@ tags:
 categories:
   - deployment
   - tip
+  - WinPE
 ---
 When creating WinPE 2.0 boot images, make sure you run the [PEImg](http://technet.microsoft.com/en-us/library/cc749161.aspx) /prep command against your boot.wim as it does make a significant difference in sze as shown in the table below:
 

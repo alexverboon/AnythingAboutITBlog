@@ -12,10 +12,10 @@ tags:
   - guest
   - hyper-v
   - virtualbox-2
-  - windows-8
+  - Windows
 categories:
   - virtualbox
-  - windows-8
+  - Windows
 ---
 Yesterday I prepared a new system with Windows 8 CP that has the latest Intel I7 processor and 8GB of RAM. My initial plan was to use Hyper-V which is now also included as a feature on the Client.
 

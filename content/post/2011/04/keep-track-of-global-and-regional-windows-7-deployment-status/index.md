@@ -11,10 +11,10 @@ image: "img/post-heroes/keep-track-of-global-and-regional-windows-7-deployment-s
 tags:
   - deployment
   - statistics
-  - windows-7
+  - Windows
 categories:
   - deployment
-  - windows-7
+  - Windows
 ---
 During this week there have been various [reports](http://rcpmag.com/articles/2011/04/12/report-windows-7-passes-xp-in-us.aspx) about Windows 7 passing Windows XP in the U.S. The numbers used come from [StatCounter](http://gs.statcounter.com/) a web analytics service. While Windows 7 has passed Windows XP in the U.S, we’re not yet there globally. 
 

@@ -11,14 +11,16 @@ tags:
   - amt
   - intel
   - power-management
-  - powershell
   - vpro
+  - Windows
+  - PowerShell
 categories:
   - amt
   - intel
-  - powershell
   - tip
   - vpro
+  - Windows
+  - PowerShell
 ---
 In a previous post [Using Intel AMT Power Management @ Home](https://www.verboon.info/index.php/2009/07/using-intel-amt-power-management-home/) I wrote about how to use Intel AMT Power Management at home or let’s say in an environment where you don’t have systems managed by an infrastructure that provides integrated support for Intel AMT.
 

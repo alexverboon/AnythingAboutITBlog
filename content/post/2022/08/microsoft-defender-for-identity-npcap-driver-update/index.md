@@ -13,6 +13,7 @@ tags:
   - npcap
   - Sensor
   - winpcap
+  - Windows
 categories:
   - Microsoft Defender
 ---

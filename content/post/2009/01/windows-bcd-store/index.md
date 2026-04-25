@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-bcd-store.png"
 tags:
   - bcd
+  - Windows
 categories:
   - bios
   - tools

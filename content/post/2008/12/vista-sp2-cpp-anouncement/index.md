@@ -11,6 +11,7 @@ tags:
   - cpp
   - sp2
   - vista
+  - Windows
 categories:
   - automation
   - beta

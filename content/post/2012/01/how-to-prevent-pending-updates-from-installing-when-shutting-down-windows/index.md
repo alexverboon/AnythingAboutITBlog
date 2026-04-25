@@ -12,11 +12,12 @@ tags:
   - pending-updates
   - shutdown
   - tip
-  - windows-7
   - windows-update
+  - Windows
+  - Office
 categories:
   - tip
-  - windows7
+  - Windows
 ---
 The meeting should have finished since 10 minutes but they keep on talking, you look at your watch and notice that you only have a few minutes until you need to leave the office so that you catch your train. Finally the call ended and you shutdown your machine, but then you get that message “*Please do not power off or unplug your machine. Installing update 1 of 5*”. 
 

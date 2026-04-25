@@ -9,9 +9,9 @@ description: "Windows7 has been signed-off and now goes into RTM. See the video 
 author: "Alex Verboon"
 tags:
   - rtm
-  - windows-7
+  - Windows
 categories:
-  - windows-7
+  - Windows
 ---
 Windows7 has been signed-off and now goes into RTM. See the video below where contributing development teams give their go to release Windows7.
 

@@ -17,7 +17,7 @@ tags:
 categories:
   - defender-atp
   - kql
-  - powershell
+  - PowerShell
 ---
 I was recently writing some advanced hunting queries for Microsoft Defender ATP to search for the execution of specific PowerShell commands. If you are just looking for one specific command, you can run query as sown below
 

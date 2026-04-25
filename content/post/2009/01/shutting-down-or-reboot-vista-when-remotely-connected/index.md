@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/shutting-down-or-reboot-vista-when-remotely-connected.png"
 tags:
   - windows-vista
+  - Windows
 categories:
   - tip
   - vista

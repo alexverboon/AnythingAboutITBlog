@@ -11,13 +11,12 @@ tags:
   - activation
   - kms
   - server-2003
-  - windows-7
+  - Windows
 categories:
   - licensing
   - tip
-  - windows-7
   - windows-server-2008r2
-  - windows7
+  - Windows
 ---
 If you are already running an existing KMS Service within your environment, and you do not plan to install a new KMS Service, the following information might be of interest if you have plans for deploying Windows 7 or Server 2008-R2 systems. 
 

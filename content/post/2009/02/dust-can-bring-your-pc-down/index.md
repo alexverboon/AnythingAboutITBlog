@@ -11,6 +11,7 @@ tags:
   - dust
   - fan
   - pc
+  - Windows
 categories:
   - fun
 ---

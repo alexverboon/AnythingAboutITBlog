@@ -9,6 +9,7 @@ description: "In a letter to enterprise customers Senior Vice President Bill Veg
 author: "Alex Verboon"
 tags:
   - xp
+  - Windows
 categories:
   - windows-xp
 ---

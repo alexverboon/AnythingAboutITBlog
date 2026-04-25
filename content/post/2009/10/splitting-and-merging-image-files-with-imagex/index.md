@@ -17,6 +17,7 @@ tags:
   - merge
   - size
   - split
+  - Windows
 categories:
   - deployment
   - imagex

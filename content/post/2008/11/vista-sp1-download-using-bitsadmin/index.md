@@ -11,6 +11,7 @@ tags:
   - service-pack-1
   - vista
   - windows-vista
+  - Windows
 categories:
   - automation
   - tip

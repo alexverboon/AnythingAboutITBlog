@@ -9,6 +9,7 @@ description: "For Windows XP, regional settings can be applied by using the foll
 author: "Alex Verboon"
 tags:
   - deployment
+  - Windows
 categories:
   - automation
   - deployment

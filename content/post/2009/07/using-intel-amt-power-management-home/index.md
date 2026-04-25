@@ -13,6 +13,7 @@ tags:
   - power-management
   - remote-control
   - vpro
+  - Windows
 categories:
   - bios
   - intel

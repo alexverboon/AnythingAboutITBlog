@@ -13,10 +13,11 @@ tags:
   - enterprise
   - group-policy
   - metro-style-apps
+  - Windows
 categories:
   - applocker
   - metro-style-app
-  - windows-8
+  - Windows
 ---
 In Windows 8 the Applocker feature has been extended to support management of metro style apps. Enterprise administrators can define a Packaged app Rule to allow or deny the installation and/or use of a particular metro style app. When opening the Group Policy editor under Computer Configuration / Windows Settings / Security Settings / Application Control Settings / Applocker there is a new node called Packaged app Rules. 
 

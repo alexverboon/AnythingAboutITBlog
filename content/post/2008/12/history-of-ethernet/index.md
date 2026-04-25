@@ -9,6 +9,7 @@ description: "We all use it every day, it's one of the technologies that makes t
 author: "Alex Verboon"
 tags:
   - ethernet
+  - Office
 categories:
   - knowledge
   - tip

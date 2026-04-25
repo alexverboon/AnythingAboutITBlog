@@ -11,12 +11,12 @@ image: "img/post-heroes/windows-7-product-activation-methods.png"
 tags:
   - activation
   - kms
-  - windows-7
+  - Windows
 categories:
   - kms
   - licensing
   - microsoft
-  - windows-7
+  - Windows
 ---
 Today I was asked whether Windows 7 Ultimate can be activated through KMS, since we’re primarily busy with Windows 7 Enterprise I couldn’t instantly provide an answer (I prefer to first check out things instead of providing an incorrect answer). So unless I have overlooked something…… only Windows 7 Professional and Enterprise can be activated using a KMS Infrastructure. 
 

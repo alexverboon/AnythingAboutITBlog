@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - regional
   - vista
+  - Windows
 categories:
   - automation
   - deployment

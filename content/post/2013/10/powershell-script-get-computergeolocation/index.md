@@ -13,14 +13,16 @@ tags:
   - gps
   - latitude
   - longitude
-  - powershell
   - sensor
   - wi-fi
   - windows-location-platform
   - windows-location-provider
+  - Windows
+  - PowerShell
 categories:
-  - windows-8-1
   - windows-location-provider
+  - Windows
+  - PowerShell
 ---
 **28-OCT-2013 Update**: I have updated the script to retry when the status of the location provider is in initializing mode. 
 

@@ -11,9 +11,10 @@ tags:
   - registry
   - services
   - virtualization
-  - windows-7
+  - Windows
 categories:
   - Uncategorized
+  - Windows
 ---
 Just found these two blog posts that describe some Registry and Services optimizations when running Windows 7 as a virtual client. 
 

@@ -11,8 +11,10 @@ image: "img/post-heroes/defender-for-endpoint-unified-solution-for-windows-serve
 tags:
   - defenderforendpoint
   - unified
+  - Windows
 categories:
-  - Microsoft Defender  
+  - Microsoft Defender
+  - Windows
 ---
 Hello everyone,
 

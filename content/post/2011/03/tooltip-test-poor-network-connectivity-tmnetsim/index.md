@@ -15,6 +15,7 @@ tags:
   - network
   - simulator
   - wan
+  - Windows
 categories:
   - bandwidth
   - protocols

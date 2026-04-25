@@ -16,10 +16,12 @@ tags:
   - image
   - picture
   - text
+  - Windows
 categories:
   - fun
   - tip
   - tools
+  - Windows
 ---
 I recently got some scripts that were nicely written, meaning well formatted, documented and structured. What I liked most was the clearly visible separation of the main code and the subroutines. The code blocks were separated by [ASCII](http://en.wikipedia.org/wiki/ASCII) Code based letters as shown on the picture below.
 

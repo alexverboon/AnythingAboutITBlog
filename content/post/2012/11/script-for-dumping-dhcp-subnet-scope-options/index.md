@@ -13,8 +13,10 @@ tags:
   - dump
   - netsh
   - scope-options
+  - Windows
 categories:
   - dhcp
+  - Windows
 ---
 Here’s simple script I’ve put together as I was in need of one that dumps the DHCP subnet scope options into a text file. 
 

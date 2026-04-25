@@ -14,11 +14,13 @@ tags:
   - group-policy-preferences
   - search
   - search-provider
+  - Windows
 categories:
   - gpo
   - group-policy
   - search-provider
   - tip
+  - Windows
 ---
 Since the release of Windows 7 and Server 2008-R2 we have about 3000 Group Policy Settings available to centrally configure and manage Windows clients and servers. Though some among us might have worked with GPO settings from the early days on, knowing about the existence of each and every available setting is nearly impossible. It still happens to me that while I am configuring a specific GPO setting, I do come across other GPOs I didn’t knew of yet. 
 

@@ -9,8 +9,9 @@ description: "This video walks you through some of the new and updated features 
 author: "Alex Verboon"
 tags:
   - Uncategorized
+  - Windows
 categories:
-  - windows7
+  - Windows
 ---
 This video walks you through some of the new and updated features in the Windows 7 Release Candidate.
 

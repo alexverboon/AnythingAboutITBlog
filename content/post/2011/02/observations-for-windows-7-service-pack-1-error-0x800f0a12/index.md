@@ -13,9 +13,10 @@ tags:
   - error
   - service-pack-1
   - windws-7
+  - Windows
 categories:
   - servicepack
-  - windows7
+  - Windows
 ---
 During the past days I have been manually updating a few Windows 7 clients and on two of them I received the error **0x800fa12**. 
 

@@ -9,8 +9,9 @@ description: "This is an excellent video explaining how to prepare and configure
 author: "Alex Verboon"
 tags:
   - vhd
+  - Windows
 categories:
-  - windows7
+  - Windows
 ---
 This is an excellent video explaining how to prepare and configure your machine to boot from a VHD drive. 
 

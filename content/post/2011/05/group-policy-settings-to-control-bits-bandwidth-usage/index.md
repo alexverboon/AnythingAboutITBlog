@@ -16,10 +16,12 @@ tags:
   - gpo
   - group-policy
   - hours
+  - Windows
 categories:
   - bits
   - gpo
   - group-policy
+  - Windows
 ---
 I just read the article [BITS – More Flexible Bandwidth Limit Policies](http://blogs.msdn.com/b/wmi/archive/2011/02/02/bits-more-flexible-bandwidth-limit-policies.aspx) on the Windows Management Infrastructure Blog which describes how BITS bandwidth usage can be configured through Group Policy settings. For Windows 7 (or computers with BITS 3.5 installed) there are 2 Group Policies that provide more granular control of BITS bandwidth usage during working / non-working days/hours and during scheduled maintenance days/hours.
 

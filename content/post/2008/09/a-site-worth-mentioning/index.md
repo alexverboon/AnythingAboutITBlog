@@ -9,6 +9,7 @@ description: "While searching for something I came across the site [computer per
 author: "Alex Verboon"
 tags:
   - script
+  - Windows
 categories:
   - scripting
   - tip

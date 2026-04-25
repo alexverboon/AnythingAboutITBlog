@@ -9,10 +9,10 @@ description: "The below script makes use of a webservice hosted by webserviceX.n
 author: "Alex Verboon"
 image: "img/post-heroes/powershell-get-stock-quote-information.png"
 tags:
-  - powershell
   - stockquote
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. 
 

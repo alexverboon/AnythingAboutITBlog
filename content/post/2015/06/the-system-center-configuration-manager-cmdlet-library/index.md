@@ -9,10 +9,11 @@ description: "Hey there, usually when I post something I try to post something n
 author: "Alex Verboon"
 tags:
   - configmgr
-  - powershell
+  - Windows
+  - PowerShell
 categories:
   - configmgr
-  - powershell
+  - PowerShell
 ---
 Hey there, usually when I post something I try to post something new, something that ideally hasn’t been posted before. Today, I’ll make an exception.  This becasue when recently speaking to others dealing with ConfigMgr I noticed that not everyone is aware yet that back in April the ConfigMgr team [released](http://blogs.technet.com/b/configmgrteam/archive/2015/04/17/now-available-microsoft-system-center-configuration-manager-cmdlet-library.aspx) the **System Center Configuation Manager CmdLet Library**. So i believe it’s worth to spread the word again. 
 

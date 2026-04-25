@@ -13,10 +13,13 @@ tags:
   - defender-2
   - maps
   - protection
+  - Windows
+  - PowerShell
 categories:
   - defender
   - defender-atp
   - maps
+  - PowerShell
 ---
 Whenever I work with customers on Windows Defender or Microsoft Defender Advanced Threat Protection, one of the first things I usually review are the current Windows Defender settings. Having Windows Defender properly configured is key, because otherwise you might not be able to make use of all the capabilities Defender and Defender ATP provides. One of them is MAPS (Microsoft Active Protection Service) or also known as Windows Defender Antivirus cloud-delivered protection service. Quite often I notice that clients have no connection to MAPS, this can be validated by running the following command from an elevated command prompt:
 

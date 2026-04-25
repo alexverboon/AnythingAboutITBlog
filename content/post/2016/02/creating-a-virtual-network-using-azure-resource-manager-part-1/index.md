@@ -12,12 +12,12 @@ tags:
   - arm
   - azure
   - azure-resource-manager
-  - powershell
   - sdk
   - virtual-network
+  - PowerShell
 categories:
   - azure
-  - powershell
+  - PowerShell
 ---
 A few weeks ago I wondered why in the Azure Portal some of the resources where flagged as “classic”. The article [Understanding Resource Manager deployment and classic deployment](https://azure.microsoft.com/en-us/documentation/articles/resource-manager-deployment-model/) provided the answer I was looking for and was the start of an interesting journey into Azure Resource Manager. 
 

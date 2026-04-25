@@ -10,11 +10,13 @@ author: "Alex Verboon"
 image: "img/post-heroes/collecting-nettcpconnection-and-process-information-with-powershell.png"
 tags:
   - network
-  - powershell
   - security
+  - Windows
+  - PowerShell
 categories:
-  - powershell
   - security
+  - Windows
+  - PowerShell
 ---
 if you need information on active TCP connections, you probably start with the [netstat](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat) command When using the -b or -o parameter netstat will also list the executable involved in creating the process respectively the owing Process ID.
 

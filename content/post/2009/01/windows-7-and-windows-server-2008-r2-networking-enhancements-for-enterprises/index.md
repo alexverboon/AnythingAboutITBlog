@@ -9,12 +9,12 @@ description: "A document that describes the networking enhancements available in
 author: "Alex Verboon"
 tags:
   - networking
-  - windows-7
+  - Windows
 categories:
   - knowledge
   - protocols
   - reading
-  - windows-7
+  - Windows
 ---
 A document that describes the networking enhancements available in Windows 7 and Windows Server 2008 R2 and their benefit to enterprise networks.
 

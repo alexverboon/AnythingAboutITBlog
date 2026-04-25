@@ -11,6 +11,7 @@ tags:
   - kms
   - mak
   - volume-licensing
+  - Windows
 categories:
   - deployment
   - knowledge

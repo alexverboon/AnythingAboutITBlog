@@ -11,11 +11,12 @@ tags:
   - azure
   - azure-storage
   - compute
-  - powershell
   - pricing
   - size
+  - PowerShell
 categories:
   - azure
+  - PowerShell
 ---
 One important topic to consider when deploying virtual machines in Azure is the [size](https://azure.microsoft.com/en-us/pricing/details/cloud-services/) of the virtual machine as this affects the pricing, but beware that not only virtual machine sizing has a pricing impact other factors like [storage](https://azure.microsoft.com/en-us/pricing/details/storage/disks/) and optional features like [IP address options](https://azure.microsoft.com/en-in/pricing/details/ip-addresses/) add to the costs as well.
 

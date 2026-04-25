@@ -12,14 +12,14 @@ tags:
   - enterprise
   - med-v
   - virtualization
-  - windows-7
   - xp-mode
+  - Windows
 categories:
   - deployment
   - med-v
   - virtualization
-  - windows-7
   - xp-mode
+  - Windows
 ---
 Last week I had a Windows 7 planning meeting with one of our clients and like in any other Windows 7 related meeting that i have had in the past months with other customers, the topic about XP Mode was brought up. It appears that when speaking about application compatibility, first thing people think of is XP Mode. To be honest I don’t blame them, because when XP Mode was first introduced in April 2009 during the Windows 7 Beta phase it was promoted as a possible workaround for Application Compatibility issues and therefore got a lot of attention. The message almost sounded like “*There is no barrier to move to Windows 7 because if you run into an application compatibility issue, you can always use XP Mode*”. So what’s your point? Well, while the statement as such is absolutely true, there are a few things to consider when we speak about computers that run in an enterprise environment.
 

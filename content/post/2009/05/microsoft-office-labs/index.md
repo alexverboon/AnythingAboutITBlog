@@ -11,8 +11,10 @@ image: "img/post-heroes/microsoft-office-labs.png"
 tags:
   - future
   - office-labs
+  - Office
 categories:
   - microsoft-office
+  - Office
 ---
 What technologies will we use in the near future, how will our work environment look like? Watch the video below or explore the [Microsoft Office Labs](http://www.officelabs.com/Pages/Default.aspx) web site and see how Microsoft thinks this is going to look like. 
 

@@ -11,11 +11,12 @@ image: "img/post-heroes/the-case-of-running-the-device-and-credential-guard-hard
 tags:
   - credentialguard
   - dg_readiness_tool_v3-6-ps1
-  - powershell
-  - widnows10
+  - Windows
+  - PowerShell
 categories:
   - credential-guard
-  - powershell
+  - Windows
+  - PowerShell
 ---
 To close this week, let me share my findings with you about running the Windows Device and Credential Guard Hardware Readiness Tool and the unknown architecture error.
 

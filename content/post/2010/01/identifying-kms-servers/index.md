@@ -13,15 +13,16 @@ tags:
   - kms
   - vlmcs
   - volume-licensing
+  - Windows
 categories:
   - deployment
   - knowledge
   - licensing
   - tip
   - vista
-  - windows-7
   - windows-server-2008
   - windows-server-2008-r2
+  - Windows
 ---
 Assume you are at a client site and plan to deploy a Windows Server (2008 / 2008-R2) or Windows Clients (Windows Vista / Windows 7) and want to check if they do already have KMS Services running on their network. 
 

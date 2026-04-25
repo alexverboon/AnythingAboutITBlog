@@ -14,8 +14,10 @@ tags:
   - content-status
   - distmgr-log
   - software-updates
+  - Windows
 categories:
   - configmgr
+  - Windows
 ---
 Last week I had an issue with a Software Update package in Configuration Manager 2012 SP1 that wouldn’t update properly after i had changed it’s source location. Below a step by step description of what i did to resolve it. 
 

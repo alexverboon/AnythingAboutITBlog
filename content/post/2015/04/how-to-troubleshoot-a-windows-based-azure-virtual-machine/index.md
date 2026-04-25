@@ -12,6 +12,7 @@ tags:
   - azure
   - diagnostic
   - virtual-machine
+  - Windows
 categories:
   - azure
 ---

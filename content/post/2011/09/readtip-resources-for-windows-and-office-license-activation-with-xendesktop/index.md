@@ -13,10 +13,10 @@ tags:
   - licensing
   - mak
   - microsoft
-  - office-2010
   - vda
   - vdi
-  - windows-7
+  - Windows
+  - Office
 categories:
   - citrix
   - licensing

@@ -11,11 +11,13 @@ tags:
   - bits
   - bitsadmin
   - download
-  - powershell
+  - Windows
+  - PowerShell
 categories:
   - bits
-  - powershell
   - scripting
+  - Windows
+  - PowerShell
 ---
 Just recently when I created a [script](https://www.verboon.info/index.php/2011/01/automated-microsoft-security-essentials-installation/) using BITSAdmin, I noticed the following text when running the BITSAdmin executable: **BITSADMIN is deprecated and is not guaranteed to be available in future versions of Windows. Administrative tools for the BITS service are now provided by BITS PowerShell cmdlets**.
 

@@ -12,6 +12,7 @@ tags:
   - knowledge-base
   - monitoring
   - qfe
+  - Windows
 categories:
   - tip
   - tools

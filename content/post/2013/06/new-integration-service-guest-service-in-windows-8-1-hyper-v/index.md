@@ -13,10 +13,12 @@ tags:
   - guest-services
   - hyper-v
   - integration-services
-  - windows-8-1
+  - Windows
+  - PowerShell
 categories:
   - hyper-v
-  - windows-8-1
+  - Windows
+  - PowerShell
 ---
 When opening the Virtual Machine Settings Integration Services node in Hyper-V running on Windows 8.1 Preview, you will notice that there is now an additional Integration Service listed called **Guest Services**. By default the service is not enabled, 
 

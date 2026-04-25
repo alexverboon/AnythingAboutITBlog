@@ -11,11 +11,12 @@ image: "img/post-heroes/deploying-windows-11-in-minutes-with-automatedlab.png"
 tags:
   - automatedlab
   - deployment
-  - powershell
-  - windows11
   - windowsinsider
+  - Windows
+  - PowerShell
 categories:
   - Windows
+  - PowerShell
 ---
 In this blog post I am going to show you how you can quickly (in 5 minutes) deploy Windows 11 in Hyper-V using the AutomatedLab PowerShell module. In fact the process is no different than when deploying other Windows operating systems, but just in case you haven't heard of AutomatedLab yet and plan to install Windows 11 in a VM, this might be a good opportunity to get familiar with it.
 

@@ -19,9 +19,11 @@ tags:
   - winpe-4-0
   - winpe-bmp
   - winpe-jpg
+  - Windows
+  - WinPE
 categories:
-  - windows-8
-  - winpe
+  - Windows
+  - WinPE
 ---
 As a follow up on my earlier post [Windows 8 – Script for customizing WinPE 4.0 – Part 1](https://www.verboon.info/index.php/2012/03/windows-8-script-for-customizing-winpe-4-0-part-1/) I want to share with you how to customize the WinPE wallpaper. Credits go to blog reader “Max” who responded on a question from reader Carl H. 
 

@@ -12,6 +12,7 @@ tags:
   - characters
   - e-mail
   - keyboard
+  - Windows
 categories:
   - knowledge
   - tip

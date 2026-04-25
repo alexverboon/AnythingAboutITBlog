@@ -9,6 +9,7 @@ description: "Back from vacation and cleaning up my mail. A colleague has send u
 author: "Alex Verboon"
 tags:
   - knowledge
+  - Windows
 categories:
   - reading
 ---

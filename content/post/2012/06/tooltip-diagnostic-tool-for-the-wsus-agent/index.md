@@ -14,6 +14,7 @@ tags:
   - tool
   - troubleshooting
   - wsus
+  - Windows
 categories:
   - tools
   - wsus

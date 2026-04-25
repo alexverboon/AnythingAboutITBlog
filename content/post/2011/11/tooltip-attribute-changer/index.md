@@ -18,6 +18,7 @@ tags:
   - timestamp
   - tip
   - tool
+  - Windows
 categories:
   - explorer
   - tip

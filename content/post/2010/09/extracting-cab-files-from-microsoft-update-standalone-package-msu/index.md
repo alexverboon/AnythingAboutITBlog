@@ -12,14 +12,14 @@ tags:
   - deployment
   - extract
   - system-image-manager
-  - windows-7
   - wusa
+  - Windows
 categories:
   - automation
   - deployment
   - scripting
   - update
-  - windows-7
+  - Windows
 ---
 When manually downloading a Microsoft Security Update or hotfix for Windows 7 (Vista) you typically get a file with an MSU file extension. A file with an MSU extension is a Microsoft Update Standalone package. 
 

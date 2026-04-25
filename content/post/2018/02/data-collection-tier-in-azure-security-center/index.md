@@ -14,8 +14,11 @@ tags:
   - eventid
   - security
   - security-center
+  - Windows
+  - PowerShell
 categories:
   - azure
+  - PowerShell
 ---
 Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security events.
 

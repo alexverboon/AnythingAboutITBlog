@@ -15,10 +15,11 @@ tags:
   - s3
   - s4
   - sleep
+  - Windows
 categories:
   - performance
   - power
-  - windows-7
+  - Windows
 ---
 While reading the Microsoft Whitepaper [Diagnosing Application Compatibility Issues Affecting Windows Power Management](http://www.microsoft.com/download/en/details.aspx?id=26226) I came across a utility called PwrTest that can be used to diagnose sleep reliability issues and more… The below list shows the various options the tool provides. 
 

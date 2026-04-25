@@ -9,6 +9,7 @@ description: "Today at work we talked about Windows XP embedded. It's a bout 2 y
 author: "Alex Verboon"
 tags:
   - embedded
+  - Windows
 categories:
   - embedded
 ---

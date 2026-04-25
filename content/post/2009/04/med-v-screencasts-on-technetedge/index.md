@@ -12,14 +12,15 @@ tags:
   - migrate
   - virtual-pc
   - virtualization
+  - Windows
 categories:
   - automation
   - deployment
   - knowledge
   - virtualization
   - vista
-  - windows-7
   - windows-xp
+  - Windows
 ---
 The first out of four  screen casts about MED-V has been published today on TechnetEdge. 
 

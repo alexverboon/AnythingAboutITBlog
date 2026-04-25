@@ -16,9 +16,11 @@ tags:
   - imagexexe
   - mount
   - unmount
+  - Windows
 categories:
   - dism-2
   - wim
+  - Windows
 ---
 Mounting and un-mounting Windows Images (wim files) is a simple task using dism.exe or imagex.exe at the command prompt, but if you do this every day you might get annoyed by typing the same string of commands over and over again. A few years back my colleague Claude Henchoz shared a script to add some WIM management options to the Windows Explorer context menu. 
 

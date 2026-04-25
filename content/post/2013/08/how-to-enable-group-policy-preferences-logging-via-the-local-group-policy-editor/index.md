@@ -16,8 +16,10 @@ tags:
   - group-policy-preferences
   - logging
   - trace
+  - Windows
 categories:
   - group-policy
+  - Windows
 ---
 When opening the local Group Policy Editor (gpedit.msc) you will notice that on a default Windows 7 SP1 Enterprise client there is no logging and tracing node for Group Policy Preferences logging underneath the Group Policy node. 
 

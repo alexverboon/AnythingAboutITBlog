@@ -16,6 +16,8 @@ tags:
   - remote
   - transfer
   - winscp
+  - Windows
+  - Office
 categories:
   - openssh
 ---

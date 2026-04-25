@@ -12,6 +12,7 @@ tags:
   - mobile
   - remote-control
   - windows-mobile-6
+  - Windows
 categories:
   - mobile
   - tip

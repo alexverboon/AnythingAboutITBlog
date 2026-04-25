@@ -9,10 +9,10 @@ description: "[https://www.microsoft.com/learning/windows-7/default.mspx](https:
 author: "Alex Verboon"
 tags:
   - learning
-  - windows7
+  - Windows
 categories:
   - knowledge
-  - windows7
+  - Windows
 ---
 [https://www.microsoft.com/learning/windows-7/default.mspx](https://www.microsoft.com/learning/windows-7/default.mspx)
 

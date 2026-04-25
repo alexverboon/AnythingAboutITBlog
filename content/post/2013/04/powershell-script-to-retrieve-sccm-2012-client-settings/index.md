@@ -11,11 +11,11 @@ tags:
   - client-settings
   - documentation
   - get-cmclientsetting
-  - powershell
   - sccm-2012
+  - PowerShell
 categories:
-  - powershell
   - sccm-2012
+  - PowerShell
 ---
 **4/3/2017 - Update:  here's a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/
 

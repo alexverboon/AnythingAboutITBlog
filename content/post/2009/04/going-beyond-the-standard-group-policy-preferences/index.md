@@ -12,6 +12,7 @@ tags:
   - gpo
   - group-policy
   - policypak
+  - Windows
 categories:
   - active-directory
   - automation

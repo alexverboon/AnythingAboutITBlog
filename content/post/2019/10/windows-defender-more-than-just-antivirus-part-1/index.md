@@ -16,10 +16,14 @@ tags:
   - protection
   - security
   - smartscreen
+  - Windows
+  - PowerShell
 categories:
   - defender
   - defender-atp
   - microsoft-defender
+  - Windows
+  - PowerShell
 ---
 Due to my professional activity as a Cyber Security Consultant, I regularly speak with customers about Windows Defender and find that many are not fully aware of all the features and capabilities that Windows Defender offers. Also, when reviewing existing implementations, I've noticed a pattern of some common issues.
 

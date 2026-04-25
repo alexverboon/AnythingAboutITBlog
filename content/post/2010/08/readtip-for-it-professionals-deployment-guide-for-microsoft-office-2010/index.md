@@ -11,10 +11,10 @@ tags:
   - deployment
   - guide
   - installation
-  - office-2010
+  - Office
 categories:
   - deployment
-  - office-2010
+  - Office
 ---
 Microsoft recently published a deployment guide for Microsoft Office 2010. The content in this book is a copy of selected content from the Office 2010 Resource Kit Technical library. Download the guide from [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=2d67bf2d-75ff-47d9-ae7b-c67b09a9c902)
 

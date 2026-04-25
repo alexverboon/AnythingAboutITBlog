@@ -13,12 +13,13 @@ tags:
   - vt
   - windows-virtual-pc
   - xp-mode
+  - Windows
 categories:
   - bios
   - compatibility
   - tools
   - virtualization
-  - windows7
+  - Windows
 ---
 Does your hardware support the Windows7 [XP Mode](http://www.microsoft.com/windows/virtual-pc/get-started.aspx) feature ? Here’s a small and free utility that helps you to find out if your system provides [hardware virtualization](http://en.wikipedia.org/wiki/Hardware-assisted_virtualization) support. 
 

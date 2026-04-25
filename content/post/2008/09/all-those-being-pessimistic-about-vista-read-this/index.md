@@ -10,6 +10,7 @@ author: "Alex Verboon"
 image: "img/post-heroes/all-those-being-pessimistic-about-vista-read-this.png"
 tags:
   - vista
+  - Windows
 categories:
   - reading
   - vista

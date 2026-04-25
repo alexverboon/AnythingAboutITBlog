@@ -13,14 +13,16 @@ tags:
   - defender-2
   - module
   - mpprovider
-  - powershell
   - scep
   - system-center-endpoint-protection
   - threat
+  - Windows
+  - PowerShell
 categories:
   - defender
   - endpoint-protection
-  - powershell
+  - Windows
+  - PowerShell
 ---
 I just read a blog post from Ed Wilson (Scripting Guy) about [Use PowerShell to Configure Windows Defender Preferences](http://blogs.technet.com/b/heyscriptingguy/archive/2013/10/26/weekend-scripter-use-powershell-to-configure-windows-defender-preferences.aspx) and wondered if there’s more here. And yes there is. If you have a default insallation of Windows 8 and have defender enabled or work in an enterprise environment and use Configuration Manager with the  System Center Endpoint Security agent deployed on your clients then you the below listed cmdlets available. 
 

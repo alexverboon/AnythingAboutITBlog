@@ -12,12 +12,12 @@ tags:
   - games
   - gpo
   - group-policy
-  - windows-7
+  - Windows
 categories:
   - games
   - gpo
   - group-policy
-  - windows-7
+  - Windows
 ---
 In Windows 7 Professional and Enterprise the Windows Games are not enabled by default. But if you have decided to include them in your corporate standard image or users with administrative rights enable them by themselves, you should consider using the following Group Policy settings. 
 

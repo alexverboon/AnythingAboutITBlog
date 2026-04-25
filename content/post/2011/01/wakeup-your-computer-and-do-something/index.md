@@ -15,6 +15,7 @@ tags:
   - tasks
   - tools
   - wakeup-power-state
+  - Windows
 categories:
   - scheduling
   - tools

@@ -10,12 +10,13 @@ author: "Alex Verboon"
 image: "img/post-heroes/powershell-7-group-policy-settings-and-eventlogs.png"
 tags:
   - group-policy
-  - powershell
   - powershell-7
   - powershell-core
+  - Windows
+  - PowerShell
 categories:
   - group-policy
-  - powershell
+  - PowerShell
 ---
 On December 16th
 [Joey](https://twitter.com/joeyaiello)

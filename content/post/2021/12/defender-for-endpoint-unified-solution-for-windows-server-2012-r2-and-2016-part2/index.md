@@ -10,8 +10,11 @@ author: "Alex Verboon"
 image: "img/post-heroes/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part2.png"
 tags:
   - defenderforendpoint
+  - Windows
+  - PowerShell
 categories:
   - Security
+  - PowerShell
 ---
 Hello everyone,
 

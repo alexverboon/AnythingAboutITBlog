@@ -12,10 +12,10 @@ tags:
   - extract
   - msp
   - oct
-  - office-2010
   - tool
+  - Office
 categories:
-  - office-2010
+  - Office
 ---
 If you have an Office 2010 installation that is customized by use of the Office customization tool the customizations are stored within an MSP file that uses Extensible Markup Language (XML) format. 
 

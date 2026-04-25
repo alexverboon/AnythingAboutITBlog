@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - diskusage
   - windows-vista
+  - Windows
 categories:
   - tip
   - tools

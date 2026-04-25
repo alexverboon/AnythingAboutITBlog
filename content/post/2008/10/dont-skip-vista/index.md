@@ -9,11 +9,11 @@ description: "While most people again seem to get excited about Microsoft's next
 author: "Alex Verboon"
 tags:
   - vista
-  - windows-7
+  - Windows
 categories:
   - reading
   - vista
-  - windows-7
+  - Windows
 ---
 While most people again seem to get excited about Microsoft's next operating system and waste their time with rumours and guessing when it will be released, let me continue with promoting not to skip Vista :-)
 

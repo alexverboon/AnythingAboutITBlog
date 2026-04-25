@@ -9,6 +9,7 @@ description: "When i first read about Windows Server core, let's say at some tim
 author: "Alex Verboon"
 tags:
   - Uncategorized
+  - Windows
 categories:
   - automation
   - deployment

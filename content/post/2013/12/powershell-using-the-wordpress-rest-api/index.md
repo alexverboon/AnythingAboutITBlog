@@ -11,12 +11,12 @@ image: "img/post-heroes/powershell-using-the-wordpress-rest-api.png"
 tags:
   - jetpack
   - json
-  - powershell
   - rest-api
   - wordpress-2
+  - PowerShell
 categories:
-  - powershell
   - wordpress
+  - PowerShell
 ---
 I just found out that meanwhile (since October last year) the Rest API for wordpress now also works on self-hosted wordpress sites. So i can now access the content of my blog through PowerShell. 
 

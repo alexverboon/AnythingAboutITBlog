@@ -16,15 +16,17 @@ tags:
   - usmt-40
   - usmtutils
   - waik
-  - windows-7
   - windows-xp
+  - Windows
+  - WinPE
 categories:
   - deployment
   - hard-links
   - usmt
   - waik
-  - windows-7
   - windows-xp
+  - Windows
+  - WinPE
 ---
 In my previous post [Using hard Links – Part One](https://www.verboon.info/index.php/2010/04/using-hard-links-part-one/) I explained how Hard Links work. Today’s post is about using hard links with USMT 4.0 in a Windows XP to Windows 7 migration scenario. 
 

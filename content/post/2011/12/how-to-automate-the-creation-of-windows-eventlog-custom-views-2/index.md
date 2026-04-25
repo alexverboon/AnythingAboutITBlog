@@ -14,10 +14,11 @@ tags:
   - custom-view
   - eventlog
   - eventvwr-exe
+  - Windows
 categories:
   - eventlog
   - tip
-  - windows-7
+  - Windows
 ---
 In the past couple of days I have been working on measuring system boot performance and you are probably going to see some posts from me on that subject soon. Today I want to share with you how you can automate the creation of a Windows Eventlog custom view.   
 

@@ -13,12 +13,12 @@ tags:
   - compatibility
   - shim
   - virtualization
-  - windows-7
+  - Windows
 categories:
   - app-v
   - compatibility
   - virtualization
-  - windows-7
+  - Windows
 ---
 Often people think that App-V is is an Application Compatibility Solution, it’s not. Chris Jackson has written an excellent article where he explains this in detail. Read the entire article [here](http://technet.microsoft.com/en-us/magazine/ff458340.aspx)
 

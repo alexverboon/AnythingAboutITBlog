@@ -15,9 +15,11 @@ tags:
   - windows-insider
   - windows-subsystem-for-linux
   - wsl
+  - Windows
 categories:
   - kali
   - wsl
+  - Windows
 ---
 Since Microsoft introduced WSL ([Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/)) I've been playing with it occasionally, in the beginning however some of the tools I wanted to use like nmap and hping3 would not work due to issues with networking in WSL 1.0, however with WSL 2.0 these issues seem to be resolved so gave it another try earlier this year in June and all worked as expected.
 

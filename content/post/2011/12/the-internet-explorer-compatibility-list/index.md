@@ -18,6 +18,7 @@ tags:
   - internet-explorer
   - list
   - website
+  - Windows
 categories:
   - compatibility
   - internet-explorer

@@ -11,6 +11,7 @@ tags:
   - desktop-virtualization
   - kidaro
   - med-v
+  - Windows
 categories:
   - deployment
   - virtualization

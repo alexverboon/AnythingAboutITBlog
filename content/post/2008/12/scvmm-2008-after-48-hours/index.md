@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - hyper-v
   - virtualization
+  - Windows
 categories:
   - hyper-v
   - virtualization

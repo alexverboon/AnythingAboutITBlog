@@ -9,12 +9,15 @@ description: "Nowadays regular deployment of security updates is a must, whether
 author: "Alex Verboon"
 tags:
   - cve
-  - powershell
   - security
   - updates
   - vulnerability
+  - Windows
+  - PowerShell
 categories:
   - security
+  - Windows
+  - PowerShell
 ---
 Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date you deploy the latest updates as soon as possible.  But it is equally important to understand the vulnerabilities being addressed by these updates.
 

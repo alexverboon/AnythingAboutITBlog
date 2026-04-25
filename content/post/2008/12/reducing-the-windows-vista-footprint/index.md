@@ -9,6 +9,7 @@ description: "The Windows Vista footprint is quite large, so my current thoughts
 author: "Alex Verboon"
 tags:
   - vista
+  - Windows
 categories:
   - automation
   - deployment

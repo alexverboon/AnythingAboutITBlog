@@ -17,6 +17,7 @@ tags:
   - folders
   - group-membership
   - project-folders
+  - Windows
 categories:
   - automation
   - tools

@@ -14,12 +14,12 @@ tags:
   - new
   - profiles
   - store
-  - windows-8
   - windows-to-go
+  - Windows
 categories:
   - gpo
   - group-policy
-  - windows-8
+  - Windows
 ---
 I have just compared the C:\Windows\PolicyDefinitions folder on the Widows 8 preview build with a Windows 7 Enterprise build. And unless I missed one, the below ADMX/ADML files are new. 
 

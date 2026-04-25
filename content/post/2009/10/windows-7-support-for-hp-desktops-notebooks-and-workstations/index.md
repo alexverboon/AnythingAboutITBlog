@@ -10,11 +10,11 @@ author: "Alex Verboon"
 tags:
   - drivers
   - hp
-  - windows-7
+  - Windows
 categories:
   - drivers
   - hp
-  - windows7
+  - Windows
 ---
 HP has started publishing device drivers and software for Windows 7 for their desktops, notebooks and workstations. A complete overview of Windows 7 eligible models can be found [here](http://www.hp.com/united-states/consumer/windows7-upgrade/eligmodels.html)
 

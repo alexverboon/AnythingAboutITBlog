@@ -12,6 +12,7 @@ tags:
   - compaq
   - deskpro
   - hisotry
+  - Office
 categories:
   - compaq
   - history

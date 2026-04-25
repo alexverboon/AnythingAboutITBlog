@@ -13,6 +13,7 @@ tags:
   - application-paths-editor
   - registry
   - tool
+  - Windows
 categories:
   - automation
   - registry

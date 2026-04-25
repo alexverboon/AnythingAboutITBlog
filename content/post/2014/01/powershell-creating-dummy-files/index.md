@@ -11,10 +11,10 @@ tags:
   - dummy
   - files
   - large-files
-  - powershell
   - random
+  - PowerShell
 categories:
-  - powershell
+  - PowerShell
 ---
 Here’s a function I wrote to create a large dummy file either filled with zero’s or random characters. The -Target parameter must be eitehr a file including the path or just the path. If the path does not exist, it will be created. If only a path is provided a file with a random file name is generated. 
 

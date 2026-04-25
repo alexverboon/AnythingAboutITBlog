@@ -11,11 +11,12 @@ image: "img/post-heroes/powershell-script-to-remove-office-365-service-plans-fro
 tags:
   - licensing
   - office-365-2
-  - powershell
   - serviceplans
+  - PowerShell
+  - Office
 categories:
-  - office-365
-  - powershell
+  - PowerShell
+  - Office
 ---
 When assigning an Office 365 license to a user, by default several service plans are enabled. When assigning an Office 365 **E3** license to a user, the following service plans are enabled by default:
 

@@ -13,12 +13,13 @@ tags:
   - active-directory
   - licensing
   - volume-activation-services
-  - windows-8
+  - Windows
+  - Office
 categories:
   - active-directory
   - kms
   - licensing
-  - windows-8
+  - Windows
 ---
 Windows Server 8 comes with a new role called Volume Activation Services. The Volume Activation Service allows IT administrators to enable volume activation for domain joined systems using a Key Management Service Host (KMS) or Active Directory based Activation. This means in theory that going forward there is no need anymore to install and manage a separate infrastructure for volume activation of Windows clients, servers and office, but according to the article “[What’s new in Windows Server 8 Active Directory](http://www.windowsitpro.com/content1/topic/windows-server-8-active-directory-140571/catpath/windowsserver8/page/2)” from the Windows IT Pro magazine KMS will still be required for a while to support everything that uses KMS today, unless Microsoft would provide an update to enable current systems and applications to activate via Active Directory. 
 

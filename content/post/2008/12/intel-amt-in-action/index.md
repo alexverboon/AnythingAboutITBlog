@@ -14,6 +14,7 @@ tags:
   - remote-control
   - serial-over-lan
   - vpro
+  - Windows
 categories:
   - automation
   - bios

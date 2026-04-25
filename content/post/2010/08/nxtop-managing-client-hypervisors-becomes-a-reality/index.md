@@ -14,12 +14,14 @@ tags:
   - type-1
   - virtualcomputer
   - vm
+  - Windows
 categories:
   - hyper-v
   - hypervisor
   - nxtop
   - virtualcomputer
   - virtualization
+  - Windows
 ---
 When I watched the VirtualComputer [NxTop video](http://www.dabcc.com/multimedia.aspx?id=2) on [DABCC](http://www.dabcc.com/) last week, I was pretty impressed about what Doug Lane was showing us there. Especially after the release of the XenClient from Citrix the bare metal client hypervisor got a lot of attention. Now while Citrix just released it’s first public version of a client hypervisor, VirtualComputer seems to be a big step ahead, especially when we take into account the management of hypervisor based clients. 
 

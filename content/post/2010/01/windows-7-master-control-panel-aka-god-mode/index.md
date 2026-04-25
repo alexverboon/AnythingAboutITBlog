@@ -11,10 +11,10 @@ tags:
   - ed7ba470-8e54-465e-825c-99712043e01c
   - control-panel
   - god-mode
-  - windows-7
+  - Windows
 categories:
   - tip
-  - windows-7
+  - Windows
 ---
 Since yesterday there have been a lot of tweets and e-mails about the so-called Windows 7 God Mode, which in fact was available in Vista already. In short the Windows 7 God mode can be considered as an extended Control Panel. 
 

@@ -11,6 +11,7 @@ image: "img/post-heroes/tooltip-clipname.png"
 tags:
   - clipboard
   - tool
+  - Windows
 categories:
   - tip
   - tools

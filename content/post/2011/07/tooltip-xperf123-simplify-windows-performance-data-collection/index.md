@@ -14,11 +14,14 @@ tags:
   - performance
   - xperf
   - xperf123
+  - Windows
+  - WinPE
 categories:
   - performance
   - tip
   - tools
-  - windows-7
+  - Windows
+  - WinPE
 ---
 Those of you who have been using the Windows Performance Analysis Toolkit know of the many command line options xperf provides. Xperf123 solves that challenge by providing an intuitive user interface to configure and start a trace. 
 

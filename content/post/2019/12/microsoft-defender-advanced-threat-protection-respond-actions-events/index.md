@@ -13,6 +13,7 @@ tags:
   - eventlog
   - mdatp
   - responseactions
+  - Windows
 categories:
   - defender-atp
   - eventlog

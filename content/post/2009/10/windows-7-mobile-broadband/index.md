@@ -11,13 +11,13 @@ tags:
   - broadband
   - drivers
   - mobile
-  - windows7
   - wwan
+  - Windows
 categories:
   - broadband
   - drivers
   - mobile
-  - windows-7
+  - Windows
 ---
 *Windows 7’s Mobile Broadband enhancements give people a more reliable way to connect to the Internet using a wireless modem. Taking advantage of this feature is just like connecting to any other wireless network, and is done using the View Available Networks feature.*
 

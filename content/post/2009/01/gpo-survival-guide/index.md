@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - gpo
   - group-policy
+  - Windows
 categories:
   - deployment
   - group-policy

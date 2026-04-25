@@ -17,11 +17,13 @@ tags:
   - scm
   - thin-client
   - thinkiosk
+  - Windows
 categories:
   - gpo
   - group-policy
   - thinpc
   - windows-embedded
+  - Windows
 ---
 In my previous post [Repurpose PCs with Windows ThinPC](https://www.verboon.info/index.php/2012/12/repurpose-pcs-with-windows-thinpc-2/) I used Andrew Morgan’s ThinKiosk to replace the default Windows Shell to limit the user’s access to the local machine. ThinKiosk can be configured via the command line, the Registry and via Group Policy. Now unless you like to write lengthy registry manipulation scripts, configuring the settings via Group Policy is definitely the way to go. 
 

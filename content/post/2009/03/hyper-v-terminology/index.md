@@ -11,10 +11,15 @@ tags:
   - hyper-v
   - terminology
   - virtualization
+  - Windows
+  - PowerShell
+  - Office
 categories:
   - hyper-v
   - virtualization
   - windows-server-2008
+  - PowerShell
+  - Office
 ---
 Talking to people about virtualization almost every day, I notice that many aren’t that familiar yet with all the terminologies. [Ben Armstrong](http://blogs.msdn.com/Virtual_PC_Guy/) has written two good articles on his [blog](http://blogs.msdn.com/Virtual_PC_Guy/), describing all the terminologies used around Hyper-V. 
 

@@ -14,7 +14,7 @@ tags:
   - powershell
 categories:
   - group-policy
-  - powershell
+  - PowerShell
 ---
 Good day everyone. Today I would like to share with you the Group Policy Xtended PowerShell module that i’ve written recently. Histrocially I used to have various cmdlets stored in individual files and ran them when needed, I also shared them among my peers and with the public via my blog and the [Microsoft Script repository](https://gallery.technet.microsoft.com/scriptcenter). The challenge with this approach is that it’s hard to ensure eveyone has the latest versions of the cmdlets  available and that when someone needs a cmdlet that he’s actually able to find it or actually knows that there’s one available. 
 

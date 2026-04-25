@@ -10,16 +10,17 @@ author: "Alex Verboon"
 tags:
   - act
   - application-compatibility
-  - windows-7
   - windows-vista
   - windows-xp
+  - Windows
+  - Office
 categories:
   - act
   - deployment
   - knowledge
   - packaging
   - vista
-  - windows-7
+  - Windows
 ---
 I’ve just spend an hour in gathering some additional information around Windows 7 Application Compatibility. Till now when we moved to a new operating system version a significant amount of effort was required with regard to application compatibility. So will companies that invested in Windows Vista Application compatibility have to do all that work again for Windows 7 ?
 

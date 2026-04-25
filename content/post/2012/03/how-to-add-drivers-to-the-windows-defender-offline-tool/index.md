@@ -15,10 +15,12 @@ tags:
   - network
   - wdo
   - windows-defender-offline
-  - winpe
+  - Windows
+  - WinPE
 categories:
   - windows-defender-offline
-  - winpe
+  - Windows
+  - WinPE
 ---
 Back in January I wrote a post about [how the Windows Defender Offline Beta Tool works](https://www.verboon.info/index.php/2012/01/how-the-windows-defender-offline-beta-tool-works/) and mentioned that the preparation wizard does not have an option to inject drivers. This can be a problem when WinPE does not recognize the disk or when you wish to have network connectivity. I had promised to explain how to add drivers to the Windows Defender Offline Beta tool, but actually forgot about writing a follow up post until I was kindly reminded by a blog reader to do so. 
 

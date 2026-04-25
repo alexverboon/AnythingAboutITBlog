@@ -10,6 +10,7 @@ author: "Alex Verboon"
 tags:
   - left-handed
   - mouse-pointers
+  - Windows
 categories:
   - tip
   - tools

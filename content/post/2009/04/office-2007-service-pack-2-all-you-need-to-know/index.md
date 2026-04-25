@@ -9,6 +9,7 @@ description: "Just came across these nice blog posts about the new Office 2007 S
 author: "Alex Verboon"
 tags:
   - office-2007-sp2
+  - Office
 categories:
   - office-2007
 ---

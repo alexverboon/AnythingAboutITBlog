@@ -14,13 +14,14 @@ tags:
   - gpo
   - group-policy
   - templates
+  - Windows
 categories:
   - active-directory
   - group-policy
   - tip
-  - windows-7
   - windows-server-2008
   - windows-server-2008-r2
+  - Windows
 ---
 One of the things to consider when deploying Windows 7 clients is to update the Central Store on your domain controllers. If you haven’t created a Central Store yet, I recommend you watch the video or read the documentation I have listed at the end of this post.
 

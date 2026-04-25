@@ -14,6 +14,7 @@ tags:
   - report
   - security
   - server-2008
+  - Windows
 categories:
   - group-policy
   - internet-explorer
