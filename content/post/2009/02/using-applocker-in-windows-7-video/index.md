@@ -1,7 +1,7 @@
 ---
 title: "Using AppLocker in Windows 7 video"
 layout: "post"
-date: 02/26/2009 22:46:20
+date: 2009-02-26T22:46:20Z
 slug: "using-applocker-in-windows-7-video"
 aliases:
   - "/2009/02/using-applocker-in-windows-7-video/"

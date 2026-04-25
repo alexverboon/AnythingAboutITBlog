@@ -1,7 +1,7 @@
 ---
 title: "Virtualization Industry Radar"
 layout: "post"
-date: 02/16/2009 20:03:45
+date: 2009-02-16T20:03:45Z
 slug: "virtualization-industry-radar"
 aliases:
   - "/2009/02/virtualization-industry-radar/"

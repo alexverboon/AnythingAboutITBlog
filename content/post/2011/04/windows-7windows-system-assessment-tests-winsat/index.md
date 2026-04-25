@@ -1,7 +1,7 @@
 ---
 title: "Windows 7&ndash;Windows System Assessment Tests (WinSAT)"
 layout: "post"
-date: 04/17/2011 23:04:02
+date: 2011-04-17T23:04:02Z
 slug: "windows-7windows-system-assessment-tests-winsat"
 aliases:
   - "/2011/04/windows-7windows-system-assessment-tests-winsat/"

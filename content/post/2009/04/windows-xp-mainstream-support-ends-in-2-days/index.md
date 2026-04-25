@@ -1,7 +1,7 @@
 ---
 title: "Windows XP mainstream support ends in 2 days"
 layout: "post"
-date: 04/12/2009 19:00:41
+date: 2009-04-12T19:00:41Z
 slug: "windows-xp-mainstream-support-ends-in-2-days"
 aliases:
   - "/2009/04/windows-xp-mainstream-support-ends-in-2-days/"

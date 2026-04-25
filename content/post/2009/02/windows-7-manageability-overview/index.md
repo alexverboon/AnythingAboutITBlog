@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Manageability Overview"
 layout: "post"
-date: 02/16/2009 20:55:03
+date: 2009-02-16T20:55:03Z
 slug: "windows-7-manageability-overview"
 aliases:
   - "/2009/02/windows-7-manageability-overview/"

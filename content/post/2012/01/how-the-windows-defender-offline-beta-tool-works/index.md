@@ -1,7 +1,7 @@
 ---
 title: "How the Windows Defender Offline Beta Tool works"
 layout: "post"
-date: 01/02/2012 00:21:02
+date: 2012-01-02T00:21:02Z
 slug: "how-the-windows-defender-offline-beta-tool-works"
 aliases:
   - "/2012/01/how-the-windows-defender-offline-beta-tool-works/"

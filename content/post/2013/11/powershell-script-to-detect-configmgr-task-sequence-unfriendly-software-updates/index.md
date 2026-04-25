@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script to detect ConfigMgr Task Sequence unfriendly Software Updates"
 layout: "post"
-date: 11/05/2013 23:58:55
+date: 2013-11-05T23:58:55Z
 slug: "powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates"
 aliases:
   - "/2013/11/powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates/"

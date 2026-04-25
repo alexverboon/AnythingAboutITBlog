@@ -1,7 +1,7 @@
 ---
 title: "Windows 8: Boot Time in BGINFO"
 layout: "post"
-date: 09/23/2012 11:41:22
+date: 2012-09-23T11:41:22Z
 slug: "windows-8-boot-time-in-bginfo"
 aliases:
   - "/2012/09/windows-8-boot-time-in-bginfo/"

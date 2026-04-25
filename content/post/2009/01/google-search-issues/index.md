@@ -1,7 +1,7 @@
 ---
 title: "Google Search issues"
 layout: "post"
-date: 01/31/2009 15:21:31
+date: 2009-01-31T15:21:31Z
 slug: "google-search-issues"
 aliases:
   - "/2009/01/google-search-issues/"

@@ -1,7 +1,7 @@
 ---
 title: "The eBook every Windows Engineer should read &ndash; Deploying and Supporting Applications on Windows 64-Bit"
 layout: "post"
-date: 10/15/2012 09:22:01
+date: 2012-10-15T09:22:01Z
 slug: "the-ebook-every-windows-engineer-should-read-deploying-and-supporting-applications-on-windows-64-bit"
 aliases:
   - "/2012/10/the-ebook-every-windows-engineer-should-read-deploying-and-supporting-applications-on-windows-64-bit/"

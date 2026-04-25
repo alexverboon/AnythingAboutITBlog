@@ -1,7 +1,7 @@
 ---
 title: "The &ldquo;This website needs Internet Explorer&rdquo; Message"
 layout: "post"
-date: 09/15/2015 21:45:51
+date: 2015-09-15T21:45:51Z
 slug: "the-this-website-needs-internet-explorer-message"
 aliases:
   - "/2015/09/the-this-website-needs-internet-explorer-message/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - CDBurnerXP"
 layout: "post"
-date: 12/02/2008 18:18:17
+date: 2008-12-02T18:18:17Z
 slug: "tooltip-cdburnerxp"
 aliases:
   - "/2008/12/tooltip-cdburnerxp/"

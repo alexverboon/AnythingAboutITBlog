@@ -1,7 +1,7 @@
 ---
 title: "MBSA 2.3 Preview Release Available"
 layout: "post"
-date: 09/08/2013 13:05:08
+date: 2013-09-08T13:05:08Z
 slug: "mbsa-2-3-preview-release-available"
 aliases:
   - "/2013/09/mbsa-2-3-preview-release-available/"

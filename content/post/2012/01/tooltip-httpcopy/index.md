@@ -1,7 +1,7 @@
 ---
 title: "ToolTip &ndash; HTTPCopy"
 layout: "post"
-date: 01/10/2012 17:15:45
+date: 2012-01-10T17:15:45Z
 slug: "tooltip-httpcopy"
 aliases:
   - "/2012/01/tooltip-httpcopy/"

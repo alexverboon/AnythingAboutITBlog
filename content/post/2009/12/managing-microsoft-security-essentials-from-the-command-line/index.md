@@ -1,7 +1,7 @@
 ---
 title: "Managing Microsoft Security Essentials from the Command Line"
 layout: "post"
-date: 12/31/2009 16:44:32
+date: 2009-12-31T16:44:32Z
 slug: "managing-microsoft-security-essentials-from-the-command-line"
 aliases:
   - "/2009/12/managing-microsoft-security-essentials-from-the-command-line/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: IEDigest"
 layout: "post"
-date: 07/04/2016 19:49:26
+date: 2016-07-04T19:49:26Z
 slug: "tooltip-iedigest"
 aliases:
   - "/2016/07/tooltip-iedigest/"

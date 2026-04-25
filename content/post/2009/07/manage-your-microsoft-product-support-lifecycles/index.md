@@ -1,7 +1,7 @@
 ---
 title: "Manage your Microsoft Product support Lifecycles"
 layout: "post"
-date: 07/29/2009 07:57:43
+date: 2009-07-29T07:57:43Z
 slug: "manage-your-microsoft-product-support-lifecycles"
 aliases:
   - "/2009/07/manage-your-microsoft-product-support-lifecycles/"

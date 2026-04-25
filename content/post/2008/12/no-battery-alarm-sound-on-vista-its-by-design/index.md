@@ -1,7 +1,7 @@
 ---
 title: "No Battery Alarm Sound on Vista - it's by design"
 layout: "post"
-date: 12/13/2008 21:48:25
+date: 2008-12-13T21:48:25Z
 slug: "no-battery-alarm-sound-on-vista-its-by-design"
 aliases:
   - "/2008/12/no-battery-alarm-sound-on-vista-its-by-design/"

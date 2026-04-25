@@ -1,7 +1,7 @@
 ---
 title: "Finding unused User Accounts in Active Directory"
 layout: "post"
-date: 12/10/2009 00:05:17
+date: 2009-12-10T00:05:17Z
 slug: "finding-unused-user-accounts-in-active-directory"
 aliases:
   - "/2009/12/finding-unused-user-accounts-in-active-directory/"

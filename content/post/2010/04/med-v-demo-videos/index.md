@@ -1,7 +1,7 @@
 ---
 title: "MED-V demo videos"
 layout: "post"
-date: 04/20/2010 13:01:17
+date: 2010-04-20T13:01:17Z
 slug: "med-v-demo-videos"
 aliases:
   - "/2010/04/med-v-demo-videos/"

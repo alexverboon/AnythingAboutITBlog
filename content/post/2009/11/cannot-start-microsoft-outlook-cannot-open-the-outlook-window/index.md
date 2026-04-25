@@ -1,7 +1,7 @@
 ---
 title: "Cannot start Microsoft Outlook. Cannot open the Outlook window"
 layout: "post"
-date: 11/20/2009 18:33:24
+date: 2009-11-20T18:33:24Z
 slug: "cannot-start-microsoft-outlook-cannot-open-the-outlook-window"
 aliases:
   - "/2009/11/cannot-start-microsoft-outlook-cannot-open-the-outlook-window/"

@@ -1,7 +1,7 @@
 ---
 title: "Enable Wireless (Wi-Fi) in Windows Server 2008 (R2)"
 layout: "post"
-date: 08/13/2010 18:14:29
+date: 2010-08-13T18:14:29Z
 slug: "enable-wireless-wi-fi-in-windows-server-2008-r2"
 aliases:
   - "/2010/08/enable-wireless-wi-fi-in-windows-server-2008-r2/"

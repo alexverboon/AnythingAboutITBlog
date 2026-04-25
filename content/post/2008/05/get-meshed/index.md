@@ -1,7 +1,7 @@
 ---
 title: "Get meshed"
 layout: "post"
-date: 05/19/2008 23:12:00
+date: 2008-05-19T23:12:00Z
 slug: "get-meshed"
 aliases:
   - "/2008/05/get-meshed/"

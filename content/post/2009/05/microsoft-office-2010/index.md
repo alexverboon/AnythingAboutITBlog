@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Office 2010"
 layout: "post"
-date: 05/16/2009 00:12:04
+date: 2009-05-16T00:12:04Z
 slug: "microsoft-office-2010"
 aliases:
   - "/2009/05/microsoft-office-2010/"

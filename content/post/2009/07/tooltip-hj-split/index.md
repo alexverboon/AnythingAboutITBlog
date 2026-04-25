@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: HJ-Split"
 layout: "post"
-date: 07/17/2009 15:14:14
+date: 2009-07-17T15:14:14Z
 slug: "tooltip-hj-split"
 aliases:
   - "/2009/07/tooltip-hj-split/"

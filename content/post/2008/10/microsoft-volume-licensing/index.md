@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Volume Licensing"
 layout: "post"
-date: 10/01/2008 05:31:50
+date: 2008-10-01T05:31:50Z
 slug: "microsoft-volume-licensing"
 aliases:
   - "/2008/10/microsoft-volume-licensing/"

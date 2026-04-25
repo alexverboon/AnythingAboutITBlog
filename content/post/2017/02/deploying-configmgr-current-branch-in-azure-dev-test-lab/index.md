@@ -1,7 +1,7 @@
 ---
 title: "Deploying ConfigMgr Current Branch in Azure Dev Test Lab"
 layout: "post"
-date: 02/10/2017 21:36:02
+date: 2017-02-10T21:36:02Z
 slug: "deploying-configmgr-current-branch-in-azure-dev-test-lab"
 aliases:
   - "/2017/02/deploying-configmgr-current-branch-in-azure-dev-test-lab/"

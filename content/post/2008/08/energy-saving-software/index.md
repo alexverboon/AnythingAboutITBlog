@@ -1,7 +1,7 @@
 ---
 title: "Energy Saving Software"
 layout: "post"
-date: 08/14/2008 14:55:57
+date: 2008-08-14T14:55:57Z
 slug: "energy-saving-software"
 aliases:
   - "/2008/08/energy-saving-software/"

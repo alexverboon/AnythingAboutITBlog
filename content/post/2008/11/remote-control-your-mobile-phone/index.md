@@ -1,7 +1,7 @@
 ---
 title: "Remote Control your Mobile Phone"
 layout: "post"
-date: 11/22/2008 16:13:33
+date: 2008-11-22T16:13:33Z
 slug: "remote-control-your-mobile-phone"
 aliases:
   - "/2008/11/remote-control-your-mobile-phone/"

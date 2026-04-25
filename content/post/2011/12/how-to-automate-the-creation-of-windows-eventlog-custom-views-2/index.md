@@ -1,7 +1,7 @@
 ---
 title: "How to automate the creation of Windows Eventlog Custom Views"
 layout: "post"
-date: 12/17/2011 16:32:31
+date: 2011-12-17T16:32:31Z
 slug: "how-to-automate-the-creation-of-windows-eventlog-custom-views-2"
 aliases:
   - "/2011/12/how-to-automate-the-creation-of-windows-eventlog-custom-views-2/"

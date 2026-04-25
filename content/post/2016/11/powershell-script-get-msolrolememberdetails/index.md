@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-MsolRoleMemberDetails"
 layout: "post"
-date: 11/20/2016 23:33:08
+date: 2016-11-20T23:33:08Z
 slug: "powershell-script-get-msolrolememberdetails"
 aliases:
   - "/2016/11/powershell-script-get-msolrolememberdetails/"

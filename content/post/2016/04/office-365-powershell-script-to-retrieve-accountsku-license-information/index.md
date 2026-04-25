@@ -1,7 +1,7 @@
 ---
 title: "Office 365 PowerShell script to retrieve AccountSku license information"
 layout: "post"
-date: 04/25/2016 21:00:39
+date: 2016-04-25T21:00:39Z
 slug: "office-365-powershell-script-to-retrieve-accountsku-license-information"
 aliases:
   - "/2016/04/office-365-powershell-script-to-retrieve-accountsku-license-information/"

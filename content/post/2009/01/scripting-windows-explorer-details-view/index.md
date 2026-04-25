@@ -1,7 +1,7 @@
 ---
 title: "Scripting Windows Explorer Details View"
 layout: "post"
-date: 01/06/2009 08:30:19
+date: 2009-01-06T08:30:19Z
 slug: "scripting-windows-explorer-details-view"
 aliases:
   - "/2009/01/scripting-windows-explorer-details-view/"

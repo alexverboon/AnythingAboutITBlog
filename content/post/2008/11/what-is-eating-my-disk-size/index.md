@@ -1,7 +1,7 @@
 ---
 title: "What is eating my disk size ?"
 layout: "post"
-date: 11/06/2008 21:14:11
+date: 2008-11-06T21:14:11Z
 slug: "what-is-eating-my-disk-size"
 aliases:
   - "/2008/11/what-is-eating-my-disk-size/"

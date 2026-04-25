@@ -1,7 +1,7 @@
 ---
 title: "Applocker Documentation"
 layout: "post"
-date: 07/06/2009 20:03:58
+date: 2009-07-06T20:03:58Z
 slug: "applocker-documentation"
 aliases:
   - "/2009/07/applocker-documentation/"

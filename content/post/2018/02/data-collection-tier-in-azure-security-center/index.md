@@ -1,7 +1,7 @@
 ---
 title: "Data Collection Tier in Azure Security Center"
 layout: "post"
-date: 02/25/2018 17:22:05
+date: 2018-02-25T17:22:05Z
 slug: "data-collection-tier-in-azure-security-center"
 aliases:
   - "/2018/02/data-collection-tier-in-azure-security-center/"

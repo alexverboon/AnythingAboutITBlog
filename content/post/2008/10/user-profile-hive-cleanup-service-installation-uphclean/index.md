@@ -1,7 +1,7 @@
 ---
 title: "User Profile Hive Cleanup Service Installation (UPHClean)"
 layout: "post"
-date: 10/23/2008 20:11:34
+date: 2008-10-23T20:11:34Z
 slug: "user-profile-hive-cleanup-service-installation-uphclean"
 aliases:
   - "/2008/10/user-profile-hive-cleanup-service-installation-uphclean/"

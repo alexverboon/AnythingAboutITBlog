@@ -1,7 +1,7 @@
 ---
 title: "Active Directory Limits"
 layout: "post"
-date: 12/11/2008 22:49:17
+date: 2008-12-11T22:49:17Z
 slug: "active-directory-limits"
 aliases:
   - "/2008/12/active-directory-limits/"

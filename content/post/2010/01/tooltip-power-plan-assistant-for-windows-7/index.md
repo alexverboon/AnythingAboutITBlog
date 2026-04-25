@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Power Plan Assistant for Windows 7"
 layout: "post"
-date: 01/02/2010 14:43:37
+date: 2010-01-02T14:43:37Z
 slug: "tooltip-power-plan-assistant-for-windows-7"
 aliases:
   - "/2010/01/tooltip-power-plan-assistant-for-windows-7/"

@@ -1,7 +1,7 @@
 ---
 title: "RunAs Radio"
 layout: "post"
-date: 02/28/2009 21:01:25
+date: 2009-02-28T21:01:25Z
 slug: "runas-radio"
 aliases:
   - "/2009/02/runas-radio/"

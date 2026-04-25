@@ -1,7 +1,7 @@
 ---
 title: "20 Years World Wide Web"
 layout: "post"
-date: 03/15/2009 18:42:06
+date: 2009-03-15T18:42:06Z
 slug: "20-years-world-wide-web"
 aliases:
   - "/2009/03/20-years-world-wide-web/"

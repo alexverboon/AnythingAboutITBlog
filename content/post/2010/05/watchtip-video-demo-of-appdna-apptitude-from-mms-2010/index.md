@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: Video demo of AppDNA AppTitude from MMS 2010"
 layout: "post"
-date: 05/24/2010 11:30:10
+date: 2010-05-24T11:30:10Z
 slug: "watchtip-video-demo-of-appdna-apptitude-from-mms-2010"
 aliases:
   - "/2010/05/watchtip-video-demo-of-appdna-apptitude-from-mms-2010/"

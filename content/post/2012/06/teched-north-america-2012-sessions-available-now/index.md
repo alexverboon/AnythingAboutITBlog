@@ -1,7 +1,7 @@
 ---
 title: "TechEd North America 2012 Sessions available now"
 layout: "post"
-date: 06/17/2012 13:09:42
+date: 2012-06-17T13:09:42Z
 slug: "teched-north-america-2012-sessions-available-now"
 aliases:
   - "/2012/06/teched-north-america-2012-sessions-available-now/"

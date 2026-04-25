@@ -1,7 +1,7 @@
 ---
 title: "End of Support for Windows XP SP2 and Windows Vista (with no service packs installed)"
 layout: "post"
-date: 02/27/2010 10:14:58
+date: 2010-02-27T10:14:58Z
 slug: "end-of-support-for-windows-xp-sp2-and-windows-vista-with-no-service-packs-installed"
 aliases:
   - "/2010/02/end-of-support-for-windows-xp-sp2-and-windows-vista-with-no-service-packs-installed/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: RAMMon&ndash;Retrieve Memory Module Information"
 layout: "post"
-date: 11/17/2010 21:44:52
+date: 2010-11-17T21:44:52Z
 slug: "tooltip-rammonretrieve-memory-module-information"
 aliases:
   - "/2010/11/tooltip-rammonretrieve-memory-module-information/"

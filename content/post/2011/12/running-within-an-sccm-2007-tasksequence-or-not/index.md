@@ -1,7 +1,7 @@
 ---
 title: "Running within an SCCM 2007 Tasksequence or not?"
 layout: "post"
-date: 12/22/2011 19:18:52
+date: 2011-12-22T19:18:52Z
 slug: "running-within-an-sccm-2007-tasksequence-or-not"
 aliases:
   - "/2011/12/running-within-an-sccm-2007-tasksequence-or-not/"

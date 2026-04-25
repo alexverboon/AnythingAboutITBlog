@@ -1,7 +1,7 @@
 ---
 title: "Identifying KMS Servers"
 layout: "post"
-date: 01/05/2010 19:30:50
+date: 2010-01-05T19:30:50Z
 slug: "identifying-kms-servers"
 aliases:
   - "/2010/01/identifying-kms-servers/"

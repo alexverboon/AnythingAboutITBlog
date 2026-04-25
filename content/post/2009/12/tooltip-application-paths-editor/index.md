@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Application Paths Editor"
 layout: "post"
-date: 12/05/2009 17:03:07
+date: 2009-12-05T17:03:07Z
 slug: "tooltip-application-paths-editor"
 aliases:
   - "/2009/12/tooltip-application-paths-editor/"

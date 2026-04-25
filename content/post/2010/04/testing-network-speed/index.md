@@ -1,7 +1,7 @@
 ---
 title: "Testing Network Speed"
 layout: "post"
-date: 04/23/2010 15:34:34
+date: 2010-04-23T15:34:34Z
 slug: "testing-network-speed"
 aliases:
   - "/2010/04/testing-network-speed/"

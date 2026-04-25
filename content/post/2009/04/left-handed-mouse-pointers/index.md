@@ -1,7 +1,7 @@
 ---
 title: "Left-Handed Mouse pointers"
 layout: "post"
-date: 04/12/2009 17:18:59
+date: 2009-04-12T17:18:59Z
 slug: "left-handed-mouse-pointers"
 aliases:
   - "/2009/04/left-handed-mouse-pointers/"

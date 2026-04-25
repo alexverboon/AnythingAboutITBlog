@@ -1,7 +1,7 @@
 ---
 title: "Yet another source of whitepapers"
 layout: "post"
-date: 05/22/2008 23:17:00
+date: 2008-05-22T23:17:00Z
 slug: "yet-another-source-of-whitepapers"
 aliases:
   - "/2008/05/yet-another-source-of-whitepapers/"

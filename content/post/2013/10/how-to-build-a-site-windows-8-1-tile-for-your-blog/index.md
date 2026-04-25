@@ -1,7 +1,7 @@
 ---
 title: "How to build a site Windows 8.1 tile for your blog"
 layout: "post"
-date: 10/20/2013 10:51:24
+date: 2013-10-20T10:51:24Z
 slug: "how-to-build-a-site-windows-8-1-tile-for-your-blog"
 aliases:
   - "/2013/10/how-to-build-a-site-windows-8-1-tile-for-your-blog/"

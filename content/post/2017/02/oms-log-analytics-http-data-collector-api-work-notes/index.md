@@ -1,7 +1,7 @@
 ---
 title: "OMS Log Analytics HTTP Data Collector API &ndash; Work notes"
 layout: "post"
-date: 02/08/2017 13:08:44
+date: 2017-02-08T13:08:44Z
 slug: "oms-log-analytics-http-data-collector-api-work-notes"
 aliases:
   - "/2017/02/oms-log-analytics-http-data-collector-api-work-notes/"

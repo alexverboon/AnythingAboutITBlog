@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Group Policy Search"
 layout: "post"
-date: 04/23/2010 11:44:37
+date: 2010-04-23T11:44:37Z
 slug: "tooltip-group-policy-search"
 aliases:
   - "/2010/04/tooltip-group-policy-search/"

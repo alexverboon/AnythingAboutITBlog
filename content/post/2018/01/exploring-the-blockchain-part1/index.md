@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Blockchain &ndash; Part1"
 layout: "post"
-date: 01/06/2018 12:10:42
+date: 2018-01-06T12:10:42Z
 slug: "exploring-the-blockchain-part1"
 aliases:
   - "/2018/01/exploring-the-blockchain-part1/"

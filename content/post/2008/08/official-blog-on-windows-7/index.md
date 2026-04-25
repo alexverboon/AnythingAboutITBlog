@@ -1,7 +1,7 @@
 ---
 title: "Official blog on Windows 7"
 layout: "post"
-date: 08/18/2008 09:44:33
+date: 2008-08-18T09:44:33Z
 slug: "official-blog-on-windows-7"
 aliases:
   - "/2008/08/official-blog-on-windows-7/"

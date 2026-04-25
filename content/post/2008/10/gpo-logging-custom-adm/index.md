@@ -1,7 +1,7 @@
 ---
 title: "GPO Logging custom ADM"
 layout: "post"
-date: 10/20/2008 18:40:50
+date: 2008-10-20T18:40:50Z
 slug: "gpo-logging-custom-adm"
 aliases:
   - "/2008/10/gpo-logging-custom-adm/"

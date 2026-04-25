@@ -1,7 +1,7 @@
 ---
 title: "Free Microsoft Press E-Book: Windows Vista Resource Kit"
 layout: "post"
-date: 02/23/2009 21:08:12
+date: 2009-02-23T21:08:12Z
 slug: "free-microsoft-press-e-book-windows-vista-resource-kit"
 aliases:
   - "/2009/02/free-microsoft-press-e-book-windows-vista-resource-kit/"

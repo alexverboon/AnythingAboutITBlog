@@ -1,7 +1,7 @@
 ---
 title: "MED-V Planning, Deployment and Operations Guide"
 layout: "post"
-date: 06/18/2009 17:39:38
+date: 2009-06-18T17:39:38Z
 slug: "med-v-planning-deployment-and-operations-guide"
 aliases:
   - "/2009/06/med-v-planning-deployment-and-operations-guide/"

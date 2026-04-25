@@ -1,7 +1,7 @@
 ---
 title: "Don&rsquo;t forget to update your WSUS for Windows 8 and Server 2012"
 layout: "post"
-date: 09/24/2012 12:05:48
+date: 2012-09-24T12:05:48Z
 slug: "dont-forget-to-update-your-wsus-for-windows-8-and-server-2012"
 aliases:
   - "/2012/09/dont-forget-to-update-your-wsus-for-windows-8-and-server-2012/"

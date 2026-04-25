@@ -1,7 +1,7 @@
 ---
 title: "Microsoft User Experience Virtualization &ndash; Part 3: Creating and using Templates"
 layout: "post"
-date: 07/04/2012 20:32:52
+date: 2012-07-04T20:32:52Z
 slug: "microsoft-user-experience-virtualization-part-3-creating-and-using-templates"
 aliases:
   - "/2012/07/microsoft-user-experience-virtualization-part-3-creating-and-using-templates/"

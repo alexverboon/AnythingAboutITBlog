@@ -1,7 +1,7 @@
 ---
 title: "Extending User Information in AD &ndash; 64 Bit support"
 layout: "post"
-date: 05/06/2010 19:31:30
+date: 2010-05-06T19:31:30Z
 slug: "extending-user-information-in-ad-64-bit-support"
 aliases:
   - "/2010/05/extending-user-information-in-ad-64-bit-support/"

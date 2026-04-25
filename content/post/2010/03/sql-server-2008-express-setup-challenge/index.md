@@ -1,7 +1,7 @@
 ---
 title: "SQL Server 2008 Express Setup Challenge"
 layout: "post"
-date: 03/09/2010 22:46:58
+date: 2010-03-09T22:46:58Z
 slug: "sql-server-2008-express-setup-challenge"
 aliases:
   - "/2010/03/sql-server-2008-express-setup-challenge/"

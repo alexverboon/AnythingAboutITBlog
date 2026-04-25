@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Microsoft Office 2010 - Under the Hood Investments for Hardware and Performance"
 layout: "post"
-date: 11/01/2010 19:04:57
+date: 2010-11-01T19:04:57Z
 slug: "readtip-microsoft-office-2010-under-the-hood-investments-for-hardware-and-performance"
 aliases:
   - "/2010/11/readtip-microsoft-office-2010-under-the-hood-investments-for-hardware-and-performance/"

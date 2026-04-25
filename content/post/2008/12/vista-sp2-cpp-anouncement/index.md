@@ -1,7 +1,7 @@
 ---
 title: "Vista SP2 CPP anouncement"
 layout: "post"
-date: 12/03/2008 17:17:45
+date: 2008-12-03T17:17:45Z
 slug: "vista-sp2-cpp-anouncement"
 aliases:
   - "/2008/12/vista-sp2-cpp-anouncement/"

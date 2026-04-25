@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Enterprise Training"
 layout: "post"
-date: 04/23/2010 08:46:15
+date: 2010-04-23T08:46:15Z
 slug: "windows-7-enterprise-training"
 aliases:
   - "/2010/04/windows-7-enterprise-training/"

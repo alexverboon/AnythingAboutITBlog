@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Master Control Panel aka God mode"
 layout: "post"
-date: 01/04/2010 19:58:35
+date: 2010-01-04T19:58:35Z
 slug: "windows-7-master-control-panel-aka-god-mode"
 aliases:
   - "/2010/01/windows-7-master-control-panel-aka-god-mode/"

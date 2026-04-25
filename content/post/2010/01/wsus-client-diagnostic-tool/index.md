@@ -1,7 +1,7 @@
 ---
 title: "WSUS Client Diagnostic Tool"
 layout: "post"
-date: 01/19/2010 20:18:05
+date: 2010-01-19T20:18:05Z
 slug: "wsus-client-diagnostic-tool"
 aliases:
   - "/2010/01/wsus-client-diagnostic-tool/"

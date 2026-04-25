@@ -1,7 +1,7 @@
 ---
 title: "Microsoft VDI Suite License review"
 layout: "post"
-date: 07/15/2009 17:09:09
+date: 2009-07-15T17:09:09Z
 slug: "microsoft-vdi-suite-license-review"
 aliases:
   - "/2009/07/microsoft-vdi-suite-license-review/"

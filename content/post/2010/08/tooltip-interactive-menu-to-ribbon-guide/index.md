@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Interactive menu to ribbon guide"
 layout: "post"
-date: 08/31/2010 19:58:07
+date: 2010-08-31T19:58:07Z
 slug: "tooltip-interactive-menu-to-ribbon-guide"
 aliases:
   - "/2010/08/tooltip-interactive-menu-to-ribbon-guide/"

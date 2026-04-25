@@ -1,7 +1,7 @@
 ---
 title: "Enable Windows Remote Management through Group Policy"
 layout: "post"
-date: 11/27/2011 19:43:21
+date: 2011-11-27T19:43:21Z
 slug: "enable-windows-remote-management-through-group-policy"
 aliases:
   - "/2011/11/enable-windows-remote-management-through-group-policy/"

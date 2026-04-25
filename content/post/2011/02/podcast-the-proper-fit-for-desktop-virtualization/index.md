@@ -1,7 +1,7 @@
 ---
 title: "Podcast: The Proper Fit for Desktop Virtualization"
 layout: "post"
-date: 02/20/2011 13:46:20
+date: 2011-02-20T13:46:20Z
 slug: "podcast-the-proper-fit-for-desktop-virtualization"
 aliases:
   - "/2011/02/podcast-the-proper-fit-for-desktop-virtualization/"

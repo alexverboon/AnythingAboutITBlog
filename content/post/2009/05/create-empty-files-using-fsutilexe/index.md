@@ -1,7 +1,7 @@
 ---
 title: "Create empty files using fsutil.exe"
 layout: "post"
-date: 05/25/2009 18:46:55
+date: 2009-05-25T18:46:55Z
 slug: "create-empty-files-using-fsutilexe"
 aliases:
   - "/2009/05/create-empty-files-using-fsutilexe/"

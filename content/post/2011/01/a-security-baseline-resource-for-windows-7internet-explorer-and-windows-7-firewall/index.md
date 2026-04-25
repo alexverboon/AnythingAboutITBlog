@@ -1,7 +1,7 @@
 ---
 title: "A Security Baseline Resource for Windows 7&ndash;Internet Explorer and Windows 7 Firewall"
 layout: "post"
-date: 01/31/2011 20:51:35
+date: 2011-01-31T20:51:35Z
 slug: "a-security-baseline-resource-for-windows-7internet-explorer-and-windows-7-firewall"
 aliases:
   - "/2011/01/a-security-baseline-resource-for-windows-7internet-explorer-and-windows-7-firewall/"

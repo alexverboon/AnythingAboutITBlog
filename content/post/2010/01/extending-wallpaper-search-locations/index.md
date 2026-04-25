@@ -1,7 +1,7 @@
 ---
 title: "Extending Wallpaper search locations"
 layout: "post"
-date: 01/30/2010 21:59:12
+date: 2010-01-30T21:59:12Z
 slug: "extending-wallpaper-search-locations"
 aliases:
   - "/2010/01/extending-wallpaper-search-locations/"

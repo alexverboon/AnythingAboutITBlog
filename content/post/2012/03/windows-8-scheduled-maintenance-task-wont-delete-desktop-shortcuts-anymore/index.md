@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; Scheduled Maintenance Task won&rsquo;t delete Desktop Shortcuts anymore"
 layout: "post"
-date: 03/10/2012 20:28:04
+date: 2012-03-10T20:28:04Z
 slug: "windows-8-scheduled-maintenance-task-wont-delete-desktop-shortcuts-anymore"
 aliases:
   - "/2012/03/windows-8-scheduled-maintenance-task-wont-delete-desktop-shortcuts-anymore/"

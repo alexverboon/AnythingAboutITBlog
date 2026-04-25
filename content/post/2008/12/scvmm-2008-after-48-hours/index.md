@@ -1,7 +1,7 @@
 ---
 title: "SCVMM 2008 - After 48 hours"
 layout: "post"
-date: 12/23/2008 02:15:49
+date: 2008-12-23T02:15:49Z
 slug: "scvmm-2008-after-48-hours"
 aliases:
   - "/2008/12/scvmm-2008-after-48-hours/"

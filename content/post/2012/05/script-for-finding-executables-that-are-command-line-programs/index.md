@@ -1,7 +1,7 @@
 ---
 title: "Script for finding Executables that are command-line programs"
 layout: "post"
-date: 05/02/2012 22:11:57
+date: 2012-05-02T22:11:57Z
 slug: "script-for-finding-executables-that-are-command-line-programs"
 aliases:
   - "/2012/05/script-for-finding-executables-that-are-command-line-programs/"

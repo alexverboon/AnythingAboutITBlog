@@ -1,7 +1,7 @@
 ---
 title: "Some applications survive"
 layout: "post"
-date: 11/17/2008 20:35:30
+date: 2008-11-17T20:35:30Z
 slug: "some-applications-survive"
 aliases:
   - "/2008/11/some-applications-survive/"

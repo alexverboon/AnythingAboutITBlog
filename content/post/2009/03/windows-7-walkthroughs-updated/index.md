@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Walkthroughs - Updated"
 layout: "post"
-date: 03/19/2009 07:03:24
+date: 2009-03-19T07:03:24Z
 slug: "windows-7-walkthroughs-updated"
 aliases:
   - "/2009/03/windows-7-walkthroughs-updated/"

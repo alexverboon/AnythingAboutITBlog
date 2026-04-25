@@ -1,7 +1,7 @@
 ---
 title: "Production of an SSD from start to finish"
 layout: "post"
-date: 05/13/2010 20:56:02
+date: 2010-05-13T20:56:02Z
 slug: "production-of-an-ssd-from-start-to-finish"
 aliases:
   - "/2010/05/production-of-an-ssd-from-start-to-finish/"

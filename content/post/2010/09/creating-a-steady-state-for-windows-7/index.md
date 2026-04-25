@@ -1,7 +1,7 @@
 ---
 title: "Creating a Steady State for Windows 7"
 layout: "post"
-date: 09/13/2010 19:20:10
+date: 2010-09-13T19:20:10Z
 slug: "creating-a-steady-state-for-windows-7"
 aliases:
   - "/2010/09/creating-a-steady-state-for-windows-7/"

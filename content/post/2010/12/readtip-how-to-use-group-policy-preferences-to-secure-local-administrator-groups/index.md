@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: How to use Group Policy Preferences to Secure Local Administrator Groups"
 layout: "post"
-date: 12/18/2010 14:27:41
+date: 2010-12-18T14:27:41Z
 slug: "readtip-how-to-use-group-policy-preferences-to-secure-local-administrator-groups"
 aliases:
   - "/2010/12/readtip-how-to-use-group-policy-preferences-to-secure-local-administrator-groups/"

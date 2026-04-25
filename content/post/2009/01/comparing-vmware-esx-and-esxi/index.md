@@ -1,7 +1,7 @@
 ---
 title: "Comparing VMWare ESX and ESXi"
 layout: "post"
-date: 01/20/2009 21:01:55
+date: 2009-01-20T21:01:55Z
 slug: "comparing-vmware-esx-and-esxi"
 aliases:
   - "/2009/01/comparing-vmware-esx-and-esxi/"

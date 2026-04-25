@@ -1,7 +1,7 @@
 ---
 title: "Windows 8.1 Command Prompt or PowerShell"
 layout: "post"
-date: 09/09/2013 22:38:04
+date: 2013-09-09T22:38:04Z
 slug: "windows-8-1-command-prompt-or-powershell"
 aliases:
   - "/2013/09/windows-8-1-command-prompt-or-powershell/"

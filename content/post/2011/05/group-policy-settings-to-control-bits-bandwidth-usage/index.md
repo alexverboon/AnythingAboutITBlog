@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings to control BITS Bandwidth usage"
 layout: "post"
-date: 05/11/2011 23:32:59
+date: 2011-05-11T23:32:59Z
 slug: "group-policy-settings-to-control-bits-bandwidth-usage"
 aliases:
   - "/2011/05/group-policy-settings-to-control-bits-bandwidth-usage/"

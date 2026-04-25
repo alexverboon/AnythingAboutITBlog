@@ -1,7 +1,7 @@
 ---
 title: "There was a time&hellip;&hellip;"
 layout: "post"
-date: 08/06/2010 17:42:47
+date: 2010-08-06T17:42:47Z
 slug: "there-was-a-time"
 aliases:
   - "/2010/08/there-was-a-time/"

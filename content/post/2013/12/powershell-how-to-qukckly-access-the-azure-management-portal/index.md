@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - How to qukckly access the Azure Management Portal"
 layout: "post"
-date: 12/09/2013 23:42:33
+date: 2013-12-09T23:42:33Z
 slug: "powershell-how-to-qukckly-access-the-azure-management-portal"
 aliases:
   - "/2013/12/powershell-how-to-qukckly-access-the-azure-management-portal/"

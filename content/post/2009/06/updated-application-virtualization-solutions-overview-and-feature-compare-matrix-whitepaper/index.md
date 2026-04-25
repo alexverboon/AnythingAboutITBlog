@@ -1,7 +1,7 @@
 ---
 title: "Updated Application Virtualization Solutions Overview and Feature Compare Matrix Whitepaper"
 layout: "post"
-date: 06/30/2009 10:29:06
+date: 2009-06-30T10:29:06Z
 slug: "updated-application-virtualization-solutions-overview-and-feature-compare-matrix-whitepaper"
 aliases:
   - "/2009/06/updated-application-virtualization-solutions-overview-and-feature-compare-matrix-whitepaper/"

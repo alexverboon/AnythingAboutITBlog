@@ -1,7 +1,7 @@
 ---
 title: "How to embed YouTube video in PowerPoint 2007"
 layout: "post"
-date: 06/23/2009 21:35:16
+date: 2009-06-23T21:35:16Z
 slug: "how-to-embed-youtube-video-in-powerpoint-2007"
 aliases:
   - "/2009/06/how-to-embed-youtube-video-in-powerpoint-2007/"

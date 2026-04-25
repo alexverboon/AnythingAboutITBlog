@@ -1,7 +1,7 @@
 ---
 title: "Encrypted on Windows 7 and use on Vista as well"
 layout: "post"
-date: 02/18/2009 21:38:15
+date: 2009-02-18T21:38:15Z
 slug: "encrypted-on-windows-7-and-use-on-vista-as-well"
 aliases:
   - "/2009/02/encrypted-on-windows-7-and-use-on-vista-as-well/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows sidebar gadgets"
 layout: "post"
-date: 07/02/2008 20:29:44
+date: 2008-07-02T20:29:44Z
 slug: "windows-sidebar-gadgets"
 aliases:
   - "/2008/07/windows-sidebar-gadgets/"

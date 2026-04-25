@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Template file for Windows 10 Wi-FI Sense"
 layout: "post"
-date: 10/19/2015 20:20:48
+date: 2015-10-19T20:20:48Z
 slug: "group-policy-template-file-for-windows-10-wi-fi-sense"
 aliases:
   - "/2015/10/group-policy-template-file-for-windows-10-wi-fi-sense/"

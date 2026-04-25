@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft Security Update information with PowerShell"
 layout: "post"
-date: 12/29/2017 13:36:30
+date: 2017-12-29T13:36:30Z
 slug: "exploring-microsoft-security-update-information-with-powershell"
 aliases:
   - "/2017/12/exploring-microsoft-security-update-information-with-powershell/"

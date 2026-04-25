@@ -1,7 +1,7 @@
 ---
 title: "Windows recommends PowerPoint Viewer 2007 though there is a 2010 version"
 layout: "post"
-date: 03/19/2012 21:42:35
+date: 2012-03-19T21:42:35Z
 slug: "windows-recommends-powerpoint-viewer-2007-though-there-is-a-2010-version"
 aliases:
   - "/2012/03/windows-recommends-powerpoint-viewer-2007-though-there-is-a-2010-version/"

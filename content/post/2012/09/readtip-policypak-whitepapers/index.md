@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: PolicyPak Whitepapers"
 layout: "post"
-date: 09/15/2012 08:53:27
+date: 2012-09-15T08:53:27Z
 slug: "readtip-policypak-whitepapers"
 aliases:
   - "/2012/09/readtip-policypak-whitepapers/"

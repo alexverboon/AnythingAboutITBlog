@@ -1,7 +1,7 @@
 ---
 title: "Intel Anti-Theft Technology"
 layout: "post"
-date: 03/13/2009 17:17:35
+date: 2009-03-13T17:17:35Z
 slug: "intel-anti-theft-technology"
 aliases:
   - "/2009/03/intel-anti-theft-technology/"

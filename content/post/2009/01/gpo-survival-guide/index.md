@@ -1,7 +1,7 @@
 ---
 title: "GPO Survival guide"
 layout: "post"
-date: 01/19/2009 20:04:35
+date: 2009-01-19T20:04:35Z
 slug: "gpo-survival-guide"
 aliases:
   - "/2009/01/gpo-survival-guide/"

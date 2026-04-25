@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Enterprise Desktop Virtualization aka MED-V"
 layout: "post"
-date: 01/18/2009 17:04:00
+date: 2009-01-18T17:04:00Z
 slug: "microsoft-enterprise-desktop-virtualization-aka-med-v"
 aliases:
   - "/2009/01/microsoft-enterprise-desktop-virtualization-aka-med-v/"

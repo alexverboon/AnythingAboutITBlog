@@ -1,7 +1,7 @@
 ---
 title: "Windows7 - DirectAccess video"
 layout: "post"
-date: 03/25/2009 22:50:12
+date: 2009-03-25T22:50:12Z
 slug: "windows7-directaccess-video"
 aliases:
   - "/2009/03/windows7-directaccess-video/"

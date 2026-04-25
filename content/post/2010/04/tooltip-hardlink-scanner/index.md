@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Hardlink Scanner"
 layout: "post"
-date: 04/11/2010 14:31:55
+date: 2010-04-11T14:31:55Z
 slug: "tooltip-hardlink-scanner"
 aliases:
   - "/2010/04/tooltip-hardlink-scanner/"

@@ -1,7 +1,7 @@
 ---
 title: "Verifying your file downloads"
 layout: "post"
-date: 04/02/2009 21:40:59
+date: 2009-04-02T21:40:59Z
 slug: "verifying-your-file-downloads"
 aliases:
   - "/2009/04/verifying-your-file-downloads/"

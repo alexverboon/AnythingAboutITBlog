@@ -1,7 +1,7 @@
 ---
 title: "VMware Workstation 7 RC available"
 layout: "post"
-date: 10/12/2009 20:10:04
+date: 2009-10-12T20:10:04Z
 slug: "vmware-workstation-7-rc-available"
 aliases:
   - "/2009/10/vmware-workstation-7-rc-available/"

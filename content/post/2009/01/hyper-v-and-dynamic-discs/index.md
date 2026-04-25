@@ -1,7 +1,7 @@
 ---
 title: "Hyper-V and Dynamic discs"
 layout: "post"
-date: 01/06/2009 17:01:19
+date: 2009-01-06T17:01:19Z
 slug: "hyper-v-and-dynamic-discs"
 aliases:
   - "/2009/01/hyper-v-and-dynamic-discs/"

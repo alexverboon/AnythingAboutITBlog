@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; How to disable the Metro logon screen"
 layout: "post"
-date: 09/15/2011 19:28:23
+date: 2011-09-15T19:28:23Z
 slug: "windows-8-how-to-disable-the-metro-logon-screen"
 aliases:
   - "/2011/09/windows-8-how-to-disable-the-metro-logon-screen/"

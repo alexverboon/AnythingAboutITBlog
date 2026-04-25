@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Office 2010 System End User Training Toolkit"
 layout: "post"
-date: 12/07/2011 21:26:13
+date: 2011-12-07T21:26:13Z
 slug: "microsoft-office-2010-system-end-user-training-toolkit"
 aliases:
   - "/2011/12/microsoft-office-2010-system-end-user-training-toolkit/"

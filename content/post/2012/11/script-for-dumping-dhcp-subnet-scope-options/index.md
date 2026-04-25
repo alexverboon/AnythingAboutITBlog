@@ -1,7 +1,7 @@
 ---
 title: "Script for dumping DHCP subnet scope options"
 layout: "post"
-date: 11/16/2012 15:12:41
+date: 2012-11-16T15:12:41Z
 slug: "script-for-dumping-dhcp-subnet-scope-options"
 aliases:
   - "/2012/11/script-for-dumping-dhcp-subnet-scope-options/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Cool PDF Reader (only 650KB)"
 layout: "post"
-date: 08/13/2010 18:52:29
+date: 2010-08-13T18:52:29Z
 slug: "tooltip-cool-pdf-reader-only-650kb"
 aliases:
   - "/2010/08/tooltip-cool-pdf-reader-only-650kb/"

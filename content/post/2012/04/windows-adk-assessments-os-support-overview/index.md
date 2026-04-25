@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 ADK Assessments OS and Architecture Support Overview"
 layout: "post"
-date: 04/08/2012 18:11:49
+date: 2012-04-08T18:11:49Z
 slug: "windows-adk-assessments-os-support-overview"
 aliases:
   - "/2012/04/windows-adk-assessments-os-support-overview/"

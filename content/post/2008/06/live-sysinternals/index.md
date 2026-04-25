@@ -1,7 +1,7 @@
 ---
 title: "Live Sysinternals"
 layout: "post"
-date: 06/13/2008 06:18:00
+date: 2008-06-13T06:18:00Z
 slug: "live-sysinternals"
 aliases:
   - "/2008/06/live-sysinternals/"

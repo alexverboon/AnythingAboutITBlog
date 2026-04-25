@@ -1,7 +1,7 @@
 ---
 title: "Windows7 &ndash; Application Compatibility &ndash; ACT 5.5"
 layout: "post"
-date: 04/03/2009 23:02:02
+date: 2009-04-03T23:02:02Z
 slug: "windows7-application-compatibility-act-55"
 aliases:
   - "/2009/04/windows7-application-compatibility-act-55/"

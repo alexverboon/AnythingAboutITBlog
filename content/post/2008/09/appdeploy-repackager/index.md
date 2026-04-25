@@ -1,7 +1,7 @@
 ---
 title: "AppDeploy Repackager"
 layout: "post"
-date: 09/13/2008 12:17:12
+date: 2008-09-13T12:17:12Z
 slug: "appdeploy-repackager"
 aliases:
   - "/2008/09/appdeploy-repackager/"

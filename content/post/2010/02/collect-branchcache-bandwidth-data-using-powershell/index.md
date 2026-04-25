@@ -1,7 +1,7 @@
 ---
 title: "Collect BranchCache Bandwidth data using PowerShell"
 layout: "post"
-date: 02/27/2010 15:49:12
+date: 2010-02-27T15:49:12Z
 slug: "collect-branchcache-bandwidth-data-using-powershell"
 aliases:
   - "/2010/02/collect-branchcache-bandwidth-data-using-powershell/"

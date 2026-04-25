@@ -1,7 +1,7 @@
 ---
 title: "Microsoft UE-V and PolicyPak - Better Together"
 layout: "post"
-date: 04/24/2012 21:19:42
+date: 2012-04-24T21:19:42Z
 slug: "microsoft-ue-v-and-policypak-better-together"
 aliases:
   - "/2012/04/microsoft-ue-v-and-policypak-better-together/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 IT Pro Guides"
 layout: "post"
-date: 02/28/2009 10:28:39
+date: 2009-02-28T10:28:39Z
 slug: "windows-7-it-pro-guides"
 aliases:
   - "/2009/02/windows-7-it-pro-guides/"

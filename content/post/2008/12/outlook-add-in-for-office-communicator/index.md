@@ -1,7 +1,7 @@
 ---
 title: "Outlook add-in for Office Communicator"
 layout: "post"
-date: 12/31/2008 15:47:04
+date: 2008-12-31T15:47:04Z
 slug: "outlook-add-in-for-office-communicator"
 aliases:
   - "/2008/12/outlook-add-in-for-office-communicator/"

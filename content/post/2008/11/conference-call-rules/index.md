@@ -1,7 +1,7 @@
 ---
 title: "Conference Call Rules"
 layout: "post"
-date: 11/12/2008 21:38:04
+date: 2008-11-12T21:38:04Z
 slug: "conference-call-rules"
 aliases:
   - "/2008/11/conference-call-rules/"

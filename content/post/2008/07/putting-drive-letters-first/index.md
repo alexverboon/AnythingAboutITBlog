@@ -1,7 +1,7 @@
 ---
 title: "Putting drive letters first"
 layout: "post"
-date: 07/01/2008 09:42:01
+date: 2008-07-01T09:42:01Z
 slug: "putting-drive-letters-first"
 aliases:
   - "/2008/07/putting-drive-letters-first/"

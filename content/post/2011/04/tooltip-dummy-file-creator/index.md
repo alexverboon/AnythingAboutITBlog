@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Dummy File Creator"
 layout: "post"
-date: 04/22/2011 13:01:34
+date: 2011-04-22T13:01:34Z
 slug: "tooltip-dummy-file-creator"
 aliases:
   - "/2011/04/tooltip-dummy-file-creator/"

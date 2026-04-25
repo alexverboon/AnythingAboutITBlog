@@ -1,7 +1,7 @@
 ---
 title: "How to get started with Azure log Analytics"
 layout: "post"
-date: 03/11/2018 16:55:36
+date: 2018-03-11T16:55:36Z
 slug: "how-to-get-started-with-azure-log-analytics"
 aliases:
   - "/2018/03/how-to-get-started-with-azure-log-analytics/"

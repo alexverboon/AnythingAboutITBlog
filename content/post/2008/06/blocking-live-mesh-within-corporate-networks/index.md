@@ -1,7 +1,7 @@
 ---
 title: "Blocking Live Mesh within corporate networks"
 layout: "post"
-date: 06/16/2008 11:57:00
+date: 2008-06-16T11:57:00Z
 slug: "blocking-live-mesh-within-corporate-networks"
 aliases:
   - "/2008/06/blocking-live-mesh-within-corporate-networks/"

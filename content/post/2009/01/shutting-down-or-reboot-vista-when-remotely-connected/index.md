@@ -1,7 +1,7 @@
 ---
 title: "Shutting down or Reboot Vista when remotely connected"
 layout: "post"
-date: 01/23/2009 00:10:21
+date: 2009-01-23T00:10:21Z
 slug: "shutting-down-or-reboot-vista-when-remotely-connected"
 aliases:
   - "/2009/01/shutting-down-or-reboot-vista-when-remotely-connected/"

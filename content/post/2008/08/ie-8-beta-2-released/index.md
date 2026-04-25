@@ -1,7 +1,7 @@
 ---
 title: "IE 8 Beta 2 released"
 layout: "post"
-date: 08/28/2008 07:00:11
+date: 2008-08-28T07:00:11Z
 slug: "ie-8-beta-2-released"
 aliases:
   - "/2008/08/ie-8-beta-2-released/"

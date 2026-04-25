@@ -1,7 +1,7 @@
 ---
 title: "How to enable Group Policy Preferences Logging via the Local Group Policy Editor"
 layout: "post"
-date: 08/21/2013 15:54:44
+date: 2013-08-21T15:54:44Z
 slug: "how-to-enable-group-policy-preferences-logging-via-the-local-group-policy-editor"
 aliases:
   - "/2013/08/how-to-enable-group-policy-preferences-logging-via-the-local-group-policy-editor/"

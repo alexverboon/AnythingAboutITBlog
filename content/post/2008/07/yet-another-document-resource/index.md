@@ -1,7 +1,7 @@
 ---
 title: "Yet another document resource"
 layout: "post"
-date: 07/28/2008 08:12:02
+date: 2008-07-28T08:12:02Z
 slug: "yet-another-document-resource"
 aliases:
   - "/2008/07/yet-another-document-resource/"

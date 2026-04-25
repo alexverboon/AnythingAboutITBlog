@@ -1,7 +1,7 @@
 ---
 title: "Growing WIM files"
 layout: "post"
-date: 05/10/2008 09:36:00
+date: 2008-05-10T09:36:00Z
 slug: "growing-wim-files"
 aliases:
   - "/2008/05/growing-wim-files/"

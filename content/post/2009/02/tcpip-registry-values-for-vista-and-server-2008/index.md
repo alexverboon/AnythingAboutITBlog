@@ -1,7 +1,7 @@
 ---
 title: "TCP/IP Registry values for Vista and Server 2008"
 layout: "post"
-date: 02/15/2009 15:42:26
+date: 2009-02-15T15:42:26Z
 slug: "tcpip-registry-values-for-vista-and-server-2008"
 aliases:
   - "/2009/02/tcpip-registry-values-for-vista-and-server-2008/"

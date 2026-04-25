@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Resources for Windows and Office license activation with XenDesktop"
 layout: "post"
-date: 09/04/2011 10:59:42
+date: 2011-09-04T10:59:42Z
 slug: "readtip-resources-for-windows-and-office-license-activation-with-xendesktop"
 aliases:
   - "/2011/09/readtip-resources-for-windows-and-office-license-activation-with-xendesktop/"

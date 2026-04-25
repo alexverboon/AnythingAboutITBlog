@@ -1,7 +1,7 @@
 ---
 title: "The GatherNetworkinfo.vbs Script"
 layout: "post"
-date: 06/20/2011 20:17:37
+date: 2011-06-20T20:17:37Z
 slug: "the-gathernetworkinfo-vbs-script"
 aliases:
   - "/2011/06/the-gathernetworkinfo-vbs-script/"

@@ -1,7 +1,7 @@
 ---
 title: "How to run TechNet Virtual Labs on Windows 8 with IE10 and get around the &ldquo;Cookie&rdquo; error"
 layout: "post"
-date: 06/11/2012 20:34:43
+date: 2012-06-11T20:34:43Z
 slug: "how-to-run-technet-virtual-labs-on-windows-8-with-ie10-and-get-around-the-cookie-error"
 aliases:
   - "/2012/06/how-to-run-technet-virtual-labs-on-windows-8-with-ie10-and-get-around-the-cookie-error/"

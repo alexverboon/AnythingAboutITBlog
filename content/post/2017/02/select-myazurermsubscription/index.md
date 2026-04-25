@@ -1,7 +1,7 @@
 ---
 title: "Select-MyAzureRmSubscription"
 layout: "post"
-date: 02/07/2017 15:08:07
+date: 2017-02-07T15:08:07Z
 slug: "select-myazurermsubscription"
 aliases:
   - "/2017/02/select-myazurermsubscription/"

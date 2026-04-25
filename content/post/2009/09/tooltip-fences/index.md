@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - Fences"
 layout: "post"
-date: 09/27/2009 13:23:41
+date: 2009-09-27T13:23:41Z
 slug: "tooltip-fences"
 aliases:
   - "/2009/09/tooltip-fences/"

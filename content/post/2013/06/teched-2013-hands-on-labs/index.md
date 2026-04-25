@@ -1,7 +1,7 @@
 ---
 title: "TechEd 2013 Hands-On Labs"
 layout: "post"
-date: 06/15/2013 14:42:41
+date: 2013-06-15T14:42:41Z
 slug: "teched-2013-hands-on-labs"
 aliases:
   - "/2013/06/teched-2013-hands-on-labs/"

@@ -1,7 +1,7 @@
 ---
 title: "Wireless Power Technology"
 layout: "post"
-date: 01/07/2009 21:53:39
+date: 2009-01-07T21:53:39Z
 slug: "wireless-power-technology"
 aliases:
   - "/2009/01/wireless-power-technology/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Windows 7 USB/DVD Download Tool"
 layout: "post"
-date: 12/13/2009 17:21:55
+date: 2009-12-13T17:21:55Z
 slug: "tooltip-windows-7-usbdvd-download-tool"
 aliases:
   - "/2009/12/tooltip-windows-7-usbdvd-download-tool/"

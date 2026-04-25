@@ -1,7 +1,7 @@
 ---
 title: "The confusion around Hyper-V"
 layout: "post"
-date: 09/13/2009 09:58:18
+date: 2009-09-13T09:58:18Z
 slug: "the-confusion-around-hyper-v"
 aliases:
   - "/2009/09/the-confusion-around-hyper-v/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 - Troubleshooting Licensing with licensingdiag.exe"
 layout: "post"
-date: 05/14/2012 19:32:05
+date: 2012-05-14T19:32:05Z
 slug: "windows-8-troubleshooting-licensing-with-licensingdiag-exe"
 aliases:
   - "/2012/05/windows-8-troubleshooting-licensing-with-licensingdiag-exe/"

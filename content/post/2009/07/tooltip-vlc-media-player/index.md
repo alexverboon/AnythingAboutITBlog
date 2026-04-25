@@ -1,7 +1,7 @@
 ---
 title: "ToolTip &ndash; VLC Media Player"
 layout: "post"
-date: 07/11/2009 16:03:12
+date: 2009-07-11T16:03:12Z
 slug: "tooltip-vlc-media-player"
 aliases:
   - "/2009/07/tooltip-vlc-media-player/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - Defraggler"
 layout: "post"
-date: 06/01/2009 10:42:04
+date: 2009-06-01T10:42:04Z
 slug: "tooltip-defraggler"
 aliases:
   - "/2009/06/tooltip-defraggler/"

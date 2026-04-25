@@ -1,7 +1,7 @@
 ---
 title: "BITSAdmin is deprecated in Windows 7 and 2008 R2"
 layout: "post"
-date: 01/19/2011 23:38:07
+date: 2011-01-19T23:38:07Z
 slug: "bitsadmin-is-deprecated-in-windows-7-and-2008-r2"
 aliases:
   - "/2011/01/bitsadmin-is-deprecated-in-windows-7-and-2008-r2/"

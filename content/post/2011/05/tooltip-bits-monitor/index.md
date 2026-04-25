@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Bits Monitor"
 layout: "post"
-date: 05/14/2011 09:40:48
+date: 2011-05-14T09:40:48Z
 slug: "tooltip-bits-monitor"
 aliases:
   - "/2011/05/tooltip-bits-monitor/"

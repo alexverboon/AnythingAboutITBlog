@@ -1,7 +1,7 @@
 ---
 title: "Intel vPro review"
 layout: "post"
-date: 01/29/2009 18:37:07
+date: 2009-01-29T18:37:07Z
 slug: "intel-vpro-review"
 aliases:
   - "/2009/01/intel-vpro-review/"

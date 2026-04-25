@@ -1,7 +1,7 @@
 ---
 title: "How to change the SCCM 2012 Package Source Path with PowerShell"
 layout: "post"
-date: 05/13/2013 20:08:57
+date: 2013-05-13T20:08:57Z
 slug: "how-to-change-the-sccm-2012-package-source-path-with-powershell"
 aliases:
   - "/2013/05/how-to-change-the-sccm-2012-package-source-path-with-powershell/"

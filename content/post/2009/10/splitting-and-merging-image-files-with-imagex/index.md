@@ -1,7 +1,7 @@
 ---
 title: "Splitting and merging image files with ImageX"
 layout: "post"
-date: 10/13/2009 23:16:40
+date: 2009-10-13T23:16:40Z
 slug: "splitting-and-merging-image-files-with-imagex"
 aliases:
   - "/2009/10/splitting-and-merging-image-files-with-imagex/"

@@ -1,7 +1,7 @@
 ---
 title: "Repurpose PCs with Windows ThinPC"
 layout: "post"
-date: 12/07/2012 19:50:04
+date: 2012-12-07T19:50:04Z
 slug: "repurpose-pcs-with-windows-thinpc-2"
 aliases:
   - "/2012/12/repurpose-pcs-with-windows-thinpc-2/"

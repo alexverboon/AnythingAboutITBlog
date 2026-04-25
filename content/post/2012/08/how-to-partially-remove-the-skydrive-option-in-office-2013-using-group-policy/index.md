@@ -1,7 +1,7 @@
 ---
 title: "How to partially remove the SkyDrive option in Office 2013 using Group Policy"
 layout: "post"
-date: 08/02/2012 19:05:46
+date: 2012-08-02T19:05:46Z
 slug: "how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy"
 aliases:
   - "/2012/08/how-to-partially-remove-the-skydrive-option-in-office-2013-using-group-policy/"

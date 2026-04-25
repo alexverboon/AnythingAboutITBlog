@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - Image Resizer"
 layout: "post"
-date: 12/29/2008 14:00:50
+date: 2008-12-29T14:00:50Z
 slug: "tooltip-image-resizer"
 aliases:
   - "/2008/12/tooltip-image-resizer/"

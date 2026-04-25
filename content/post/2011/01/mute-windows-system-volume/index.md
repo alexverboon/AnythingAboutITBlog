@@ -1,7 +1,7 @@
 ---
 title: "Mute Windows System Volume"
 layout: "post"
-date: 01/15/2011 17:46:36
+date: 2011-01-15T17:46:36Z
 slug: "mute-windows-system-volume"
 aliases:
   - "/2011/01/mute-windows-system-volume/"

@@ -1,7 +1,7 @@
 ---
 title: "Using Hard Links &ndash; Part One"
 layout: "post"
-date: 04/05/2010 21:28:45
+date: 2010-04-05T21:28:45Z
 slug: "using-hard-links-part-one"
 aliases:
   - "/2010/04/using-hard-links-part-one/"

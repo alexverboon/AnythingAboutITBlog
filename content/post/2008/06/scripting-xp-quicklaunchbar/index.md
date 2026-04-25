@@ -1,7 +1,7 @@
 ---
 title: "Scripting XP quicklaunchbar"
 layout: "post"
-date: 06/28/2008 08:20:27
+date: 2008-06-28T08:20:27Z
 slug: "scripting-xp-quicklaunchbar"
 aliases:
   - "/2008/06/scripting-xp-quicklaunchbar/"

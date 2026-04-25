@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: DirCreator"
 layout: "post"
-date: 11/12/2012 21:29:04
+date: 2012-11-12T21:29:04Z
 slug: "tooltip-dircreator"
 aliases:
   - "/2012/11/tooltip-dircreator/"

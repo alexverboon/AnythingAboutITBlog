@@ -1,7 +1,7 @@
 ---
 title: "Removing Backup Files Created during Windows 7 Service Pack 1 Installation"
 layout: "post"
-date: 02/19/2011 18:24:06
+date: 2011-02-19T18:24:06Z
 slug: "removing-backup-files-created-during-windows-7-service-pack-1-installation"
 aliases:
   - "/2011/02/removing-backup-files-created-during-windows-7-service-pack-1-installation/"

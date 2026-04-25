@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; New GPO stuff"
 layout: "post"
-date: 09/15/2011 20:53:16
+date: 2011-09-15T20:53:16Z
 slug: "windows-8-new-gpo-stuff"
 aliases:
   - "/2011/09/windows-8-new-gpo-stuff/"

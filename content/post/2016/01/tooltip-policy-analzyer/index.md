@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Policy Analyzer"
 layout: "post"
-date: 01/30/2016 15:27:20
+date: 2016-01-30T15:27:20Z
 slug: "tooltip-policy-analzyer"
 aliases:
   - "/2016/01/tooltip-policy-analzyer/"

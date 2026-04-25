@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-CMInstalledSoftware"
 layout: "post"
-date: 08/08/2014 19:23:05
+date: 2014-08-08T19:23:05Z
 slug: "powershell-script-get-cminstalledsoftware"
 aliases:
   - "/2014/08/powershell-script-get-cminstalledsoftware/"

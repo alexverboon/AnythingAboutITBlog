@@ -1,7 +1,7 @@
 ---
 title: "Roadmap for Windows Embedded v.Next"
 layout: "post"
-date: 02/28/2012 22:49:27
+date: 2012-02-28T22:49:27Z
 slug: "roadmap-for-windows-embedded-v-next"
 aliases:
   - "/2012/02/roadmap-for-windows-embedded-v-next/"

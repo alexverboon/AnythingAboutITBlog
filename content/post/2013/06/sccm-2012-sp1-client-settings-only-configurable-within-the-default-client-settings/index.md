@@ -1,7 +1,7 @@
 ---
 title: "SCCM 2012 SP1 Client Settings only configurable within the Default Client Settings"
 layout: "post"
-date: 06/04/2013 20:14:48
+date: 2013-06-04T20:14:48Z
 slug: "sccm-2012-sp1-client-settings-only-configurable-within-the-default-client-settings"
 aliases:
   - "/2013/06/sccm-2012-sp1-client-settings-only-configurable-within-the-default-client-settings/"

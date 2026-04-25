@@ -1,7 +1,7 @@
 ---
 title: "Why a double click in the upper left corner closes the Window"
 layout: "post"
-date: 04/20/2011 16:02:36
+date: 2011-04-20T16:02:36Z
 slug: "why-a-double-click-in-the-upper-left-corner-closes-the-window"
 aliases:
   - "/2011/04/why-a-double-click-in-the-upper-left-corner-closes-the-window/"

@@ -1,7 +1,7 @@
 ---
 title: "Automated Download and Installation for the Windows Assessment and Deployment Kit (ADK)"
 layout: "post"
-date: 06/02/2012 17:13:55
+date: 2012-06-02T17:13:55Z
 slug: "automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk"
 aliases:
   - "/2012/06/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk/"

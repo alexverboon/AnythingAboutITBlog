@@ -1,7 +1,7 @@
 ---
 title: "All those being pessimistic about Vista Read this"
 layout: "post"
-date: 09/08/2008 15:20:22
+date: 2008-09-08T15:20:22Z
 slug: "all-those-being-pessimistic-about-vista-read-this"
 aliases:
   - "/2008/09/all-those-being-pessimistic-about-vista-read-this/"

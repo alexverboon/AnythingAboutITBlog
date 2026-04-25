@@ -1,7 +1,7 @@
 ---
 title: "Palm Memories"
 layout: "post"
-date: 05/02/2010 19:27:21
+date: 2010-05-02T19:27:21Z
 slug: "palm-memories"
 aliases:
   - "/2010/05/palm-memories/"

@@ -1,7 +1,7 @@
 ---
 title: "Creating a Virtual Network using Azure Resource Manager &ndash; Part 2"
 layout: "post"
-date: 03/01/2016 14:50:01
+date: 2016-03-01T14:50:01Z
 slug: "creating-a-virtual-network-using-azure-resource-manager-part-2"
 aliases:
   - "/2016/03/creating-a-virtual-network-using-azure-resource-manager-part-2/"

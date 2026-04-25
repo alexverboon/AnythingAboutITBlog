@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Baseline Security Analyzer with support for Windows 7 and Server 2008 R2"
 layout: "post"
-date: 10/27/2009 22:12:36
+date: 2009-10-27T22:12:36Z
 slug: "microsoft-baseline-security-analyzer-with-support-for-windows-7-and-server-2008-r2"
 aliases:
   - "/2009/10/microsoft-baseline-security-analyzer-with-support-for-windows-7-and-server-2008-r2/"

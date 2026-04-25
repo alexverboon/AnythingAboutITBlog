@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr OSD - Enable .NET Framework 3.5 on Windows 8.1"
 layout: "post"
-date: 12/14/2013 01:17:13
+date: 2013-12-14T01:17:13Z
 slug: "configmgr-osd-enable-net-framework-3-5-on-windows-8-1"
 aliases:
   - "/2013/12/configmgr-osd-enable-net-framework-3-5-on-windows-8-1/"

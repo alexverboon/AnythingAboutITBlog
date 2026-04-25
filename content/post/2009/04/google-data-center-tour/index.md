@@ -1,7 +1,7 @@
 ---
 title: "Google Data Center Tour"
 layout: "post"
-date: 04/24/2009 10:54:51
+date: 2009-04-24T10:54:51Z
 slug: "google-data-center-tour"
 aliases:
   - "/2009/04/google-data-center-tour/"

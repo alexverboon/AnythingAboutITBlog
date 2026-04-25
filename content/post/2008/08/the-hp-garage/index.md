@@ -1,7 +1,7 @@
 ---
 title: "The &quot;HP&quot; Garage"
 layout: "post"
-date: 08/03/2008 18:00:37
+date: 2008-08-03T18:00:37Z
 slug: "the-hp-garage"
 aliases:
   - "/2008/08/the-hp-garage/"

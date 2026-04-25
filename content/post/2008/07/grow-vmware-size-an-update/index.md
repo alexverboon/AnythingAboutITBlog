@@ -1,7 +1,7 @@
 ---
 title: "Grow vmware size - an update"
 layout: "post"
-date: 07/31/2008 17:11:57
+date: 2008-07-31T17:11:57Z
 slug: "grow-vmware-size-an-update"
 aliases:
   - "/2008/07/grow-vmware-size-an-update/"

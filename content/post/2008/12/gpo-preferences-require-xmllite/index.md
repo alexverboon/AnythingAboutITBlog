@@ -1,7 +1,7 @@
 ---
 title: "GPO Preferences require XMLLite"
 layout: "post"
-date: 12/02/2008 20:28:26
+date: 2008-12-02T20:28:26Z
 slug: "gpo-preferences-require-xmllite"
 aliases:
   - "/2008/12/gpo-preferences-require-xmllite/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: .NET Framework Setup Verification Tool"
 layout: "post"
-date: 03/25/2012 11:32:30
+date: 2012-03-25T11:32:30Z
 slug: "tooltip-net-framework-setup-verification-tool"
 aliases:
   - "/2012/03/tooltip-net-framework-setup-verification-tool/"

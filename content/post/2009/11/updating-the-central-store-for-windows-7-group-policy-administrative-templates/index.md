@@ -1,7 +1,7 @@
 ---
 title: "Updating the Central Store for Windows 7 Group Policy Administrative Templates"
 layout: "post"
-date: 11/22/2009 20:21:52
+date: 2009-11-22T20:21:52Z
 slug: "updating-the-central-store-for-windows-7-group-policy-administrative-templates"
 aliases:
   - "/2009/11/updating-the-central-store-for-windows-7-group-policy-administrative-templates/"

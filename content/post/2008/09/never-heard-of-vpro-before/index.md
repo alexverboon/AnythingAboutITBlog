@@ -1,7 +1,7 @@
 ---
 title: "Never heard of vPro before ?"
 layout: "post"
-date: 09/07/2008 21:13:01
+date: 2008-09-07T21:13:01Z
 slug: "never-heard-of-vpro-before"
 aliases:
   - "/2008/09/never-heard-of-vpro-before/"

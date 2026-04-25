@@ -1,7 +1,7 @@
 ---
 title: "Windows Vista Service Pack 2 cleanup"
 layout: "post"
-date: 05/07/2009 07:08:04
+date: 2009-05-07T07:08:04Z
 slug: "windows-vista-service-pack-2-cleanup"
 aliases:
   - "/2009/05/windows-vista-service-pack-2-cleanup/"

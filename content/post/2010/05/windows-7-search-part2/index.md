@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Search &ndash; Part2"
 layout: "post"
-date: 05/26/2010 20:43:36
+date: 2010-05-26T20:43:36Z
 slug: "windows-7-search-part2"
 aliases:
   - "/2010/05/windows-7-search-part2/"

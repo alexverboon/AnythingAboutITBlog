@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: Triumph of the Nerds"
 layout: "post"
-date: 12/11/2011 16:36:29
+date: 2011-12-11T16:36:29Z
 slug: "watchtip-triumph-of-the-nerds"
 aliases:
   - "/2011/12/watchtip-triumph-of-the-nerds/"

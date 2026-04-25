@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings for Silverlight 4 &ndash; FIXED"
 layout: "post"
-date: 06/06/2011 13:29:23
+date: 2011-06-06T13:29:23Z
 slug: "group-policy-settings-for-silverlight-4fixed"
 aliases:
   - "/2011/06/group-policy-settings-for-silverlight-4fixed/"

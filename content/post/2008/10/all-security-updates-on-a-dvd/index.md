@@ -1,7 +1,7 @@
 ---
 title: "All security updates on a DVD"
 layout: "post"
-date: 10/20/2008 19:31:19
+date: 2008-10-20T19:31:19Z
 slug: "all-security-updates-on-a-dvd"
 aliases:
   - "/2008/10/all-security-updates-on-a-dvd/"

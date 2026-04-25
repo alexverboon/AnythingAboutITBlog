@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Webcam Diagnostics"
 layout: "post"
-date: 09/19/2011 16:02:26
+date: 2011-09-19T16:02:26Z
 slug: "tooltip-webcam-diagnostics"
 aliases:
   - "/2011/09/tooltip-webcam-diagnostics/"

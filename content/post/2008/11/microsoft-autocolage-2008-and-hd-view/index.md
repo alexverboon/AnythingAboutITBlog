@@ -1,7 +1,7 @@
 ---
 title: "Microsoft AutoColage 2008 and HD View"
 layout: "post"
-date: 11/03/2008 23:10:22
+date: 2008-11-03T23:10:22Z
 slug: "microsoft-autocolage-2008-and-hd-view"
 aliases:
   - "/2008/11/microsoft-autocolage-2008-and-hd-view/"

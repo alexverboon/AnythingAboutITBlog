@@ -1,7 +1,7 @@
 ---
 title: "test"
 layout: "post"
-date: 08/10/2014 15:47:14
+date: 2014-08-10T15:47:14Z
 slug: "test"
 aliases:
   - "/2014/08/test/"

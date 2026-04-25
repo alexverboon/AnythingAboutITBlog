@@ -1,7 +1,7 @@
 ---
 title: "Finally joining the Mesh"
 layout: "post"
-date: 07/31/2008 19:41:27
+date: 2008-07-31T19:41:27Z
 slug: "finally-joining-the-mesh"
 aliases:
   - "/2008/07/finally-joining-the-mesh/"

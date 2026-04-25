@@ -1,7 +1,7 @@
 ---
 title: "RSS / ATOM Feed validator"
 layout: "post"
-date: 12/04/2008 21:52:56
+date: 2008-12-04T21:52:56Z
 slug: "rss-atom-feed-validator"
 aliases:
   - "/2008/12/rss-atom-feed-validator/"

@@ -1,7 +1,7 @@
 ---
 title: "Engineering Windows 7 still alive - Windows 7 Battery Notification Messages"
 layout: "post"
-date: 02/08/2010 23:01:54
+date: 2010-02-08T23:01:54Z
 slug: "engineering-windows-7-still-alive-windows-7-battery-notification-messages"
 aliases:
   - "/2010/02/engineering-windows-7-still-alive-windows-7-battery-notification-messages/"

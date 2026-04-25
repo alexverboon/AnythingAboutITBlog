@@ -1,7 +1,7 @@
 ---
 title: "Enabling PowerShell logging for PowerShell Core 6 (Workaround)"
 layout: "post"
-date: 01/13/2018 02:02:41
+date: 2018-01-13T02:02:41Z
 slug: "enabling-powershell-logging-for-powershell-core-6-workaround"
 aliases:
   - "/2018/01/enabling-powershell-logging-for-powershell-core-6-workaround/"

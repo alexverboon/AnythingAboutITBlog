@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Office 2010 Beta Silent Install"
 layout: "post"
-date: 08/19/2009 21:57:41
+date: 2009-08-19T21:57:41Z
 slug: "microsoft-office-2010-beta-silent-install"
 aliases:
   - "/2009/08/microsoft-office-2010-beta-silent-install/"

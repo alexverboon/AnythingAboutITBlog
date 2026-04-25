@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Xperf123 simplify Windows Performance Data Collection"
 layout: "post"
-date: 07/18/2011 19:26:06
+date: 2011-07-18T19:26:06Z
 slug: "tooltip-xperf123-simplify-windows-performance-data-collection"
 aliases:
   - "/2011/07/tooltip-xperf123-simplify-windows-performance-data-collection/"

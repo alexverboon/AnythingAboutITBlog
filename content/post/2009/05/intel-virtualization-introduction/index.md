@@ -1,7 +1,7 @@
 ---
 title: "Intel Virtualization introduction"
 layout: "post"
-date: 05/04/2009 21:48:01
+date: 2009-05-04T21:48:01Z
 slug: "intel-virtualization-introduction"
 aliases:
   - "/2009/05/intel-virtualization-introduction/"

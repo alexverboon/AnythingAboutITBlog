@@ -1,7 +1,7 @@
 ---
 title: "Free Virtualization ebook from Microsoft"
 layout: "post"
-date: 01/21/2009 22:34:08
+date: 2009-01-21T22:34:08Z
 slug: "free-virtualization-ebook-from-microsoft"
 aliases:
   - "/2009/01/free-virtualization-ebook-from-microsoft/"

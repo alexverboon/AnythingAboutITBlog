@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-ComputerGeolocation"
 layout: "post"
-date: 10/27/2013 13:35:01
+date: 2013-10-27T13:35:01Z
 slug: "powershell-script-get-computergeolocation"
 aliases:
   - "/2013/10/powershell-script-get-computergeolocation/"

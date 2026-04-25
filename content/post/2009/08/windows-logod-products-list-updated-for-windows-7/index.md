@@ -1,7 +1,7 @@
 ---
 title: "Windows Logo'd Products List Updated for Windows 7"
 layout: "post"
-date: 08/06/2009 22:23:58
+date: 2009-08-06T22:23:58Z
 slug: "windows-logod-products-list-updated-for-windows-7"
 aliases:
   - "/2009/08/windows-logod-products-list-updated-for-windows-7/"

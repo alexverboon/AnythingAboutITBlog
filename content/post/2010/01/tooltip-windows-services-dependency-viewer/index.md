@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Windows Services Dependency Viewer"
 layout: "post"
-date: 01/01/2010 21:56:42
+date: 2010-01-01T21:56:42Z
 slug: "tooltip-windows-services-dependency-viewer"
 aliases:
   - "/2010/01/tooltip-windows-services-dependency-viewer/"

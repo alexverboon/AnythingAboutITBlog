@@ -1,7 +1,7 @@
 ---
 title: "Adding Games on Windows 7 Enterprise"
 layout: "post"
-date: 08/09/2009 18:35:35
+date: 2009-08-09T18:35:35Z
 slug: "adding-games-on-windows-7-enterprise"
 aliases:
   - "/2009/08/adding-games-on-windows-7-enterprise/"

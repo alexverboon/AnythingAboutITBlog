@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Creating Scheduled Tasks with PowerShell version 3"
 layout: "post"
-date: 12/29/2013 17:45:30
+date: 2013-12-29T17:45:30Z
 slug: "powershell-creating-scheduled-tasks-with-powershell-version-3"
 aliases:
   - "/2013/12/powershell-creating-scheduled-tasks-with-powershell-version-3/"

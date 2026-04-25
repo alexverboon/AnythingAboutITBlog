@@ -1,7 +1,7 @@
 ---
 title: "Deploying Windows 7 RSAT (external)"
 layout: "post"
-date: 12/15/2009 23:04:50
+date: 2009-12-15T23:04:50Z
 slug: "deploying-windows-7-rsat-external"
 aliases:
   - "/2009/12/deploying-windows-7-rsat-external/"

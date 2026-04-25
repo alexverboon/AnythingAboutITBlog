@@ -1,7 +1,7 @@
 ---
 title: "Detect XP Mode support"
 layout: "post"
-date: 07/14/2009 10:33:48
+date: 2009-07-14T10:33:48Z
 slug: "detect-xp-mode-support"
 aliases:
   - "/2009/07/detect-xp-mode-support/"

@@ -1,7 +1,7 @@
 ---
 title: "GP Preferences"
 layout: "post"
-date: 08/15/2008 15:58:36
+date: 2008-08-15T15:58:36Z
 slug: "gp-preferences"
 aliases:
   - "/2008/08/gp-preferences/"

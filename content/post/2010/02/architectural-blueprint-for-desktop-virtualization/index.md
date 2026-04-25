@@ -1,7 +1,7 @@
 ---
 title: "Architectural blueprint for Desktop Virtualization"
 layout: "post"
-date: 02/07/2010 18:10:17
+date: 2010-02-07T18:10:17Z
 slug: "architectural-blueprint-for-desktop-virtualization"
 aliases:
   - "/2010/02/architectural-blueprint-for-desktop-virtualization/"

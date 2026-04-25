@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Office Labs"
 layout: "post"
-date: 05/23/2009 09:10:17
+date: 2009-05-23T09:10:17Z
 slug: "microsoft-office-labs"
 aliases:
   - "/2009/05/microsoft-office-labs/"

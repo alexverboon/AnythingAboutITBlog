@@ -1,7 +1,7 @@
 ---
 title: "Reducing size of WinPE"
 layout: "post"
-date: 01/17/2009 13:23:35
+date: 2009-01-17T13:23:35Z
 slug: "reducing-size-of-winpe"
 aliases:
   - "/2009/01/reducing-size-of-winpe/"

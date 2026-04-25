@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-WinBuildInfo"
 layout: "post"
-date: 11/12/2016 16:19:36
+date: 2016-11-12T16:19:36Z
 slug: "powershell-script-get-winbuildinfo"
 aliases:
   - "/2016/11/powershell-script-get-winbuildinfo/"

@@ -1,7 +1,7 @@
 ---
 title: "Finding Group Policy Settings through Windows 7 Search Connector"
 layout: "post"
-date: 09/02/2010 20:44:18
+date: 2010-09-02T20:44:18Z
 slug: "finding-group-policy-settings-through-windows-7-search-connector"
 aliases:
   - "/2010/09/finding-group-policy-settings-through-windows-7-search-connector/"

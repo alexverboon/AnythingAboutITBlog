@@ -1,7 +1,7 @@
 ---
 title: "Accidental object deletion prevention in Active Directory"
 layout: "post"
-date: 06/08/2009 12:19:45
+date: 2009-06-08T12:19:45Z
 slug: "accidental-object-deletion-prevention-in-active-directory"
 aliases:
   - "/2009/06/accidental-object-deletion-prevention-in-active-directory/"

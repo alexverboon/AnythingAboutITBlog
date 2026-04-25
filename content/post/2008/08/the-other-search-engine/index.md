@@ -1,7 +1,7 @@
 ---
 title: "The other search engine"
 layout: "post"
-date: 08/21/2008 21:31:10
+date: 2008-08-21T21:31:10Z
 slug: "the-other-search-engine"
 aliases:
   - "/2008/08/the-other-search-engine/"

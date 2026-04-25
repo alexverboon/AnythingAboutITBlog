@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Upgrade Analytics &ndash; Notes and PowerShell snippets"
 layout: "post"
-date: 10/03/2016 22:55:04
+date: 2016-10-03T22:55:04Z
 slug: "windows-10-upgrade-analytics-notes-and-powershell-snippets"
 aliases:
   - "/2016/10/windows-10-upgrade-analytics-notes-and-powershell-snippets/"

@@ -7,6 +7,8 @@
     "year": 2018,
     "month": "12",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7464",
     "tags": [
       "azure-active-directory",
       "cloud-app-security",
@@ -42,7 +44,9 @@
       "121018_2230_StayinContr23.png"
     ],
     "hero_image": "121018_2230_StayinContr1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-12-stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-12-stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Azure Information Protection Scanner & Analytics – Resource Collection",
@@ -52,6 +56,8 @@
     "year": 2018,
     "month": "10",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7431",
     "tags": [
       "aip",
       "protection",
@@ -62,7 +68,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-10-azure-information-protection-scanner-analytics-resource-collection.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-10-azure-information-protection-scanner-analytics-resource-collection.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Anything About IT turns 10 today",
@@ -72,6 +80,8 @@
     "year": 2018,
     "month": "05",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7227",
     "tags": [],
     "categories": [
       "blog"
@@ -85,7 +95,9 @@
       "051018_1450_AnythingAbo6.png"
     ],
     "hero_image": "051018_1450_AnythingAbo1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-05-anything-about-it-turns-10-today.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-05-anything-about-it-turns-10-today.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "It’s never too late to start learning PowerShell",
@@ -95,6 +107,8 @@
     "year": 2018,
     "month": "03",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7216",
     "tags": [
       "learning",
       "powershell"
@@ -104,7 +118,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-its-never-too-late-to-start-learning-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-its-never-too-late-to-start-learning-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Backup Office 365 sign-in data with Azure Log Analytics and Logic App",
@@ -114,6 +130,8 @@
     "year": 2018,
     "month": "03",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7212",
     "tags": [
       "archive",
       "azure-log-analytics",
@@ -157,7 +175,9 @@
       "031618_1957_BackupOffic27.png"
     ],
     "hero_image": "031618_1957_BackupOffic1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "How to get started with Azure log Analytics",
@@ -167,6 +187,8 @@
     "year": 2018,
     "month": "03",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7182",
     "tags": [
       "azure",
       "log-analytics"
@@ -181,7 +203,9 @@
       "031118_1655_Howtogetsta4.png"
     ],
     "hero_image": "031118_1655_Howtogetsta1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-how-to-get-started-with-azure-log-analytics.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-how-to-get-started-with-azure-log-analytics.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Data Collection Tier in Azure Security Center",
@@ -191,6 +215,8 @@
     "year": 2018,
     "month": "02",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7170",
     "tags": [
       "azure",
       "data-collection",
@@ -206,7 +232,9 @@
       "022518_1719_DataCollect2.png"
     ],
     "hero_image": "022518_1719_DataCollect1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-data-collection-tier-in-azure-security-center.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-data-collection-tier-in-azure-security-center.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "OMS Security and Audit Baseline Assessment",
@@ -216,6 +244,8 @@
     "year": 2018,
     "month": "02",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7161",
     "tags": [
       "compliance-baseline",
       "compliance-settings",
@@ -243,7 +273,9 @@
       "021918_2045_OMSSecurity10.png"
     ],
     "hero_image": "021918_2045_OMSSecurity1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-oms-security-and-audit-baseline-assessment.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-oms-security-and-audit-baseline-assessment.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Collecting NetTcpConnection and Process information with PowerShell",
@@ -253,6 +285,8 @@
     "year": 2018,
     "month": "02",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7143",
     "tags": [
       "network",
       "powershell",
@@ -268,7 +302,9 @@
       "020818_1424_CollectingN3.png"
     ],
     "hero_image": "020818_1424_CollectingN1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-collecting-nettcpconnection-and-process-information-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-collecting-nettcpconnection-and-process-information-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Automating CIS-CAT Pro with PowerShell",
@@ -278,6 +314,8 @@
     "year": 2018,
     "month": "02",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7121",
     "tags": [
       "assessment",
       "automation",
@@ -301,7 +339,9 @@
       "020618_2102_AutomatingC7.png"
     ],
     "hero_image": "020618_2102_AutomatingC1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-ciscatpowershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-ciscatpowershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Core logging configuration",
@@ -311,6 +351,8 @@
     "year": 2018,
     "month": "01",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7107",
     "tags": [
       "group-policy",
       "logging",
@@ -321,7 +363,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-powershell-core-logging-configuration.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-powershell-core-logging-configuration.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Enabling PowerShell logging for PowerShell Core 6 (Workaround)",
@@ -331,6 +375,8 @@
     "year": 2018,
     "month": "01",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7105",
     "tags": [
       "eventlog",
       "powershell-core"
@@ -340,7 +386,12 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-enabling-powershell-logging-for-powershell-core-6-workaround.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-enabling-powershell-logging-for-powershell-core-6-workaround.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png",
+      "image_thumb_3.png"
+    ]
   },
   {
     "title": "Retrieving Windows Defender ATP query API data with PowerShell",
@@ -350,6 +401,8 @@
     "year": 2018,
     "month": "01",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7101",
     "tags": [
       "api",
       "defender-atp",
@@ -361,7 +414,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-retrieving-windows-defender-atp-query-api-data-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-retrieving-windows-defender-atp-query-api-data-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Exploring the Blockchain &ndash; Part1",
@@ -371,6 +426,8 @@
     "year": 2018,
     "month": "01",
     "author": "alex",
+    "status": "publish",
+    "post_id": "7098",
     "tags": [
       "blockchain",
       "blocks",
@@ -384,6 +441,28 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-exploring-the-blockchain-part1.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-exploring-the-blockchain-part1.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png",
+      "image_thumb_3.png",
+      "image_thumb_4.png",
+      "image_thumb_5.png",
+      "image_thumb_6.png",
+      "image_thumb_7.png",
+      "image_thumb_8.png",
+      "image_thumb_9.png",
+      "image_thumb_10.png",
+      "image_thumb_11.png",
+      "image_thumb_12.png",
+      "image_thumb_13.png",
+      "image_thumb_14.png",
+      "image_thumb_15.png",
+      "image_thumb_16.png",
+      "image_thumb_17.png",
+      "image_thumb_18.png",
+      "image_thumb_19.png",
+      "image_thumb_20.png"
+    ]
   }
 ]

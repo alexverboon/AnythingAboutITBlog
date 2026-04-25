@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Domain Time LMCheck"
 layout: "post"
-date: 08/04/2010 21:21:00
+date: 2010-08-04T21:21:00Z
 slug: "tooltip-domain-time-lmcheck"
 aliases:
   - "/2010/08/tooltip-domain-time-lmcheck/"

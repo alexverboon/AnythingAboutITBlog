@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: BranchCache Design Guide"
 layout: "post"
-date: 12/05/2009 18:18:59
+date: 2009-12-05T18:18:59Z
 slug: "readtip-branchcache-design-guide"
 aliases:
   - "/2009/12/readtip-branchcache-design-guide/"

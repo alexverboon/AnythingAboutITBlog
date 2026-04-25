@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Bitlocker"
 layout: "post"
-date: 01/16/2009 22:17:27
+date: 2009-01-16T22:17:27Z
 slug: "windows-7-bitlocker"
 aliases:
   - "/2009/01/windows-7-bitlocker/"

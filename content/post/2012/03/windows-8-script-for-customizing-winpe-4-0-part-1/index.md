@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; Script for customizing WinPE 4.0 &ndash; Part 1"
 layout: "post"
-date: 03/12/2012 23:48:55
+date: 2012-03-12T23:48:55Z
 slug: "windows-8-script-for-customizing-winpe-4-0-part-1"
 aliases:
   - "/2012/03/windows-8-script-for-customizing-winpe-4-0-part-1/"

@@ -1,7 +1,7 @@
 ---
 title: "The Windows 8 Refresh Your PC Feature"
 layout: "post"
-date: 01/08/2012 16:30:13
+date: 2012-01-08T16:30:13Z
 slug: "the-windows-8-refresh-your-pc-feature"
 aliases:
   - "/2012/01/the-windows-8-refresh-your-pc-feature/"

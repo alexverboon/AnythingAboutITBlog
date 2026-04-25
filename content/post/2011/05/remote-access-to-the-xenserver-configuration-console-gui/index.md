@@ -1,7 +1,7 @@
 ---
 title: "Remote access to the XenServer Configuration Console GUI"
 layout: "post"
-date: 05/14/2011 13:07:04
+date: 2011-05-14T13:07:04Z
 slug: "remote-access-to-the-xenserver-configuration-console-gui"
 aliases:
   - "/2011/05/remote-access-to-the-xenserver-configuration-console-gui/"

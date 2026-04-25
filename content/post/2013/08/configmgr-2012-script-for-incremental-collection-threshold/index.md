@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr 2012 Script for Incremental Collection threshold"
 layout: "post"
-date: 08/05/2013 20:07:46
+date: 2013-08-05T20:07:46Z
 slug: "configmgr-2012-script-for-incremental-collection-threshold"
 aliases:
   - "/2013/08/configmgr-2012-script-for-incremental-collection-threshold/"

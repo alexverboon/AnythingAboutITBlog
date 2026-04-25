@@ -1,7 +1,7 @@
 ---
 title: "For those who liked Norton Commander"
 layout: "post"
-date: 07/05/2008 21:38:40
+date: 2008-07-05T21:38:40Z
 slug: "for-those-who-liked-norton-commander"
 aliases:
   - "/2008/07/for-those-who-liked-norton-commander/"

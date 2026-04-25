@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Group Policy size in SYSVOL folder with PowerShell"
 layout: "post"
-date: 01/24/2011 18:07:28
+date: 2011-01-24T18:07:28Z
 slug: "retrieve-group-policy-size-in-sysvol-folder-with-powershell"
 aliases:
   - "/2011/01/retrieve-group-policy-size-in-sysvol-folder-with-powershell/"

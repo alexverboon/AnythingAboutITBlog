@@ -1,7 +1,7 @@
 ---
 title: "Backup Office 365 sign-in data with Azure Log Analytics and Logic App"
 layout: "post"
-date: 03/16/2018 19:59:59
+date: 2018-03-16T19:59:59Z
 slug: "backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app"
 aliases:
   - "/2018/03/backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app/"

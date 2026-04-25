@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Active Directory based volume activation"
 layout: "post"
-date: 11/25/2011 14:25:52
+date: 2011-11-25T14:25:52Z
 slug: "windows-8-active-directory-based-volume-activation"
 aliases:
   - "/2011/11/windows-8-active-directory-based-volume-activation/"

@@ -1,7 +1,7 @@
 ---
 title: "How to access data from your Bitlocker enabled Windows To Go Workspace"
 layout: "post"
-date: 12/18/2012 13:32:38
+date: 2012-12-18T13:32:38Z
 slug: "how-to-access-data-from-your-bitlocker-enabled-windows-to-go-workspace"
 aliases:
   - "/2012/12/how-to-access-data-from-your-bitlocker-enabled-windows-to-go-workspace/"

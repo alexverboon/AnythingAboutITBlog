@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Office 2010 Resource Kit Technical Library in Compiled Help format"
 layout: "post"
-date: 02/01/2011 19:10:42
+date: 2011-02-01T19:10:42Z
 slug: "tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format"
 aliases:
   - "/2011/02/tooltip-office-2010-resource-kit-technical-library-in-compiled-help-format/"

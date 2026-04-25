@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: Dynamic Memory in Windows Server 2008 R2 SP1"
 layout: "post"
-date: 04/28/2011 21:37:17
+date: 2011-04-28T21:37:17Z
 slug: "watchtip-dynamic-memory-in-windows-server-2008-r2-sp1"
 aliases:
   - "/2011/04/watchtip-dynamic-memory-in-windows-server-2008-r2-sp1/"

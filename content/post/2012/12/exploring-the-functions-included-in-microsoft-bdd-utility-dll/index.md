@@ -1,7 +1,7 @@
 ---
 title: "Exploring the functions included in Microsoft.BDD.Utility.dll"
 layout: "post"
-date: 12/23/2012 15:33:45
+date: 2012-12-23T15:33:45Z
 slug: "exploring-the-functions-included-in-microsoft-bdd-utility-dll"
 aliases:
   - "/2012/12/exploring-the-functions-included-in-microsoft-bdd-utility-dll/"

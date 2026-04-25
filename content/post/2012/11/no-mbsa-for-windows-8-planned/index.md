@@ -1,7 +1,7 @@
 ---
 title: "No MBSA for Windows 8 planned"
 layout: "post"
-date: 11/08/2012 18:55:21
+date: 2012-11-08T18:55:21Z
 slug: "no-mbsa-for-windows-8-planned"
 aliases:
   - "/2012/11/no-mbsa-for-windows-8-planned/"

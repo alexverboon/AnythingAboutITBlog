@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: AD Photo Edit"
 layout: "post"
-date: 08/27/2011 15:10:18
+date: 2011-08-27T15:10:18Z
 slug: "tooltip-ad-photo-edit"
 aliases:
   - "/2011/08/tooltip-ad-photo-edit/"

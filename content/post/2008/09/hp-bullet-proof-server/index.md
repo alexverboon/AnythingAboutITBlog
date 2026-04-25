@@ -1,7 +1,7 @@
 ---
 title: "HP bullet proof server"
 layout: "post"
-date: 09/17/2008 22:09:20
+date: 2008-09-17T22:09:20Z
 slug: "hp-bullet-proof-server"
 aliases:
   - "/2008/09/hp-bullet-proof-server/"

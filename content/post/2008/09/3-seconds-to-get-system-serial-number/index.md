@@ -1,7 +1,7 @@
 ---
 title: "3 seconds to get system serial number"
 layout: "post"
-date: 09/10/2008 15:30:21
+date: 2008-09-10T15:30:21Z
 slug: "3-seconds-to-get-system-serial-number"
 aliases:
   - "/2008/09/3-seconds-to-get-system-serial-number/"

@@ -1,7 +1,7 @@
 ---
 title: "Getting your OS Restore DVD to work with large image files"
 layout: "post"
-date: 09/18/2009 16:10:07
+date: 2009-09-18T16:10:07Z
 slug: "getting-your-os-restore-dvd-to-work-with-large-image-files"
 aliases:
   - "/2009/09/getting-your-os-restore-dvd-to-work-with-large-image-files/"

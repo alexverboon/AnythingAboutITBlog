@@ -1,7 +1,7 @@
 ---
 title: "Head-to-head analysis of Citrix XenDesktop, Microsoft VDI, Quest vWorkspace, and VMware View"
 layout: "post"
-date: 07/02/2010 06:27:49
+date: 2010-07-02T06:27:49Z
 slug: "head-to-head-analysis-of-citrix-xendesktop-microsoft-vdi-quest-vworkspace-and-vmware-view"
 aliases:
   - "/2010/07/head-to-head-analysis-of-citrix-xendesktop-microsoft-vdi-quest-vworkspace-and-vmware-view/"

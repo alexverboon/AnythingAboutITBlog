@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings in Windows 10 Build 10.0.10074"
 layout: "post"
-date: 05/16/2015 13:29:30
+date: 2015-05-16T13:29:30Z
 slug: "group-policy-settings-in-windows-10-build-10-0-10074"
 aliases:
   - "/2015/05/group-policy-settings-in-windows-10-build-10-0-10074/"

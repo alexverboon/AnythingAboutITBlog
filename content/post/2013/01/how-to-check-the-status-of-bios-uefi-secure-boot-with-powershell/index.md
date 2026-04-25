@@ -1,7 +1,7 @@
 ---
 title: "How to check the status of BIOS &ndash; UEFI &ndash; Secure Boot with PowerShell"
 layout: "post"
-date: 01/11/2013 14:22:06
+date: 2013-01-11T14:22:06Z
 slug: "how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell"
 aliases:
   - "/2013/01/how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell/"

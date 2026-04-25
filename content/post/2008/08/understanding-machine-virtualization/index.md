@@ -1,7 +1,7 @@
 ---
 title: "Understanding machine virtualization"
 layout: "post"
-date: 08/02/2008 15:04:16
+date: 2008-08-02T15:04:16Z
 slug: "understanding-machine-virtualization"
 aliases:
   - "/2008/08/understanding-machine-virtualization/"

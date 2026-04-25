@@ -1,7 +1,7 @@
 ---
 title: "Installing ESXi in VMWare Workstation 6.5"
 layout: "post"
-date: 11/02/2008 11:28:38
+date: 2008-11-02T11:28:38Z
 slug: "installing-esxi-in-vmware-workstation-65"
 aliases:
   - "/2008/11/installing-esxi-in-vmware-workstation-65/"

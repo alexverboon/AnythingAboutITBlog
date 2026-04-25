@@ -1,7 +1,7 @@
 ---
 title: "Tip: Quickest way to find out the installed Java version"
 layout: "post"
-date: 07/01/2011 16:44:16
+date: 2011-07-01T16:44:16Z
 slug: "tip-quickest-way-to-find-out-the-installed-java-version"
 aliases:
   - "/2011/07/tip-quickest-way-to-find-out-the-installed-java-version/"

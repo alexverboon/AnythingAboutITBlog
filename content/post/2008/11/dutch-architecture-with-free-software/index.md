@@ -1,7 +1,7 @@
 ---
 title: "Dutch architecture with free software"
 layout: "post"
-date: 11/03/2008 22:09:44
+date: 2008-11-03T22:09:44Z
 slug: "dutch-architecture-with-free-software"
 aliases:
   - "/2008/11/dutch-architecture-with-free-software/"

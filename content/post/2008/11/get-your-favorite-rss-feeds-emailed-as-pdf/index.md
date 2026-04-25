@@ -1,7 +1,7 @@
 ---
 title: "Get your favorite RSS feeds emailed as PDF"
 layout: "post"
-date: 11/12/2008 21:10:07
+date: 2008-11-12T21:10:07Z
 slug: "get-your-favorite-rss-feeds-emailed-as-pdf"
 aliases:
   - "/2008/11/get-your-favorite-rss-feeds-emailed-as-pdf/"

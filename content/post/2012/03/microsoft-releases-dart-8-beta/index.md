@@ -1,7 +1,7 @@
 ---
 title: "Microsoft releases DaRT 8 Beta"
 layout: "post"
-date: 03/29/2012 06:20:32
+date: 2012-03-29T06:20:32Z
 slug: "microsoft-releases-dart-8-beta"
 aliases:
   - "/2012/03/microsoft-releases-dart-8-beta/"

@@ -1,7 +1,7 @@
 ---
 title: "Fun: Internet Helpdesk Comedy"
 layout: "post"
-date: 07/29/2009 18:29:33
+date: 2009-07-29T18:29:33Z
 slug: "fun-internet-helpdesk-comedy"
 aliases:
   - "/2009/07/fun-internet-helpdesk-comedy/"

@@ -1,7 +1,7 @@
 ---
 title: "Control Windows 7 Scheduled Maintenance Behavior Through Group Policy"
 layout: "post"
-date: 11/07/2010 15:35:23
+date: 2010-11-07T15:35:23Z
 slug: "control-windows-7-scheduled-maintenance-behavior-through-group-policy"
 aliases:
   - "/2010/11/control-windows-7-scheduled-maintenance-behavior-through-group-policy/"

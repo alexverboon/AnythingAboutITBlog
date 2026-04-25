@@ -1,7 +1,7 @@
 ---
 title: "What&rsquo;s new in Windows Server 2008 R2 Active Directory"
 layout: "post"
-date: 04/30/2009 23:08:55
+date: 2009-04-30T23:08:55Z
 slug: "whats-new-in-windows-server-2008-r2-active-directory"
 aliases:
   - "/2009/04/whats-new-in-windows-server-2008-r2-active-directory/"

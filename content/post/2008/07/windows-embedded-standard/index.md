@@ -1,7 +1,7 @@
 ---
 title: "Windows Embedded Standard"
 layout: "post"
-date: 07/28/2008 21:21:04
+date: 2008-07-28T21:21:04Z
 slug: "windows-embedded-standard"
 aliases:
   - "/2008/07/windows-embedded-standard/"

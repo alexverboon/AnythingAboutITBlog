@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: AppTitude: Recorded Demo"
 layout: "post"
-date: 08/16/2010 14:11:07
+date: 2010-08-16T14:11:07Z
 slug: "apptitude-recorded-demo"
 aliases:
   - "/2010/08/apptitude-recorded-demo/"

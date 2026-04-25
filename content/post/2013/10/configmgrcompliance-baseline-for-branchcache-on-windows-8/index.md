@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr&ndash;Compliance Baseline for BranchCache on Windows 8"
 layout: "post"
-date: 10/08/2013 14:14:03
+date: 2013-10-08T14:14:03Z
 slug: "configmgrcompliance-baseline-for-branchcache-on-windows-8"
 aliases:
   - "/2013/10/configmgrcompliance-baseline-for-branchcache-on-windows-8/"

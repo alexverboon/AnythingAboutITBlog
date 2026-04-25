@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr 2012 Script to retrieve source path locations"
 layout: "post"
-date: 07/28/2013 14:16:44
+date: 2013-07-28T14:16:44Z
 slug: "configmgr-2012-script-to-retrieve-source-path-locations"
 aliases:
   - "/2013/07/configmgr-2012-script-to-retrieve-source-path-locations/"

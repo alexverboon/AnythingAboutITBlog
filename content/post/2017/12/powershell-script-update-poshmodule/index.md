@@ -1,7 +1,7 @@
 ---
 title: "PowerShell script Update-PoshModule"
 layout: "post"
-date: 12/17/2017 20:14:52
+date: 2017-12-17T20:14:52Z
 slug: "powershell-script-update-poshmodule"
 aliases:
   - "/2017/12/powershell-script-update-poshmodule/"

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft My Phone Beta"
 layout: "post"
-date: 07/11/2009 10:13:55
+date: 2009-07-11T10:13:55Z
 slug: "microsoft-my-phone-beta"
 aliases:
   - "/2009/07/microsoft-my-phone-beta/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Network Delay Simulator"
 layout: "post"
-date: 06/30/2010 18:03:00
+date: 2010-06-30T18:03:00Z
 slug: "tooltip-network-delay-simulator"
 aliases:
   - "/2010/06/tooltip-network-delay-simulator/"

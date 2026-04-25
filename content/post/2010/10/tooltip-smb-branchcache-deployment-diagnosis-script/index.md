@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: SMB BranchCache deployment Diagnosis script"
 layout: "post"
-date: 10/26/2010 17:59:16
+date: 2010-10-26T17:59:16Z
 slug: "tooltip-smb-branchcache-deployment-diagnosis-script"
 aliases:
   - "/2010/10/tooltip-smb-branchcache-deployment-diagnosis-script/"

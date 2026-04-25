@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Product Lifecycle &ndash; The year 2014 is not that far away anymore"
 layout: "post"
-date: 09/21/2011 17:19:07
+date: 2011-09-21T17:19:07Z
 slug: "microsoft-product-lifecycle-the-year-2014-is-not-that-far-away-anymore"
 aliases:
   - "/2011/09/microsoft-product-lifecycle-the-year-2014-is-not-that-far-away-anymore/"

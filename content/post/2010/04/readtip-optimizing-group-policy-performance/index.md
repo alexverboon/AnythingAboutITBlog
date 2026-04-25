@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Optimizing Group Policy Performance"
 layout: "post"
-date: 04/04/2010 16:48:57
+date: 2010-04-04T16:48:57Z
 slug: "readtip-optimizing-group-policy-performance"
 aliases:
   - "/2010/04/readtip-optimizing-group-policy-performance/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 SKUs"
 layout: "post"
-date: 02/05/2009 22:14:30
+date: 2009-02-05T22:14:30Z
 slug: "windows-7-skus"
 aliases:
   - "/2009/02/windows-7-skus/"

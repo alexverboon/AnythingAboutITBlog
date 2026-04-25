@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Microsoft Product Support Reports and Microsoft Product Support Reports Viewer"
 layout: "post"
-date: 05/18/2010 23:16:18
+date: 2010-05-18T23:16:18Z
 slug: "tooltip-microsoft-product-support-reports-and-microsoft-product-support-reports-viewer"
 aliases:
   - "/2010/05/tooltip-microsoft-product-support-reports-and-microsoft-product-support-reports-viewer/"

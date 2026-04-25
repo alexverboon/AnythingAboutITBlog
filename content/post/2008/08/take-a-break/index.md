@@ -1,7 +1,7 @@
 ---
 title: "Take a break"
 layout: "post"
-date: 08/26/2008 19:37:52
+date: 2008-08-26T19:37:52Z
 slug: "take-a-break"
 aliases:
   - "/2008/08/take-a-break/"

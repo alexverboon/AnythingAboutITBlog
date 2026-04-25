@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Management expanding into MDM"
 layout: "post"
-date: 11/01/2014 11:36:11
+date: 2014-11-01T11:36:11Z
 slug: "group-policy-management-expanding-into-mdm"
 aliases:
   - "/2014/11/group-policy-management-expanding-into-mdm/"

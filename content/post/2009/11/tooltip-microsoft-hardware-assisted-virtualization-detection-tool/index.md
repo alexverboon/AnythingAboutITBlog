@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Microsoft&reg; Hardware-Assisted Virtualization Detection Tool"
 layout: "post"
-date: 11/01/2009 12:06:44
+date: 2009-11-01T12:06:44Z
 slug: "tooltip-microsoft-hardware-assisted-virtualization-detection-tool"
 aliases:
   - "/2009/11/tooltip-microsoft-hardware-assisted-virtualization-detection-tool/"

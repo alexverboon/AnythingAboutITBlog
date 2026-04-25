@@ -1,7 +1,7 @@
 ---
 title: "VI command reference"
 layout: "post"
-date: 11/02/2008 10:11:59
+date: 2008-11-02T10:11:59Z
 slug: "vi-command-reference"
 aliases:
   - "/2008/11/vi-command-reference/"

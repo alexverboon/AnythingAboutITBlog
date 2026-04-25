@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr - PowerShell Script to collect remote log files"
 layout: "post"
-date: 10/13/2013 14:35:41
+date: 2013-10-13T14:35:41Z
 slug: "configmgr-powershell-script-to-collect-remote-log-files"
 aliases:
   - "/2013/10/configmgr-powershell-script-to-collect-remote-log-files/"

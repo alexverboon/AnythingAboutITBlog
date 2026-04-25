@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Retrieve System Startup Time Information"
 layout: "post"
-date: 01/06/2014 20:02:18
+date: 2014-01-06T20:02:18Z
 slug: "powershell-retrieve-system-startup-time-information"
 aliases:
   - "/2014/01/powershell-retrieve-system-startup-time-information/"

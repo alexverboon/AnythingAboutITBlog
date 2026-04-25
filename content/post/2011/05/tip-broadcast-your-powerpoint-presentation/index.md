@@ -1,7 +1,7 @@
 ---
 title: "Tip: Broadcast your PowerPoint Presentation"
 layout: "post"
-date: 05/04/2011 18:59:09
+date: 2011-05-04T18:59:09Z
 slug: "tip-broadcast-your-powerpoint-presentation"
 aliases:
   - "/2011/05/tip-broadcast-your-powerpoint-presentation/"

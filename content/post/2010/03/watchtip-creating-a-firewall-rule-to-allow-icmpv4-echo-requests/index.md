@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: Creating a Firewall Rule to Allow ICMPv4 Echo Requests"
 layout: "post"
-date: 03/19/2010 19:01:28
+date: 2010-03-19T19:01:28Z
 slug: "watchtip-creating-a-firewall-rule-to-allow-icmpv4-echo-requests"
 aliases:
   - "/2010/03/watchtip-creating-a-firewall-rule-to-allow-icmpv4-echo-requests/"

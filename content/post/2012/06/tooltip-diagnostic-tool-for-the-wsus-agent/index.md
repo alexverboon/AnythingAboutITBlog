@@ -1,7 +1,7 @@
 ---
 title: "ToolTip Diagnostic Tool for the WSUS Agent"
 layout: "post"
-date: 06/18/2012 17:56:05
+date: 2012-06-18T17:56:05Z
 slug: "tooltip-diagnostic-tool-for-the-wsus-agent"
 aliases:
   - "/2012/06/tooltip-diagnostic-tool-for-the-wsus-agent/"

@@ -1,7 +1,7 @@
 ---
 title: "XenApp Demos from the Cloud"
 layout: "post"
-date: 05/25/2010 11:41:54
+date: 2010-05-25T11:41:54Z
 slug: "xenapp-demos-from-the-cloud"
 aliases:
   - "/2010/05/xenapp-demos-from-the-cloud/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Collection Commander"
 layout: "post"
-date: 10/24/2014 14:34:05
+date: 2014-10-24T14:34:05Z
 slug: "tooltip-collection-commander"
 aliases:
   - "/2014/10/tooltip-collection-commander/"

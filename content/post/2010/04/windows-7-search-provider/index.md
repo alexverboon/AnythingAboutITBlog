@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Search Provider"
 layout: "post"
-date: 04/19/2010 17:57:53
+date: 2010-04-19T17:57:53Z
 slug: "windows-7-search-provider"
 aliases:
   - "/2010/04/windows-7-search-provider/"

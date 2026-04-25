@@ -1,7 +1,7 @@
 ---
 title: "Clean up unused Azure Resources with PowerShell"
 layout: "post"
-date: 10/02/2016 00:25:26
+date: 2016-10-02T00:25:26Z
 slug: "clean-up-unused-azure-resources-with-powershell"
 aliases:
   - "/2016/10/clean-up-unused-azure-resources-with-powershell/"

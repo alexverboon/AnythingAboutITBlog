@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-IscMSSecBulletinInfo"
 layout: "post"
-date: 04/06/2016 22:03:52
+date: 2016-04-06T22:03:52Z
 slug: "powershell-script-get-iscmssecbulletininfo"
 aliases:
   - "/2016/04/powershell-script-get-iscmssecbulletininfo/"

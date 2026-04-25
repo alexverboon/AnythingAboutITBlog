@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Management Summit 2008 DVDs"
 layout: "post"
-date: 08/04/2008 18:59:35
+date: 2008-08-04T18:59:35Z
 slug: "microsoft-management-summit-2008-dvds"
 aliases:
   - "/2008/08/microsoft-management-summit-2008-dvds/"

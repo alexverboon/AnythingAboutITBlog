@@ -1,7 +1,7 @@
 ---
 title: "Tip: How to troubleshoot KMS Activation problems"
 layout: "post"
-date: 09/05/2010 14:16:43
+date: 2010-09-05T14:16:43Z
 slug: "tip-how-to-troubleshoot-kms-activation-problems"
 aliases:
   - "/2010/09/tip-how-to-troubleshoot-kms-activation-problems/"

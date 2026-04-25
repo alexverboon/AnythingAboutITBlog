@@ -1,7 +1,7 @@
 ---
 title: "Citrix XenClient a bare metal client hypervisor"
 layout: "post"
-date: 02/07/2010 21:26:42
+date: 2010-02-07T21:26:42Z
 slug: "citrix-xenclient-a-bare-metal-client-hypervisor"
 aliases:
   - "/2010/02/citrix-xenclient-a-bare-metal-client-hypervisor/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Win7 Library Tool"
 layout: "post"
-date: 05/16/2010 13:51:02
+date: 2010-05-16T13:51:02Z
 slug: "tooltip-win7-library-tool"
 aliases:
   - "/2010/05/tooltip-win7-library-tool/"

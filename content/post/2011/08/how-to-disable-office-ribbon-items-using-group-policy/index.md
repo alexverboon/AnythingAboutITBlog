@@ -1,7 +1,7 @@
 ---
 title: "How to disable Office Ribbon Items using Group Policy"
 layout: "post"
-date: 08/04/2011 20:20:56
+date: 2011-08-04T20:20:56Z
 slug: "how-to-disable-office-ribbon-items-using-group-policy"
 aliases:
   - "/2011/08/how-to-disable-office-ribbon-items-using-group-policy/"

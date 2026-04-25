@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Overlay Message Box"
 layout: "post"
-date: 02/28/2012 20:42:43
+date: 2012-02-28T20:42:43Z
 slug: "tooltip-overlay-message-box"
 aliases:
   - "/2012/02/tooltip-overlay-message-box/"

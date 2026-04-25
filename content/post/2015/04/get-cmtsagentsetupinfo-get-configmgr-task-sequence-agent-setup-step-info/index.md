@@ -1,7 +1,7 @@
 ---
 title: "Get-CMTSAgentSetupInfo (Get ConfigMgr Task Sequence Agent Setup Step Info)"
 layout: "post"
-date: 04/04/2015 11:49:35
+date: 2015-04-04T11:49:35Z
 slug: "get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info"
 aliases:
   - "/2015/04/get-cmtsagentsetupinfo-get-configmgr-task-sequence-agent-setup-step-info/"

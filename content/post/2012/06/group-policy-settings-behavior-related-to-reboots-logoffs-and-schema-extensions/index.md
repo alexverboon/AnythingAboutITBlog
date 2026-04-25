@@ -1,7 +1,7 @@
 ---
 title: "Group Policy setting's behavior related to reboots, logoffs and schema extensions"
 layout: "post"
-date: 06/01/2012 20:33:40
+date: 2012-06-01T20:33:40Z
 slug: "group-policy-settings-behavior-related-to-reboots-logoffs-and-schema-extensions"
 aliases:
   - "/2012/06/group-policy-settings-behavior-related-to-reboots-logoffs-and-schema-extensions/"

@@ -1,7 +1,7 @@
 ---
 title: "What you should know about the Win32_Product Class"
 layout: "post"
-date: 06/02/2010 20:55:15
+date: 2010-06-02T20:55:15Z
 slug: "what-you-should-know-about-the-win32_product-class"
 aliases:
   - "/2010/06/what-you-should-know-about-the-win32_product-class/"

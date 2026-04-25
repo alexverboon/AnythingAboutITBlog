@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Planning guide for Microsoft Office 2010"
 layout: "post"
-date: 01/12/2011 19:33:56
+date: 2011-01-12T19:33:56Z
 slug: "readtip-planning-guide-for-microsoft-office-2010"
 aliases:
   - "/2011/01/readtip-planning-guide-for-microsoft-office-2010/"

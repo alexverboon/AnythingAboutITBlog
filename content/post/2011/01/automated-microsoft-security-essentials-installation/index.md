@@ -1,7 +1,7 @@
 ---
 title: "Automated Microsoft Security Essentials Installation"
 layout: "post"
-date: 01/06/2011 22:30:08
+date: 2011-01-06T22:30:08Z
 slug: "automated-microsoft-security-essentials-installation"
 aliases:
   - "/2011/01/automated-microsoft-security-essentials-installation/"

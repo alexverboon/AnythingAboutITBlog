@@ -1,7 +1,7 @@
 ---
 title: "DirectAccess in Windows 7 and Windows Server 2008 R2"
 layout: "post"
-date: 02/21/2009 05:25:26
+date: 2009-02-21T05:25:26Z
 slug: "directaccess-in-windows-7-and-windows-server-2008-r2"
 aliases:
   - "/2009/02/directaccess-in-windows-7-and-windows-server-2008-r2/"

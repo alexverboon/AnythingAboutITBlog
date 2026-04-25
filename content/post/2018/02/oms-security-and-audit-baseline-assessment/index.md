@@ -1,7 +1,7 @@
 ---
 title: "OMS Security and Audit Baseline Assessment"
 layout: "post"
-date: 02/19/2018 20:53:31
+date: 2018-02-19T20:53:31Z
 slug: "oms-security-and-audit-baseline-assessment"
 aliases:
   - "/2018/02/oms-security-and-audit-baseline-assessment/"

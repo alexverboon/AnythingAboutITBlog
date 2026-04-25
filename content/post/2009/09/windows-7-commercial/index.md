@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Commercial"
 layout: "post"
-date: 09/11/2009 23:15:22
+date: 2009-09-11T23:15:22Z
 slug: "windows-7-commercial"
 aliases:
   - "/2009/09/windows-7-commercial/"

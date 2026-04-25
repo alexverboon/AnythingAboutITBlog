@@ -1,7 +1,7 @@
 ---
 title: "XP Mode vs. Med-V"
 layout: "post"
-date: 08/18/2009 20:39:54
+date: 2009-08-18T20:39:54Z
 slug: "xp-mode-vs-med-v"
 aliases:
   - "/2009/08/xp-mode-vs-med-v/"

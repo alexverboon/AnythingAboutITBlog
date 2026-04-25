@@ -1,7 +1,7 @@
 ---
 title: "Group Policy changes included in the Windows Management Framework 3.0"
 layout: "post"
-date: 02/26/2013 06:48:22
+date: 2013-02-26T06:48:22Z
 slug: "group-policy-changes-included-in-the-windows-management-framework-3-0"
 aliases:
   - "/2013/02/group-policy-changes-included-in-the-windows-management-framework-3-0/"

@@ -1,7 +1,7 @@
 ---
 title: "Creating and Managing Azure Storage Tables with PowerShell"
 layout: "post"
-date: 07/01/2017 23:36:39
+date: 2017-07-01T23:36:39Z
 slug: "creating-and-managing-azure-storage-tables-with-powershell"
 aliases:
   - "/2017/07/creating-and-managing-azure-storage-tables-with-powershell/"

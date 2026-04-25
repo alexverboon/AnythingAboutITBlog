@@ -1,7 +1,7 @@
 ---
 title: "Windows XP reports pending activation"
 layout: "post"
-date: 08/15/2008 07:49:44
+date: 2008-08-15T07:49:44Z
 slug: "windows-xp-reports-pending-activation"
 aliases:
   - "/2008/08/windows-xp-reports-pending-activation/"

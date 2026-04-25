@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 and Multilanguage Packs"
 layout: "post"
-date: 04/26/2011 13:34:43
+date: 2011-04-26T13:34:43Z
 slug: "windows-7-and-multilanguage-packs"
 aliases:
   - "/2011/04/windows-7-and-multilanguage-packs/"

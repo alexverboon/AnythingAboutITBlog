@@ -1,7 +1,7 @@
 ---
 title: "What's running inside svchost.exe"
 layout: "post"
-date: 01/07/2009 20:46:26
+date: 2009-01-07T20:46:26Z
 slug: "whats-running-inside-svchostexe"
 aliases:
   - "/2009/01/whats-running-inside-svchostexe/"

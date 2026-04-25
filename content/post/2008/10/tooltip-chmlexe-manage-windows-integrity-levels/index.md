@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - chml.exe manage Windows Integrity Levels"
 layout: "post"
-date: 10/20/2008 19:02:34
+date: 2008-10-20T19:02:34Z
 slug: "tooltip-chmlexe-manage-windows-integrity-levels"
 aliases:
   - "/2008/10/tooltip-chmlexe-manage-windows-integrity-levels/"

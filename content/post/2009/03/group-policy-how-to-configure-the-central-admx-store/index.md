@@ -1,7 +1,7 @@
 ---
 title: "Group Policy - How to Configure the Central ADMX Store"
 layout: "post"
-date: 03/10/2009 22:32:01
+date: 2009-03-10T22:32:01Z
 slug: "group-policy-how-to-configure-the-central-admx-store"
 aliases:
   - "/2009/03/group-policy-how-to-configure-the-central-admx-store/"

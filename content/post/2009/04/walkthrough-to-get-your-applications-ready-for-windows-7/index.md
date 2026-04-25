@@ -1,7 +1,7 @@
 ---
 title: "Walkthrough to Get Your Applications Ready for Windows 7"
 layout: "post"
-date: 04/27/2009 17:40:42
+date: 2009-04-27T17:40:42Z
 slug: "walkthrough-to-get-your-applications-ready-for-windows-7"
 aliases:
   - "/2009/04/walkthrough-to-get-your-applications-ready-for-windows-7/"

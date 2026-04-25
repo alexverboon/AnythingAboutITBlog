@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Management Videos from GPanswers.com"
 layout: "post"
-date: 03/10/2009 21:43:35
+date: 2009-03-10T21:43:35Z
 slug: "group-policy-management-videos-from-gpanswerscom"
 aliases:
   - "/2009/03/group-policy-management-videos-from-gpanswerscom/"

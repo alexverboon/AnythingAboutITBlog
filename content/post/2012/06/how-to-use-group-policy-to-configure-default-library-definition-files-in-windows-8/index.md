@@ -1,7 +1,7 @@
 ---
 title: "How to use Group Policy to configure default Library definition files in Windows 8"
 layout: "post"
-date: 06/10/2012 14:52:23
+date: 2012-06-10T14:52:23Z
 slug: "how-to-use-group-policy-to-configure-default-library-definition-files-in-windows-8"
 aliases:
   - "/2012/06/how-to-use-group-policy-to-configure-default-library-definition-files-in-windows-8/"

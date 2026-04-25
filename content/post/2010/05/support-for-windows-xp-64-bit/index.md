@@ -1,7 +1,7 @@
 ---
 title: "Support for Windows XP 64 Bit"
 layout: "post"
-date: 05/17/2010 17:11:25
+date: 2010-05-17T17:11:25Z
 slug: "support-for-windows-xp-64-bit"
 aliases:
   - "/2010/05/support-for-windows-xp-64-bit/"

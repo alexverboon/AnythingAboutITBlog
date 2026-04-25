@@ -1,7 +1,7 @@
 ---
 title: "Using BITS for file downloads"
 layout: "post"
-date: 08/07/2008 21:12:01
+date: 2008-08-07T21:12:01Z
 slug: "using-bits-for-file-downloads"
 aliases:
   - "/2008/08/using-bits-for-file-downloads/"

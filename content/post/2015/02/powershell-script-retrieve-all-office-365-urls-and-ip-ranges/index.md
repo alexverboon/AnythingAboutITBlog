@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script: Retrieve all Office 365 URLs and IP Ranges"
 layout: "post"
-date: 02/05/2015 23:21:03
+date: 2015-02-05T23:21:03Z
 slug: "powershell-script-retrieve-all-office-365-urls-and-ip-ranges"
 aliases:
   - "/2015/02/powershell-script-retrieve-all-office-365-urls-and-ip-ranges/"

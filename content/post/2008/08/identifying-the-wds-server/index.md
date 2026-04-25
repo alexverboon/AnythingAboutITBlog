@@ -1,7 +1,7 @@
 ---
 title: "Identifying the WDS Server"
 layout: "post"
-date: 08/25/2008 20:14:47
+date: 2008-08-25T20:14:47Z
 slug: "identifying-the-wds-server"
 aliases:
   - "/2008/08/identifying-the-wds-server/"

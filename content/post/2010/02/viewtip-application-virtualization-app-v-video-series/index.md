@@ -1,7 +1,7 @@
 ---
 title: "ViewTip: Application Virtualization (App-V) Video Series"
 layout: "post"
-date: 02/22/2010 21:15:12
+date: 2010-02-22T21:15:12Z
 slug: "viewtip-application-virtualization-app-v-video-series"
 aliases:
   - "/2010/02/viewtip-application-virtualization-app-v-video-series/"

@@ -1,7 +1,7 @@
 ---
 title: "Preparing the Bitlocker Partition"
 layout: "post"
-date: 09/23/2010 19:10:19
+date: 2010-09-23T19:10:19Z
 slug: "preparing-the-bitlocker-partitio"
 aliases:
   - "/2010/09/preparing-the-bitlocker-partitio/"

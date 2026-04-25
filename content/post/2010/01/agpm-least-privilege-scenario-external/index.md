@@ -1,7 +1,7 @@
 ---
 title: "AGPM Least Privilege Scenario (External)"
 layout: "post"
-date: 01/25/2010 21:41:01
+date: 2010-01-25T21:41:01Z
 slug: "agpm-least-privilege-scenario-external"
 aliases:
   - "/2010/01/agpm-least-privilege-scenario-external/"

@@ -1,7 +1,7 @@
 ---
 title: "TechNet - Windows 7 Forums"
 layout: "post"
-date: 01/17/2009 17:20:56
+date: 2009-01-17T17:20:56Z
 slug: "technet-windows-7-forums"
 aliases:
   - "/2009/01/technet-windows-7-forums/"

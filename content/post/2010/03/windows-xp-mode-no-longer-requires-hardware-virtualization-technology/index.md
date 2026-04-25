@@ -1,7 +1,7 @@
 ---
 title: "Windows XP Mode no longer requires Hardware Virtualization Technology"
 layout: "post"
-date: 03/20/2010 15:43:14
+date: 2010-03-20T15:43:14Z
 slug: "windows-xp-mode-no-longer-requires-hardware-virtualization-technology"
 aliases:
   - "/2010/03/windows-xp-mode-no-longer-requires-hardware-virtualization-technology/"

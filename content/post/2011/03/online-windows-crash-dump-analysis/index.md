@@ -1,7 +1,7 @@
 ---
 title: "Online Windows Crash Dump Analysis"
 layout: "post"
-date: 03/27/2011 14:50:04
+date: 2011-03-27T14:50:04Z
 slug: "online-windows-crash-dump-analysis"
 aliases:
   - "/2011/03/online-windows-crash-dump-analysis/"

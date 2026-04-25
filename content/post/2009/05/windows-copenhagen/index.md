@@ -1,7 +1,7 @@
 ---
 title: "Windows &ldquo;Copenhagen&rdquo;"
 layout: "post"
-date: 05/29/2009 19:50:33
+date: 2009-05-29T19:50:33Z
 slug: "windows-copenhagen"
 aliases:
   - "/2009/05/windows-copenhagen/"

@@ -1,7 +1,7 @@
 ---
 title: "Scripting Registry permissions"
 layout: "post"
-date: 07/08/2008 11:30:28
+date: 2008-07-08T11:30:28Z
 slug: "scripting-registry-permissions"
 aliases:
   - "/2008/07/scripting-registry-permissions/"

@@ -1,7 +1,7 @@
 ---
 title: "Reducing the Windows Vista Footprint"
 layout: "post"
-date: 12/03/2008 17:47:56
+date: 2008-12-03T17:47:56Z
 slug: "reducing-the-windows-vista-footprint"
 aliases:
   - "/2008/12/reducing-the-windows-vista-footprint/"

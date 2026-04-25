@@ -1,7 +1,7 @@
 ---
 title: "The System Center Configuration Manager Cmdlet Library"
 layout: "post"
-date: 06/17/2015 18:21:01
+date: 2015-06-17T18:21:01Z
 slug: "the-system-center-configuration-manager-cmdlet-library"
 aliases:
   - "/2015/06/the-system-center-configuration-manager-cmdlet-library/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Service Triggers"
 layout: "post"
-date: 03/23/2010 20:46:22
+date: 2010-03-23T20:46:22Z
 slug: "windows-7-service-triggers"
 aliases:
   - "/2010/03/windows-7-service-triggers/"

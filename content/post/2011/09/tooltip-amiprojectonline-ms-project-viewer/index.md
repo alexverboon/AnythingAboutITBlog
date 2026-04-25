@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: AmiProject&ndash;online MS Project Viewer"
 layout: "post"
-date: 09/09/2011 16:51:25
+date: 2011-09-09T16:51:25Z
 slug: "tooltip-amiprojectonline-ms-project-viewer"
 aliases:
   - "/2011/09/tooltip-amiprojectonline-ms-project-viewer/"

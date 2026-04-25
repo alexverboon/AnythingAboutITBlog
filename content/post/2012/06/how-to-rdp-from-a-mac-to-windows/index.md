@@ -1,7 +1,7 @@
 ---
 title: "How to RDP from a Mac to Windows"
 layout: "post"
-date: 06/19/2012 19:34:09
+date: 2012-06-19T19:34:09Z
 slug: "how-to-rdp-from-a-mac-to-windows"
 aliases:
   - "/2012/06/how-to-rdp-from-a-mac-to-windows/"

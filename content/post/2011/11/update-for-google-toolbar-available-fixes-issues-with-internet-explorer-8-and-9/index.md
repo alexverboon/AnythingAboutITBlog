@@ -1,7 +1,7 @@
 ---
 title: "Update for Google Toolbar available (fixes issues with Internet Explorer 8 and 9"
 layout: "post"
-date: 11/19/2011 14:54:53
+date: 2011-11-19T14:54:53Z
 slug: "update-for-google-toolbar-available-fixes-issues-with-internet-explorer-8-and-9"
 aliases:
   - "/2011/11/update-for-google-toolbar-available-fixes-issues-with-internet-explorer-8-and-9/"

@@ -1,7 +1,7 @@
 ---
 title: "VMWare vSphere"
 layout: "post"
-date: 04/21/2009 21:53:22
+date: 2009-04-21T21:53:22Z
 slug: "vmware-vsphere"
 aliases:
   - "/2009/04/vmware-vsphere/"

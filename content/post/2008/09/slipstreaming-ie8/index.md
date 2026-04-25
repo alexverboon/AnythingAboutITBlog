@@ -1,7 +1,7 @@
 ---
 title: "Slipstreaming IE8"
 layout: "post"
-date: 09/15/2008 18:44:23
+date: 2008-09-15T18:44:23Z
 slug: "slipstreaming-ie8"
 aliases:
   - "/2008/09/slipstreaming-ie8/"

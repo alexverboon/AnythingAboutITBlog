@@ -1,7 +1,7 @@
 ---
 title: "Windows Services, what changed from Windows 7 to Windows 8"
 layout: "post"
-date: 04/19/2012 20:02:48
+date: 2012-04-19T20:02:48Z
 slug: "windows-services-what-changed-from-windows-7-to-windows-8"
 aliases:
   - "/2012/04/windows-services-what-changed-from-windows-7-to-windows-8/"

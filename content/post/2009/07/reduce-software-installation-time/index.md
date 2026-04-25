@@ -1,7 +1,7 @@
 ---
 title: "Reduce software installation time"
 layout: "post"
-date: 07/18/2009 20:39:40
+date: 2009-07-18T20:39:40Z
 slug: "reduce-software-installation-time"
 aliases:
   - "/2009/07/reduce-software-installation-time/"

@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Life After Windows XP: Windows Vista and Windows 7"
 layout: "post"
-date: 09/26/2011 17:54:01
+date: 2011-09-26T17:54:01Z
 slug: "readtip-life-after-windows-xp-windows-vista-and-windows-7"
 aliases:
   - "/2011/09/readtip-life-after-windows-xp-windows-vista-and-windows-7/"

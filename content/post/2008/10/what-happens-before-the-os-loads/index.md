@@ -1,7 +1,7 @@
 ---
 title: "What happens before the OS loads"
 layout: "post"
-date: 10/21/2008 19:12:02
+date: 2008-10-21T19:12:02Z
 slug: "what-happens-before-the-os-loads"
 aliases:
   - "/2008/10/what-happens-before-the-os-loads/"

@@ -1,7 +1,7 @@
 ---
 title: "TCP/IP Fundamentals for Windows"
 layout: "post"
-date: 10/01/2008 05:39:12
+date: 2008-10-01T05:39:12Z
 slug: "tcpip-fundamentals-for-windows"
 aliases:
   - "/2008/10/tcpip-fundamentals-for-windows/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Windows 8 Update Notifier"
 layout: "post"
-date: 12/31/2012 10:35:18
+date: 2012-12-31T10:35:18Z
 slug: "tooltip-windows-8-update-notifier"
 aliases:
   - "/2012/12/tooltip-windows-8-update-notifier/"

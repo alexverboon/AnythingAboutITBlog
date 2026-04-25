@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Knowledge Base - What's new ?"
 layout: "post"
-date: 11/27/2008 23:18:08
+date: 2008-11-27T23:18:08Z
 slug: "microsoft-knowledge-base-whats-new"
 aliases:
   - "/2008/11/microsoft-knowledge-base-whats-new/"

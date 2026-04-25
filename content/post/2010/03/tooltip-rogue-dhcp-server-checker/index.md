@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Rogue DHCP Server Checker"
 layout: "post"
-date: 03/09/2010 19:36:33
+date: 2010-03-09T19:36:33Z
 slug: "tooltip-rogue-dhcp-server-checker"
 aliases:
   - "/2010/03/tooltip-rogue-dhcp-server-checker/"

@@ -1,7 +1,7 @@
 ---
 title: "Restricting the use of Windows Virtual PC"
 layout: "post"
-date: 01/16/2011 18:38:34
+date: 2011-01-16T18:38:34Z
 slug: "restricting-the-use-of-windows-virtual-pc"
 aliases:
   - "/2011/01/restricting-the-use-of-windows-virtual-pc/"

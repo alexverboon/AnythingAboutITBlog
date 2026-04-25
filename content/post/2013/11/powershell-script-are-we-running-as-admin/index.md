@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Are we running as Admin?"
 layout: "post"
-date: 11/08/2013 20:19:16
+date: 2013-11-08T20:19:16Z
 slug: "powershell-script-are-we-running-as-admin"
 aliases:
   - "/2013/11/powershell-script-are-we-running-as-admin/"

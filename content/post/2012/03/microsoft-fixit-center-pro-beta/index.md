@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Fixit Center Pro (Beta)"
 layout: "post"
-date: 03/06/2012 00:00:20
+date: 2012-03-06T00:00:20Z
 slug: "microsoft-fixit-center-pro-beta"
 aliases:
   - "/2012/03/microsoft-fixit-center-pro-beta/"

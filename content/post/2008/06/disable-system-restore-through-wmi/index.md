@@ -1,7 +1,7 @@
 ---
 title: "Disable System Restore through WMI"
 layout: "post"
-date: 06/30/2008 14:16:05
+date: 2008-06-30T14:16:05Z
 slug: "disable-system-restore-through-wmi"
 aliases:
   - "/2008/06/disable-system-restore-through-wmi/"

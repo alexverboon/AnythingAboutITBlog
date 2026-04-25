@@ -1,7 +1,7 @@
 ---
 title: "Management"
 layout: "post"
-date: 10/27/2008 10:12:02
+date: 2008-10-27T10:12:02Z
 slug: "management"
 aliases:
   - "/2008/10/management/"

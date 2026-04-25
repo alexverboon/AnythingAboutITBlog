@@ -1,7 +1,7 @@
 ---
 title: "Running Google LiveAndroid in VMWare Workstation"
 layout: "post"
-date: 07/16/2009 21:17:25
+date: 2009-07-16T21:17:25Z
 slug: "running-google-liveandroid-in-vmware-workstation"
 aliases:
   - "/2009/07/running-google-liveandroid-in-vmware-workstation/"

@@ -1,7 +1,7 @@
 ---
 title: "Get the latest version of the GPOTool.exe"
 layout: "post"
-date: 07/23/2011 20:49:13
+date: 2011-07-23T20:49:13Z
 slug: "get-the-latest-version-of-the-gpotool-exe"
 aliases:
   - "/2011/07/get-the-latest-version-of-the-gpotool-exe/"

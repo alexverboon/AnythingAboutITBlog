@@ -1,7 +1,7 @@
 ---
 title: "Windows Explorer context menu for managing WIM files"
 layout: "post"
-date: 03/18/2012 15:16:32
+date: 2012-03-18T15:16:32Z
 slug: "windows-explorer-context-menu-for-managing-wim-files"
 aliases:
   - "/2012/03/windows-explorer-context-menu-for-managing-wim-files/"

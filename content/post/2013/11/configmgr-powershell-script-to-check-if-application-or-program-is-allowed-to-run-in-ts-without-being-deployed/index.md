@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr PowerShell Script to check if Application or Program is allowed to run in TS without being deployed"
 layout: "post"
-date: 11/07/2013 23:54:46
+date: 2013-11-07T23:54:46Z
 slug: "configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed"
 aliases:
   - "/2013/11/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed/"

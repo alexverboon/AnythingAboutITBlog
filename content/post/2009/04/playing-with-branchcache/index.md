@@ -1,7 +1,7 @@
 ---
 title: "Playing with BranchCache"
 layout: "post"
-date: 04/20/2009 00:23:13
+date: 2009-04-20T00:23:13Z
 slug: "playing-with-branchcache"
 aliases:
   - "/2009/04/playing-with-branchcache/"

@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings for Microsoft Edge Browser in Windows 10 Build 10.0.10240"
 layout: "post"
-date: 07/17/2015 09:00:34
+date: 2015-07-17T09:00:34Z
 slug: "group-policy-settings-for-microsoft-edge-browser-in-windows-10-build-10-0-10240"
 aliases:
   - "/2015/07/group-policy-settings-for-microsoft-edge-browser-in-windows-10-build-10-0-10240/"

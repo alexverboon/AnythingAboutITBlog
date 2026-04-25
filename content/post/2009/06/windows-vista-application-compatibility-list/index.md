@@ -1,7 +1,7 @@
 ---
 title: "Windows Vista Application Compatibility List"
 layout: "post"
-date: 06/01/2009 18:35:56
+date: 2009-06-01T18:35:56Z
 slug: "windows-vista-application-compatibility-list"
 aliases:
   - "/2009/06/windows-vista-application-compatibility-list/"

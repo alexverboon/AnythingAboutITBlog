@@ -1,7 +1,7 @@
 ---
 title: "VMware Icons and Diagrams"
 layout: "post"
-date: 02/17/2009 23:12:31
+date: 2009-02-17T23:12:31Z
 slug: "vmware-icons-and-diagrams"
 aliases:
   - "/2009/02/vmware-icons-and-diagrams/"

@@ -1,7 +1,7 @@
 ---
 title: "Adding Microsoft Diagnostics and Recovery Toolset (DART) to your Windows 7 boot menu"
 layout: "post"
-date: 11/16/2010 21:47:26
+date: 2010-11-16T21:47:26Z
 slug: "adding-microsoft-diagnostics-and-recovery-toolset-dart-to-your-windows-7-boot-menu"
 aliases:
   - "/2010/11/adding-microsoft-diagnostics-and-recovery-toolset-dart-to-your-windows-7-boot-menu/"

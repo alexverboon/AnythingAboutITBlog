@@ -1,7 +1,7 @@
 ---
 title: "Windows To Go Startup Options"
 layout: "post"
-date: 10/28/2012 16:26:35
+date: 2012-10-28T16:26:35Z
 slug: "windows-to-go-startup-options"
 aliases:
   - "/2012/10/windows-to-go-startup-options/"

@@ -1,7 +1,7 @@
 ---
 title: "How to add your preferred Topics to your TechNet Forums profile"
 layout: "post"
-date: 09/23/2013 22:27:15
+date: 2013-09-23T22:27:15Z
 slug: "how-to-add-your-preferred-topics-to-your-technet-forums-profile"
 aliases:
   - "/2013/09/how-to-add-your-preferred-topics-to-your-technet-forums-profile/"

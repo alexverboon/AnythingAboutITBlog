@@ -1,7 +1,7 @@
 ---
 title: "What you should know about Windows 7 and using the WAIK"
 layout: "post"
-date: 09/01/2009 19:45:13
+date: 2009-09-01T19:45:13Z
 slug: "what-you-should-know-about-windows-7-and-using-the-waik"
 aliases:
   - "/2009/09/what-you-should-know-about-windows-7-and-using-the-waik/"

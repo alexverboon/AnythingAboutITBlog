@@ -1,7 +1,7 @@
 ---
 title: "GPO Settings for Microsoft Security Essentials"
 layout: "post"
-date: 03/15/2011 18:52:34
+date: 2011-03-15T18:52:34Z
 slug: "gpo-settings-for-microsoft-security-essentials"
 aliases:
   - "/2011/03/gpo-settings-for-microsoft-security-essentials/"

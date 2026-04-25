@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: What's New in Folder Redirection and User Profiles"
 layout: "post"
-date: 03/29/2010 19:31:46
+date: 2010-03-29T19:31:46Z
 slug: "readtip-whats-new-in-folder-redirection-and-user-profiles"
 aliases:
   - "/2010/03/readtip-whats-new-in-folder-redirection-and-user-profiles/"

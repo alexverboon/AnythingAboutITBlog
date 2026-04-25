@@ -1,7 +1,7 @@
 ---
 title: "VMWare Workstation 7 &ndash; New Pause Feature"
 layout: "post"
-date: 11/05/2009 22:20:44
+date: 2009-11-05T22:20:44Z
 slug: "vmware-workstation-7-new-pause-feature"
 aliases:
   - "/2009/11/vmware-workstation-7-new-pause-feature/"

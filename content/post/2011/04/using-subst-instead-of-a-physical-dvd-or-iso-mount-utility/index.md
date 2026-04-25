@@ -1,7 +1,7 @@
 ---
 title: "Using SUBST instead of a physical DVD or ISO mount utility"
 layout: "post"
-date: 04/08/2011 23:21:01
+date: 2011-04-08T23:21:01Z
 slug: "using-subst-instead-of-a-physical-dvd-or-iso-mount-utility"
 aliases:
   - "/2011/04/using-subst-instead-of-a-physical-dvd-or-iso-mount-utility/"

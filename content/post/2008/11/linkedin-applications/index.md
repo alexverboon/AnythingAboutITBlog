@@ -1,7 +1,7 @@
 ---
 title: "Linkedin Applications"
 layout: "post"
-date: 11/05/2008 00:45:06
+date: 2008-11-05T00:45:06Z
 slug: "linkedin-applications"
 aliases:
   - "/2008/11/linkedin-applications/"

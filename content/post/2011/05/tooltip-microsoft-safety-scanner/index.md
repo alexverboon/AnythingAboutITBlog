@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Microsoft Safety Scanner"
 layout: "post"
-date: 05/08/2011 18:05:58
+date: 2011-05-08T18:05:58Z
 slug: "tooltip-microsoft-safety-scanner"
 aliases:
   - "/2011/05/tooltip-microsoft-safety-scanner/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 HD and SSD Performance Analyzed"
 layout: "post"
-date: 05/29/2009 19:24:04
+date: 2009-05-29T19:24:04Z
 slug: "windows-7-hd-and-ssd-performance-analyzed"
 aliases:
   - "/2009/05/windows-7-hd-and-ssd-performance-analyzed/"

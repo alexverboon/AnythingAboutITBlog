@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: AppTimer"
 layout: "post"
-date: 10/30/2009 19:30:20
+date: 2009-10-30T19:30:20Z
 slug: "tooltip-apptimer"
 aliases:
   - "/2009/10/tooltip-apptimer/"

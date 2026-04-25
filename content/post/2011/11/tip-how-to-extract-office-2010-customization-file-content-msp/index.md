@@ -1,7 +1,7 @@
 ---
 title: "Tip: How to extract Office 2010 Customization file content (MSP)"
 layout: "post"
-date: 11/01/2011 22:33:56
+date: 2011-11-01T22:33:56Z
 slug: "tip-how-to-extract-office-2010-customization-file-content-msp"
 aliases:
   - "/2011/11/tip-how-to-extract-office-2010-customization-file-content-msp/"

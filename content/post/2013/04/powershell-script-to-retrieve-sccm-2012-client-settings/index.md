@@ -1,7 +1,7 @@
 ---
 title: "PowerShell: Script to Retrieve SCCM 2012 Client Settings"
 layout: "post"
-date: 04/30/2013 22:16:54
+date: 2013-04-30T22:16:54Z
 slug: "powershell-script-to-retrieve-sccm-2012-client-settings"
 aliases:
   - "/2013/04/powershell-script-to-retrieve-sccm-2012-client-settings/"

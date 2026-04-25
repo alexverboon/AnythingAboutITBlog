@@ -1,7 +1,7 @@
 ---
 title: "How to generate random computer names for lab deployments using SCCM OSD"
 layout: "post"
-date: 02/21/2013 11:22:32
+date: 2013-02-21T11:22:32Z
 slug: "how-to-generate-random-computer-names-for-lab-deployments-using-sccm-osd"
 aliases:
   - "/2013/02/how-to-generate-random-computer-names-for-lab-deployments-using-sccm-osd/"

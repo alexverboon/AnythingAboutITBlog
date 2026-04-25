@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Best Practice: Active Directory Structure Guidelines"
 layout: "post"
-date: 07/28/2010 20:04:54
+date: 2010-07-28T20:04:54Z
 slug: "readtip-best-practice-active-directory-structure-guidelines"
 aliases:
   - "/2010/07/readtip-best-practice-active-directory-structure-guidelines/"

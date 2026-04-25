@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Bits GUI Admin"
 layout: "post"
-date: 01/06/2010 19:23:13
+date: 2010-01-06T19:23:13Z
 slug: "tooltip-bits-gui-admin"
 aliases:
   - "/2010/01/tooltip-bits-gui-admin/"

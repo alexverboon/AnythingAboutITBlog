@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Known Folders Browser"
 layout: "post"
-date: 04/20/2012 09:39:34
+date: 2012-04-20T09:39:34Z
 slug: "tooltip-known-folders-browser"
 aliases:
   - "/2012/04/tooltip-known-folders-browser/"

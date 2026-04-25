@@ -1,7 +1,7 @@
 ---
 title: "All you need to know about Group Policy versioning"
 layout: "post"
-date: 08/04/2011 07:52:21
+date: 2011-08-04T07:52:21Z
 slug: "all-you-need-to-know-about-group-policy-versioning"
 aliases:
   - "/2011/08/all-you-need-to-know-about-group-policy-versioning/"

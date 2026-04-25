@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Get Stock Quote Information"
 layout: "post"
-date: 12/15/2013 13:29:17
+date: 2013-12-15T13:29:17Z
 slug: "powershell-get-stock-quote-information"
 aliases:
   - "/2013/12/powershell-get-stock-quote-information/"

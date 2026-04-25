@@ -1,7 +1,7 @@
 ---
 title: "Bring Your Own Computer &ndash; Part 1"
 layout: "post"
-date: 07/29/2010 20:04:02
+date: 2010-07-29T20:04:02Z
 slug: "bring-your-own-computer-part-1"
 aliases:
   - "/2010/07/bring-your-own-computer-part-1/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script to retrieve content from Internet Explorer ActiveX blocking log"
 layout: "post"
-date: 08/13/2014 23:12:50
+date: 2014-08-13T23:12:50Z
 slug: "powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log"
 aliases:
   - "/2014/08/powershell-script-to-retrieve-content-from-internet-explorer-activex-blocking-log/"

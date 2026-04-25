@@ -1,7 +1,7 @@
 ---
 title: "Dust can bring your PC down"
 layout: "post"
-date: 02/22/2009 18:45:09
+date: 2009-02-22T18:45:09Z
 slug: "dust-can-bring-your-pc-down"
 aliases:
   - "/2009/02/dust-can-bring-your-pc-down/"

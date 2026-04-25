@@ -1,7 +1,7 @@
 ---
 title: "List Task Sequence Variables and Values Script"
 layout: "post"
-date: 12/21/2012 13:31:36
+date: 2012-12-21T13:31:36Z
 slug: "list-task-sequence-variables-and-values-script"
 aliases:
   - "/2012/12/list-task-sequence-variables-and-values-script/"

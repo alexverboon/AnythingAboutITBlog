@@ -1,7 +1,7 @@
 ---
 title: "Adobe Flash and Shockwave Enterprise Distribution"
 layout: "post"
-date: 11/08/2009 15:43:52
+date: 2009-11-08T15:43:52Z
 slug: "adobe-flash-and-shockwave-enterprise-distribution"
 aliases:
   - "/2009/11/adobe-flash-and-shockwave-enterprise-distribution/"

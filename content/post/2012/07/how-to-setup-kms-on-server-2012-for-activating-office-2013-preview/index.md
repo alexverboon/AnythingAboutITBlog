@@ -1,7 +1,7 @@
 ---
 title: "How to setup KMS on Server 2012 for activating Office 2013 Preview"
 layout: "post"
-date: 07/24/2012 21:17:59
+date: 2012-07-24T21:17:59Z
 slug: "how-to-setup-kms-on-server-2012-for-activating-office-2013-preview"
 aliases:
   - "/2012/07/how-to-setup-kms-on-server-2012-for-activating-office-2013-preview/"

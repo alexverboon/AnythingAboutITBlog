@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Group Policy for Beginners"
 layout: "post"
-date: 04/29/2011 06:41:23
+date: 2011-04-29T06:41:23Z
 slug: "readtip-group-policy-for-beginners"
 aliases:
   - "/2011/04/readtip-group-policy-for-beginners/"

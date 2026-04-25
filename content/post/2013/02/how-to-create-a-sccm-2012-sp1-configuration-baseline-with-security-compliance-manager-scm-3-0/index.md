@@ -1,7 +1,7 @@
 ---
 title: "How to create a SCCM 2012 SP1 Configuration Baseline with Security Compliance Manager (SCM) 3.0"
 layout: "post"
-date: 02/04/2013 12:56:59
+date: 2013-02-04T12:56:59Z
 slug: "how-to-create-a-sccm-2012-sp1-configuration-baseline-with-security-compliance-manager-scm-3-0"
 aliases:
   - "/2013/02/how-to-create-a-sccm-2012-sp1-configuration-baseline-with-security-compliance-manager-scm-3-0/"

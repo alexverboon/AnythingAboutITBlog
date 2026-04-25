@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; Script for customizing WinPE 4.0 &ndash; Part 2 - Customizing the Wallpaper"
 layout: "post"
-date: 05/28/2012 22:09:35
+date: 2012-05-28T22:09:35Z
 slug: "windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper"
 aliases:
   - "/2012/05/windows-8-script-for-customizing-winpe-4-0-part-2-customizing-the-wallpaper/"

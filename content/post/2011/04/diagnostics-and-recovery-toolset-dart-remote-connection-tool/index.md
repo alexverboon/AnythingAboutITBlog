@@ -1,7 +1,7 @@
 ---
 title: "Diagnostics and Recovery Toolset (DART) Remote Connection Tool"
 layout: "post"
-date: 04/28/2011 20:07:58
+date: 2011-04-28T20:07:58Z
 slug: "diagnostics-and-recovery-toolset-dart-remote-connection-tool"
 aliases:
   - "/2011/04/diagnostics-and-recovery-toolset-dart-remote-connection-tool/"

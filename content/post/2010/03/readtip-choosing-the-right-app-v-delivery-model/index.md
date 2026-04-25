@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Choosing the right App-V Delivery Model"
 layout: "post"
-date: 03/04/2010 23:58:08
+date: 2010-03-04T23:58:08Z
 slug: "readtip-choosing-the-right-app-v-delivery-model"
 aliases:
   - "/2010/03/readtip-choosing-the-right-app-v-delivery-model/"

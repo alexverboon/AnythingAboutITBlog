@@ -1,7 +1,7 @@
 ---
 title: "How to add custom registry keys to the Windows Embedded / ThinPC Registry Filter"
 layout: "post"
-date: 03/17/2013 21:55:26
+date: 2013-03-17T21:55:26Z
 slug: "how-to-add-custom-registry-keys-to-the-windows-embedded-thinpc-registry-filter"
 aliases:
   - "/2013/03/how-to-add-custom-registry-keys-to-the-windows-embedded-thinpc-registry-filter/"

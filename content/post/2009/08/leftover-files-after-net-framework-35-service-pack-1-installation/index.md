@@ -1,7 +1,7 @@
 ---
 title: "Leftover files after .NET Framework 3.5 Service Pack 1 installation"
 layout: "post"
-date: 08/05/2009 14:43:51
+date: 2009-08-05T14:43:51Z
 slug: "leftover-files-after-net-framework-35-service-pack-1-installation"
 aliases:
   - "/2009/08/leftover-files-after-net-framework-35-service-pack-1-installation/"

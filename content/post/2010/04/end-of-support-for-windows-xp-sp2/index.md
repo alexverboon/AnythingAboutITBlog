@@ -1,7 +1,7 @@
 ---
 title: "End of Support for Windows XP SP2 &ndash; Deploy XP SP3"
 layout: "post"
-date: 04/13/2010 19:27:24
+date: 2010-04-13T19:27:24Z
 slug: "end-of-support-for-windows-xp-sp2"
 aliases:
   - "/2010/04/end-of-support-for-windows-xp-sp2/"

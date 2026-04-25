@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Upgrade Advisor Beta"
 layout: "post"
-date: 05/07/2009 21:08:41
+date: 2009-05-07T21:08:41Z
 slug: "windows-7-upgrade-advisor-beta"
 aliases:
   - "/2009/05/windows-7-upgrade-advisor-beta/"

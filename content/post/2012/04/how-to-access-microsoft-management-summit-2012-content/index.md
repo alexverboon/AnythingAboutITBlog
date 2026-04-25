@@ -1,7 +1,7 @@
 ---
 title: "How to access Microsoft Management Summit 2012 content"
 layout: "post"
-date: 04/23/2012 08:52:08
+date: 2012-04-23T08:52:08Z
 slug: "how-to-access-microsoft-management-summit-2012-content"
 aliases:
   - "/2012/04/how-to-access-microsoft-management-summit-2012-content/"

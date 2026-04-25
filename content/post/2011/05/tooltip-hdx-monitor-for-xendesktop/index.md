@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: HDX Monitor for XenDesktop"
 layout: "post"
-date: 05/19/2011 23:00:07
+date: 2011-05-19T23:00:07Z
 slug: "tooltip-hdx-monitor-for-xendesktop"
 aliases:
   - "/2011/05/tooltip-hdx-monitor-for-xendesktop/"

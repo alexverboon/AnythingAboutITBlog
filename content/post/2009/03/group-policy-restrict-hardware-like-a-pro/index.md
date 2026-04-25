@@ -1,7 +1,7 @@
 ---
 title: "Group Policy: Restrict Hardware like a pro"
 layout: "post"
-date: 03/12/2009 10:00:14
+date: 2009-03-12T10:00:14Z
 slug: "group-policy-restrict-hardware-like-a-pro"
 aliases:
   - "/2009/03/group-policy-restrict-hardware-like-a-pro/"

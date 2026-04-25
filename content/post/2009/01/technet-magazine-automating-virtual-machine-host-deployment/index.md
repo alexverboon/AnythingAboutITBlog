@@ -1,7 +1,7 @@
 ---
 title: "Technet Magazine - Automating Virtual Machine Host Deployment"
 layout: "post"
-date: 01/17/2009 00:23:39
+date: 2009-01-17T00:23:39Z
 slug: "technet-magazine-automating-virtual-machine-host-deployment"
 aliases:
   - "/2009/01/technet-magazine-automating-virtual-machine-host-deployment/"

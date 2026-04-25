@@ -1,7 +1,7 @@
 ---
 title: "An insight on error 404"
 layout: "post"
-date: 12/13/2008 19:08:09
+date: 2008-12-13T19:08:09Z
 slug: "an-insight-on-error-404"
 aliases:
   - "/2008/12/an-insight-on-error-404/"

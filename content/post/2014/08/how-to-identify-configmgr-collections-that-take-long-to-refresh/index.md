@@ -1,7 +1,7 @@
 ---
 title: "How to identify ConfigMgr collections that take long to refresh"
 layout: "post"
-date: 08/30/2014 09:54:14
+date: 2014-08-30T09:54:14Z
 slug: "how-to-identify-configmgr-collections-that-take-long-to-refresh"
 aliases:
   - "/2014/08/how-to-identify-configmgr-collections-that-take-long-to-refresh/"

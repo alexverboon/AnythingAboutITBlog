@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Beta - Available now on MSDN"
 layout: "post"
-date: 01/08/2009 07:58:51
+date: 2009-01-08T07:58:51Z
 slug: "windows-7-beta-available-now-on-msdn"
 aliases:
   - "/2009/01/windows-7-beta-available-now-on-msdn/"

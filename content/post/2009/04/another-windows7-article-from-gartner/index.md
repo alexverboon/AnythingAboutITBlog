@@ -1,7 +1,7 @@
 ---
 title: "Another Windows7 article from Gartner"
 layout: "post"
-date: 04/23/2009 08:59:09
+date: 2009-04-23T08:59:09Z
 slug: "another-windows7-article-from-gartner"
 aliases:
   - "/2009/04/another-windows7-article-from-gartner/"

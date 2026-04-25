@@ -1,7 +1,7 @@
 ---
 title: "Configuring App-V Standalone Mode through Group Policy"
 layout: "post"
-date: 03/02/2010 00:17:58
+date: 2010-03-02T00:17:58Z
 slug: "configuring-app-v-standalone-mode-through-group-policy"
 aliases:
   - "/2010/03/configuring-app-v-standalone-mode-through-group-policy/"

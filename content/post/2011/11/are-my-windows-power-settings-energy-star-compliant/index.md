@@ -1,7 +1,7 @@
 ---
 title: "Are my Windows Power Settings Energy Star compliant?"
 layout: "post"
-date: 11/27/2011 12:45:42
+date: 2011-11-27T12:45:42Z
 slug: "are-my-windows-power-settings-energy-star-compliant"
 aliases:
   - "/2011/11/are-my-windows-power-settings-energy-star-compliant/"

@@ -1,7 +1,7 @@
 ---
 title: "BGInfo Template for XenDesktop 5"
 layout: "post"
-date: 05/22/2011 22:48:26
+date: 2011-05-22T22:48:26Z
 slug: "bginfo-template-for-xendesktop-5"
 aliases:
   - "/2011/05/bginfo-template-for-xendesktop-5/"

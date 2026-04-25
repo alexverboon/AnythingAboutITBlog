@@ -1,7 +1,7 @@
 ---
 title: "It’s never too late to start learning PowerShell"
 layout: "post"
-date: 03/27/2018 10:34:53
+date: 2018-03-27T10:34:53Z
 slug: "its-never-too-late-to-start-learning-powershell"
 aliases:
   - "/2018/03/its-never-too-late-to-start-learning-powershell/"

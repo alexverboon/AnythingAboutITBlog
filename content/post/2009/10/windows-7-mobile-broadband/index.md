@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Mobile Broadband"
 layout: "post"
-date: 10/01/2009 18:20:19
+date: 2009-10-01T18:20:19Z
 slug: "windows-7-mobile-broadband"
 aliases:
   - "/2009/10/windows-7-mobile-broadband/"

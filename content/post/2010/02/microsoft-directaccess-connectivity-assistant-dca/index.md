@@ -1,7 +1,7 @@
 ---
 title: "Microsoft DirectAccess Connectivity Assistant (DCA)"
 layout: "post"
-date: 02/12/2010 16:12:36
+date: 2010-02-12T16:12:36Z
 slug: "microsoft-directaccess-connectivity-assistant-dca"
 aliases:
   - "/2010/02/microsoft-directaccess-connectivity-assistant-dca/"

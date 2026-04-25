@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Consumer Preview Support Bulletins Feb 29&ndash;March 13, 2012"
 layout: "post"
-date: 03/13/2012 21:26:33
+date: 2012-03-13T21:26:33Z
 slug: "windows-8-consumer-preview-support-bulletins-feb-29march-13-2012"
 aliases:
   - "/2012/03/windows-8-consumer-preview-support-bulletins-feb-29march-13-2012/"

@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: How Microsoft IT deployed Office 2010"
 layout: "post"
-date: 07/09/2010 17:15:38
+date: 2010-07-09T17:15:38Z
 slug: "readtip-how-microsoft-it-deployed-office-2010"
 aliases:
   - "/2010/07/readtip-how-microsoft-it-deployed-office-2010/"

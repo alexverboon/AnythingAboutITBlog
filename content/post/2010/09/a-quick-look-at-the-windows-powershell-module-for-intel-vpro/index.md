@@ -1,7 +1,7 @@
 ---
 title: "A quick look at the Windows PowerShell Module for Intel vPro"
 layout: "post"
-date: 09/04/2010 18:41:44
+date: 2010-09-04T18:41:44Z
 slug: "a-quick-look-at-the-windows-powershell-module-for-intel-vpro"
 aliases:
   - "/2010/09/a-quick-look-at-the-windows-powershell-module-for-intel-vpro/"

@@ -1,7 +1,7 @@
 ---
 title: "Who&rsquo;s hosting me ?"
 layout: "post"
-date: 05/22/2009 11:35:40
+date: 2009-05-22T11:35:40Z
 slug: "whos-hosting-me"
 aliases:
   - "/2009/05/whos-hosting-me/"

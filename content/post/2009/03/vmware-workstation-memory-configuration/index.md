@@ -1,7 +1,7 @@
 ---
 title: "VMWare Workstation &ndash; Memory configuration"
 layout: "post"
-date: 03/03/2009 19:37:46
+date: 2009-03-03T19:37:46Z
 slug: "vmware-workstation-memory-configuration"
 aliases:
   - "/2009/03/vmware-workstation-memory-configuration/"

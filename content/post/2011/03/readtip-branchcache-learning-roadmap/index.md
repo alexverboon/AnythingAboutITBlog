@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: BranchCache Learning Roadmap"
 layout: "post"
-date: 03/30/2011 19:30:34
+date: 2011-03-30T19:30:34Z
 slug: "readtip-branchcache-learning-roadmap"
 aliases:
   - "/2011/03/readtip-branchcache-learning-roadmap/"

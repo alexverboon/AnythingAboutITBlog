@@ -1,7 +1,7 @@
 ---
 title: "NetWare Support Lifecycle"
 layout: "post"
-date: 04/05/2010 23:04:21
+date: 2010-04-05T23:04:21Z
 slug: "netware-support-lifecycle"
 aliases:
   - "/2010/04/netware-support-lifecycle/"

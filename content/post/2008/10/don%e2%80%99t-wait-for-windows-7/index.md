@@ -1,7 +1,7 @@
 ---
 title: "Don’t Wait for Windows 7"
 layout: "post"
-date: 10/29/2008 13:46:29
+date: 2008-10-29T13:46:29Z
 slug: "don%e2%80%99t-wait-for-windows-7"
 aliases:
   - "/2008/10/don%e2%80%99t-wait-for-windows-7/"

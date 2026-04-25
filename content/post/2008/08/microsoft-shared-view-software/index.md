@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shared View Software"
 layout: "post"
-date: 08/09/2008 17:17:55
+date: 2008-08-09T17:17:55Z
 slug: "microsoft-shared-view-software"
 aliases:
   - "/2008/08/microsoft-shared-view-software/"

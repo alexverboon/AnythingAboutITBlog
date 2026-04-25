@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Retrieve App-V 4.6 Package Information"
 layout: "post"
-date: 12/02/2013 21:44:12
+date: 2013-12-02T21:44:12Z
 slug: "powershell-retrieve-app-v-4-6-package-information"
 aliases:
   - "/2013/12/powershell-retrieve-app-v-4-6-package-information/"

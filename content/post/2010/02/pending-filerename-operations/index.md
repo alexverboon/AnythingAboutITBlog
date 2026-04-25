@@ -1,7 +1,7 @@
 ---
 title: "Pending FileRename Operations"
 layout: "post"
-date: 02/04/2010 21:36:28
+date: 2010-02-04T21:36:28Z
 slug: "pending-filerename-operations"
 aliases:
   - "/2010/02/pending-filerename-operations/"

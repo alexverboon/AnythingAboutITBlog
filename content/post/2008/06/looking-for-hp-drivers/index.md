@@ -1,7 +1,7 @@
 ---
 title: "Looking for HP Drivers ?"
 layout: "post"
-date: 06/10/2008 14:21:00
+date: 2008-06-10T14:21:00Z
 slug: "looking-for-hp-drivers"
 aliases:
   - "/2008/06/looking-for-hp-drivers/"

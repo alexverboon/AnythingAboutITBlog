@@ -1,7 +1,7 @@
 ---
 title: "New Group Policy Settings in Windows 8 Consumer Preview"
 layout: "post"
-date: 02/29/2012 23:45:24
+date: 2012-02-29T23:45:24Z
 slug: "new-group-policy-settings-in-windows-8-consumer-preview"
 aliases:
   - "/2012/02/new-group-policy-settings-in-windows-8-consumer-preview/"

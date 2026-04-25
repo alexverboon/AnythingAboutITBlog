@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: CrystalDMI"
 layout: "post"
-date: 05/10/2011 15:09:14
+date: 2011-05-10T15:09:14Z
 slug: "tooltip-crystaldmi"
 aliases:
   - "/2011/05/tooltip-crystaldmi/"

@@ -1,7 +1,7 @@
 ---
 title: "Classic Menu in Microsoft Word 2007"
 layout: "post"
-date: 03/29/2009 15:34:43
+date: 2009-03-29T15:34:43Z
 slug: "classic-menu-in-microsoft-word-2007"
 aliases:
   - "/2009/03/classic-menu-in-microsoft-word-2007/"

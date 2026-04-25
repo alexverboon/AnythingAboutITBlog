@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Copy Handler"
 layout: "post"
-date: 08/02/2011 18:26:27
+date: 2011-08-02T18:26:27Z
 slug: "tooltip-copy-handler"
 aliases:
   - "/2011/08/tooltip-copy-handler/"

@@ -1,7 +1,7 @@
 ---
 title: "Bill Gates looks back"
 layout: "post"
-date: 07/05/2008 20:55:45
+date: 2008-07-05T20:55:45Z
 slug: "bill-gates-looks-back"
 aliases:
   - "/2008/07/bill-gates-looks-back/"

@@ -1,7 +1,7 @@
 ---
 title: "How to access data from the local disk when running a Windows To Go Workspace"
 layout: "post"
-date: 12/17/2012 23:24:24
+date: 2012-12-17T23:24:24Z
 slug: "how-to-access-data-from-the-local-disk-when-running-a-windows-to-go-workspace"
 aliases:
   - "/2012/12/how-to-access-data-from-the-local-disk-when-running-a-windows-to-go-workspace/"

@@ -1,7 +1,7 @@
 ---
 title: "Skype Group Policy Settings"
 layout: "post"
-date: 12/31/2011 10:26:34
+date: 2011-12-31T10:26:34Z
 slug: "skype-group-policy-settings"
 aliases:
   - "/2011/12/skype-group-policy-settings/"

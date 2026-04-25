@@ -1,7 +1,7 @@
 ---
 title: "Windows Services, What changed from Vista to Windows7 - Part2"
 layout: "post"
-date: 04/23/2009 17:45:18
+date: 2009-04-23T17:45:18Z
 slug: "windows-services-what-changed-from-vista-to-windows7-part2"
 aliases:
   - "/2009/04/windows-services-what-changed-from-vista-to-windows7-part2/"

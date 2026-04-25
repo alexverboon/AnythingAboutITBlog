@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Support for eDrives"
 layout: "post"
-date: 11/22/2011 21:39:49
+date: 2011-11-22T21:39:49Z
 slug: "windows-8-support-for-edrives"
 aliases:
   - "/2011/11/windows-8-support-for-edrives/"

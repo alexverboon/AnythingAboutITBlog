@@ -1,7 +1,7 @@
 ---
 title: "How to upload content from an IPad to Microsoft SkyDrive"
 layout: "post"
-date: 06/05/2012 15:14:58
+date: 2012-06-05T15:14:58Z
 slug: "how-to-upload-content-from-an-ipad-to-microsoft-skydrive"
 aliases:
   - "/2012/06/how-to-upload-content-from-an-ipad-to-microsoft-skydrive/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: FindUninstallString"
 layout: "post"
-date: 08/06/2012 19:48:26
+date: 2012-08-06T19:48:26Z
 slug: "tooltip-finduninstallstring"
 aliases:
   - "/2012/08/tooltip-finduninstallstring/"

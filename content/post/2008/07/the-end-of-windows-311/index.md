@@ -1,7 +1,7 @@
 ---
 title: "The end of Windows 3.11"
 layout: "post"
-date: 07/31/2008 18:18:49
+date: 2008-07-31T18:18:49Z
 slug: "the-end-of-windows-311"
 aliases:
   - "/2008/07/the-end-of-windows-311/"

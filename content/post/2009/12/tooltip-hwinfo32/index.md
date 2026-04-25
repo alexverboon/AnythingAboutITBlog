@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: HWiNFO32"
 layout: "post"
-date: 12/20/2009 15:40:40
+date: 2009-12-20T15:40:40Z
 slug: "tooltip-hwinfo32"
 aliases:
   - "/2009/12/tooltip-hwinfo32/"

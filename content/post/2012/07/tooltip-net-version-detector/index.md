@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: .NET Version Detector"
 layout: "post"
-date: 07/05/2012 17:25:18
+date: 2012-07-05T17:25:18Z
 slug: "tooltip-net-version-detector"
 aliases:
   - "/2012/07/tooltip-net-version-detector/"

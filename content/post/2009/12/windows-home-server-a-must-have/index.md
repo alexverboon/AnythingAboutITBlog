@@ -1,7 +1,7 @@
 ---
 title: "Windows Home Server &ndash; A must have"
 layout: "post"
-date: 12/19/2009 23:03:45
+date: 2009-12-19T23:03:45Z
 slug: "windows-home-server-a-must-have"
 aliases:
   - "/2009/12/windows-home-server-a-must-have/"

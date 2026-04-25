@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; How to check if your system can run Hyper-V"
 layout: "post"
-date: 09/17/2011 10:49:19
+date: 2011-09-17T10:49:19Z
 slug: "windows-8-how-to-check-if-your-system-can-run-hyper-v"
 aliases:
   - "/2011/09/windows-8-how-to-check-if-your-system-can-run-hyper-v/"

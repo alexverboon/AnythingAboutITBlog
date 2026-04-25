@@ -1,7 +1,7 @@
 ---
 title: "Don't wait for Windows 7 move to Vista"
 layout: "post"
-date: 09/07/2008 15:08:56
+date: 2008-09-07T15:08:56Z
 slug: "dont-wait-for-windows-7-move-to-vista"
 aliases:
   - "/2008/09/dont-wait-for-windows-7-move-to-vista/"

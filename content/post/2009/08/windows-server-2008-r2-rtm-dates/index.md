@@ -1,7 +1,7 @@
 ---
 title: "Windows Server 2008 R2 RTM Dates"
 layout: "post"
-date: 08/06/2009 20:20:04
+date: 2009-08-06T20:20:04Z
 slug: "windows-server-2008-r2-rtm-dates"
 aliases:
   - "/2009/08/windows-server-2008-r2-rtm-dates/"

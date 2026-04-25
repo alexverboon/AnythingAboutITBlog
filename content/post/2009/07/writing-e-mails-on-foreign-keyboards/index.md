@@ -1,7 +1,7 @@
 ---
 title: "Writing e-mails on foreign keyboards"
 layout: "post"
-date: 07/12/2009 23:46:40
+date: 2009-07-12T23:46:40Z
 slug: "writing-e-mails-on-foreign-keyboards"
 aliases:
   - "/2009/07/writing-e-mails-on-foreign-keyboards/"

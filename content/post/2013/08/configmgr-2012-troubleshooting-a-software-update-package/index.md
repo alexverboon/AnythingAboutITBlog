@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr 2012 - Troubleshooting a Software Update Package"
 layout: "post"
-date: 08/19/2013 18:25:42
+date: 2013-08-19T18:25:42Z
 slug: "configmgr-2012-troubleshooting-a-software-update-package"
 aliases:
   - "/2013/08/configmgr-2012-troubleshooting-a-software-update-package/"

@@ -1,7 +1,7 @@
 ---
 title: "Anything About IT turns 10 today"
 layout: "post"
-date: 05/10/2018 14:50:47
+date: 2018-05-10T14:50:47Z
 slug: "anything-about-it-turns-10-today"
 aliases:
   - "/2018/05/anything-about-it-turns-10-today/"

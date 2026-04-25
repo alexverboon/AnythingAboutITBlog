@@ -1,7 +1,7 @@
 ---
 title: "Automating Regional settings configuration for Vista"
 layout: "post"
-date: 07/04/2008 19:24:34
+date: 2008-07-04T19:24:34Z
 slug: "automating-regional-settings-configuration-for-vista"
 aliases:
   - "/2008/07/automating-regional-settings-configuration-for-vista/"

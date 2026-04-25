@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Network Emulator for Windows Toolkit"
 layout: "post"
-date: 11/21/2010 23:01:11
+date: 2010-11-21T23:01:11Z
 slug: "tooltip-network-emulator-for-windows-toolkit"
 aliases:
   - "/2010/11/tooltip-network-emulator-for-windows-toolkit/"

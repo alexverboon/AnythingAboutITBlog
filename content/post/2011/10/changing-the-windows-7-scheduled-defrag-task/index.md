@@ -1,7 +1,7 @@
 ---
 title: "Changing the Windows 7 Scheduled Defrag Task"
 layout: "post"
-date: 10/10/2011 19:32:20
+date: 2011-10-10T19:32:20Z
 slug: "changing-the-windows-7-scheduled-defrag-task"
 aliases:
   - "/2011/10/changing-the-windows-7-scheduled-defrag-task/"

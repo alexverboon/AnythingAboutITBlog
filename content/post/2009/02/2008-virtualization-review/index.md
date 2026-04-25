@@ -1,7 +1,7 @@
 ---
 title: "2008 Virtualization review "
 layout: "post"
-date: 02/20/2009 00:32:03
+date: 2009-02-20T00:32:03Z
 slug: "2008-virtualization-review"
 aliases:
   - "/2009/02/2008-virtualization-review/"

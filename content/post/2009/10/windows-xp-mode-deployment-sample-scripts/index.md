@@ -1,7 +1,7 @@
 ---
 title: "Windows XP Mode Deployment Sample Scripts"
 layout: "post"
-date: 10/24/2009 14:56:37
+date: 2009-10-24T14:56:37Z
 slug: "windows-xp-mode-deployment-sample-scripts"
 aliases:
   - "/2009/10/windows-xp-mode-deployment-sample-scripts/"

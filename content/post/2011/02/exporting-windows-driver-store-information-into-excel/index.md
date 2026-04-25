@@ -1,7 +1,7 @@
 ---
 title: "Exporting Windows Driver Store Information into Excel"
 layout: "post"
-date: 02/02/2011 21:16:51
+date: 2011-02-02T21:16:51Z
 slug: "exporting-windows-driver-store-information-into-excel"
 aliases:
   - "/2011/02/exporting-windows-driver-store-information-into-excel/"

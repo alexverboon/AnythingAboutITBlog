@@ -1,7 +1,7 @@
 ---
 title: "Windows Client Feature Comparison"
 layout: "post"
-date: 05/20/2009 12:36:56
+date: 2009-05-20T12:36:56Z
 slug: "windows-client-feature-comparison"
 aliases:
   - "/2009/05/windows-client-feature-comparison/"

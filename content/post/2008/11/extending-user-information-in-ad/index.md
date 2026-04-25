@@ -1,7 +1,7 @@
 ---
 title: "Extending User Information in AD"
 layout: "post"
-date: 11/17/2008 19:44:51
+date: 2008-11-17T19:44:51Z
 slug: "extending-user-information-in-ad"
 aliases:
   - "/2008/11/extending-user-information-in-ad/"

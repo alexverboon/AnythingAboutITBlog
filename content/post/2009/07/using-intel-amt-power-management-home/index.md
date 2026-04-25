@@ -1,7 +1,7 @@
 ---
 title: "Using Intel AMT Power Management @ Home"
 layout: "post"
-date: 07/16/2009 22:39:00
+date: 2009-07-16T22:39:00Z
 slug: "using-intel-amt-power-management-home"
 aliases:
   - "/2009/07/using-intel-amt-power-management-home/"

@@ -1,7 +1,7 @@
 ---
 title: "The &ldquo;MZ&rdquo; header in EXE files"
 layout: "post"
-date: 07/23/2009 21:01:12
+date: 2009-07-23T21:01:12Z
 slug: "the-mz-header-in-exe-files"
 aliases:
   - "/2009/07/the-mz-header-in-exe-files/"

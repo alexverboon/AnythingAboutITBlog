@@ -1,7 +1,7 @@
 ---
 title: "Microsoft User Experience Virtualization &ndash; Part 1: The Road to UE-V"
 layout: "post"
-date: 07/01/2012 16:03:16
+date: 2012-07-01T16:03:16Z
 slug: "microsoft-user-experience-virtualization-part-1-the-road-to-ue-v"
 aliases:
   - "/2012/07/microsoft-user-experience-virtualization-part-1-the-road-to-ue-v/"

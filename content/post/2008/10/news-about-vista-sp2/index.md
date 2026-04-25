@@ -1,7 +1,7 @@
 ---
 title: "News about Vista SP2"
 layout: "post"
-date: 10/28/2008 10:56:40
+date: 2008-10-28T10:56:40Z
 slug: "news-about-vista-sp2"
 aliases:
   - "/2008/10/news-about-vista-sp2/"

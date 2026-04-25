@@ -1,7 +1,7 @@
 ---
 title: "Cloud Printing"
 layout: "post"
-date: 11/21/2008 11:04:14
+date: 2008-11-21T11:04:14Z
 slug: "cloud-printing"
 aliases:
   - "/2008/11/cloud-printing/"

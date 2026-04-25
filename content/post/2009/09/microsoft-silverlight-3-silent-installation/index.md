@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Silverlight 3 Silent Installation"
 layout: "post"
-date: 09/04/2009 13:17:43
+date: 2009-09-04T13:17:43Z
 slug: "microsoft-silverlight-3-silent-installation"
 aliases:
   - "/2009/09/microsoft-silverlight-3-silent-installation/"

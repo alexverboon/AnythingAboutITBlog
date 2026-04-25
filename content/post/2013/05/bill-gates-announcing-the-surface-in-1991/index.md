@@ -1,7 +1,7 @@
 ---
 title: "Bill Gates announcing the Surface in 1991"
 layout: "post"
-date: 05/13/2013 20:28:48
+date: 2013-05-13T20:28:48Z
 slug: "bill-gates-announcing-the-surface-in-1991"
 aliases:
   - "/2013/05/bill-gates-announcing-the-surface-in-1991/"

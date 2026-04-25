@@ -1,7 +1,7 @@
 ---
 title: "Saving on WAN Costs with BranchCache"
 layout: "post"
-date: 05/29/2010 19:48:52
+date: 2010-05-29T19:48:52Z
 slug: "saving-on-wan-costs-with-branchcache"
 aliases:
   - "/2010/05/saving-on-wan-costs-with-branchcache/"

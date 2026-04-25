@@ -1,7 +1,7 @@
 ---
 title: "Office 365 Centralized Deployment service"
 layout: "post"
-date: 06/10/2017 14:25:04
+date: 2017-06-10T14:25:04Z
 slug: "office-365-centralized-deployment-service"
 aliases:
   - "/2017/06/office-365-centralized-deployment-service/"

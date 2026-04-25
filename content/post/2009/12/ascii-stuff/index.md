@@ -1,7 +1,7 @@
 ---
 title: "ASCII Stuff"
 layout: "post"
-date: 12/26/2009 00:03:34
+date: 2009-12-26T00:03:34Z
 slug: "ascii-stuff"
 aliases:
   - "/2009/12/ascii-stuff/"

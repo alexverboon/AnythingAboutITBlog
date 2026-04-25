@@ -1,7 +1,7 @@
 ---
 title: "What you should know about Office 2010 64-bit"
 layout: "post"
-date: 05/06/2010 20:13:00
+date: 2010-05-06T20:13:00Z
 slug: "what-you-should-know-about-office-2010-64-bit"
 aliases:
   - "/2010/05/what-you-should-know-about-office-2010-64-bit/"

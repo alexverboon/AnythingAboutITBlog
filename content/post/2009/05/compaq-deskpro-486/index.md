@@ -1,7 +1,7 @@
 ---
 title: "Compaq Deskpro 486"
 layout: "post"
-date: 05/31/2009 17:42:59
+date: 2009-05-31T17:42:59Z
 slug: "compaq-deskpro-486"
 aliases:
   - "/2009/05/compaq-deskpro-486/"

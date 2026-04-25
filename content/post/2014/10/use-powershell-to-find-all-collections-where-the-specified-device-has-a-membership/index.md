@@ -1,7 +1,7 @@
 ---
 title: "Use PowerShell to find all collections where the specified device has a membership"
 layout: "post"
-date: 10/14/2014 18:44:28
+date: 2014-10-14T18:44:28Z
 slug: "use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership"
 aliases:
   - "/2014/10/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership/"

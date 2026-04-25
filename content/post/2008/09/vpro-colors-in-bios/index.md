@@ -1,7 +1,7 @@
 ---
 title: "vPro colors in BIOS"
 layout: "post"
-date: 09/26/2008 19:48:16
+date: 2008-09-26T19:48:16Z
 slug: "vpro-colors-in-bios"
 aliases:
   - "/2008/09/vpro-colors-in-bios/"

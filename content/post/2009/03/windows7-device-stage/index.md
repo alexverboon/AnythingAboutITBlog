@@ -1,7 +1,7 @@
 ---
 title: "Windows7 &ndash; Device Stage"
 layout: "post"
-date: 03/28/2009 16:02:15
+date: 2009-03-28T16:02:15Z
 slug: "windows7-device-stage"
 aliases:
   - "/2009/03/windows7-device-stage/"

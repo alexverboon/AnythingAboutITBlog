@@ -1,7 +1,7 @@
 ---
 title: "How to troubleshoot a Windows-based Azure Virtual Machine"
 layout: "post"
-date: 04/05/2015 22:52:41
+date: 2015-04-05T22:52:41Z
 slug: "how-to-troubleshoot-a-windows-based-azure-virtual-machine"
 aliases:
   - "/2015/04/how-to-troubleshoot-a-windows-based-azure-virtual-machine/"

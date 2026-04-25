@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: WSUS Workgroup ClientSettingManager"
 layout: "post"
-date: 03/21/2010 10:52:43
+date: 2010-03-21T10:52:43Z
 slug: "tooltip-wsus-workgroup-clientsettingmanager"
 aliases:
   - "/2010/03/tooltip-wsus-workgroup-clientsettingmanager/"

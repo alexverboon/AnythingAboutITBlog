@@ -1,7 +1,7 @@
 ---
 title: "Citrix Receiver 4.3 now with ADMX support for Receiver group policy, well almost"
 layout: "post"
-date: 07/01/2015 17:53:36
+date: 2015-07-01T17:53:36Z
 slug: "citrix-receiver-4-3-now-with-admx-support-for-receiver-group-policy-well-almost"
 aliases:
   - "/2015/07/citrix-receiver-4-3-now-with-admx-support-for-receiver-group-policy-well-almost/"

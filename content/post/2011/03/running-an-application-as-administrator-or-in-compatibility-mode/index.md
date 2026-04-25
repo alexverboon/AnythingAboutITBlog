@@ -1,7 +1,7 @@
 ---
 title: "Running an Application as Administrator or in Compatibility Mode"
 layout: "post"
-date: 03/30/2011 22:55:43
+date: 2011-03-30T22:55:43Z
 slug: "running-an-application-as-administrator-or-in-compatibility-mode"
 aliases:
   - "/2011/03/running-an-application-as-administrator-or-in-compatibility-mode/"

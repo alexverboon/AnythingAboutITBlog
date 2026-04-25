@@ -1,7 +1,7 @@
 ---
 title: "Tip: Remove Redundant Messages from Outlook 2010"
 layout: "post"
-date: 11/28/2011 20:10:23
+date: 2011-11-28T20:10:23Z
 slug: "tip-remove-redundant-messages-from-outlook-2010"
 aliases:
   - "/2011/11/tip-remove-redundant-messages-from-outlook-2010/"

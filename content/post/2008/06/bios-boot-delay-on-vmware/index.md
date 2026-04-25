@@ -1,7 +1,7 @@
 ---
 title: "BIOS Boot delay on VMWARE"
 layout: "post"
-date: 06/03/2008 09:56:00
+date: 2008-06-03T09:56:00Z
 slug: "bios-boot-delay-on-vmware"
 aliases:
   - "/2008/06/bios-boot-delay-on-vmware/"

@@ -1,7 +1,7 @@
 ---
 title: "How to reapply a Group Policy Preference that is configured to Apply Once"
 layout: "post"
-date: 05/25/2013 11:03:43
+date: 2013-05-25T11:03:43Z
 slug: "how-to-reapply-a-group-policy-preference-that-is-configured-to-apply-once"
 aliases:
   - "/2013/05/how-to-reapply-a-group-policy-preference-that-is-configured-to-apply-once/"

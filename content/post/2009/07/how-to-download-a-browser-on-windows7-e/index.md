@@ -1,7 +1,7 @@
 ---
 title: "How to download a browser on Windows7 E"
 layout: "post"
-date: 07/20/2009 18:56:20
+date: 2009-07-20T18:56:20Z
 slug: "how-to-download-a-browser-on-windows7-e"
 aliases:
   - "/2009/07/how-to-download-a-browser-on-windows7-e/"

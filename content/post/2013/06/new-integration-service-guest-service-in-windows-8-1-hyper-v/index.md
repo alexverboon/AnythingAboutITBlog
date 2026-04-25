@@ -1,7 +1,7 @@
 ---
 title: "New Integration Service &ldquo;Guest Service&rdquo; in Windows 8.1 Hyper-V"
 layout: "post"
-date: 06/30/2013 18:28:23
+date: 2013-06-30T18:28:23Z
 slug: "new-integration-service-guest-service-in-windows-8-1-hyper-v"
 aliases:
   - "/2013/06/new-integration-service-guest-service-in-windows-8-1-hyper-v/"

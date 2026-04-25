@@ -1,7 +1,7 @@
 ---
 title: "Altiris related information sources"
 layout: "post"
-date: 12/11/2008 14:42:09
+date: 2008-12-11T14:42:09Z
 slug: "altiris-related-information-sources"
 aliases:
   - "/2008/12/altiris-related-information-sources/"

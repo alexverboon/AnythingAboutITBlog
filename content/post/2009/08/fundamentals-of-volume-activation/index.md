@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of Volume Activation"
 layout: "post"
-date: 08/10/2009 21:38:49
+date: 2009-08-10T21:38:49Z
 slug: "fundamentals-of-volume-activation"
 aliases:
   - "/2009/08/fundamentals-of-volume-activation/"

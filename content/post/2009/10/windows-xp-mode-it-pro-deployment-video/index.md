@@ -1,7 +1,7 @@
 ---
 title: "Windows XP Mode IT Pro Deployment Video"
 layout: "post"
-date: 10/20/2009 03:33:21
+date: 2009-10-20T03:33:21Z
 slug: "windows-xp-mode-it-pro-deployment-video"
 aliases:
   - "/2009/10/windows-xp-mode-it-pro-deployment-video/"

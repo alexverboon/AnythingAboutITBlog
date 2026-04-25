@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Fiddler HTTP Debugging Proxy"
 layout: "post"
-date: 02/11/2010 19:36:48
+date: 2010-02-11T19:36:48Z
 slug: "tooltip-fiddler-http-debugging-proxy"
 aliases:
   - "/2010/02/tooltip-fiddler-http-debugging-proxy/"

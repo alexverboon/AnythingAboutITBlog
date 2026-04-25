@@ -1,7 +1,7 @@
 ---
 title: "Hyper-V Terminology"
 layout: "post"
-date: 03/16/2009 21:04:25
+date: 2009-03-16T21:04:25Z
 slug: "hyper-v-terminology"
 aliases:
   - "/2009/03/hyper-v-terminology/"

@@ -1,7 +1,7 @@
 ---
 title: "Reading - Administering Windows Vista Security"
 layout: "post"
-date: 07/06/2008 11:03:32
+date: 2008-07-06T11:03:32Z
 slug: "reading-administering-windows-vista-security"
 aliases:
   - "/2008/07/reading-administering-windows-vista-security/"

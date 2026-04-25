@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 - Applocker needs a 2008 R2 DC"
 layout: "post"
-date: 01/20/2009 21:10:46
+date: 2009-01-20T21:10:46Z
 slug: "windows-7-applocker-needs-a-2008-r2-dc"
 aliases:
   - "/2009/01/windows-7-applocker-needs-a-2008-r2-dc/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows Azure an introduction"
 layout: "post"
-date: 10/27/2008 19:23:31
+date: 2008-10-27T19:23:31Z
 slug: "windows-azure-an-introduction"
 aliases:
   - "/2008/10/windows-azure-an-introduction/"

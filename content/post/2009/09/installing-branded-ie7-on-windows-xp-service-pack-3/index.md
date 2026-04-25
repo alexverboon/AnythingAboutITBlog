@@ -1,7 +1,7 @@
 ---
 title: "Installing Branded IE7 on Windows XP Service Pack 3"
 layout: "post"
-date: 09/07/2009 14:56:41
+date: 2009-09-07T14:56:41Z
 slug: "installing-branded-ie7-on-windows-xp-service-pack-3"
 aliases:
   - "/2009/09/installing-branded-ie7-on-windows-xp-service-pack-3/"

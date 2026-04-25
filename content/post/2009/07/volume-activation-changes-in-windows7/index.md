@@ -1,7 +1,7 @@
 ---
 title: "Volume Activation changes in Windows7"
 layout: "post"
-date: 07/09/2009 12:37:29
+date: 2009-07-09T12:37:29Z
 slug: "volume-activation-changes-in-windows7"
 aliases:
   - "/2009/07/volume-activation-changes-in-windows7/"

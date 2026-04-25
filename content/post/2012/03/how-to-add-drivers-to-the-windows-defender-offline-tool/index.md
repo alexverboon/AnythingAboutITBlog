@@ -1,7 +1,7 @@
 ---
 title: "How to add drivers to the Windows Defender Offline Tool"
 layout: "post"
-date: 03/08/2012 22:39:40
+date: 2012-03-08T22:39:40Z
 slug: "how-to-add-drivers-to-the-windows-defender-offline-tool"
 aliases:
   - "/2012/03/how-to-add-drivers-to-the-windows-defender-offline-tool/"

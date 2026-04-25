@@ -1,7 +1,7 @@
 ---
 title: "Configuration Manager - DCM Import Error"
 layout: "post"
-date: 07/04/2013 11:28:35
+date: 2013-07-04T11:28:35Z
 slug: "configuration-manager-dcm-import-error"
 aliases:
   - "/2013/07/configuration-manager-dcm-import-error/"

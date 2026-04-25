@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 hands-on videos"
 layout: "post"
-date: 02/14/2009 16:34:56
+date: 2009-02-14T16:34:56Z
 slug: "windows-7-hands-on-videos"
 aliases:
   - "/2009/02/windows-7-hands-on-videos/"

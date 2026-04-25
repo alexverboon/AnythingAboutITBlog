@@ -1,7 +1,7 @@
 ---
 title: "Custom GPO Template for Start Menu&ndash;Highlight newly installed programs"
 layout: "post"
-date: 04/21/2011 12:18:49
+date: 2011-04-21T12:18:49Z
 slug: "custom-gpo-template-for-start-menuhighlight-newly-installed-programs"
 aliases:
   - "/2011/04/custom-gpo-template-for-start-menuhighlight-newly-installed-programs/"

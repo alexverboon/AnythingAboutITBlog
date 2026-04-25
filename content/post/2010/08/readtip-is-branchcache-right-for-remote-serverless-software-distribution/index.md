@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Is BranchCache right for remote, serverless software distribution?"
 layout: "post"
-date: 08/07/2010 08:46:58
+date: 2010-08-07T08:46:58Z
 slug: "readtip-is-branchcache-right-for-remote-serverless-software-distribution"
 aliases:
   - "/2010/08/readtip-is-branchcache-right-for-remote-serverless-software-distribution/"

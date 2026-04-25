@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 support for HP desktops, notebooks and workstations"
 layout: "post"
-date: 10/11/2009 14:31:44
+date: 2009-10-11T14:31:44Z
 slug: "windows-7-support-for-hp-desktops-notebooks-and-workstations"
 aliases:
   - "/2009/10/windows-7-support-for-hp-desktops-notebooks-and-workstations/"

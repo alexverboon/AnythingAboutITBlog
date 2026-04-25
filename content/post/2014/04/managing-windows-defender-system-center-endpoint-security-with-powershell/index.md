@@ -1,7 +1,7 @@
 ---
 title: "Managing Windows Defender / System Center Endpoint Security with PowerShell"
 layout: "post"
-date: 04/08/2014 13:17:21
+date: 2014-04-08T13:17:21Z
 slug: "managing-windows-defender-system-center-endpoint-security-with-powershell"
 aliases:
   - "/2014/04/managing-windows-defender-system-center-endpoint-security-with-powershell/"

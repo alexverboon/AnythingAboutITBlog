@@ -1,7 +1,7 @@
 ---
 title: "Using the Windows 7 USB/DVD Download Tool with custom ISO files"
 layout: "post"
-date: 03/17/2011 15:51:32
+date: 2011-03-17T15:51:32Z
 slug: "using-the-windows-7-usbdvd-download-tool-with-custom-iso-files"
 aliases:
   - "/2011/03/using-the-windows-7-usbdvd-download-tool-with-custom-iso-files/"

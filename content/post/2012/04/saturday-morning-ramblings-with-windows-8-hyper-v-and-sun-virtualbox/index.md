@@ -1,7 +1,7 @@
 ---
 title: "Saturday morning ramblings with Windows 8 Hyper-V and Sun VirtualBox"
 layout: "post"
-date: 04/28/2012 08:43:56
+date: 2012-04-28T08:43:56Z
 slug: "saturday-morning-ramblings-with-windows-8-hyper-v-and-sun-virtualbox"
 aliases:
   - "/2012/04/saturday-morning-ramblings-with-windows-8-hyper-v-and-sun-virtualbox/"

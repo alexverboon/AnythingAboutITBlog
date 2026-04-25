@@ -1,7 +1,7 @@
 ---
 title: "Additional Windows 7 Search Connectors"
 layout: "post"
-date: 12/18/2010 15:39:54
+date: 2010-12-18T15:39:54Z
 slug: "additional-windows-7-search-connectors"
 aliases:
   - "/2010/12/additional-windows-7-search-connectors/"

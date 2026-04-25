@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: BootRacer"
 layout: "post"
-date: 07/07/2010 21:51:23
+date: 2010-07-07T21:51:23Z
 slug: "tooltip-bootracer"
 aliases:
   - "/2010/07/tooltip-bootracer/"

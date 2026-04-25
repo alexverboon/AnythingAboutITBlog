@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Windows built-in local security Groups with Microsoft Defender XDR or Sentinel"
 layout: "post"
-date: 2024-02-04T22:50:36+01:00
+date: 2024-02-04T21:50:36Z
 slug: "monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel"
 aliases:
   - "/2024/02/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel/"

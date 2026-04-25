@@ -1,7 +1,7 @@
 ---
 title: "Inside the Windows 7 Driver Store&ndash;Part 2"
 layout: "post"
-date: 01/04/2011 01:03:03
+date: 2011-01-04T01:03:03Z
 slug: "inside-the-windows-7-driver-storepart-2"
 aliases:
   - "/2011/01/inside-the-windows-7-driver-storepart-2/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows Mobile 6.1 Hot Fix for Sending POP and IMAP E-mail"
 layout: "post"
-date: 06/17/2010 19:26:33
+date: 2010-06-17T19:26:33Z
 slug: "windows-mobile-6-1-hot-fix-for-sending-pop-and-imap-e-mail"
 aliases:
   - "/2010/06/windows-mobile-6-1-hot-fix-for-sending-pop-and-imap-e-mail/"

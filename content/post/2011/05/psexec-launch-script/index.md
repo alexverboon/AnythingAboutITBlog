@@ -1,7 +1,7 @@
 ---
 title: "PSExec launch script"
 layout: "post"
-date: 05/11/2011 15:10:32
+date: 2011-05-11T15:10:32Z
 slug: "psexec-launch-script"
 aliases:
   - "/2011/05/psexec-launch-script/"

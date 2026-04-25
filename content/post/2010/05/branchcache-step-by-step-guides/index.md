@@ -1,7 +1,7 @@
 ---
 title: "BranchCache Step by Step Guides"
 layout: "post"
-date: 05/26/2010 15:57:32
+date: 2010-05-26T15:57:32Z
 slug: "branchcache-step-by-step-guides"
 aliases:
   - "/2010/05/branchcache-step-by-step-guides/"

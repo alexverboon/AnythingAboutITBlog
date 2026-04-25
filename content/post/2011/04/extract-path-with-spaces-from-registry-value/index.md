@@ -1,7 +1,7 @@
 ---
 title: "Extract Path with spaces from Registry value"
 layout: "post"
-date: 04/25/2011 20:38:05
+date: 2011-04-25T20:38:05Z
 slug: "extract-path-with-spaces-from-registry-value"
 aliases:
   - "/2011/04/extract-path-with-spaces-from-registry-value/"

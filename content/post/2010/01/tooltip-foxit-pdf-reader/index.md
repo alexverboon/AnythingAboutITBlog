@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Foxit PDF Reader"
 layout: "post"
-date: 01/31/2010 16:26:25
+date: 2010-01-31T16:26:25Z
 slug: "tooltip-foxit-pdf-reader"
 aliases:
   - "/2010/01/tooltip-foxit-pdf-reader/"

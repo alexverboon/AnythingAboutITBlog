@@ -1,7 +1,7 @@
 ---
 title: "InstEd - Free Windows Installer database editor"
 layout: "post"
-date: 11/26/2008 19:51:31
+date: 2008-11-26T19:51:31Z
 slug: "insted-free-windows-installer-database-editor"
 aliases:
   - "/2008/11/insted-free-windows-installer-database-editor/"

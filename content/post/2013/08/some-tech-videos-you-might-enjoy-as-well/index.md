@@ -1,7 +1,7 @@
 ---
 title: "Some Tech Videos you might enjoy as well"
 layout: "post"
-date: 08/27/2013 20:16:56
+date: 2013-08-27T20:16:56Z
 slug: "some-tech-videos-you-might-enjoy-as-well"
 aliases:
   - "/2013/08/some-tech-videos-you-might-enjoy-as-well/"

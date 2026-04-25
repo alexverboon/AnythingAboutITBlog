@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Soluto&ndash;Improve your Windows Boot Performance"
 layout: "post"
-date: 01/16/2011 10:27:58
+date: 2011-01-16T10:27:58Z
 slug: "tooltip-solutoimprove-your-windows-boot-performance"
 aliases:
   - "/2011/01/tooltip-solutoimprove-your-windows-boot-performance/"

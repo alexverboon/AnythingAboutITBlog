@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: SoftPerfect Connection Emulator"
 layout: "post"
-date: 04/04/2010 17:29:58
+date: 2010-04-04T17:29:58Z
 slug: "tooltip-softperfect-connection-emulator"
 aliases:
   - "/2010/04/tooltip-softperfect-connection-emulator/"

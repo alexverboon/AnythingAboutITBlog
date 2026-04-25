@@ -114,20 +114,31 @@ def convert_linked_local_images_to_remote(markdown_content):
 
 
 def parse_post_datetime(gmt, local, fallback_year):
+    formats = [
+        "%Y-%m-%d %H:%M:%S",
+        "%m/%d/%Y %H:%M:%S",
+        "%d/%m/%Y %H:%M:%S",
+    ]
     for val in (gmt, local):
         if not val or val == "0000-00-00 00:00:00":
             continue
-        try:
-            return datetime.strptime(val, "%Y-%m-%d %H:%M:%S")
-        except ValueError:
-            continue
+        for fmt in formats:
+            try:
+                return datetime.strptime(val, fmt)
+            except ValueError:
+                continue
     return datetime(fallback_year, 1, 1)
 
 
 def to_iso(gmt, local, dt):
     src = gmt if (gmt and gmt != "0000-00-00 00:00:00") else local
     if src and src != "0000-00-00 00:00:00":
-        return src.replace(" ", "T") + "Z"
+        for fmt in ("%Y-%m-%d %H:%M:%S", "%m/%d/%Y %H:%M:%S", "%d/%m/%Y %H:%M:%S"):
+            try:
+                parsed = datetime.strptime(src, fmt)
+                return parsed.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except ValueError:
+                continue
     return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Product Activation Methods"
 layout: "post"
-date: 05/17/2010 19:44:17
+date: 2010-05-17T19:44:17Z
 slug: "windows-7-product-activation-methods"
 aliases:
   - "/2010/05/windows-7-product-activation-methods/"

@@ -1,7 +1,7 @@
 ---
 title: "Intel KVM Remote Control and VNC Viewer Plus"
 layout: "post"
-date: 03/21/2010 11:52:37
+date: 2010-03-21T11:52:37Z
 slug: "intel-kvm-remote-control-and-vnc-viewer-plus"
 aliases:
   - "/2010/03/intel-kvm-remote-control-and-vnc-viewer-plus/"

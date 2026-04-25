@@ -1,7 +1,7 @@
 ---
 title: "Live Mesh - A review"
 layout: "post"
-date: 12/12/2008 22:37:48
+date: 2008-12-12T22:37:48Z
 slug: "live-mesh-a-review"
 aliases:
   - "/2008/12/live-mesh-a-review/"

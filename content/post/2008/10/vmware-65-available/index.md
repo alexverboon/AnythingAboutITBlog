@@ -1,7 +1,7 @@
 ---
 title: "VMWare 6.5 available"
 layout: "post"
-date: 10/20/2008 20:17:15
+date: 2008-10-20T20:17:15Z
 slug: "vmware-65-available"
 aliases:
   - "/2008/10/vmware-65-available/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip &ndash; PowerPlan Switcher for Windows"
 layout: "post"
-date: 05/24/2009 17:08:48
+date: 2009-05-24T17:08:48Z
 slug: "tooltip-powerplan-switcher-for-windows"
 aliases:
   - "/2009/05/tooltip-powerplan-switcher-for-windows/"

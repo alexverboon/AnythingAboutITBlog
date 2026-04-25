@@ -1,7 +1,7 @@
 ---
 title: "Office 2010 KMS Server Requirements"
 layout: "post"
-date: 05/12/2010 21:54:12
+date: 2010-05-12T21:54:12Z
 slug: "office-2010-kms-server-requirements"
 aliases:
   - "/2010/05/office-2010-kms-server-requirements/"

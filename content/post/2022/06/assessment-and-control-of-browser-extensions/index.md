@@ -3,6 +3,7 @@ title: Assessment and Control of Browser Extensions
 date: 2022-06-19T21:38:01Z
 layout: "post"
 author: "Alex Verboon"
+description: "How to assess, hunt, and control browser extensions with Microsoft Defender for Endpoint and policy controls."
 image: "img/post-heroes/assessment-and-control-of-browser-extensions.png"
 slug: "assessment-and-control-of-browser-extensions"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Windows ActiveX Installer Service"
 layout: "post"
-date: 04/04/2010 21:55:01
+date: 2010-04-04T21:55:01Z
 slug: "windows-activex-installer-service"
 aliases:
   - "/2010/04/windows-activex-installer-service/"

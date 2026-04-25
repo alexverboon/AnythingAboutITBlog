@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Update"
 layout: "post"
-date: 06/15/2010 18:04:06
+date: 2010-06-15T18:04:06Z
 slug: "troubleshooting-windows-update"
 aliases:
   - "/2010/06/troubleshooting-windows-update/"

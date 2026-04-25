@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Virtual CloneDrive"
 layout: "post"
-date: 04/25/2011 14:43:02
+date: 2011-04-25T14:43:02Z
 slug: "tooltip-virtual-clonedrive"
 aliases:
   - "/2011/04/tooltip-virtual-clonedrive/"

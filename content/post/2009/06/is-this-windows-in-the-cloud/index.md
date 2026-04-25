@@ -1,7 +1,7 @@
 ---
 title: "Is this Windows in the Cloud?"
 layout: "post"
-date: 06/15/2009 19:36:57
+date: 2009-06-15T19:36:57Z
 slug: "is-this-windows-in-the-cloud"
 aliases:
   - "/2009/06/is-this-windows-in-the-cloud/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Bulk Drive Manager"
 layout: "post"
-date: 11/09/2008 15:36:07
+date: 2008-11-09T15:36:07Z
 slug: "tooltip-bulk-drive-manager"
 aliases:
   - "/2008/11/tooltip-bulk-drive-manager/"

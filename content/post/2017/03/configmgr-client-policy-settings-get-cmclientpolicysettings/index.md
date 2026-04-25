@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr Client Policy Settings - Get-CMclientpolicysettings"
 layout: "post"
-date: 03/04/2017 13:04:23
+date: 2017-03-04T13:04:23Z
 slug: "configmgr-client-policy-settings-get-cmclientpolicysettings"
 aliases:
   - "/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/"

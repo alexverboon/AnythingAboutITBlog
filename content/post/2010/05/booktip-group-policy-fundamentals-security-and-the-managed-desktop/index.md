@@ -1,7 +1,7 @@
 ---
 title: "BookTip: Group Policy &ndash; Fundamentals, Security and the Managed Desktop"
 layout: "post"
-date: 05/07/2010 16:34:15
+date: 2010-05-07T16:34:15Z
 slug: "booktip-group-policy-fundamentals-security-and-the-managed-desktop"
 aliases:
   - "/2010/05/booktip-group-policy-fundamentals-security-and-the-managed-desktop/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell script to run the Windows App Certification Kit"
 layout: "post"
-date: 09/24/2016 19:18:21
+date: 2016-09-24T19:18:21Z
 slug: "powershell-script-to-run-the-windows-app-certification-kit"
 aliases:
   - "/2016/09/powershell-script-to-run-the-windows-app-certification-kit/"

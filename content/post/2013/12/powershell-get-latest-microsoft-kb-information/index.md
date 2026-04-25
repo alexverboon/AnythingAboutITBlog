@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Get latest Microsoft KB information"
 layout: "post"
-date: 12/17/2013 00:36:24
+date: 2013-12-17T00:36:24Z
 slug: "powershell-get-latest-microsoft-kb-information"
 aliases:
   - "/2013/12/powershell-get-latest-microsoft-kb-information/"

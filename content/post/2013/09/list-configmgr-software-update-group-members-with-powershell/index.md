@@ -1,7 +1,7 @@
 ---
 title: "List ConfigMgr Software Update Group members with PowerShell"
 layout: "post"
-date: 09/22/2013 20:47:18
+date: 2013-09-22T20:47:18Z
 slug: "list-configmgr-software-update-group-members-with-powershell"
 aliases:
   - "/2013/09/list-configmgr-software-update-group-members-with-powershell/"

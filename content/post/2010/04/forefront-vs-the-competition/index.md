@@ -1,7 +1,7 @@
 ---
 title: "Forefront vs. the competition"
 layout: "post"
-date: 04/21/2010 19:09:57
+date: 2010-04-21T19:09:57Z
 slug: "forefront-vs-the-competition"
 aliases:
   - "/2010/04/forefront-vs-the-competition/"

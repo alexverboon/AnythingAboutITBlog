@@ -1,7 +1,7 @@
 ---
 title: "Server 2008 R2 survival guide"
 layout: "post"
-date: 05/10/2009 14:09:58
+date: 2009-05-10T14:09:58Z
 slug: "server-2008-r2-survival-guide"
 aliases:
   - "/2009/05/server-2008-r2-survival-guide/"

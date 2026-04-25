@@ -1,7 +1,7 @@
 ---
 title: "Quick Access to installed QFEs"
 layout: "post"
-date: 09/23/2009 20:20:03
+date: 2009-09-23T20:20:03Z
 slug: "quick-access-to-installed-qfes"
 aliases:
   - "/2009/09/quick-access-to-installed-qfes/"

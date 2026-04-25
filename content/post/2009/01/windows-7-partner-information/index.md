@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Partner information"
 layout: "post"
-date: 01/08/2009 20:55:53
+date: 2009-01-08T20:55:53Z
 slug: "windows-7-partner-information"
 aliases:
   - "/2009/01/windows-7-partner-information/"

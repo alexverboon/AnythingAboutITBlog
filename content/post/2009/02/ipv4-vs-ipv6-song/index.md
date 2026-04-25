@@ -1,7 +1,7 @@
 ---
 title: "IPv4 vs IPv6 Song"
 layout: "post"
-date: 02/23/2009 20:43:19
+date: 2009-02-23T20:43:19Z
 slug: "ipv4-vs-ipv6-song"
 aliases:
   - "/2009/02/ipv4-vs-ipv6-song/"

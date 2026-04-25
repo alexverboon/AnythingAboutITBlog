@@ -1,7 +1,7 @@
 ---
 title: "Download Web based video Trainings"
 layout: "post"
-date: 12/24/2008 08:42:56
+date: 2008-12-24T08:42:56Z
 slug: "download-web-based-video-trainings"
 aliases:
   - "/2008/12/download-web-based-video-trainings/"

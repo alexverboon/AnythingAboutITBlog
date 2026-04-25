@@ -1,7 +1,7 @@
 ---
 title: "Performing a Windows Performance Assessment with the Windows ADK"
 layout: "post"
-date: 11/24/2011 23:43:46
+date: 2011-11-24T23:43:46Z
 slug: "performing-a-windows-performance-assessment-with-the-windows-adk"
 aliases:
   - "/2011/11/performing-a-windows-performance-assessment-with-the-windows-adk/"

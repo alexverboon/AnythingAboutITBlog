@@ -1,7 +1,7 @@
 ---
 title: "Windows 95 turns 15, Windows 1.0 - 25"
 layout: "post"
-date: 08/27/2010 15:17:48
+date: 2010-08-27T15:17:48Z
 slug: "windows-95-turns-15-windows-1-0-25"
 aliases:
   - "/2010/08/windows-95-turns-15-windows-1-0-25/"

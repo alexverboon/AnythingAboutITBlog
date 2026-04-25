@@ -1,7 +1,7 @@
 ---
 title: "How to automate SCCM 2012 Task Sequence Media Creation"
 layout: "post"
-date: 04/15/2013 20:46:29
+date: 2013-04-15T20:46:29Z
 slug: "how-to-automate-sccm-2012-task-sequence-media-creation"
 aliases:
   - "/2013/04/how-to-automate-sccm-2012-task-sequence-media-creation/"

@@ -1,7 +1,7 @@
 ---
 title: "End-to-End WAN Optimization with BranchCache (External)"
 layout: "post"
-date: 01/30/2010 23:54:09
+date: 2010-01-30T23:54:09Z
 slug: "end-to-end-wan-optimization-with-branchcache-external"
 aliases:
   - "/2010/01/end-to-end-wan-optimization-with-branchcache-external/"

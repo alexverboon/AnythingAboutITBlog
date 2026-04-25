@@ -1,7 +1,7 @@
 ---
 title: "A little helper script for the Azure Set-AzureRmVMSourceImage cmdlet"
 layout: "post"
-date: 02/11/2016 23:00:48
+date: 2016-02-11T23:00:48Z
 slug: "a-little-helper-script-for-the-azure-set-azurermvmsourceimage-cmdlet"
 aliases:
   - "/2016/02/a-little-helper-script-for-the-azure-set-azurermvmsourceimage-cmdlet/"

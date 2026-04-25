@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: For IT professionals: Deployment guide for Microsoft Office 2010"
 layout: "post"
-date: 08/25/2010 16:33:09
+date: 2010-08-25T16:33:09Z
 slug: "readtip-for-it-professionals-deployment-guide-for-microsoft-office-2010"
 aliases:
   - "/2010/08/readtip-for-it-professionals-deployment-guide-for-microsoft-office-2010/"

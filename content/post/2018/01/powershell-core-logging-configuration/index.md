@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Core logging configuration"
 layout: "post"
-date: 01/16/2018 22:41:16
+date: 2018-01-16T22:41:16Z
 slug: "powershell-core-logging-configuration"
 aliases:
   - "/2018/01/powershell-core-logging-configuration/"

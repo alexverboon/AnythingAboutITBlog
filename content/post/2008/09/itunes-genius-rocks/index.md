@@ -1,7 +1,7 @@
 ---
 title: "iTunes Genius rocks"
 layout: "post"
-date: 09/27/2008 21:23:37
+date: 2008-09-27T21:23:37Z
 slug: "itunes-genius-rocks"
 aliases:
   - "/2008/09/itunes-genius-rocks/"

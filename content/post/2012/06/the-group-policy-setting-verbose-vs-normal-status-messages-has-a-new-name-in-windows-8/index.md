@@ -1,7 +1,7 @@
 ---
 title: "The Group Policy Setting &ldquo;Verbose vs normal status messages&rdquo; has a new name in Windows 8"
 layout: "post"
-date: 06/24/2012 15:45:04
+date: 2012-06-24T15:45:04Z
 slug: "the-group-policy-setting-verbose-vs-normal-status-messages-has-a-new-name-in-windows-8"
 aliases:
   - "/2012/06/the-group-policy-setting-verbose-vs-normal-status-messages-has-a-new-name-in-windows-8/"

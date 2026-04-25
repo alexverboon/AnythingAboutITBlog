@@ -1,7 +1,7 @@
 ---
 title: "New Defrag options in Windows 8"
 layout: "post"
-date: 11/13/2011 16:53:46
+date: 2011-11-13T16:53:46Z
 slug: "new-defrag-options-in-windows-8"
 aliases:
   - "/2011/11/new-defrag-options-in-windows-8/"

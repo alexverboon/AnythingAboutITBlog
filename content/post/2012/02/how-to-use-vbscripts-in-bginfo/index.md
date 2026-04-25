@@ -1,7 +1,7 @@
 ---
 title: "How to use vbscripts in BGINFO"
 layout: "post"
-date: 02/09/2012 21:47:45
+date: 2012-02-09T21:47:45Z
 slug: "how-to-use-vbscripts-in-bginfo"
 aliases:
   - "/2012/02/how-to-use-vbscripts-in-bginfo/"

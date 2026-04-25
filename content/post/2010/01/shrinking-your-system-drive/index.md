@@ -1,7 +1,7 @@
 ---
 title: "Shrinking your System Drive"
 layout: "post"
-date: 01/19/2010 23:10:54
+date: 2010-01-19T23:10:54Z
 slug: "shrinking-your-system-drive"
 aliases:
   - "/2010/01/shrinking-your-system-drive/"

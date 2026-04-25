@@ -1,7 +1,7 @@
 ---
 title: "Great website with focus on 64 bit"
 layout: "post"
-date: 07/03/2009 19:08:46
+date: 2009-07-03T19:08:46Z
 slug: "great-website-with-focus-on-64-bit"
 aliases:
   - "/2009/07/great-website-with-focus-on-64-bit/"

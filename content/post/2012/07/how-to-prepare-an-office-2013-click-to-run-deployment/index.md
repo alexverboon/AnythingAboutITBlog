@@ -1,7 +1,7 @@
 ---
 title: "How to prepare an Office 2013 Click-to-Run deployment"
 layout: "post"
-date: 07/30/2012 22:22:38
+date: 2012-07-30T22:22:38Z
 slug: "how-to-prepare-an-office-2013-click-to-run-deployment"
 aliases:
   - "/2012/07/how-to-prepare-an-office-2013-click-to-run-deployment/"

@@ -1,7 +1,7 @@
 ---
 title: "Have you checked your Group Policy Health lately?"
 layout: "post"
-date: 07/23/2011 20:19:35
+date: 2011-07-23T20:19:35Z
 slug: "have-you-checked-your-group-policy-health-lately"
 aliases:
   - "/2011/07/have-you-checked-your-group-policy-health-lately/"

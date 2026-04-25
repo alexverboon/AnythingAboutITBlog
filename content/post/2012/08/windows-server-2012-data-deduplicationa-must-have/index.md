@@ -1,7 +1,7 @@
 ---
 title: "Windows Server 2012 Data Deduplication&ndash;A must have"
 layout: "post"
-date: 08/20/2012 21:15:24
+date: 2012-08-20T21:15:24Z
 slug: "windows-server-2012-data-deduplicationa-must-have"
 aliases:
   - "/2012/08/windows-server-2012-data-deduplicationa-must-have/"

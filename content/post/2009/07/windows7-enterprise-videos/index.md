@@ -1,7 +1,7 @@
 ---
 title: "Windows7 Enterprise Videos"
 layout: "post"
-date: 07/18/2009 20:58:13
+date: 2009-07-18T20:58:13Z
 slug: "windows7-enterprise-videos"
 aliases:
   - "/2009/07/windows7-enterprise-videos/"

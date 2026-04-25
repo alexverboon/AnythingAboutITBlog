@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: LightScreen (Screen Capture Utility)"
 layout: "post"
-date: 04/08/2012 16:04:27
+date: 2012-04-08T16:04:27Z
 slug: "tooltip-lightscreen-screen-capture-utility"
 aliases:
   - "/2012/04/tooltip-lightscreen-screen-capture-utility/"

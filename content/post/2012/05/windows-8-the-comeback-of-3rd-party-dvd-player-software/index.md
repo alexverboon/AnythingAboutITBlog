@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 the Comeback of 3rd Party DVD Player Software?"
 layout: "post"
-date: 05/03/2012 14:00:09
+date: 2012-05-03T14:00:09Z
 slug: "windows-8-the-comeback-of-3rd-party-dvd-player-software"
 aliases:
   - "/2012/05/windows-8-the-comeback-of-3rd-party-dvd-player-software/"

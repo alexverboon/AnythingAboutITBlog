@@ -1,7 +1,7 @@
 ---
 title: "App-V Visio Stencil"
 layout: "post"
-date: 03/07/2010 16:06:55
+date: 2010-03-07T16:06:55Z
 slug: "app-v-visio-stencil"
 aliases:
   - "/2010/03/app-v-visio-stencil/"

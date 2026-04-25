@@ -1,7 +1,7 @@
 ---
 title: "Office 2010 Administrative Template files and Office Customization Tool"
 layout: "post"
-date: 04/29/2010 19:06:40
+date: 2010-04-29T19:06:40Z
 slug: "office-2010-administrative-template-files-and-office-customization-tool"
 aliases:
   - "/2010/04/office-2010-administrative-template-files-and-office-customization-tool/"

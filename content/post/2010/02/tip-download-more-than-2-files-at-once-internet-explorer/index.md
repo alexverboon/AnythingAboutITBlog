@@ -1,7 +1,7 @@
 ---
 title: "Tip: Download more than 2 files at once (Internet Explorer)"
 layout: "post"
-date: 02/26/2010 16:19:19
+date: 2010-02-26T16:19:19Z
 slug: "tip-download-more-than-2-files-at-once-internet-explorer"
 aliases:
   - "/2010/02/tip-download-more-than-2-files-at-once-internet-explorer/"

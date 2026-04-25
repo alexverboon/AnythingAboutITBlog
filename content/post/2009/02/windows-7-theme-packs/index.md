@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Theme Packs"
 layout: "post"
-date: 02/27/2009 18:27:04
+date: 2009-02-27T18:27:04Z
 slug: "windows-7-theme-packs"
 aliases:
   - "/2009/02/windows-7-theme-packs/"

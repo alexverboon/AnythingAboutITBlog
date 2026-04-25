@@ -1,7 +1,7 @@
 ---
 title: "Changing Internet Explorer Security Settings on Windows Server 2008"
 layout: "post"
-date: 11/22/2009 14:55:28
+date: 2009-11-22T14:55:28Z
 slug: "changing-internet-explorer-security-settings-on-windows-server-2008"
 aliases:
   - "/2009/11/changing-internet-explorer-security-settings-on-windows-server-2008/"

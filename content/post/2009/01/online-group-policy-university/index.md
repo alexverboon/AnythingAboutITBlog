@@ -1,7 +1,7 @@
 ---
 title: "Online Group Policy University"
 layout: "post"
-date: 01/27/2009 22:59:23
+date: 2009-01-27T22:59:23Z
 slug: "online-group-policy-university"
 aliases:
   - "/2009/01/online-group-policy-university/"

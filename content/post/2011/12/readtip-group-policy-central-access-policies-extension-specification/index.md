@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Group Policy Central Access Policies Extension Specification"
 layout: "post"
-date: 12/23/2011 00:50:06
+date: 2011-12-23T00:50:06Z
 slug: "readtip-group-policy-central-access-policies-extension-specification"
 aliases:
   - "/2011/12/readtip-group-policy-central-access-policies-extension-specification/"

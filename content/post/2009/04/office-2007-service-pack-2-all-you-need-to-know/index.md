@@ -1,7 +1,7 @@
 ---
 title: "Office 2007 Service Pack 2 &ndash; All you need to know"
 layout: "post"
-date: 04/29/2009 20:10:29
+date: 2009-04-29T20:10:29Z
 slug: "office-2007-service-pack-2-all-you-need-to-know"
 aliases:
   - "/2009/04/office-2007-service-pack-2-all-you-need-to-know/"

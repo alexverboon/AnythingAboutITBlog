@@ -1,7 +1,7 @@
 ---
 title: "The early days of personal computing"
 layout: "post"
-date: 04/26/2009 17:18:35
+date: 2009-04-26T17:18:35Z
 slug: "the-early-days-of-personal-computing"
 aliases:
   - "/2009/04/the-early-days-of-personal-computing/"

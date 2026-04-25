@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 - Driverstore size"
 layout: "post"
-date: 02/01/2009 11:38:51
+date: 2009-02-01T11:38:51Z
 slug: "windows-7-driverstore-size"
 aliases:
   - "/2009/02/windows-7-driverstore-size/"

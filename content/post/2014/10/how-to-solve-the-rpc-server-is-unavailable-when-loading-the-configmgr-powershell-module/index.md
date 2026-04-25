@@ -1,7 +1,7 @@
 ---
 title: "How to solve &ldquo;The RPC server is unavailable&rdquo; when loading the ConfigMgr PowerShell Module"
 layout: "post"
-date: 10/29/2014 17:03:43
+date: 2014-10-29T17:03:43Z
 slug: "how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module"
 aliases:
   - "/2014/10/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module/"

@@ -1,7 +1,7 @@
 ---
 title: "System Center - Virtual Machine Manager Demo"
 layout: "post"
-date: 12/08/2008 16:07:32
+date: 2008-12-08T16:07:32Z
 slug: "system-center-virtual-machine-manager-demo"
 aliases:
   - "/2008/12/system-center-virtual-machine-manager-demo/"

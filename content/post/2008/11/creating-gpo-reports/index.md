@@ -1,7 +1,7 @@
 ---
 title: "Creating GPO reports"
 layout: "post"
-date: 11/13/2008 22:00:05
+date: 2008-11-13T22:00:05Z
 slug: "creating-gpo-reports"
 aliases:
   - "/2008/11/creating-gpo-reports/"

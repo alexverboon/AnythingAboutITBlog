@@ -1,7 +1,7 @@
 ---
 title: "Windows 8&ndash;Metered Connections"
 layout: "post"
-date: 10/17/2012 21:26:17
+date: 2012-10-17T21:26:17Z
 slug: "windows-8metered-connections"
 aliases:
   - "/2012/10/windows-8metered-connections/"

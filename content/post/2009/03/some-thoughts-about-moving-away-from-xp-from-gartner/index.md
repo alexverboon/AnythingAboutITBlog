@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts about moving away from XP from Gartner"
 layout: "post"
-date: 03/28/2009 17:56:16
+date: 2009-03-28T17:56:16Z
 slug: "some-thoughts-about-moving-away-from-xp-from-gartner"
 aliases:
   - "/2009/03/some-thoughts-about-moving-away-from-xp-from-gartner/"

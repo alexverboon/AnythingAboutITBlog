@@ -1,7 +1,7 @@
 ---
 title: "Expanded Control with Group Policy Preferences article from TechNet Magazine"
 layout: "post"
-date: 01/19/2009 21:02:00
+date: 2009-01-19T21:02:00Z
 slug: "expanded-control-with-group-policy-preferences-article-from-technet-magazine"
 aliases:
   - "/2009/01/expanded-control-with-group-policy-preferences-article-from-technet-magazine/"

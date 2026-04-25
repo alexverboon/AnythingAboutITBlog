@@ -1,7 +1,7 @@
 ---
 title: "Migrating to Internet Explorer 8"
 layout: "post"
-date: 04/29/2010 21:12:44
+date: 2010-04-29T21:12:44Z
 slug: "migrating-to-internet-explorer-8"
 aliases:
   - "/2010/04/migrating-to-internet-explorer-8/"

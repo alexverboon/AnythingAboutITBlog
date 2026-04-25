@@ -1,7 +1,7 @@
 ---
 title: "Creating Group Policy Objects with PowerShell"
 layout: "post"
-date: 10/16/2010 16:52:03
+date: 2010-10-16T16:52:03Z
 slug: "creating-group-policy-objects-with-powershell"
 aliases:
   - "/2010/10/creating-group-policy-objects-with-powershell/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: BlueScreenView"
 layout: "post"
-date: 08/04/2009 21:56:21
+date: 2009-08-04T21:56:21Z
 slug: "tooltip-bluescreenview"
 aliases:
   - "/2009/08/tooltip-bluescreenview/"

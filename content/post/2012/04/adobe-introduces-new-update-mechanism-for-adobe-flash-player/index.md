@@ -1,7 +1,7 @@
 ---
 title: "Adobe introduces new Update Mechanism for Adobe Flash Player"
 layout: "post"
-date: 04/02/2012 22:54:32
+date: 2012-04-02T22:54:32Z
 slug: "adobe-introduces-new-update-mechanism-for-adobe-flash-player"
 aliases:
   - "/2012/04/adobe-introduces-new-update-mechanism-for-adobe-flash-player/"

@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr - How to find the Application Name for a ContentID"
 layout: "post"
-date: 06/03/2014 21:51:08
+date: 2014-06-03T21:51:08Z
 slug: "configmgr-how-to-find-the-application-name-for-a-contentid"
 aliases:
   - "/2014/06/configmgr-how-to-find-the-application-name-for-a-contentid/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Yet another Sysinternals download script"
 layout: "post"
-date: 12/01/2013 22:10:33
+date: 2013-12-01T22:10:33Z
 slug: "powershell-yet-another-sysinternals-download-script"
 aliases:
   - "/2013/12/powershell-yet-another-sysinternals-download-script/"

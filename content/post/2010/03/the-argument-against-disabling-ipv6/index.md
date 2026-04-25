@@ -1,7 +1,7 @@
 ---
 title: "The Argument against Disabling IPv6"
 layout: "post"
-date: 03/08/2010 21:09:54
+date: 2010-03-08T21:09:54Z
 slug: "the-argument-against-disabling-ipv6"
 aliases:
   - "/2010/03/the-argument-against-disabling-ipv6/"

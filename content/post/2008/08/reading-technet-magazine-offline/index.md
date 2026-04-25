@@ -1,7 +1,7 @@
 ---
 title: "Reading TechNet Magazine offline"
 layout: "post"
-date: 08/10/2008 14:32:57
+date: 2008-08-10T14:32:57Z
 slug: "reading-technet-magazine-offline"
 aliases:
   - "/2008/08/reading-technet-magazine-offline/"

@@ -1,7 +1,7 @@
 ---
 title: "GPO Template for UE-V SettingsTemplateCatalogPath configuration"
 layout: "post"
-date: 04/17/2012 10:58:35
+date: 2012-04-17T10:58:35Z
 slug: "gpo-template-for-ue-v-settingstemplatecatalogpath-configuration"
 aliases:
   - "/2012/04/gpo-template-for-ue-v-settingstemplatecatalogpath-configuration/"

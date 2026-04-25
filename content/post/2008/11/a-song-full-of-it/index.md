@@ -1,7 +1,7 @@
 ---
 title: "A song full of IT"
 layout: "post"
-date: 11/16/2008 14:26:26
+date: 2008-11-16T14:26:26Z
 slug: "a-song-full-of-it"
 aliases:
   - "/2008/11/a-song-full-of-it/"

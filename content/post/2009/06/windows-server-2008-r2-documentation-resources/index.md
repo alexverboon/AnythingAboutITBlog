@@ -1,7 +1,7 @@
 ---
 title: "Windows Server 2008 R2 Documentation &amp; Resources"
 layout: "post"
-date: 06/14/2009 10:40:16
+date: 2009-06-14T10:40:16Z
 slug: "windows-server-2008-r2-documentation-resources"
 aliases:
   - "/2009/06/windows-server-2008-r2-documentation-resources/"

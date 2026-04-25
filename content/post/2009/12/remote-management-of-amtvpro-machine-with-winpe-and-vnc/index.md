@@ -1,7 +1,7 @@
 ---
 title: "Remote Management of AMT/vPro machine with WinPE and VNC"
 layout: "post"
-date: 12/26/2009 15:36:37
+date: 2009-12-26T15:36:37Z
 slug: "remote-management-of-amtvpro-machine-with-winpe-and-vnc"
 aliases:
   - "/2009/12/remote-management-of-amtvpro-machine-with-winpe-and-vnc/"

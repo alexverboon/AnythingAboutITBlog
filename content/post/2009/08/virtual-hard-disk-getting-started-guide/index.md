@@ -1,7 +1,7 @@
 ---
 title: "Virtual Hard Disk Getting Started Guide"
 layout: "post"
-date: 08/02/2009 14:55:08
+date: 2009-08-02T14:55:08Z
 slug: "virtual-hard-disk-getting-started-guide"
 aliases:
   - "/2009/08/virtual-hard-disk-getting-started-guide/"

@@ -1,7 +1,7 @@
 ---
 title: "A GUI for Windows Server Core"
 layout: "post"
-date: 05/21/2008 18:40:00
+date: 2008-05-21T18:40:00Z
 slug: "a-gui-for-windows-server-core"
 aliases:
   - "/2008/05/a-gui-for-windows-server-core/"

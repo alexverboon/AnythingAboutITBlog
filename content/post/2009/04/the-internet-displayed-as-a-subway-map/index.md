@@ -1,7 +1,7 @@
 ---
 title: "The Internet displayed as a subway map"
 layout: "post"
-date: 04/12/2009 17:59:17
+date: 2009-04-12T17:59:17Z
 slug: "the-internet-displayed-as-a-subway-map"
 aliases:
   - "/2009/04/the-internet-displayed-as-a-subway-map/"

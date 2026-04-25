@@ -1,7 +1,7 @@
 ---
 title: "GMail in terminal mode"
 layout: "post"
-date: 11/20/2008 23:06:55
+date: 2008-11-20T23:06:55Z
 slug: "gmail-in-terminal-mode"
 aliases:
   - "/2008/11/gmail-in-terminal-mode/"

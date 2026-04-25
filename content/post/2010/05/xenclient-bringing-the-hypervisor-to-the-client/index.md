@@ -1,7 +1,7 @@
 ---
 title: "XenClient &ndash; Bringing the Hypervisor to the client"
 layout: "post"
-date: 05/12/2010 23:03:24
+date: 2010-05-12T23:03:24Z
 slug: "xenclient-bringing-the-hypervisor-to-the-client"
 aliases:
   - "/2010/05/xenclient-bringing-the-hypervisor-to-the-client/"

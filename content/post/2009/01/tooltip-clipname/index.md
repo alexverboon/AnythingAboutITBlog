@@ -1,7 +1,7 @@
 ---
 title: "ToolTip &ndash; Clipname"
 layout: "post"
-date: 01/14/2009 13:20:04
+date: 2009-01-14T13:20:04Z
 slug: "tooltip-clipname"
 aliases:
   - "/2009/01/tooltip-clipname/"

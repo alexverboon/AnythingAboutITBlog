@@ -1,7 +1,7 @@
 ---
 title: "Converting VMWare image to Hyper-V image"
 layout: "post"
-date: 12/04/2008 20:26:22
+date: 2008-12-04T20:26:22Z
 slug: "converting-vmware-image-to-hyper-v-image"
 aliases:
   - "/2008/12/converting-vmware-image-to-hyper-v-image/"

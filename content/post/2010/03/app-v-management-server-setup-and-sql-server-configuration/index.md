@@ -1,7 +1,7 @@
 ---
 title: "App-V Management Server Setup and SQL Server Configuration"
 layout: "post"
-date: 03/14/2010 00:01:02
+date: 2010-03-14T00:01:02Z
 slug: "app-v-management-server-setup-and-sql-server-configuration"
 aliases:
   - "/2010/03/app-v-management-server-setup-and-sql-server-configuration/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Finding ConfigMgr Collections and Members"
 layout: "post"
-date: 01/08/2014 00:42:00
+date: 2014-01-08T00:42:00Z
 slug: "powershell-finding-configmgr-collections-and-members"
 aliases:
   - "/2014/01/powershell-finding-configmgr-collections-and-members/"

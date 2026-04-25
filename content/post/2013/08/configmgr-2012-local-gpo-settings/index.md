@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr 2012 local GPO settings"
 layout: "post"
-date: 08/13/2013 22:26:06
+date: 2013-08-13T22:26:06Z
 slug: "configmgr-2012-local-gpo-settings"
 aliases:
   - "/2013/08/configmgr-2012-local-gpo-settings/"

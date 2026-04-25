@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Boxcutter &ndash; A Command line screenshot utility"
 layout: "post"
-date: 11/08/2011 22:57:10
+date: 2011-11-08T22:57:10Z
 slug: "tooltip-boxcutter-a-command-line-screenshot-utility"
 aliases:
   - "/2011/11/tooltip-boxcutter-a-command-line-screenshot-utility/"

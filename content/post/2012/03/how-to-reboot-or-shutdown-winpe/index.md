@@ -1,7 +1,7 @@
 ---
 title: "How to Reboot or Shutdown WinPE"
 layout: "post"
-date: 03/28/2012 20:03:11
+date: 2012-03-28T20:03:11Z
 slug: "how-to-reboot-or-shutdown-winpe"
 aliases:
   - "/2012/03/how-to-reboot-or-shutdown-winpe/"

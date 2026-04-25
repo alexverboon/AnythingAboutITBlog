@@ -1,7 +1,7 @@
 ---
 title: "Reimaging Macintosh Computers"
 layout: "post"
-date: 06/30/2009 18:30:42
+date: 2009-06-30T18:30:42Z
 slug: "reimaging-macintosh-computers"
 aliases:
   - "/2009/06/reimaging-macintosh-computers/"

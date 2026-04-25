@@ -1,7 +1,7 @@
 ---
 title: "Download and Install the Windows Assessment and Deployment Kit with PowerShell"
 layout: "post"
-date: 02/07/2017 16:22:42
+date: 2017-02-07T16:22:42Z
 slug: "download-and-install-the-windows-assessment-and-deployment-kit-with-powershell"
 aliases:
   - "/2017/02/download-and-install-the-windows-assessment-and-deployment-kit-with-powershell/"

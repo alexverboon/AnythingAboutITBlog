@@ -1,7 +1,7 @@
 ---
 title: "Don't skip Vista"
 layout: "post"
-date: 10/23/2008 20:25:55
+date: 2008-10-23T20:25:55Z
 slug: "dont-skip-vista"
 aliases:
   - "/2008/10/dont-skip-vista/"

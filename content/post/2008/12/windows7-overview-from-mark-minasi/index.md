@@ -1,7 +1,7 @@
 ---
 title: "Windows7 overview from Mark Minasi"
 layout: "post"
-date: 12/03/2008 18:34:58
+date: 2008-12-03T18:34:58Z
 slug: "windows7-overview-from-mark-minasi"
 aliases:
   - "/2008/12/windows7-overview-from-mark-minasi/"

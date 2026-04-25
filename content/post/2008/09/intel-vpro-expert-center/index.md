@@ -1,7 +1,7 @@
 ---
 title: "Intel vPro Expert center"
 layout: "post"
-date: 09/08/2008 19:35:50
+date: 2008-09-08T19:35:50Z
 slug: "intel-vpro-expert-center"
 aliases:
   - "/2008/09/intel-vpro-expert-center/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - RichCopy"
 layout: "post"
-date: 03/13/2009 17:09:33
+date: 2009-03-13T17:09:33Z
 slug: "tooltip-richcopy"
 aliases:
   - "/2009/03/tooltip-richcopy/"

@@ -1,7 +1,7 @@
 ---
 title: "Creating Group Policy Reports with PowerShell"
 layout: "post"
-date: 10/03/2010 19:14:43
+date: 2010-10-03T19:14:43Z
 slug: "creating-group-policy-reports-with-powershell"
 aliases:
   - "/2010/10/creating-group-policy-reports-with-powershell/"

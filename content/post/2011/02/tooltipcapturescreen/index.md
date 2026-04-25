@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: CaptureScreen"
 layout: "post"
-date: 02/08/2011 19:33:47
+date: 2011-02-08T19:33:47Z
 slug: "tooltipcapturescreen"
 aliases:
   - "/2011/02/tooltipcapturescreen/"

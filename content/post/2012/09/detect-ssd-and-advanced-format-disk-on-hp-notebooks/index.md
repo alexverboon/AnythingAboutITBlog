@@ -1,7 +1,7 @@
 ---
 title: "Detect SSD and Advanced Format Disk on HP Notebooks"
 layout: "post"
-date: 09/12/2012 20:59:50
+date: 2012-09-12T20:59:50Z
 slug: "detect-ssd-and-advanced-format-disk-on-hp-notebooks"
 aliases:
   - "/2012/09/detect-ssd-and-advanced-format-disk-on-hp-notebooks/"

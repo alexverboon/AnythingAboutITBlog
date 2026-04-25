@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Using the WordPress Rest API"
 layout: "post"
-date: 12/29/2013 19:07:27
+date: 2013-12-29T19:07:27Z
 slug: "powershell-using-the-wordpress-rest-api"
 aliases:
   - "/2013/12/powershell-using-the-wordpress-rest-api/"

@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: XenDesktop 5 MCS or PVS"
 layout: "post"
-date: 05/16/2011 06:51:02
+date: 2011-05-16T06:51:02Z
 slug: "readtip-xendesktop-5-mcs-or-pvs"
 aliases:
   - "/2011/05/readtip-xendesktop-5-mcs-or-pvs/"

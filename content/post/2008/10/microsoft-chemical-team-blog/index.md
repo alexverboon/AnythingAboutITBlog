@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Chemical Team blog"
 layout: "post"
-date: 10/16/2008 06:45:21
+date: 2008-10-16T06:45:21Z
 slug: "microsoft-chemical-team-blog"
 aliases:
   - "/2008/10/microsoft-chemical-team-blog/"

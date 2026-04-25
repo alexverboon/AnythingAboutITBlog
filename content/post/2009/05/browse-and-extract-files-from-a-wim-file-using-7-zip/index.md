@@ -1,7 +1,7 @@
 ---
 title: "Browse and extract files from a WIM file using 7-Zip"
 layout: "post"
-date: 05/17/2009 16:17:10
+date: 2009-05-17T16:17:10Z
 slug: "browse-and-extract-files-from-a-wim-file-using-7-zip"
 aliases:
   - "/2009/05/browse-and-extract-files-from-a-wim-file-using-7-zip/"

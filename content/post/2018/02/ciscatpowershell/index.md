@@ -1,7 +1,7 @@
 ---
 title: "Automating CIS-CAT Pro with PowerShell"
 layout: "post"
-date: 02/06/2018 20:34:49
+date: 2018-02-06T20:34:49Z
 slug: "ciscatpowershell"
 aliases:
   - "/2018/02/ciscatpowershell/"

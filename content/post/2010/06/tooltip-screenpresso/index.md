@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Screenpresso"
 layout: "post"
-date: 06/06/2010 17:39:24
+date: 2010-06-06T17:39:24Z
 slug: "tooltip-screenpresso"
 aliases:
   - "/2010/06/tooltip-screenpresso/"

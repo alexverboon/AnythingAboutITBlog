@@ -1,7 +1,7 @@
 ---
 title: "Windows Multilanguage Packs explained"
 layout: "post"
-date: 02/01/2009 13:36:43
+date: 2009-02-01T13:36:43Z
 slug: "windows-multilanguage-packs-explained"
 aliases:
   - "/2009/02/windows-multilanguage-packs-explained/"

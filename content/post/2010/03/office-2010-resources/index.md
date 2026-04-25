@@ -1,7 +1,7 @@
 ---
 title: "Office 2010 Resources"
 layout: "post"
-date: 03/11/2010 18:48:15
+date: 2010-03-11T18:48:15Z
 slug: "office-2010-resources"
 aliases:
   - "/2010/03/office-2010-resources/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: checksum"
 layout: "post"
-date: 06/28/2010 22:50:37
+date: 2010-06-28T22:50:37Z
 slug: "tooltip-checksum"
 aliases:
   - "/2010/06/tooltip-checksum/"

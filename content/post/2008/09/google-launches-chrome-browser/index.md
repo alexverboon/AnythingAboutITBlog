@@ -1,7 +1,7 @@
 ---
 title: "Google launches Chrome Browser"
 layout: "post"
-date: 09/02/2008 22:58:04
+date: 2008-09-02T22:58:04Z
 slug: "google-launches-chrome-browser"
 aliases:
   - "/2008/09/google-launches-chrome-browser/"

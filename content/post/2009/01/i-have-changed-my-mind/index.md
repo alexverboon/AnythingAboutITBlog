@@ -1,7 +1,7 @@
 ---
 title: "I have changed my mind"
 layout: "post"
-date: 01/14/2009 19:58:27
+date: 2009-01-14T19:58:27Z
 slug: "i-have-changed-my-mind"
 aliases:
   - "/2009/01/i-have-changed-my-mind/"

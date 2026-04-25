@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: System Sherlock Lite"
 layout: "post"
-date: 11/28/2012 19:46:48
+date: 2012-11-28T19:46:48Z
 slug: "tooltip-system-sherlock-lite"
 aliases:
   - "/2012/11/tooltip-system-sherlock-lite/"

@@ -1,7 +1,7 @@
 ---
 title: "Updated Plans for Windows7 in Europe"
 layout: "post"
-date: 08/02/2009 13:51:45
+date: 2009-08-02T13:51:45Z
 slug: "updated-plans-for-windows7-in-europe"
 aliases:
   - "/2009/08/updated-plans-for-windows7-in-europe/"

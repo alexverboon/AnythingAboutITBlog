@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions About Volume License Keys"
 layout: "post"
-date: 05/17/2010 19:29:35
+date: 2010-05-17T19:29:35Z
 slug: "frequently-asked-questions-about-volume-license-keys"
 aliases:
   - "/2010/05/frequently-asked-questions-about-volume-license-keys/"

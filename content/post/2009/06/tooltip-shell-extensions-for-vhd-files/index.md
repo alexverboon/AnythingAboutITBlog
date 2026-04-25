@@ -1,7 +1,7 @@
 ---
 title: "ToolTip &ndash; Shell extensions for VHD files"
 layout: "post"
-date: 06/21/2009 12:16:23
+date: 2009-06-21T12:16:23Z
 slug: "tooltip-shell-extensions-for-vhd-files"
 aliases:
   - "/2009/06/tooltip-shell-extensions-for-vhd-files/"

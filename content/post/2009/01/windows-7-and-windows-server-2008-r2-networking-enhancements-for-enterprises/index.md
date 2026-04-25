@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 and Windows Server 2008 R2 Networking Enhancements for Enterprises"
 layout: "post"
-date: 01/13/2009 19:26:10
+date: 2009-01-13T19:26:10Z
 slug: "windows-7-and-windows-server-2008-r2-networking-enhancements-for-enterprises"
 aliases:
   - "/2009/01/windows-7-and-windows-server-2008-r2-networking-enhancements-for-enterprises/"

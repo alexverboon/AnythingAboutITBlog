@@ -1,7 +1,7 @@
 ---
 title: "The GroupPolicy Xtended PowerShell Module"
 layout: "post"
-date: 02/11/2016 09:42:48
+date: 2016-02-11T09:42:48Z
 slug: "the-grouppolicy-xtended-powershell-module"
 aliases:
   - "/2016/02/the-grouppolicy-xtended-powershell-module/"

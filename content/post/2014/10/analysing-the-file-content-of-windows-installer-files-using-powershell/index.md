@@ -1,7 +1,7 @@
 ---
 title: "Analysing the file content of Windows Installer files using PowerShell"
 layout: "post"
-date: 10/05/2014 18:59:14
+date: 2014-10-05T18:59:14Z
 slug: "analysing-the-file-content-of-windows-installer-files-using-powershell"
 aliases:
   - "/2014/10/analysing-the-file-content-of-windows-installer-files-using-powershell/"

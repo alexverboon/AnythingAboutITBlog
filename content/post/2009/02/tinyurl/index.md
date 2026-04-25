@@ -1,7 +1,7 @@
 ---
 title: "TinyURL"
 layout: "post"
-date: 02/15/2009 15:02:24
+date: 2009-02-15T15:02:24Z
 slug: "tinyurl"
 aliases:
   - "/2009/02/tinyurl/"

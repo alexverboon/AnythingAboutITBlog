@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 VHD Boot demonstration video"
 layout: "post"
-date: 05/01/2009 12:32:59
+date: 2009-05-01T12:32:59Z
 slug: "windows-7-vhd-boot-demonstration-video"
 aliases:
   - "/2009/05/windows-7-vhd-boot-demonstration-video/"

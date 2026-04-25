@@ -1,7 +1,7 @@
 ---
 title: "Taking Group Policy beyond what&rsquo;s in the box &ndash; Part2"
 layout: "post"
-date: 08/22/2011 10:01:29
+date: 2011-08-22T10:01:29Z
 slug: "taking-group-policy-beyond-whats-in-the-box-part2"
 aliases:
   - "/2011/08/taking-group-policy-beyond-whats-in-the-box-part2/"

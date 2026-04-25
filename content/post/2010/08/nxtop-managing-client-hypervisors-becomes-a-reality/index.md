@@ -1,7 +1,7 @@
 ---
 title: "NxTop &ndash; Managing Client Hypervisors becomes a reality"
 layout: "post"
-date: 08/15/2010 19:21:14
+date: 2010-08-15T19:21:14Z
 slug: "nxtop-managing-client-hypervisors-becomes-a-reality"
 aliases:
   - "/2010/08/nxtop-managing-client-hypervisors-becomes-a-reality/"

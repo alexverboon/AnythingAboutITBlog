@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Deployment Changes"
 layout: "post"
-date: 02/15/2009 19:07:13
+date: 2009-02-15T19:07:13Z
 slug: "windows-7-deployment-changes"
 aliases:
   - "/2009/02/windows-7-deployment-changes/"

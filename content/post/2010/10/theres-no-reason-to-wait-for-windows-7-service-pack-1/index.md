@@ -1,7 +1,7 @@
 ---
 title: "There&rsquo;s no reason to wait for Windows 7 Service Pack 1"
 layout: "post"
-date: 10/30/2010 14:24:37
+date: 2010-10-30T14:24:37Z
 slug: "theres-no-reason-to-wait-for-windows-7-service-pack-1"
 aliases:
   - "/2010/10/theres-no-reason-to-wait-for-windows-7-service-pack-1/"

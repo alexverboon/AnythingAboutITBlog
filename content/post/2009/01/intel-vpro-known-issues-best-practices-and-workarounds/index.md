@@ -1,7 +1,7 @@
 ---
 title: "Intel vPro - Known Issues, Best Practices, and Workarounds"
 layout: "post"
-date: 01/14/2009 21:00:20
+date: 2009-01-14T21:00:20Z
 slug: "intel-vpro-known-issues-best-practices-and-workarounds"
 aliases:
   - "/2009/01/intel-vpro-known-issues-best-practices-and-workarounds/"

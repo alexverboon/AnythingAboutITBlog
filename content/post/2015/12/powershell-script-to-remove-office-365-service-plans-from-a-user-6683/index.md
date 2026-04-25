@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script to remove Office 365 Service Plans from a user"
 layout: "post"
-date: 12/13/2015 21:09:16
+date: 2015-12-13T21:09:16Z
 slug: "powershell-script-to-remove-office-365-service-plans-from-a-user-6683"
 aliases:
   - "/2015/12/powershell-script-to-remove-office-365-service-plans-from-a-user-6683/"

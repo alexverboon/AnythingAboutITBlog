@@ -1,7 +1,7 @@
 ---
 title: "Windows Vista Performance and Tuning Guide"
 layout: "post"
-date: 08/04/2008 13:48:01
+date: 2008-08-04T13:48:01Z
 slug: "windows-vista-performance-and-tuning-guide"
 aliases:
   - "/2008/08/windows-vista-performance-and-tuning-guide/"

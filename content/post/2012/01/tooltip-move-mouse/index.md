@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Move Mouse"
 layout: "post"
-date: 01/04/2012 15:15:22
+date: 2012-01-04T15:15:22Z
 slug: "tooltip-move-mouse"
 aliases:
   - "/2012/01/tooltip-move-mouse/"

@@ -1,7 +1,7 @@
 ---
 title: "Redirect Computers Container in Active Directory"
 layout: "post"
-date: 03/22/2010 23:10:09
+date: 2010-03-22T23:10:09Z
 slug: "redirect-computers-container-in-active-directory"
 aliases:
   - "/2010/03/redirect-computers-container-in-active-directory/"

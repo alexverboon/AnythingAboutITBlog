@@ -1,7 +1,7 @@
 ---
 title: "How to Reset Windows 8 without external media"
 layout: "post"
-date: 01/09/2012 11:46:21
+date: 2012-01-09T11:46:21Z
 slug: "how-to-reset-windows-8-without-external-media"
 aliases:
   - "/2012/01/how-to-reset-windows-8-without-external-media/"

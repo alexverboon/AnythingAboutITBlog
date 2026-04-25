@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: GPO Deny Finder"
 layout: "post"
-date: 03/03/2012 15:11:17
+date: 2012-03-03T15:11:17Z
 slug: "tooltip-gpo-deny-finder"
 aliases:
   - "/2012/03/tooltip-gpo-deny-finder/"

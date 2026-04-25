@@ -1,7 +1,7 @@
 ---
 title: "When Google was born"
 layout: "post"
-date: 07/31/2008 19:08:45
+date: 2008-07-31T19:08:45Z
 slug: "when-google-was-born"
 aliases:
   - "/2008/07/when-google-was-born/"

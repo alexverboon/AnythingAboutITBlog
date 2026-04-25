@@ -1,7 +1,7 @@
 ---
 title: "MED-V Screencasts on TechnetEdge"
 layout: "post"
-date: 04/14/2009 22:40:10
+date: 2009-04-14T22:40:10Z
 slug: "med-v-screencasts-on-technetedge"
 aliases:
   - "/2009/04/med-v-screencasts-on-technetedge/"

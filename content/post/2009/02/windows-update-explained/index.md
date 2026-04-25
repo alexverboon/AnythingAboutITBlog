@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Explained"
 layout: "post"
-date: 02/14/2009 15:01:00
+date: 2009-02-14T15:01:00Z
 slug: "windows-update-explained"
 aliases:
   - "/2009/02/windows-update-explained/"

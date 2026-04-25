@@ -1,7 +1,7 @@
 ---
 title: "BlogTip: Group Policy Center"
 layout: "post"
-date: 03/22/2010 23:49:20
+date: 2010-03-22T23:49:20Z
 slug: "blogtip-group-policy-center"
 aliases:
   - "/2010/03/blogtip-group-policy-center/"

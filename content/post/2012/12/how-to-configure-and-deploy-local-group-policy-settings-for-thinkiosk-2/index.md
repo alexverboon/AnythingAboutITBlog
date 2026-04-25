@@ -1,7 +1,7 @@
 ---
 title: "How to configure and deploy local Group Policy settings for ThinKiosk"
 layout: "post"
-date: 12/16/2012 11:36:27
+date: 2012-12-16T11:36:27Z
 slug: "how-to-configure-and-deploy-local-group-policy-settings-for-thinkiosk-2"
 aliases:
   - "/2012/12/how-to-configure-and-deploy-local-group-policy-settings-for-thinkiosk-2/"

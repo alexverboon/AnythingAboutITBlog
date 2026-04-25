@@ -1,7 +1,7 @@
 ---
 title: "Server core configuration made easier on 2008-R2"
 layout: "post"
-date: 05/25/2009 19:03:16
+date: 2009-05-25T19:03:16Z
 slug: "server-core-configuration-made-easier-on-2008-r2"
 aliases:
   - "/2009/05/server-core-configuration-made-easier-on-2008-r2/"

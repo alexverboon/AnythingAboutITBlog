@@ -1,7 +1,7 @@
 ---
 title: "New site dedicated to Microsoft Hyper-V"
 layout: "post"
-date: 07/28/2008 08:26:00
+date: 2008-07-28T08:26:00Z
 slug: "new-site-dedicated-to-microsoft-hyper-v"
 aliases:
   - "/2008/07/new-site-dedicated-to-microsoft-hyper-v/"

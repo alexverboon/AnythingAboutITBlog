@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: PwrTest (Testing Windows Power Management)"
 layout: "post"
-date: 06/30/2011 19:23:26
+date: 2011-06-30T19:23:26Z
 slug: "tooltip-pwrtest-testing-windows-power-management"
 aliases:
   - "/2011/06/tooltip-pwrtest-testing-windows-power-management/"

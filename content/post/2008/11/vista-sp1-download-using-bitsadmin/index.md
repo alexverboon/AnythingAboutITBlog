@@ -1,7 +1,7 @@
 ---
 title: "Vista SP1 download using BITSADMIN"
 layout: "post"
-date: 11/23/2008 14:57:52
+date: 2008-11-23T14:57:52Z
 slug: "vista-sp1-download-using-bitsadmin"
 aliases:
   - "/2008/11/vista-sp1-download-using-bitsadmin/"

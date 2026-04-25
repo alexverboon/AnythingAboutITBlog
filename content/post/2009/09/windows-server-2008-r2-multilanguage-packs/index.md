@@ -1,7 +1,7 @@
 ---
 title: "Windows Server 2008-R2 Multilanguage Packs"
 layout: "post"
-date: 09/02/2009 20:57:23
+date: 2009-09-02T20:57:23Z
 slug: "windows-server-2008-r2-multilanguage-packs"
 aliases:
   - "/2009/09/windows-server-2008-r2-multilanguage-packs/"

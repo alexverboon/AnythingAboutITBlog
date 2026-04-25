@@ -1,7 +1,7 @@
 ---
 title: "Observations for Windows 7 Service Pack 1 Error 0x800f0a12"
 layout: "post"
-date: 02/24/2011 19:02:38
+date: 2011-02-24T19:02:38Z
 slug: "observations-for-windows-7-service-pack-1-error-0x800f0a12"
 aliases:
   - "/2011/02/observations-for-windows-7-service-pack-1-error-0x800f0a12/"

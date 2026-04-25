@@ -1,7 +1,7 @@
 ---
 title: "Wakeup Your Computer And Do Something"
 layout: "post"
-date: 01/20/2011 23:40:01
+date: 2011-01-20T23:40:01Z
 slug: "wakeup-your-computer-and-do-something"
 aliases:
   - "/2011/01/wakeup-your-computer-and-do-something/"

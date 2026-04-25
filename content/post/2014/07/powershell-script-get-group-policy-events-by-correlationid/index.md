@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get Group Policy events by CorrelationID"
 layout: "post"
-date: 07/17/2014 15:00:44
+date: 2014-07-17T15:00:44Z
 slug: "powershell-script-get-group-policy-events-by-correlationid"
 aliases:
   - "/2014/07/powershell-script-get-group-policy-events-by-correlationid/"

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Enterprise Desktop Virtualization v1.0 Beta Demo Kit"
 layout: "post"
-date: 03/16/2009 20:11:57
+date: 2009-03-16T20:11:57Z
 slug: "microsoft-enterprise-desktop-virtualization-v10-beta-demo-kit"
 aliases:
   - "/2009/03/microsoft-enterprise-desktop-virtualization-v10-beta-demo-kit/"

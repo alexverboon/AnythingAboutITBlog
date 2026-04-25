@@ -1,7 +1,7 @@
 ---
 title: "Installing Microsoft Azure AD Connect"
 layout: "post"
-date: 07/01/2015 18:34:37
+date: 2015-07-01T18:34:37Z
 slug: "installing-microsoft-azure-ad-connect"
 aliases:
   - "/2015/07/installing-microsoft-azure-ad-connect/"

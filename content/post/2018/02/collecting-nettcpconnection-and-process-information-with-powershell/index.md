@@ -1,7 +1,7 @@
 ---
 title: "Collecting NetTcpConnection and Process information with PowerShell"
 layout: "post"
-date: 02/08/2018 14:28:19
+date: 2018-02-08T14:28:19Z
 slug: "collecting-nettcpconnection-and-process-information-with-powershell"
 aliases:
   - "/2018/02/collecting-nettcpconnection-and-process-information-with-powershell/"

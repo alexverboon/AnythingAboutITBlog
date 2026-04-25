@@ -1,7 +1,7 @@
 ---
 title: "Windows Vista SP2 Release Candidate"
 layout: "post"
-date: 02/26/2009 19:59:15
+date: 2009-02-26T19:59:15Z
 slug: "windows-vista-sp2-release-candidate"
 aliases:
   - "/2009/02/windows-vista-sp2-release-candidate/"

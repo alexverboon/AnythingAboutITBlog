@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Creating Dummy files"
 layout: "post"
-date: 01/02/2014 17:16:27
+date: 2014-01-02T17:16:27Z
 slug: "powershell-creating-dummy-files"
 aliases:
   - "/2014/01/powershell-creating-dummy-files/"

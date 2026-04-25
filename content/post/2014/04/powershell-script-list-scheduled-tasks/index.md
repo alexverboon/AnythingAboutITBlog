@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - List Scheduled Tasks"
 layout: "post"
-date: 04/28/2014 14:43:55
+date: 2014-04-28T14:43:55Z
 slug: "powershell-script-list-scheduled-tasks"
 aliases:
   - "/2014/04/powershell-script-list-scheduled-tasks/"

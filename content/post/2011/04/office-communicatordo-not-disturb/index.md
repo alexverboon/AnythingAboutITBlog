@@ -1,7 +1,7 @@
 ---
 title: "Office Communicator&ndash;Do Not Disturb"
 layout: "post"
-date: 04/27/2011 06:15:17
+date: 2011-04-27T06:15:17Z
 slug: "office-communicatordo-not-disturb"
 aliases:
   - "/2011/04/office-communicatordo-not-disturb/"

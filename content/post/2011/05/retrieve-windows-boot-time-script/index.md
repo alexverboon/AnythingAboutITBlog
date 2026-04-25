@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Windows Boot Time Script"
 layout: "post"
-date: 05/19/2011 00:42:14
+date: 2011-05-19T00:42:14Z
 slug: "retrieve-windows-boot-time-script"
 aliases:
   - "/2011/05/retrieve-windows-boot-time-script/"

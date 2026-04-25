@@ -1,7 +1,7 @@
 ---
 title: "A new book arrived"
 layout: "post"
-date: 08/09/2008 10:51:40
+date: 2008-08-09T10:51:40Z
 slug: "a-new-book-arrived"
 aliases:
   - "/2008/08/a-new-book-arrived/"

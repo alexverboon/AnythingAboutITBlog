@@ -1,7 +1,7 @@
 ---
 title: "Converting WIM to VHD"
 layout: "post"
-date: 02/15/2009 14:35:12
+date: 2009-02-15T14:35:12Z
 slug: "converting-wim-to-vhd"
 aliases:
   - "/2009/02/converting-wim-to-vhd/"

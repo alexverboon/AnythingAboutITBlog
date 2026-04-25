@@ -1,7 +1,7 @@
 ---
 title: "Altiris anounces CMS 7 Beta II"
 layout: "post"
-date: 06/28/2008 07:58:42
+date: 2008-06-28T07:58:42Z
 slug: "altiris-anounces-cms-7-beta-ii"
 aliases:
   - "/2008/06/altiris-anounces-cms-7-beta-ii/"

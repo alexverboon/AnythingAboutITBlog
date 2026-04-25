@@ -1,7 +1,7 @@
 ---
 title: "Where has the Vista snipping tool gone ?"
 layout: "post"
-date: 01/10/2009 16:39:13
+date: 2009-01-10T16:39:13Z
 slug: "where-has-the-vista-snipping-tool-gone"
 aliases:
   - "/2009/01/where-has-the-vista-snipping-tool-gone/"

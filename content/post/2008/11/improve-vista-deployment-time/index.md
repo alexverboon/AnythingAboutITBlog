@@ -1,7 +1,7 @@
 ---
 title: "Improve Vista Deployment time"
 layout: "post"
-date: 11/21/2008 00:17:28
+date: 2008-11-21T00:17:28Z
 slug: "improve-vista-deployment-time"
 aliases:
   - "/2008/11/improve-vista-deployment-time/"

@@ -1,7 +1,7 @@
 ---
 title: "Volume activation documentation"
 layout: "post"
-date: 09/29/2008 20:31:06
+date: 2008-09-29T20:31:06Z
 slug: "volume-activation-documentation"
 aliases:
   - "/2008/09/volume-activation-documentation/"

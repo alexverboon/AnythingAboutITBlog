@@ -1,7 +1,7 @@
 ---
 title: "How To test if your Antivirus program is working"
 layout: "post"
-date: 01/20/2012 14:29:38
+date: 2012-01-20T14:29:38Z
 slug: "how-to-test-if-your-antivirus-program-is-working"
 aliases:
   - "/2012/01/how-to-test-if-your-antivirus-program-is-working/"

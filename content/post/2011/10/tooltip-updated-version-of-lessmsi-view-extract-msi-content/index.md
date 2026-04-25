@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Updated version of lessmsi (View extract MSI content)"
 layout: "post"
-date: 10/29/2011 15:15:20
+date: 2011-10-29T15:15:20Z
 slug: "tooltip-updated-version-of-lessmsi-view-extract-msi-content"
 aliases:
   - "/2011/10/tooltip-updated-version-of-lessmsi-view-extract-msi-content/"

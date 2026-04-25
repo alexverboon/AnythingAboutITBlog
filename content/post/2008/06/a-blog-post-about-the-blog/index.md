@@ -1,7 +1,7 @@
 ---
 title: "A blog post about the blog"
 layout: "post"
-date: 06/27/2008 20:13:06
+date: 2008-06-27T20:13:06Z
 slug: "a-blog-post-about-the-blog"
 aliases:
   - "/2008/06/a-blog-post-about-the-blog/"

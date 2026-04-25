@@ -1,7 +1,7 @@
 ---
 title: "How to check if Control Flow Guard is enabled"
 layout: "post"
-date: 07/29/2017 10:53:56
+date: 2017-07-29T10:53:56Z
 slug: "how-to-check-if-control-flow-guard-is-enabled"
 aliases:
   - "/2017/07/how-to-check-if-control-flow-guard-is-enabled/"

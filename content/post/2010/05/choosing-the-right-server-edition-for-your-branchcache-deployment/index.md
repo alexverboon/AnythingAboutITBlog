@@ -1,7 +1,7 @@
 ---
 title: "Choosing the right Server Edition for your BranchCache deployment"
 layout: "post"
-date: 05/03/2010 21:01:53
+date: 2010-05-03T21:01:53Z
 slug: "choosing-the-right-server-edition-for-your-branchcache-deployment"
 aliases:
   - "/2010/05/choosing-the-right-server-edition-for-your-branchcache-deployment/"

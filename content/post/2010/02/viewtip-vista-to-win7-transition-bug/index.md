@@ -1,7 +1,7 @@
 ---
 title: "ViewTip: Vista to Win7 transition bug"
 layout: "post"
-date: 02/20/2010 13:28:04
+date: 2010-02-20T13:28:04Z
 slug: "viewtip-vista-to-win7-transition-bug"
 aliases:
   - "/2010/02/viewtip-vista-to-win7-transition-bug/"

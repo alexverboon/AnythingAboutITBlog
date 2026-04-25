@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script&ndash;Set App-V 4.6 Cache Size"
 layout: "post"
-date: 11/29/2013 18:13:07
+date: 2013-11-29T18:13:07Z
 slug: "powershell-scriptset-app-v-4-6-cache-size"
 aliases:
   - "/2013/11/powershell-scriptset-app-v-4-6-cache-size/"

@@ -1,7 +1,7 @@
 ---
 title: "RDP Copy Paste Ramblings"
 layout: "post"
-date: 04/13/2010 22:05:36
+date: 2010-04-13T22:05:36Z
 slug: "rdp-copy-paste-ramblings"
 aliases:
   - "/2010/04/rdp-copy-paste-ramblings/"

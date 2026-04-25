@@ -1,7 +1,7 @@
 ---
 title: "Power to Change"
 layout: "post"
-date: 05/26/2009 21:19:41
+date: 2009-05-26T21:19:41Z
 slug: "power-to-change"
 aliases:
   - "/2009/05/power-to-change/"

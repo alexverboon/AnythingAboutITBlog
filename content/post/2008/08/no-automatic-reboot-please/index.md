@@ -1,7 +1,7 @@
 ---
 title: "No Automatic reboot please"
 layout: "post"
-date: 08/24/2008 13:59:22
+date: 2008-08-24T13:59:22Z
 slug: "no-automatic-reboot-please"
 aliases:
   - "/2008/08/no-automatic-reboot-please/"

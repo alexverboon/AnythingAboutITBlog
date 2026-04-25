@@ -1,7 +1,7 @@
 ---
 title: "Yet another search engine&hellip;.bing"
 layout: "post"
-date: 05/30/2009 15:59:49
+date: 2009-05-30T15:59:49Z
 slug: "yet-another-search-enginebing"
 aliases:
   - "/2009/05/yet-another-search-enginebing/"

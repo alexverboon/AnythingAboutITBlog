@@ -1,7 +1,7 @@
 ---
 title: "Azure Information Protection Scanner & Analytics – Resource Collection"
 layout: "post"
-date: 10/31/2018 18:42:25
+date: 2018-10-31T18:42:25Z
 slug: "azure-information-protection-scanner-analytics-resource-collection"
 aliases:
   - "/2018/10/azure-information-protection-scanner-analytics-resource-collection/"

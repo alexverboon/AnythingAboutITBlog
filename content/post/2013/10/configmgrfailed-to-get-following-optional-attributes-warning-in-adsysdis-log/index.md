@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr&ndash;Failed to get following optional attributes warning in adsysdis.log"
 layout: "post"
-date: 10/09/2013 16:27:57
+date: 2013-10-09T16:27:57Z
 slug: "configmgrfailed-to-get-following-optional-attributes-warning-in-adsysdis-log"
 aliases:
   - "/2013/10/configmgrfailed-to-get-following-optional-attributes-warning-in-adsysdis-log/"

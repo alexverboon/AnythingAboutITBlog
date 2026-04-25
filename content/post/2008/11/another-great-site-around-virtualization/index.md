@@ -1,7 +1,7 @@
 ---
 title: "Another great site around Virtualization"
 layout: "post"
-date: 11/01/2008 13:51:10
+date: 2008-11-01T13:51:10Z
 slug: "another-great-site-around-virtualization"
 aliases:
   - "/2008/11/another-great-site-around-virtualization/"

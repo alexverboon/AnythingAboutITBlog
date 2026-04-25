@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2"
 layout: "post"
-date: 05/21/2011 11:18:16
+date: 2011-05-21T11:18:16Z
 slug: "readtip-applocker-technical-documentation-for-windows-7-and-windows-server-2008-r2"
 aliases:
   - "/2011/05/readtip-applocker-technical-documentation-for-windows-7-and-windows-server-2008-r2/"

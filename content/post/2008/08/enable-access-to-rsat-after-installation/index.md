@@ -1,7 +1,7 @@
 ---
 title: "Enable access to RSAT after installation"
 layout: "post"
-date: 08/15/2008 10:11:39
+date: 2008-08-15T10:11:39Z
 slug: "enable-access-to-rsat-after-installation"
 aliases:
   - "/2008/08/enable-access-to-rsat-after-installation/"

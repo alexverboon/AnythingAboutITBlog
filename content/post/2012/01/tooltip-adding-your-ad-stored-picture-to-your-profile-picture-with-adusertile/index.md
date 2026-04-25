@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Adding your AD stored picture to your profile picture with ADUserTile"
 layout: "post"
-date: 01/16/2012 11:25:54
+date: 2012-01-16T11:25:54Z
 slug: "tooltip-adding-your-ad-stored-picture-to-your-profile-picture-with-adusertile"
 aliases:
   - "/2012/01/tooltip-adding-your-ad-stored-picture-to-your-profile-picture-with-adusertile/"

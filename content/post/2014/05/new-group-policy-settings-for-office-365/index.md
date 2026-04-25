@@ -1,7 +1,7 @@
 ---
 title: "New Group Policy Settings for Office 365"
 layout: "post"
-date: 05/02/2014 17:58:18
+date: 2014-05-02T17:58:18Z
 slug: "new-group-policy-settings-for-office-365"
 aliases:
   - "/2014/05/new-group-policy-settings-for-office-365/"

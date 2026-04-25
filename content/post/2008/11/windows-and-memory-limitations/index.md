@@ -1,7 +1,7 @@
 ---
 title: "Windows and Memory Limitations"
 layout: "post"
-date: 11/26/2008 20:03:08
+date: 2008-11-26T20:03:08Z
 slug: "windows-and-memory-limitations"
 aliases:
   - "/2008/11/windows-and-memory-limitations/"

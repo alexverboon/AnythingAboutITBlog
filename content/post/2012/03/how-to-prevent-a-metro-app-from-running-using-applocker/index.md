@@ -1,7 +1,7 @@
 ---
 title: "How to prevent a Metro App from running using Applocker"
 layout: "post"
-date: 03/01/2012 22:12:22
+date: 2012-03-01T22:12:22Z
 slug: "how-to-prevent-a-metro-app-from-running-using-applocker"
 aliases:
   - "/2012/03/how-to-prevent-a-metro-app-from-running-using-applocker/"

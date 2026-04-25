@@ -1,7 +1,7 @@
 ---
 title: "Going beyond the standard Group Policy Preferences"
 layout: "post"
-date: 04/29/2009 19:40:36
+date: 2009-04-29T19:40:36Z
 slug: "going-beyond-the-standard-group-policy-preferences"
 aliases:
   - "/2009/04/going-beyond-the-standard-group-policy-preferences/"

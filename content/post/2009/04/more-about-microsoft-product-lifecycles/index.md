@@ -1,7 +1,7 @@
 ---
 title: "More about Microsoft product lifecycles"
 layout: "post"
-date: 04/12/2009 20:10:52
+date: 2009-04-12T20:10:52Z
 slug: "more-about-microsoft-product-lifecycles"
 aliases:
   - "/2009/04/more-about-microsoft-product-lifecycles/"

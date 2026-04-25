@@ -1,7 +1,7 @@
 ---
 title: "The History of Microsoft on Channel 9"
 layout: "post"
-date: 02/21/2009 06:33:43
+date: 2009-02-21T06:33:43Z
 slug: "the-history-of-microsoft-on-channel-9"
 aliases:
   - "/2009/02/the-history-of-microsoft-on-channel-9/"

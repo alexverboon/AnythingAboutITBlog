@@ -7,6 +7,7 @@
     "year": 2017,
     "month": "12",
     "author": "alex",
+    "status": "publish",
     "post_id": "7095",
     "tags": [
       "cve",
@@ -20,7 +21,13 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-exploring-microsoft-security-update-information-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-exploring-microsoft-security-update-information-with-powershell.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb_3.png",
+      "image_thumb_4.png",
+      "image_thumb_5.png"
+    ]
   },
   {
     "title": "PowerShell script Update-PoshModule",
@@ -30,6 +37,7 @@
     "year": 2017,
     "month": "12",
     "author": "alex",
+    "status": "publish",
     "post_id": "7084",
     "tags": [
       "module",
@@ -46,7 +54,9 @@
       "image_thumb-3.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-powershell-script-update-poshmodule.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-powershell-script-update-poshmodule.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Script Get-BatteryChargeStatus",
@@ -56,6 +66,7 @@
     "year": 2017,
     "month": "07",
     "author": "alex",
+    "status": "publish",
     "post_id": "7055",
     "tags": [
       "battery",
@@ -66,7 +77,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-powershell-script-get-batterychargestatus.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-powershell-script-get-batterychargestatus.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "How to check if Control Flow Guard is enabled",
@@ -76,6 +89,7 @@
     "year": 2017,
     "month": "07",
     "author": "alex",
+    "status": "publish",
     "post_id": "7039",
     "tags": [
       "cfg",
@@ -96,7 +110,9 @@
       "clip_image012_thumb-1.png"
     ],
     "hero_image": "clip_image002_thumb-1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-how-to-check-if-control-flow-guard-is-enabled.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-how-to-check-if-control-flow-guard-is-enabled.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Creating and Managing Azure Storage Tables with PowerShell",
@@ -106,6 +122,7 @@
     "year": 2017,
     "month": "07",
     "author": "alex",
+    "status": "publish",
     "post_id": "7021",
     "tags": [
       "azure",
@@ -126,7 +143,9 @@
       "image_thumb-4.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-creating-and-managing-azure-storage-tables-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-creating-and-managing-azure-storage-tables-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Retrieving Office 365 roadmap information with PowerShell",
@@ -136,6 +155,7 @@
     "year": 2017,
     "month": "06",
     "author": "alex",
+    "status": "publish",
     "post_id": "7006",
     "tags": [
       "office-365-2",
@@ -148,7 +168,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-retrieving-office-365-roadmap-information-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-retrieving-office-365-roadmap-information-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Office 365 Centralized Deployment service",
@@ -158,6 +180,7 @@
     "year": 2017,
     "month": "06",
     "author": "alex",
+    "status": "publish",
     "post_id": "6995",
     "tags": [
       "add-on",
@@ -174,7 +197,9 @@
       "image_thumb-3.png"
     ],
     "hero_image": "image_thumb-1.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-office-365-centralized-deployment-service.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-office-365-centralized-deployment-service.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "ConfigMgr Client Policy Settings - Get-CMclientpolicysettings",
@@ -184,6 +209,7 @@
     "year": 2017,
     "month": "03",
     "author": "alex",
+    "status": "publish",
     "post_id": "6974",
     "tags": [
       "client-policy-settings",
@@ -195,22 +221,27 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-03-configmgr-client-policy-settings-get-cmclientpolicysettings.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-03-configmgr-client-policy-settings-get-cmclientpolicysettings.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
-    "title": "Untitled Draft 6973",
+    "title": "Untitled Post 6973",
     "date": "2017-02-28T21:00:53Z",
-    "slug": "untitled-draft-6973",
-    "description": "Imported placeholder draft from the WordPress export.",
+    "slug": "untitled-post-6973",
+    "description": "Untitled Post 6973",
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "draft",
     "post_id": "6973",
     "tags": [],
     "categories": [],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-untitled-draft-6973.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-untitled-post-6973.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Deploying ConfigMgr Current Branch in Azure Dev Test Lab",
@@ -220,6 +251,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6968",
     "tags": [
       "azure",
@@ -235,7 +267,43 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-deploying-configmgr-current-branch-in-azure-dev-test-lab.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-deploying-configmgr-current-branch-in-azure-dev-test-lab.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "clip_image002_thumb.png",
+      "clip_image004_thumb.png",
+      "clip_image006_thumb.png",
+      "clip_image008_thumb.png",
+      "clip_image010_thumb.png",
+      "clip_image012_thumb.png",
+      "clip_image014_thumb.png",
+      "clip_image016_thumb.png",
+      "clip_image018_thumb.png",
+      "clip_image020_thumb.png",
+      "clip_image022_thumb.png",
+      "clip_image024_thumb.png",
+      "clip_image026_thumb.png",
+      "clip_image028_thumb.png",
+      "clip_image030_thumb.png",
+      "clip_image032_thumb.png",
+      "clip_image034_thumb.png",
+      "clip_image036_thumb.png",
+      "clip_image038_thumb.png",
+      "clip_image040_thumb.png",
+      "clip_image042_thumb.png",
+      "clip_image044_thumb.png",
+      "clip_image046_thumb.png",
+      "clip_image048_thumb.png",
+      "clip_image050_thumb.png",
+      "clip_image052_thumb.png",
+      "clip_image054_thumb.png",
+      "clip_image056_thumb.png",
+      "clip_image058_thumb.png",
+      "clip_image060_thumb.png",
+      "clip_image062_thumb.png",
+      "clip_image064_thumb.png",
+      "clip_image066_thumb.png"
+    ]
   },
   {
     "title": "How to link an OMS Workspace with an Azure Automation Account",
@@ -245,6 +313,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6966",
     "tags": [
       "automation-account",
@@ -258,7 +327,18 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-how-to-link-an-oms-workspace-with-an-azure-automation-account.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-how-to-link-an-oms-workspace-with-an-azure-automation-account.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png",
+      "image_thumb_3.png",
+      "image_thumb_4.png",
+      "image_thumb_5.png",
+      "image_thumb_6.png",
+      "image_thumb_7.png",
+      "image_thumb_8.png",
+      "image_thumb_9.png"
+    ]
   },
   {
     "title": "OMS Log Analytics HTTP Data Collector API &ndash; Work notes",
@@ -268,6 +348,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6961",
     "tags": [
       "api",
@@ -285,7 +366,21 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-oms-log-analytics-http-data-collector-api-work-notes.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-oms-log-analytics-http-data-collector-api-work-notes.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png",
+      "image_thumb_3.png",
+      "image_thumb_4.png",
+      "image_thumb_5.png",
+      "image_thumb_6.png",
+      "image_thumb_7.png",
+      "image_thumb_8.png",
+      "image_thumb_9.png",
+      "image_thumb_10.png",
+      "image_thumb_11.png",
+      "image_thumb_12.png"
+    ]
   },
   {
     "title": "Retrieve Azure Virtual Machine Size information with PowerShell",
@@ -295,6 +390,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6955",
     "tags": [
       "azure",
@@ -309,7 +405,11 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-retrieve-azure-virtual-machine-size-information-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-retrieve-azure-virtual-machine-size-information-with-powershell.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png"
+    ]
   },
   {
     "title": "Download and Install the Windows Assessment and Deployment Kit with PowerShell",
@@ -319,6 +419,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6952",
     "tags": [
       "adk",
@@ -332,7 +433,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-download-and-install-the-windows-assessment-and-deployment-kit-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-download-and-install-the-windows-assessment-and-deployment-kit-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Select-MyAzureRmSubscription",
@@ -342,6 +445,7 @@
     "year": 2017,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6947",
     "tags": [
       "azure",
@@ -353,6 +457,10 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-select-myazurermsubscription.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-select-myazurermsubscription.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image_thumb.png"
+    ]
   }
 ]

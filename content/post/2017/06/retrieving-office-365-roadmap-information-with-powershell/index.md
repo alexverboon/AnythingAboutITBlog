@@ -1,7 +1,7 @@
 ---
 title: "Retrieving Office 365 roadmap information with PowerShell"
 layout: "post"
-date: 06/12/2017 21:51:12
+date: 2017-06-12T21:51:12Z
 slug: "retrieving-office-365-roadmap-information-with-powershell"
 aliases:
   - "/2017/06/retrieving-office-365-roadmap-information-with-powershell/"

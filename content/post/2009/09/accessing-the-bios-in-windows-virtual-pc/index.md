@@ -1,7 +1,7 @@
 ---
 title: "Accessing the BIOS in Windows Virtual PC"
 layout: "post"
-date: 09/23/2009 18:05:37
+date: 2009-09-23T18:05:37Z
 slug: "accessing-the-bios-in-windows-virtual-pc"
 aliases:
   - "/2009/09/accessing-the-bios-in-windows-virtual-pc/"

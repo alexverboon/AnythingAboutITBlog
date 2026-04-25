@@ -1,7 +1,7 @@
 ---
 title: "Automating regional settings configuration"
 layout: "post"
-date: 05/30/2008 12:43:00
+date: 2008-05-30T12:43:00Z
 slug: "automating-regional-settings-configuration"
 aliases:
   - "/2008/05/automating-regional-settings-configuration/"

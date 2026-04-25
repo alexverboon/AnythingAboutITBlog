@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings for Windows Games"
 layout: "post"
-date: 04/25/2011 15:05:56
+date: 2011-04-25T15:05:56Z
 slug: "group-policy-settings-for-windows-games"
 aliases:
   - "/2011/04/group-policy-settings-for-windows-games/"

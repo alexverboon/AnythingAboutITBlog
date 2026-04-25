@@ -1,7 +1,7 @@
 ---
 title: "Copying command-line tools from Windows into WinPE, don&rsquo;t forget the localization files"
 layout: "post"
-date: 04/12/2012 20:43:07
+date: 2012-04-12T20:43:07Z
 slug: "copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files"
 aliases:
   - "/2012/04/copying-command-line-tools-from-windows-into-winpe-dont-forget-the-localization-files/"

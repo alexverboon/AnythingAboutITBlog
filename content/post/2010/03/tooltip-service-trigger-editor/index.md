@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Service Trigger Editor"
 layout: "post"
-date: 03/23/2010 20:56:13
+date: 2010-03-23T20:56:13Z
 slug: "tooltip-service-trigger-editor"
 aliases:
   - "/2010/03/tooltip-service-trigger-editor/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; Closing Metro Style Apps"
 layout: "post"
-date: 03/04/2012 21:03:13
+date: 2012-03-04T21:03:13Z
 slug: "windows-8-closing-metro-style-apps"
 aliases:
   - "/2012/03/windows-8-closing-metro-style-apps/"

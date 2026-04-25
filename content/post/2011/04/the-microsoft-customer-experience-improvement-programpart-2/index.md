@@ -1,7 +1,7 @@
 ---
 title: "The Microsoft Customer Experience Improvement Program&ndash;Part 2"
 layout: "post"
-date: 04/20/2011 22:14:08
+date: 2011-04-20T22:14:08Z
 slug: "the-microsoft-customer-experience-improvement-programpart-2"
 aliases:
   - "/2011/04/the-microsoft-customer-experience-improvement-programpart-2/"

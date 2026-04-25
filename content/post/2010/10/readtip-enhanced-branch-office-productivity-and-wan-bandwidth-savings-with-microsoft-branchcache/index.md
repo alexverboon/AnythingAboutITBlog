@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache"
 layout: "post"
-date: 10/14/2010 20:09:32
+date: 2010-10-14T20:09:32Z
 slug: "readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache"
 aliases:
   - "/2010/10/readtip-enhanced-branch-office-productivity-and-wan-bandwidth-savings-with-microsoft-branchcache/"

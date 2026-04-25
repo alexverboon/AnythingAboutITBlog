@@ -1,7 +1,7 @@
 ---
 title: "Windows 8&ndash;Why you don&rsquo;t close a Metro Style application"
 layout: "post"
-date: 09/17/2011 08:33:17
+date: 2011-09-17T08:33:17Z
 slug: "windows-8why-you-dont-close-a-metro-style-application"
 aliases:
   - "/2011/09/windows-8why-you-dont-close-a-metro-style-application/"

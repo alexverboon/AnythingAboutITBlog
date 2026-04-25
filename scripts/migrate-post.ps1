@@ -61,6 +61,36 @@ function To-YamlList {
     return $lines
 }
 
+function Normalize-DateValue {
+    param([string]$InputDate)
+
+    if (-not $InputDate) {
+        throw "DateIso is empty"
+    }
+
+    [datetime]$parsed = [datetime]::MinValue
+    $styles = [System.Globalization.DateTimeStyles]::AssumeUniversal -bor [System.Globalization.DateTimeStyles]::AdjustToUniversal
+    $culture = [System.Globalization.CultureInfo]::InvariantCulture
+    $formats = @(
+        "yyyy-MM-ddTHH:mm:ssZ",
+        "yyyy-MM-dd HH:mm:ss",
+        "MM/dd/yyyy HH:mm:ss",
+        "dd/MM/yyyy HH:mm:ss"
+    )
+
+    foreach ($fmt in $formats) {
+        if ([datetime]::TryParseExact($InputDate, $fmt, $culture, $styles, [ref]$parsed)) {
+            return $parsed.ToString("yyyy-MM-ddTHH:mm:ssZ", $culture)
+        }
+    }
+
+    if ([datetime]::TryParse($InputDate, $culture, $styles, [ref]$parsed)) {
+        return $parsed.ToString("yyyy-MM-ddTHH:mm:ssZ", $culture)
+    }
+
+    throw "DateIso is not parseable: $InputDate"
+}
+
 if (-not (Test-Path -LiteralPath $RepoRoot)) {
     throw "RepoRoot does not exist: $RepoRoot"
 }
@@ -133,6 +163,8 @@ foreach ($imageName in $ImageNames) {
 $tagLines = To-YamlList -Values $Tags
 $categoryLines = To-YamlList -Values $Categories
 
+$normalizedDate = Normalize-DateValue -InputDate $DateIso
+
 $escapedTitle = $Title.Replace('"', '\"')
 $escapedDescription = $Description.Replace('"', '\"')
 $escapedAuthor = $Author.Replace('"', '\"')
@@ -141,7 +173,7 @@ $yaml = @()
 $yaml += "---"
 $yaml += ('title: "{0}"' -f $escapedTitle)
 $yaml += 'layout: "post"'
-$yaml += "date: $DateIso"
+$yaml += "date: $normalizedDate"
 $yaml += ('slug: "{0}"' -f $Slug)
 $yaml += 'aliases:'
 $yaml += ('  - "{0}"' -f $aliasValue)
@@ -163,3 +195,4 @@ Set-Content -LiteralPath $indexPath -Value $out -NoNewline:$false
 Write-Output "Created post: $indexPath"
 Write-Output "Copied images: $($ImageNames.Count)"
 Write-Output "Hero image: $heroDest"
+

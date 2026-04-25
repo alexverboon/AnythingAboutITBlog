@@ -1,7 +1,7 @@
 ---
 title: "Windows7 RTM and GA communication from Microsoft"
 layout: "post"
-date: 06/03/2009 07:54:00
+date: 2009-06-03T07:54:00Z
 slug: "windows7-rtm-and-ga-communication-from-microsoft"
 aliases:
   - "/2009/06/windows7-rtm-and-ga-communication-from-microsoft/"

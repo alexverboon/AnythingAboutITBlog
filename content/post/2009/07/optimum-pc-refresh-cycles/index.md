@@ -1,7 +1,7 @@
 ---
 title: "Optimum PC Refresh Cycles"
 layout: "post"
-date: 07/03/2009 19:20:12
+date: 2009-07-03T19:20:12Z
 slug: "optimum-pc-refresh-cycles"
 aliases:
   - "/2009/07/optimum-pc-refresh-cycles/"

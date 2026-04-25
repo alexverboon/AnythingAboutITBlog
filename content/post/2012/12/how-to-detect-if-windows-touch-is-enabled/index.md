@@ -1,7 +1,7 @@
 ---
 title: "How to detect if Windows Touch is enabled"
 layout: "post"
-date: 12/20/2012 19:15:54
+date: 2012-12-20T19:15:54Z
 slug: "how-to-detect-if-windows-touch-is-enabled"
 aliases:
   - "/2012/12/how-to-detect-if-windows-touch-is-enabled/"

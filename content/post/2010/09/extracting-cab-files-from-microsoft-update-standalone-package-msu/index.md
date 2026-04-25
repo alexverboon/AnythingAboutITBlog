@@ -1,7 +1,7 @@
 ---
 title: "Extracting CAB files from Microsoft Update Standalone Package (MSU)"
 layout: "post"
-date: 09/04/2010 13:08:01
+date: 2010-09-04T13:08:01Z
 slug: "extracting-cab-files-from-microsoft-update-standalone-package-msu"
 aliases:
   - "/2010/09/extracting-cab-files-from-microsoft-update-standalone-package-msu/"

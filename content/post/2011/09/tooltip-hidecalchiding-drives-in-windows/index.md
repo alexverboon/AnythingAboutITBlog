@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: HIDECALC &ndash; Hiding Drives in Windows"
 layout: "post"
-date: 09/02/2011 18:00:28
+date: 2011-09-02T18:00:28Z
 slug: "tooltip-hidecalchiding-drives-in-windows"
 aliases:
   - "/2011/09/tooltip-hidecalchiding-drives-in-windows/"

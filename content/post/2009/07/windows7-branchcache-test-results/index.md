@@ -1,7 +1,7 @@
 ---
 title: "Windows7 BranchCache test results"
 layout: "post"
-date: 07/20/2009 21:19:59
+date: 2009-07-20T21:19:59Z
 slug: "windows7-branchcache-test-results"
 aliases:
   - "/2009/07/windows7-branchcache-test-results/"

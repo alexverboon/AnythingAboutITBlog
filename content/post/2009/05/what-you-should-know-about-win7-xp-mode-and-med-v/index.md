@@ -1,7 +1,7 @@
 ---
 title: "What you should know about Win7 XP Mode and MED-V"
 layout: "post"
-date: 05/01/2009 00:41:54
+date: 2009-05-01T00:41:54Z
 slug: "what-you-should-know-about-win7-xp-mode-and-med-v"
 aliases:
   - "/2009/05/what-you-should-know-about-win7-xp-mode-and-med-v/"

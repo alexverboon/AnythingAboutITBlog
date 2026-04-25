@@ -1,7 +1,7 @@
 ---
 title: "Playing games on a printer"
 layout: "post"
-date: 10/11/2008 20:30:28
+date: 2008-10-11T20:30:28Z
 slug: "playing-games-on-a-printer"
 aliases:
   - "/2008/10/playing-games-on-a-printer/"

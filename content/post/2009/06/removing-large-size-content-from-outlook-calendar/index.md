@@ -1,7 +1,7 @@
 ---
 title: "Removing large size content from outlook calendar"
 layout: "post"
-date: 06/07/2009 11:11:36
+date: 2009-06-07T11:11:36Z
 slug: "removing-large-size-content-from-outlook-calendar"
 aliases:
   - "/2009/06/removing-large-size-content-from-outlook-calendar/"

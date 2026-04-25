@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 - File History Feature replaces &ldquo;Previous Versions&rdquo; and Backup and Restore"
 layout: "post"
-date: 04/29/2012 15:36:33
+date: 2012-04-29T15:36:33Z
 slug: "windows-8-file-history-feature-replaces-previous-versions-and-backup-and-restore"
 aliases:
   - "/2012/04/windows-8-file-history-feature-replaces-previous-versions-and-backup-and-restore/"

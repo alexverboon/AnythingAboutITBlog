@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Mouse Without Borders"
 layout: "post"
-date: 12/26/2011 11:52:50
+date: 2011-12-26T11:52:50Z
 slug: "tooltip-mouse-without-borders"
 aliases:
   - "/2011/12/tooltip-mouse-without-borders/"

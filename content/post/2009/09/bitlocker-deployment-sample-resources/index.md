@@ -1,7 +1,7 @@
 ---
 title: "BitLocker Deployment Sample Resources"
 layout: "post"
-date: 09/11/2009 18:19:52
+date: 2009-09-11T18:19:52Z
 slug: "bitlocker-deployment-sample-resources"
 aliases:
   - "/2009/09/bitlocker-deployment-sample-resources/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; AutoPlay Configuration"
 layout: "post"
-date: 03/05/2012 21:31:11
+date: 2012-03-05T21:31:11Z
 slug: "windows-8-autoplay-configuration"
 aliases:
   - "/2012/03/windows-8-autoplay-configuration/"

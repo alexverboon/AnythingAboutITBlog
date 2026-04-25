@@ -1,7 +1,7 @@
 ---
 title: "Getting annoyed by the rumors"
 layout: "post"
-date: 09/17/2008 22:35:26
+date: 2008-09-17T22:35:26Z
 slug: "getting-annoyed-by-the-rumors"
 aliases:
   - "/2008/09/getting-annoyed-by-the-rumors/"

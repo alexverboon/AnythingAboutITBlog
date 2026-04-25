@@ -1,7 +1,7 @@
 ---
 title: "Explore the Microsoft Open Specifications"
 layout: "post"
-date: 12/11/2012 07:59:42
+date: 2012-12-11T07:59:42Z
 slug: "explore-the-microsoft-open-specifications"
 aliases:
   - "/2012/12/explore-the-microsoft-open-specifications/"

@@ -7,12 +7,15 @@
     "year": 2016,
     "month": "12",
     "author": "alex",
+    "status": "draft",
     "post_id": "6935",
     "tags": [],
     "categories": [],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-12-microsoft-operations-management-suite-notes.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-12-microsoft-operations-management-suite-notes.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Script - Get-MsolUserInformation",
@@ -22,6 +25,7 @@
     "year": 2016,
     "month": "12",
     "author": "alex",
+    "status": "publish",
     "post_id": "6941",
     "tags": [
       "active-directory",
@@ -37,7 +41,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-12-powershell-script-get-msoluserinformation.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-12-powershell-script-get-msoluserinformation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Script - Get-MsolRoleMemberDetails",
@@ -47,6 +53,7 @@
     "year": 2016,
     "month": "11",
     "author": "alex",
+    "status": "publish",
     "post_id": "6876",
     "tags": [
       "office-365-2",
@@ -62,7 +69,9 @@
       "image_thumb.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-11-powershell-script-get-msolrolememberdetails.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-11-powershell-script-get-msolrolememberdetails.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Script - Get-WinBuildInfo",
@@ -72,6 +81,7 @@
     "year": 2016,
     "month": "11",
     "author": "alex",
+    "status": "publish",
     "post_id": "6864",
     "tags": [
       "branches",
@@ -86,7 +96,9 @@
       "ss1_thumb.png"
     ],
     "hero_image": "ss1_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-11-powershell-script-get-winbuildinfo.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-11-powershell-script-get-winbuildinfo.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Windows 10 Upgrade Analytics &ndash; Notes and PowerShell snippets",
@@ -96,6 +108,7 @@
     "year": 2016,
     "month": "10",
     "author": "alex",
+    "status": "publish",
     "post_id": "6856",
     "tags": [
       "powershell",
@@ -114,7 +127,9 @@
       "wlEmoticon-smile.png"
     ],
     "hero_image": "image_thumb-4.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-10-windows-10-upgrade-analytics-notes-and-powershell-snippets.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-10-windows-10-upgrade-analytics-notes-and-powershell-snippets.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Clean up unused Azure Resources with PowerShell",
@@ -124,6 +139,7 @@
     "year": 2016,
     "month": "10",
     "author": "alex",
+    "status": "publish",
     "post_id": "6842",
     "tags": [
       "azure",
@@ -143,7 +159,9 @@
       "image_thumb-3.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-10-clean-up-unused-azure-resources-with-powershell.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-10-clean-up-unused-azure-resources-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell script to run the Windows App Certification Kit",
@@ -153,6 +171,7 @@
     "year": 2016,
     "month": "09",
     "author": "alex",
+    "status": "publish",
     "post_id": "6829",
     "tags": [
       "application-compatibility",
@@ -166,7 +185,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-09-powershell-script-to-run-the-windows-app-certification-kit.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-09-powershell-script-to-run-the-windows-app-certification-kit.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "ToolTip: IEDigest",
@@ -176,6 +197,7 @@
     "year": 2016,
     "month": "07",
     "author": "alex",
+    "status": "publish",
     "post_id": "6814",
     "tags": [
       "group-policy",
@@ -190,7 +212,9 @@
       "image_thumb.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-07-tooltip-iedigest.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-07-tooltip-iedigest.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Office 365 PowerShell script to retrieve AccountSku license information",
@@ -200,6 +224,7 @@
     "year": 2016,
     "month": "04",
     "author": "alex",
+    "status": "publish",
     "post_id": "6794",
     "tags": [
       "accountskuid",
@@ -212,7 +237,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-04-office-365-powershell-script-to-retrieve-accountsku-license-information.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-04-office-365-powershell-script-to-retrieve-accountsku-license-information.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "PowerShell Script - Get-IscMSSecBulletinInfo",
@@ -222,6 +249,7 @@
     "year": 2016,
     "month": "04",
     "author": "alex",
+    "status": "publish",
     "post_id": "6782",
     "tags": [
       "bulletins",
@@ -238,7 +266,9 @@
       "image_thumb.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-04-powershell-script-get-iscmssecbulletininfo.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-04-powershell-script-get-iscmssecbulletininfo.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Creating a Virtual Network using Azure Resource Manager &ndash; Part 2",
@@ -248,6 +278,7 @@
     "year": 2016,
     "month": "03",
     "author": "alex",
+    "status": "publish",
     "post_id": "6771",
     "tags": [
       "azure",
@@ -269,7 +300,9 @@
       "image_thumb-5.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-03-creating-a-virtual-network-using-azure-resource-manager-part-2.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-03-creating-a-virtual-network-using-azure-resource-manager-part-2.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "Creating a Virtual Network using Azure Resource Manager &ndash; Part 1",
@@ -279,6 +312,7 @@
     "year": 2016,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6757",
     "tags": [
       "arm",
@@ -308,7 +342,9 @@
       "image_thumb-6.png"
     ],
     "hero_image": "2016-02-29_22h02_33_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-creating-a-virtual-network-using-azure-resource-manager-part-1.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-creating-a-virtual-network-using-azure-resource-manager-part-1.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "A little helper script for the Azure Set-AzureRmVMSourceImage cmdlet",
@@ -318,6 +354,7 @@
     "year": 2016,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6726",
     "tags": [
       "azure",
@@ -333,7 +370,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-a-little-helper-script-for-the-azure-set-azurermvmsourceimage-cmdlet.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-a-little-helper-script-for-the-azure-set-azurermvmsourceimage-cmdlet.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "The GroupPolicy Xtended PowerShell Module",
@@ -343,6 +382,7 @@
     "year": 2016,
     "month": "02",
     "author": "alex",
+    "status": "publish",
     "post_id": "6724",
     "tags": [
       "group-policy",
@@ -356,7 +396,9 @@
     ],
     "image_list": [],
     "hero_image": "",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-the-grouppolicy-xtended-powershell-module.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-02-the-grouppolicy-xtended-powershell-module.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   },
   {
     "title": "ToolTip: Policy Analyzer",
@@ -366,6 +408,7 @@
     "year": 2016,
     "month": "01",
     "author": "alex",
+    "status": "publish",
     "post_id": "6719",
     "tags": [
       "compare",
@@ -388,6 +431,8 @@
       "image_thumb-10.png"
     ],
     "hero_image": "image_thumb.png",
-    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-01-tooltip-policy-analzyer.md"
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2016-01-tooltip-policy-analzyer.md",
+    "remote_fallback": false,
+    "missing_local_images": []
   }
 ]

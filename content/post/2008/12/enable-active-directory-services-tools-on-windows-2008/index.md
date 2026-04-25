@@ -1,7 +1,7 @@
 ---
 title: "Enable Active Directory Services tools on Windows 2008"
 layout: "post"
-date: 12/02/2008 19:39:06
+date: 2008-12-02T19:39:06Z
 slug: "enable-active-directory-services-tools-on-windows-2008"
 aliases:
   - "/2008/12/enable-active-directory-services-tools-on-windows-2008/"

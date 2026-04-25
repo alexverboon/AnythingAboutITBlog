@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Application Compatibility List"
 layout: "post"
-date: 11/17/2009 23:28:00
+date: 2009-11-17T23:28:00Z
 slug: "windows-7-application-compatibility-list"
 aliases:
   - "/2009/11/windows-7-application-compatibility-list/"

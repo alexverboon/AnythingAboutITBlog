@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts on IPv6"
 layout: "post"
-date: 02/23/2009 22:52:54
+date: 2009-02-23T22:52:54Z
 slug: "some-thoughts-on-ipv6"
 aliases:
   - "/2009/02/some-thoughts-on-ipv6/"

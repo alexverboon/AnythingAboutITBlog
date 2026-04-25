@@ -1,7 +1,7 @@
 ---
 title: "iPhone 3G comming to Switzerland"
 layout: "post"
-date: 07/02/2008 17:04:30
+date: 2008-07-02T17:04:30Z
 slug: "iphone-3g-comming-to-switzerland"
 aliases:
   - "/2008/07/iphone-3g-comming-to-switzerland/"

@@ -1,7 +1,7 @@
 ---
 title: "Protect our rights to free speech, privacy, and prosperity"
 layout: "post"
-date: 01/17/2012 20:54:39
+date: 2012-01-17T20:54:39Z
 slug: "protect-our-rights-to-free-speech-privacy-and-prosperity"
 aliases:
   - "/2012/01/protect-our-rights-to-free-speech-privacy-and-prosperity/"

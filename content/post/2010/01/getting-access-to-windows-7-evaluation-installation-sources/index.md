@@ -1,7 +1,7 @@
 ---
 title: "Getting access to Windows 7 Evaluation installation sources"
 layout: "post"
-date: 01/01/2010 17:13:08
+date: 2010-01-01T17:13:08Z
 slug: "getting-access-to-windows-7-evaluation-installation-sources"
 aliases:
   - "/2010/01/getting-access-to-windows-7-evaluation-installation-sources/"

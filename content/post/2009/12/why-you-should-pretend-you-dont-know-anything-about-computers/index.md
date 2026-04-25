@@ -1,7 +1,7 @@
 ---
 title: "Why you should pretend you don&rsquo;t know anything about computers"
 layout: "post"
-date: 12/21/2009 21:03:18
+date: 2009-12-21T21:03:18Z
 slug: "why-you-should-pretend-you-dont-know-anything-about-computers"
 aliases:
   - "/2009/12/why-you-should-pretend-you-dont-know-anything-about-computers/"

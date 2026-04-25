@@ -1,7 +1,7 @@
 ---
 title: "Windows Logo Program"
 layout: "post"
-date: 05/06/2009 17:55:56
+date: 2009-05-06T17:55:56Z
 slug: "windows-logo-program"
 aliases:
   - "/2009/05/windows-logo-program/"

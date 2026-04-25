@@ -1,7 +1,7 @@
 ---
 title: "Automate BIOS configuration for HP clients"
 layout: "post"
-date: 05/30/2008 13:22:00
+date: 2008-05-30T13:22:00Z
 slug: "automate-bios-configuration-for-hp-clients"
 aliases:
   - "/2008/05/automate-bios-configuration-for-hp-clients/"

@@ -1,7 +1,7 @@
 ---
 title: "How to export third-party driver packages using PowerShell"
 layout: "post"
-date: 04/04/2014 19:43:09
+date: 2014-04-04T19:43:09Z
 slug: "how-to-export-third-party-driver-packages-using-powershell"
 aliases:
   - "/2014/04/how-to-export-third-party-driver-packages-using-powershell/"

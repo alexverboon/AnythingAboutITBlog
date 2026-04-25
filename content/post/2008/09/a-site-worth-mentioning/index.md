@@ -1,7 +1,7 @@
 ---
 title: "A site worth mentioning"
 layout: "post"
-date: 09/27/2008 22:17:19
+date: 2008-09-27T22:17:19Z
 slug: "a-site-worth-mentioning"
 aliases:
   - "/2008/09/a-site-worth-mentioning/"

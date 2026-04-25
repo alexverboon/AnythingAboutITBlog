@@ -1,7 +1,7 @@
 ---
 title: "Installing Software using Collection Commander"
 layout: "post"
-date: 12/31/2014 12:25:00
+date: 2014-12-31T12:25:00Z
 slug: "installing-software-using-collection-commander"
 aliases:
   - "/2014/12/installing-software-using-collection-commander/"

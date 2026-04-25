@@ -1,7 +1,7 @@
 ---
 title: "Prep-ing WINPE does make a difference"
 layout: "post"
-date: 09/06/2008 12:35:57
+date: 2008-09-06T12:35:57Z
 slug: "prep-ing-winpe-does-make-a-difference"
 aliases:
   - "/2008/09/prep-ing-winpe-does-make-a-difference/"

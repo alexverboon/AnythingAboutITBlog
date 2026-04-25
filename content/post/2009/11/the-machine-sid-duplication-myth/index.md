@@ -1,7 +1,7 @@
 ---
 title: "The Machine SID Duplication Myth"
 layout: "post"
-date: 11/04/2009 14:14:31
+date: 2009-11-04T14:14:31Z
 slug: "the-machine-sid-duplication-myth"
 aliases:
   - "/2009/11/the-machine-sid-duplication-myth/"

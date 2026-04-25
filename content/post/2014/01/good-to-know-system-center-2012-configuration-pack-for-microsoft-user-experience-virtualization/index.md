@@ -1,7 +1,7 @@
 ---
 title: "Good to know: System Center 2012 Configuration Pack for Microsoft User Experience Virtualization"
 layout: "post"
-date: 01/14/2014 20:59:28
+date: 2014-01-14T20:59:28Z
 slug: "good-to-know-system-center-2012-configuration-pack-for-microsoft-user-experience-virtualization"
 aliases:
   - "/2014/01/good-to-know-system-center-2012-configuration-pack-for-microsoft-user-experience-virtualization/"

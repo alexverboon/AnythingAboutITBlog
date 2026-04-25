@@ -1,7 +1,7 @@
 ---
 title: "Your favorite apps anywhere anytime"
 layout: "post"
-date: 12/24/2008 10:18:20
+date: 2008-12-24T10:18:20Z
 slug: "your-favorite-apps-anywhere-anytime"
 aliases:
   - "/2008/12/your-favorite-apps-anywhere-anytime/"

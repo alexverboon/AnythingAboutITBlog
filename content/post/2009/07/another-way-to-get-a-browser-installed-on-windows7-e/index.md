@@ -1,7 +1,7 @@
 ---
 title: "Another way to get a browser installed on Windows7 E"
 layout: "post"
-date: 07/24/2009 06:49:33
+date: 2009-07-24T06:49:33Z
 slug: "another-way-to-get-a-browser-installed-on-windows7-e"
 aliases:
   - "/2009/07/another-way-to-get-a-browser-installed-on-windows7-e/"

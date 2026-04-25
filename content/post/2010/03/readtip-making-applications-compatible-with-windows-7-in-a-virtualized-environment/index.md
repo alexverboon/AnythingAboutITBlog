@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: Making Applications Compatible with Windows 7 in a Virtualized Environment"
 layout: "post"
-date: 03/08/2010 23:14:13
+date: 2010-03-08T23:14:13Z
 slug: "readtip-making-applications-compatible-with-windows-7-in-a-virtualized-environment"
 aliases:
   - "/2010/03/readtip-making-applications-compatible-with-windows-7-in-a-virtualized-environment/"

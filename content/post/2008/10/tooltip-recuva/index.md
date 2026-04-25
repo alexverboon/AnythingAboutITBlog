@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - Recuva"
 layout: "post"
-date: 10/10/2008 18:50:21
+date: 2008-10-10T18:50:21Z
 slug: "tooltip-recuva"
 aliases:
   - "/2008/10/tooltip-recuva/"

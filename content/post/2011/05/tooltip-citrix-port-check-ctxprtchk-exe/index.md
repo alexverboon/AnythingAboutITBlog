@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Citrix Port Check (CtxPrtChk.exe)"
 layout: "post"
-date: 05/16/2011 15:22:37
+date: 2011-05-16T15:22:37Z
 slug: "tooltip-citrix-port-check-ctxprtchk-exe"
 aliases:
   - "/2011/05/tooltip-citrix-port-check-ctxprtchk-exe/"

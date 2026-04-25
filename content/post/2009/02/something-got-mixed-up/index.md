@@ -1,7 +1,7 @@
 ---
 title: "Something got mixed up"
 layout: "post"
-date: 02/27/2009 18:14:08
+date: 2009-02-27T18:14:08Z
 slug: "something-got-mixed-up"
 aliases:
   - "/2009/02/something-got-mixed-up/"

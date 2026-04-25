@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 &ndash; MFU (Most Frequent Used Programs)"
 layout: "post"
-date: 10/21/2011 22:59:23
+date: 2011-10-21T22:59:23Z
 slug: "windows-7-mfu-most-frequent-used-programs"
 aliases:
   - "/2011/10/windows-7-mfu-most-frequent-used-programs/"

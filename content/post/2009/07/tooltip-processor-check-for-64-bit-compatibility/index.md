@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Processor Check for 64-Bit Compatibility"
 layout: "post"
-date: 07/22/2009 09:50:06
+date: 2009-07-22T09:50:06Z
 slug: "tooltip-processor-check-for-64-bit-compatibility"
 aliases:
   - "/2009/07/tooltip-processor-check-for-64-bit-compatibility/"

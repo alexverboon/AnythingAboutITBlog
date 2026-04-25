@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script Get-BatteryChargeStatus"
 layout: "post"
-date: 07/30/2017 15:05:03
+date: 2017-07-30T15:05:03Z
 slug: "powershell-script-get-batterychargestatus"
 aliases:
   - "/2017/07/powershell-script-get-batterychargestatus/"

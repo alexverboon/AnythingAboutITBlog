@@ -1,7 +1,7 @@
 ---
 title: "Fix it automates steps described in Microsoft KB articles"
 layout: "post"
-date: 01/31/2009 19:42:37
+date: 2009-01-31T19:42:37Z
 slug: "fix-it-automates-steps-described-in-microsoft-kb-articles"
 aliases:
   - "/2009/01/fix-it-automates-steps-described-in-microsoft-kb-articles/"

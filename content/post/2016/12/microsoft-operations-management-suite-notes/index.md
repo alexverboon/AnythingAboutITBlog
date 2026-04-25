@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Operations Management Suite - Notes"
 layout: "post"
-date: 12/18/2016 18:54:58
+date: 2016-12-18T18:54:58Z
 slug: "microsoft-operations-management-suite-notes"
 aliases:
   - "/2016/12/microsoft-operations-management-suite-notes/"

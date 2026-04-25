@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Windows Service Pack Blocker Tool Kit"
 layout: "post"
-date: 11/20/2010 17:13:40
+date: 2010-11-20T17:13:40Z
 slug: "tooltip-windows-service-pack-blocker-tool-kit"
 aliases:
   - "/2010/11/tooltip-windows-service-pack-blocker-tool-kit/"

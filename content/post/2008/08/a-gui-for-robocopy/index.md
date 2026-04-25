@@ -1,7 +1,7 @@
 ---
 title: "A GUI for Robocopy"
 layout: "post"
-date: 08/09/2008 17:04:00
+date: 2008-08-09T17:04:00Z
 slug: "a-gui-for-robocopy"
 aliases:
   - "/2008/08/a-gui-for-robocopy/"

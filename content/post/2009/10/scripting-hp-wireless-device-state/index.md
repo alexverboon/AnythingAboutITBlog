@@ -1,7 +1,7 @@
 ---
 title: "Scripting HP Wireless Device State"
 layout: "post"
-date: 10/13/2009 15:20:45
+date: 2009-10-13T15:20:45Z
 slug: "scripting-hp-wireless-device-state"
 aliases:
   - "/2009/10/scripting-hp-wireless-device-state/"

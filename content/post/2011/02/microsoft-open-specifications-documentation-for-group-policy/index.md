@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Open Specifications Documentation for Group Policy"
 layout: "post"
-date: 02/20/2011 18:51:10
+date: 2011-02-20T18:51:10Z
 slug: "microsoft-open-specifications-documentation-for-group-policy"
 aliases:
   - "/2011/02/microsoft-open-specifications-documentation-for-group-policy/"

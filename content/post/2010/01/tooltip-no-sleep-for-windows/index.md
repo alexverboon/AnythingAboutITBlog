@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: No sleep for Windows"
 layout: "post"
-date: 01/02/2010 07:56:07
+date: 2010-01-02T07:56:07Z
 slug: "tooltip-no-sleep-for-windows"
 aliases:
   - "/2010/01/tooltip-no-sleep-for-windows/"

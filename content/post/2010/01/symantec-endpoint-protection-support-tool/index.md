@@ -1,7 +1,7 @@
 ---
 title: "Symantec Endpoint Protection Support Tool"
 layout: "post"
-date: 01/12/2010 11:41:27
+date: 2010-01-12T11:41:27Z
 slug: "symantec-endpoint-protection-support-tool"
 aliases:
   - "/2010/01/symantec-endpoint-protection-support-tool/"

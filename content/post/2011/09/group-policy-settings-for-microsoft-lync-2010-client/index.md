@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Settings for Microsoft Lync 2010 Client"
 layout: "post"
-date: 09/06/2011 21:57:40
+date: 2011-09-06T21:57:40Z
 slug: "group-policy-settings-for-microsoft-lync-2010-client"
 aliases:
   - "/2011/09/group-policy-settings-for-microsoft-lync-2010-client/"

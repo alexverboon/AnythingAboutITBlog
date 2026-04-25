@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Portable WinCDEmu"
 layout: "post"
-date: 03/12/2012 19:32:22
+date: 2012-03-12T19:32:22Z
 slug: "tooltip-portable-wincdemu"
 aliases:
   - "/2012/03/tooltip-portable-wincdemu/"

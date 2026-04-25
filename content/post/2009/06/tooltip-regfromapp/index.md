@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - RegFromApp"
 layout: "post"
-date: 06/14/2009 11:44:05
+date: 2009-06-14T11:44:05Z
 slug: "tooltip-regfromapp"
 aliases:
   - "/2009/06/tooltip-regfromapp/"

@@ -1,7 +1,7 @@
 ---
 title: "How to avoid KMS becoming a challenge in your Windows 7 deployment project"
 layout: "post"
-date: 01/25/2012 22:44:30
+date: 2012-01-25T22:44:30Z
 slug: "how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project"
 aliases:
   - "/2012/01/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project/"

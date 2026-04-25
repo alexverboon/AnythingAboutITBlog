@@ -1,7 +1,7 @@
 ---
 title: "The Internet Explorer Compatibility List"
 layout: "post"
-date: 12/26/2011 22:47:18
+date: 2011-12-26T22:47:18Z
 slug: "the-internet-explorer-compatibility-list"
 aliases:
   - "/2011/12/the-internet-explorer-compatibility-list/"

@@ -1,7 +1,7 @@
 ---
 title: "SQL Server services user account"
 layout: "post"
-date: 11/20/2008 22:58:40
+date: 2008-11-20T22:58:40Z
 slug: "sql-server-services-user-account"
 aliases:
   - "/2008/11/sql-server-services-user-account/"

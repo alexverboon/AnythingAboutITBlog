@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Microsoft Screenrecorder"
 layout: "post"
-date: 08/08/2011 19:59:25
+date: 2011-08-08T19:59:25Z
 slug: "tooltip-microsoft-screenrecorder"
 aliases:
   - "/2011/08/tooltip-microsoft-screenrecorder/"

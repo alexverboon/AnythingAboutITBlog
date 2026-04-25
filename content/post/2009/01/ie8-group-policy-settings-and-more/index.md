@@ -1,7 +1,7 @@
 ---
 title: "IE8 Group Policy Settings and more"
 layout: "post"
-date: 01/27/2009 22:29:12
+date: 2009-01-27T22:29:12Z
 slug: "ie8-group-policy-settings-and-more"
 aliases:
   - "/2009/01/ie8-group-policy-settings-and-more/"

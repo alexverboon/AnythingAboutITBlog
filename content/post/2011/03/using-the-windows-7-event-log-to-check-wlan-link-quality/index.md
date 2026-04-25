@@ -1,7 +1,7 @@
 ---
 title: "Using the Windows 7 Event log to check WLAN Link Quality"
 layout: "post"
-date: 03/15/2011 20:56:59
+date: 2011-03-15T20:56:59Z
 slug: "using-the-windows-7-event-log-to-check-wlan-link-quality"
 aliases:
   - "/2011/03/using-the-windows-7-event-log-to-check-wlan-link-quality/"

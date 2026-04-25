@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Search Connector for Citrix eDocs"
 layout: "post"
-date: 05/24/2011 20:33:58
+date: 2011-05-24T20:33:58Z
 slug: "windows-7-search-connector-for-citrix-edocs"
 aliases:
   - "/2011/05/windows-7-search-connector-for-citrix-edocs/"

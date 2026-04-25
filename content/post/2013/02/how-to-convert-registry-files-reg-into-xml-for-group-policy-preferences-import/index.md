@@ -1,7 +1,7 @@
 ---
 title: "How to convert registry files (.reg) into XML for Group Policy Preferences import"
 layout: "post"
-date: 02/06/2013 10:50:26
+date: 2013-02-06T10:50:26Z
 slug: "how-to-convert-registry-files-reg-into-xml-for-group-policy-preferences-import"
 aliases:
   - "/2013/02/how-to-convert-registry-files-reg-into-xml-for-group-policy-preferences-import/"

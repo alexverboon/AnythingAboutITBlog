@@ -1,7 +1,7 @@
 ---
 title: "Nice article about Win7 and devices"
 layout: "post"
-date: 04/01/2009 16:45:08
+date: 2009-04-01T16:45:08Z
 slug: "nice-article-about-win7-and-devices"
 aliases:
   - "/2009/04/nice-article-about-win7-and-devices/"

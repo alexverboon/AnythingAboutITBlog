@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script to Retrieve Internet Explorer Telemetry Data"
 layout: "post"
-date: 11/29/2014 15:27:40
+date: 2014-11-29T15:27:40Z
 slug: "powershell-script-to-retrieve-internet-explorer-telemetry-data"
 aliases:
   - "/2014/11/powershell-script-to-retrieve-internet-explorer-telemetry-data/"

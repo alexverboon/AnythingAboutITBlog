@@ -1,7 +1,7 @@
 ---
 title: "Do not slipstream Windows XP sources on Windows Vista"
 layout: "post"
-date: 06/19/2009 17:05:45
+date: 2009-06-19T17:05:45Z
 slug: "do-not-slipstream-windows-xp-sources-on-windows-vista"
 aliases:
   - "/2009/06/do-not-slipstream-windows-xp-sources-on-windows-vista/"

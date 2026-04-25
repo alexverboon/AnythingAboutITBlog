@@ -1,7 +1,7 @@
 ---
 title: "Windows7 Application Compatibility Center"
 layout: "post"
-date: 06/02/2009 21:32:01
+date: 2009-06-02T21:32:01Z
 slug: "windows7-application-compatibility-center"
 aliases:
   - "/2009/06/windows7-application-compatibility-center/"

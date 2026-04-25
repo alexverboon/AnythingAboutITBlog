@@ -1,7 +1,7 @@
 ---
 title: "How to link an OMS Workspace with an Azure Automation Account"
 layout: "post"
-date: 02/09/2017 21:14:19
+date: 2017-02-09T21:14:19Z
 slug: "how-to-link-an-oms-workspace-with-an-azure-automation-account"
 aliases:
   - "/2017/02/how-to-link-an-oms-workspace-with-an-azure-automation-account/"

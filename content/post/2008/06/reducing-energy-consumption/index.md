@@ -1,7 +1,7 @@
 ---
 title: "Reducing energy consumption"
 layout: "post"
-date: 06/10/2008 19:57:00
+date: 2008-06-10T19:57:00Z
 slug: "reducing-energy-consumption"
 aliases:
   - "/2008/06/reducing-energy-consumption/"

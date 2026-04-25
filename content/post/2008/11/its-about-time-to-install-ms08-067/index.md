@@ -1,7 +1,7 @@
 ---
 title: "It's about time to install  MS08-067"
 layout: "post"
-date: 11/26/2008 20:18:54
+date: 2008-11-26T20:18:54Z
 slug: "its-about-time-to-install-ms08-067"
 aliases:
   - "/2008/11/its-about-time-to-install-ms08-067/"

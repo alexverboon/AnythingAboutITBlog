@@ -1,7 +1,7 @@
 ---
 title: "Wireless GPO settings for XP"
 layout: "post"
-date: 09/17/2008 22:49:48
+date: 2008-09-17T22:49:48Z
 slug: "wireless-gpo-settings-for-xp"
 aliases:
   - "/2008/09/wireless-gpo-settings-for-xp/"

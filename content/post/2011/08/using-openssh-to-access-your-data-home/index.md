@@ -1,7 +1,7 @@
 ---
 title: "Using OpenSSH to access your Data @ Home"
 layout: "post"
-date: 08/20/2011 12:25:49
+date: 2011-08-20T12:25:49Z
 slug: "using-openssh-to-access-your-data-home"
 aliases:
   - "/2011/08/using-openssh-to-access-your-data-home/"

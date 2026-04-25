@@ -1,7 +1,7 @@
 ---
 title: "Organize your desktop"
 layout: "post"
-date: 08/25/2008 20:32:55
+date: 2008-08-25T20:32:55Z
 slug: "organize-your-desktop"
 aliases:
   - "/2008/08/organize-your-desktop/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Remote Desktop remote configurator  (RDRemote)"
 layout: "post"
-date: 11/14/2011 19:06:47
+date: 2011-11-14T19:06:47Z
 slug: "tooltip-remote-desktop-remote-configurator-rdremote"
 aliases:
   - "/2011/11/tooltip-remote-desktop-remote-configurator-rdremote/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: XP-More"
 layout: "post"
-date: 04/24/2010 13:19:51
+date: 2010-04-24T13:19:51Z
 slug: "tooltip-xp-more"
 aliases:
   - "/2010/04/tooltip-xp-more/"

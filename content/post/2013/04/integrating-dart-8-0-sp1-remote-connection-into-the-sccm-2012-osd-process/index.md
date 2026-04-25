@@ -1,7 +1,7 @@
 ---
 title: "Integrating DaRT 8.0 SP1 Remote Connection into the SCCM 2012 OSD Process"
 layout: "post"
-date: 04/22/2013 22:13:09
+date: 2013-04-22T22:13:09Z
 slug: "integrating-dart-8-0-sp1-remote-connection-into-the-sccm-2012-osd-process"
 aliases:
   - "/2013/04/integrating-dart-8-0-sp1-remote-connection-into-the-sccm-2012-osd-process/"

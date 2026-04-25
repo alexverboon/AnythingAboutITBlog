@@ -1,7 +1,7 @@
 ---
 title: "Office 2007 Trusted location configuration"
 layout: "post"
-date: 08/26/2009 17:14:02
+date: 2009-08-26T17:14:02Z
 slug: "office-2007-trusted-location-configuration"
 aliases:
   - "/2009/08/office-2007-trusted-location-configuration/"

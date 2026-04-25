@@ -1,7 +1,7 @@
 ---
 title: "Use PowerShell to Troubleshoot Group Policy"
 layout: "post"
-date: 09/04/2014 21:44:17
+date: 2014-09-04T21:44:17Z
 slug: "use-powershell-to-troubleshoot-group-policy"
 aliases:
   - "/2014/09/use-powershell-to-troubleshoot-group-policy/"

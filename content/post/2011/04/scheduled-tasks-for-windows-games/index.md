@@ -1,7 +1,7 @@
 ---
 title: "Scheduled Tasks for Windows Games"
 layout: "post"
-date: 04/22/2011 14:05:55
+date: 2011-04-22T14:05:55Z
 slug: "scheduled-tasks-for-windows-games"
 aliases:
   - "/2011/04/scheduled-tasks-for-windows-games/"

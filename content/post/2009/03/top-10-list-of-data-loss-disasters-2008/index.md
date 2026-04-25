@@ -1,7 +1,7 @@
 ---
 title: "Top 10 List of Data Loss Disasters 2008"
 layout: "post"
-date: 03/23/2009 23:13:42
+date: 2009-03-23T23:13:42Z
 slug: "top-10-list-of-data-loss-disasters-2008"
 aliases:
   - "/2009/03/top-10-list-of-data-loss-disasters-2008/"

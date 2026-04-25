@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Microsoft Download Manager"
 layout: "post"
-date: 05/23/2012 17:07:40
+date: 2012-05-23T17:07:40Z
 slug: "tooltip-microsoft-download-manager"
 aliases:
   - "/2012/05/tooltip-microsoft-download-manager/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: UbitMenu for Office 2007 and 2010"
 layout: "post"
-date: 10/12/2010 17:46:29
+date: 2010-10-12T17:46:29Z
 slug: "tooltip-ubitmenu-for-office-2007-and-2010"
 aliases:
   - "/2010/10/tooltip-ubitmenu-for-office-2007-and-2010/"

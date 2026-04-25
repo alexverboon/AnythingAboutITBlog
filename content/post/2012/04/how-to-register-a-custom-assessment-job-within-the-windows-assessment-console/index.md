@@ -1,7 +1,7 @@
 ---
 title: "How to register a custom Assessment Job within the Windows Assessment Console"
 layout: "post"
-date: 04/17/2012 17:00:26
+date: 2012-04-17T17:00:26Z
 slug: "how-to-register-a-custom-assessment-job-within-the-windows-assessment-console"
 aliases:
   - "/2012/04/how-to-register-a-custom-assessment-job-within-the-windows-assessment-console/"

@@ -1,7 +1,7 @@
 ---
 title: "Running a Custom Scan with Microsoft Security Essentials using a Batch Script"
 layout: "post"
-date: 05/07/2011 11:51:47
+date: 2011-05-07T11:51:47Z
 slug: "running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script"
 aliases:
   - "/2011/05/running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script/"

@@ -1,7 +1,7 @@
 ---
 title: "How to install System Center 2012 Endpoint Protection on a standalone client"
 layout: "post"
-date: 03/24/2013 14:48:33
+date: 2013-03-24T14:48:33Z
 slug: "how-to-install-system-center-2012-endpoint-protection-on-a-standalone-client"
 aliases:
   - "/2013/03/how-to-install-system-center-2012-endpoint-protection-on-a-standalone-client/"

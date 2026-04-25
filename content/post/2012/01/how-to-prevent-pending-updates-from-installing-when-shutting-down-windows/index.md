@@ -1,7 +1,7 @@
 ---
 title: "How to prevent pending updates from installing when shutting down Windows"
 layout: "post"
-date: 01/03/2012 18:03:16
+date: 2012-01-03T18:03:16Z
 slug: "how-to-prevent-pending-updates-from-installing-when-shutting-down-windows"
 aliases:
   - "/2012/01/how-to-prevent-pending-updates-from-installing-when-shutting-down-windows/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; What&rsquo;s new in the Deployment Image Servicing and Management tool (DISM)"
 layout: "post"
-date: 01/14/2012 12:43:03
+date: 2012-01-14T12:43:03Z
 slug: "windows-8-whats-new-in-the-deployment-image-servicing-and-management-tool-dism"
 aliases:
   - "/2012/01/windows-8-whats-new-in-the-deployment-image-servicing-and-management-tool-dism/"

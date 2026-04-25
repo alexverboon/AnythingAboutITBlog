@@ -1,7 +1,7 @@
 ---
 title: "Typo in PE 3.0 Users guide"
 layout: "post"
-date: 01/10/2009 17:02:05
+date: 2009-01-10T17:02:05Z
 slug: "typo-in-pe-30-users-guide"
 aliases:
   - "/2009/01/typo-in-pe-30-users-guide/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 8.1 - Shutdown and Shutdown"
 layout: "post"
-date: 12/09/2013 22:00:54
+date: 2013-12-09T22:00:54Z
 slug: "windows-8-1-shutdown-and-shutdown"
 aliases:
   - "/2013/12/windows-8-1-shutdown-and-shutdown/"

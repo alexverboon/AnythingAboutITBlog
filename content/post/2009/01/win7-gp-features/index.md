@@ -1,7 +1,7 @@
 ---
 title: "Win7 - GP Features"
 layout: "post"
-date: 01/12/2009 22:01:09
+date: 2009-01-12T22:01:09Z
 slug: "win7-gp-features"
 aliases:
   - "/2009/01/win7-gp-features/"

@@ -1,7 +1,7 @@
 ---
 title: "Video &ndash; What is a Browser"
 layout: "post"
-date: 06/18/2009 18:20:06
+date: 2009-06-18T18:20:06Z
 slug: "video-what-is-a-browser"
 aliases:
   - "/2009/06/video-what-is-a-browser/"

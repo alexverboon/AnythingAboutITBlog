@@ -1,7 +1,7 @@
 ---
 title: "Windows Volume Activation Demystified"
 layout: "post"
-date: 02/03/2009 18:50:15
+date: 2009-02-03T18:50:15Z
 slug: "windows-volume-activation-demystified"
 aliases:
   - "/2009/02/windows-volume-activation-demystified/"

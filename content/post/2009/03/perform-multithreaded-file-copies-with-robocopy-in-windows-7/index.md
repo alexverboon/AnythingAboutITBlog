@@ -1,7 +1,7 @@
 ---
 title: "Perform Multithreaded File Copies with Robocopy in Windows 7"
 layout: "post"
-date: 03/20/2009 08:16:07
+date: 2009-03-20T08:16:07Z
 slug: "perform-multithreaded-file-copies-with-robocopy-in-windows-7"
 aliases:
   - "/2009/03/perform-multithreaded-file-copies-with-robocopy-in-windows-7/"

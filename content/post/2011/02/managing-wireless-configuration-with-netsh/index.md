@@ -1,7 +1,7 @@
 ---
 title: "Managing Wireless Configuration with NETSH"
 layout: "post"
-date: 02/02/2011 00:34:16
+date: 2011-02-02T00:34:16Z
 slug: "managing-wireless-configuration-with-netsh"
 aliases:
   - "/2011/02/managing-wireless-configuration-with-netsh/"

@@ -1,7 +1,7 @@
 ---
 title: "ConfigMgr - PowerShell Script to list Image Binary Delta Replication Setting"
 layout: "post"
-date: 05/18/2014 22:15:09
+date: 2014-05-18T22:15:09Z
 slug: "configmgr-powershell-script-to-list-image-binary-delta-replication-setting"
 aliases:
   - "/2014/05/configmgr-powershell-script-to-list-image-binary-delta-replication-setting/"

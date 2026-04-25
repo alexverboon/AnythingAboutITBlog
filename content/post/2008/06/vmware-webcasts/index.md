@@ -1,7 +1,7 @@
 ---
 title: "VMWARE Webcasts"
 layout: "post"
-date: 06/02/2008 20:13:00
+date: 2008-06-02T20:13:00Z
 slug: "vmware-webcasts"
 aliases:
   - "/2008/06/vmware-webcasts/"

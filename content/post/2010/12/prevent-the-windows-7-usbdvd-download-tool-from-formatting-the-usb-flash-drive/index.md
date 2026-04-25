@@ -1,7 +1,7 @@
 ---
 title: "Prevent the Windows 7 USB/DVD Download Tool from formatting the USB flash drive"
 layout: "post"
-date: 12/23/2010 01:28:06
+date: 2010-12-23T01:28:06Z
 slug: "prevent-the-windows-7-usbdvd-download-tool-from-formatting-the-usb-flash-drive"
 aliases:
   - "/2010/12/prevent-the-windows-7-usbdvd-download-tool-from-formatting-the-usb-flash-drive/"

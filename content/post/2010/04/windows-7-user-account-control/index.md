@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 &ndash; User Account Control"
 layout: "post"
-date: 04/24/2010 22:08:36
+date: 2010-04-24T22:08:36Z
 slug: "windows-7-user-account-control"
 aliases:
   - "/2010/04/windows-7-user-account-control/"

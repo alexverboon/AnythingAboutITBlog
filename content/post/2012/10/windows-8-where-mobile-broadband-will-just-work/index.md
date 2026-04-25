@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 - Where Mobile Broadband will just work"
 layout: "post"
-date: 10/23/2012 21:41:04
+date: 2012-10-23T21:41:04Z
 slug: "windows-8-where-mobile-broadband-will-just-work"
 aliases:
   - "/2012/10/windows-8-where-mobile-broadband-will-just-work/"

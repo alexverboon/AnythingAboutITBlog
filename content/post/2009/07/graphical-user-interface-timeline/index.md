@@ -1,7 +1,7 @@
 ---
 title: "Graphical User Interface Timeline"
 layout: "post"
-date: 07/12/2009 12:45:26
+date: 2009-07-12T12:45:26Z
 slug: "graphical-user-interface-timeline"
 aliases:
   - "/2009/07/graphical-user-interface-timeline/"

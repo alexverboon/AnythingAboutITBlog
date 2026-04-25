@@ -1,7 +1,7 @@
 ---
 title: "Stay in Control of AzureAD Enterprise Application registrations with Cloud App Security"
 layout: "post"
-date: 12/10/2018 22:33:04
+date: 2018-12-10T22:33:04Z
 slug: "stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security"
 aliases:
   - "/2018/12/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security/"

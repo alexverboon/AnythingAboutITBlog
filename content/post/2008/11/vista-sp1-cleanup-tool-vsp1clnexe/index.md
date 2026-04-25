@@ -1,7 +1,7 @@
 ---
 title: "Vista SP1 cleanup tool VSP1CLN.EXE"
 layout: "post"
-date: 11/21/2008 00:24:20
+date: 2008-11-21T00:24:20Z
 slug: "vista-sp1-cleanup-tool-vsp1clnexe"
 aliases:
   - "/2008/11/vista-sp1-cleanup-tool-vsp1clnexe/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows PowerShell - Free booklet"
 layout: "post"
-date: 11/27/2008 22:10:10
+date: 2008-11-27T22:10:10Z
 slug: "windows-powershell-free-booklet"
 aliases:
   - "/2008/11/windows-powershell-free-booklet/"

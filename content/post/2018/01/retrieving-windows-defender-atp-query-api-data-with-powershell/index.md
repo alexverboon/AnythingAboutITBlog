@@ -1,7 +1,7 @@
 ---
 title: "Retrieving Windows Defender ATP query API data with PowerShell"
 layout: "post"
-date: 01/09/2018 20:45:15
+date: 2018-01-09T20:45:15Z
 slug: "retrieving-windows-defender-atp-query-api-data-with-powershell"
 aliases:
   - "/2018/01/retrieving-windows-defender-atp-query-api-data-with-powershell/"

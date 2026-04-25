@@ -1,7 +1,7 @@
 ---
 title: "Windows XP until 2014"
 layout: "post"
-date: 08/02/2008 12:40:51
+date: 2008-08-02T12:40:51Z
 slug: "windows-xp-until-2014"
 aliases:
   - "/2008/08/windows-xp-until-2014/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell App Deployment Toolkit&ndash; How to make the message  Font size larger"
 layout: "post"
-date: 11/22/2013 14:32:33
+date: 2013-11-22T14:32:33Z
 slug: "powershell-app-deployment-toolkit-how-to-make-the-message-font-size-larger"
 aliases:
   - "/2013/11/powershell-app-deployment-toolkit-how-to-make-the-message-font-size-larger/"

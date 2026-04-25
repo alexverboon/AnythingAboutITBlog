@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Device Installation Without Administrative Rights"
 layout: "post"
-date: 12/31/2010 02:00:07
+date: 2010-12-31T02:00:07Z
 slug: "windows-7-device-installation-without-administrative-rights"
 aliases:
   - "/2010/12/windows-7-device-installation-without-administrative-rights/"

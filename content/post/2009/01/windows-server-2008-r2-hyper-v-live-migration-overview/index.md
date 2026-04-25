@@ -1,7 +1,7 @@
 ---
 title: "Windows Server 2008 R2 Hyper-V Live Migration Overview"
 layout: "post"
-date: 01/29/2009 18:15:05
+date: 2009-01-29T18:15:05Z
 slug: "windows-server-2008-r2-hyper-v-live-migration-overview"
 aliases:
   - "/2009/01/windows-server-2008-r2-hyper-v-live-migration-overview/"

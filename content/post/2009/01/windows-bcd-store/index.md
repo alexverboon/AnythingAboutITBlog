@@ -1,7 +1,7 @@
 ---
 title: "Windows BCD Store"
 layout: "post"
-date: 01/04/2009 10:48:43
+date: 2009-01-04T10:48:43Z
 slug: "windows-bcd-store"
 aliases:
   - "/2009/01/windows-bcd-store/"

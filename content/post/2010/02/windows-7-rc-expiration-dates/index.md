@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 RC Expiration dates"
 layout: "post"
-date: 02/23/2010 21:55:02
+date: 2010-02-23T21:55:02Z
 slug: "windows-7-rc-expiration-dates"
 aliases:
   - "/2010/02/windows-7-rc-expiration-dates/"

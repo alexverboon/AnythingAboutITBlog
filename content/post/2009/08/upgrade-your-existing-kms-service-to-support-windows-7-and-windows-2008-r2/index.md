@@ -1,7 +1,7 @@
 ---
 title: "Upgrade your existing KMS Service to support Windows 7 and Windows 2008 R2"
 layout: "post"
-date: 08/12/2009 09:08:53
+date: 2009-08-12T09:08:53Z
 slug: "upgrade-your-existing-kms-service-to-support-windows-7-and-windows-2008-r2"
 aliases:
   - "/2009/08/upgrade-your-existing-kms-service-to-support-windows-7-and-windows-2008-r2/"

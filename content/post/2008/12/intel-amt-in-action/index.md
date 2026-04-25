@@ -1,7 +1,7 @@
 ---
 title: "Intel AMT in action"
 layout: "post"
-date: 12/17/2008 20:59:21
+date: 2008-12-17T20:59:21Z
 slug: "intel-amt-in-action"
 aliases:
   - "/2008/12/intel-amt-in-action/"

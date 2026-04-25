@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Azure Virtual Machine Size information with PowerShell"
 layout: "post"
-date: 02/07/2017 19:46:07
+date: 2017-02-07T19:46:07Z
 slug: "retrieve-azure-virtual-machine-size-information-with-powershell"
 aliases:
   - "/2017/02/retrieve-azure-virtual-machine-size-information-with-powershell/"

@@ -1,7 +1,7 @@
 ---
 title: "New IE Group Policy Settings for blocking out-of-date ActiveX controls"
 layout: "post"
-date: 08/10/2014 20:26:04
+date: 2014-08-10T20:26:04Z
 slug: "new-ie-group-policy-settings-for-blocking-out-of-date-activex-controls"
 aliases:
   - "/2014/08/new-ie-group-policy-settings-for-blocking-out-of-date-activex-controls/"

@@ -1,7 +1,7 @@
 ---
 title: "Managing Windows 8 Metro Style Apps with DISM"
 layout: "post"
-date: 02/25/2012 21:55:52
+date: 2012-02-25T21:55:52Z
 slug: "managing-windows-8-metro-style-apps-with-dism"
 aliases:
   - "/2012/02/managing-windows-8-metro-style-apps-with-dism/"

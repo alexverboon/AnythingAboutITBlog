@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: CBS Package Inspector"
 layout: "post"
-date: 11/19/2011 12:31:08
+date: 2011-11-19T12:31:08Z
 slug: "tooltip-cbs-package-inspector"
 aliases:
   - "/2011/11/tooltip-cbs-package-inspector/"

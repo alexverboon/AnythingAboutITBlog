@@ -1,7 +1,7 @@
 ---
 title: "Don't send outlook messages without subject"
 layout: "post"
-date: 01/13/2009 19:13:36
+date: 2009-01-13T19:13:36Z
 slug: "dont-send-outlook-messages-without-subject"
 aliases:
   - "/2009/01/dont-send-outlook-messages-without-subject/"

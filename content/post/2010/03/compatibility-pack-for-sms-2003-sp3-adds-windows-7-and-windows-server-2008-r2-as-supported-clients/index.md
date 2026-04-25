@@ -1,7 +1,7 @@
 ---
 title: "Compatibility pack for SMS 2003 SP3 adds Windows 7 and Windows Server 2008 R2 as supported clients"
 layout: "post"
-date: 03/03/2010 22:50:40
+date: 2010-03-03T22:50:40Z
 slug: "compatibility-pack-for-sms-2003-sp3-adds-windows-7-and-windows-server-2008-r2-as-supported-clients"
 aliases:
   - "/2010/03/compatibility-pack-for-sms-2003-sp3-adds-windows-7-and-windows-server-2008-r2-as-supported-clients/"

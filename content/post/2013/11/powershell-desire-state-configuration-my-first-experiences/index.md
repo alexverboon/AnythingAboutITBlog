@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Desired State Configuration - My first experiences"
 layout: "post"
-date: 11/16/2013 20:44:28
+date: 2013-11-16T20:44:28Z
 slug: "powershell-desire-state-configuration-my-first-experiences"
 aliases:
   - "/2013/11/powershell-desire-state-configuration-my-first-experiences/"

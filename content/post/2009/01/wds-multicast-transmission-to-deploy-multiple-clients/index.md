@@ -1,7 +1,7 @@
 ---
 title: "WDS - Multicast Transmission to Deploy Multiple Clients"
 layout: "post"
-date: 01/17/2009 00:04:46
+date: 2009-01-17T00:04:46Z
 slug: "wds-multicast-transmission-to-deploy-multiple-clients"
 aliases:
   - "/2009/01/wds-multicast-transmission-to-deploy-multiple-clients/"

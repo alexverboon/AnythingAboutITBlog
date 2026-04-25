@@ -1,7 +1,7 @@
 ---
 title: "XP Mode within the Enterprise"
 layout: "post"
-date: 08/19/2010 20:50:34
+date: 2010-08-19T20:50:34Z
 slug: "xp-mode-within-the-enterprise"
 aliases:
   - "/2010/08/xp-mode-within-the-enterprise/"

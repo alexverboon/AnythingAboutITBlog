@@ -1,7 +1,7 @@
 ---
 title: "Hide the Unused Updates"
 layout: "post"
-date: 10/31/2009 22:34:52
+date: 2009-10-31T22:34:52Z
 slug: "hide-the-unused-updates"
 aliases:
   - "/2009/10/hide-the-unused-updates/"

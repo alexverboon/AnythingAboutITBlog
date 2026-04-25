@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Compatibility Search"
 layout: "post"
-date: 07/30/2010 22:52:19
+date: 2010-07-30T22:52:19Z
 slug: "windows-7-compatibility-search"
 aliases:
   - "/2010/07/windows-7-compatibility-search/"

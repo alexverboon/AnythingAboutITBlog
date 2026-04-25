@@ -1,7 +1,7 @@
 ---
 title: "Running Windows 8 To Go on a Thin Client Device"
 layout: "post"
-date: 03/05/2012 15:46:52
+date: 2012-03-05T15:46:52Z
 slug: "running-windows-8-to-go-on-a-thin-client-device"
 aliases:
   - "/2012/03/running-windows-8-to-go-on-a-thin-client-device/"

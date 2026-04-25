@@ -1,7 +1,7 @@
 ---
 title: "Slaves to the process"
 layout: "post"
-date: 07/06/2008 10:41:33
+date: 2008-07-06T10:41:33Z
 slug: "slaves-to-the-process"
 aliases:
   - "/2008/07/slaves-to-the-process/"

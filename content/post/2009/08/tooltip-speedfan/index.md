@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: SpeedFan"
 layout: "post"
-date: 08/20/2009 19:22:05
+date: 2009-08-20T19:22:05Z
 slug: "tooltip-speedfan"
 aliases:
   - "/2009/08/tooltip-speedfan/"

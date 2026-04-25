@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Wallpaper preview"
 layout: "post"
-date: 09/07/2008 13:44:19
+date: 2008-09-07T13:44:19Z
 slug: "windows-7-wallpaper-preview"
 aliases:
   - "/2008/09/windows-7-wallpaper-preview/"

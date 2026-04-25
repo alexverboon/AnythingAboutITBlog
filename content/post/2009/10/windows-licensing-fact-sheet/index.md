@@ -1,7 +1,7 @@
 ---
 title: "Windows Licensing Fact Sheet"
 layout: "post"
-date: 10/24/2009 14:46:19
+date: 2009-10-24T14:46:19Z
 slug: "windows-licensing-fact-sheet"
 aliases:
   - "/2009/10/windows-licensing-fact-sheet/"

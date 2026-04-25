@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 secrets"
 layout: "post"
-date: 01/21/2009 22:07:34
+date: 2009-01-21T22:07:34Z
 slug: "windows-7-secrets"
 aliases:
   - "/2009/01/windows-7-secrets/"

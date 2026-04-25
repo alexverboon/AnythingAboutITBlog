@@ -1,7 +1,7 @@
 ---
 title: "ReadTip: General (Windows) activation concepts (KMS/MAK)"
 layout: "post"
-date: 01/12/2011 23:37:38
+date: 2011-01-12T23:37:38Z
 slug: "readtip-general-windows-activation-concepts-kmsmak"
 aliases:
   - "/2011/01/readtip-general-windows-activation-concepts-kmsmak/"

@@ -1,7 +1,7 @@
 ---
 title: "How to find latest Microsoft Knowledge Base articles for Windows 8 and Server 2012"
 layout: "post"
-date: 10/03/2012 23:00:36
+date: 2012-10-03T23:00:36Z
 slug: "how-to-find-latest-microsoft-knowledge-base-articles-for-windows-8-and-server-2012"
 aliases:
   - "/2012/10/how-to-find-latest-microsoft-knowledge-base-articles-for-windows-8-and-server-2012/"

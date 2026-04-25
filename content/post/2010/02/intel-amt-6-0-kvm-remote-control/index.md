@@ -1,7 +1,7 @@
 ---
 title: "Intel AMT 6.0 KVM Remote Control"
 layout: "post"
-date: 02/20/2010 23:54:17
+date: 2010-02-20T23:54:17Z
 slug: "intel-amt-6-0-kvm-remote-control"
 aliases:
   - "/2010/02/intel-amt-6-0-kvm-remote-control/"

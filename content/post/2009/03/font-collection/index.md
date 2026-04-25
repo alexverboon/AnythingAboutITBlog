@@ -1,7 +1,7 @@
 ---
 title: "Font Collection"
 layout: "post"
-date: 03/10/2009 23:31:33
+date: 2009-03-10T23:31:33Z
 slug: "font-collection"
 aliases:
   - "/2009/03/font-collection/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows Virtual PC &ndash; first experiences"
 layout: "post"
-date: 05/05/2009 00:08:53
+date: 2009-05-05T00:08:53Z
 slug: "windows-virtual-pc-first-experiences"
 aliases:
   - "/2009/05/windows-virtual-pc-first-experiences/"

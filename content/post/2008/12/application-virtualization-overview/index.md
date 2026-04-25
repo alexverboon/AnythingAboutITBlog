@@ -1,7 +1,7 @@
 ---
 title: "Application Virtualization Overview"
 layout: "post"
-date: 12/13/2008 20:21:06
+date: 2008-12-13T20:21:06Z
 slug: "application-virtualization-overview"
 aliases:
   - "/2008/12/application-virtualization-overview/"

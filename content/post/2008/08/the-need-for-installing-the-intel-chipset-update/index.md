@@ -1,7 +1,7 @@
 ---
 title: "The need for installing the Intel Chipset update"
 layout: "post"
-date: 08/21/2008 21:56:10
+date: 2008-08-21T21:56:10Z
 slug: "the-need-for-installing-the-intel-chipset-update"
 aliases:
   - "/2008/08/the-need-for-installing-the-intel-chipset-update/"

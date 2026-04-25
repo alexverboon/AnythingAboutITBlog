@@ -1,7 +1,7 @@
 ---
 title: "Wireless Router with Power button"
 layout: "post"
-date: 09/14/2008 15:34:31
+date: 2008-09-14T15:34:31Z
 slug: "wireless-router-with-power-button"
 aliases:
   - "/2008/09/wireless-router-with-power-button/"

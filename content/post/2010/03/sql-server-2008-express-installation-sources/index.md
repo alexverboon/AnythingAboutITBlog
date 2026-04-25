@@ -1,7 +1,7 @@
 ---
 title: "SQL Server 2008 Express Installation Sources"
 layout: "post"
-date: 03/07/2010 14:31:27
+date: 2010-03-07T14:31:27Z
 slug: "sql-server-2008-express-installation-sources"
 aliases:
   - "/2010/03/sql-server-2008-express-installation-sources/"

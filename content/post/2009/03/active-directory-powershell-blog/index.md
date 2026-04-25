@@ -1,7 +1,7 @@
 ---
 title: "Active Directory Powershell Blog"
 layout: "post"
-date: 03/25/2009 22:34:48
+date: 2009-03-25T22:34:48Z
 slug: "active-directory-powershell-blog"
 aliases:
   - "/2009/03/active-directory-powershell-blog/"

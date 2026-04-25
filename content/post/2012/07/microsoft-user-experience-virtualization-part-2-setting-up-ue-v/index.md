@@ -1,7 +1,7 @@
 ---
 title: "Microsoft User Experience Virtualization &ndash; Part 2: Setting up UE-V"
 layout: "post"
-date: 07/03/2012 19:16:09
+date: 2012-07-03T19:16:09Z
 slug: "microsoft-user-experience-virtualization-part-2-setting-up-ue-v"
 aliases:
   - "/2012/07/microsoft-user-experience-virtualization-part-2-setting-up-ue-v/"

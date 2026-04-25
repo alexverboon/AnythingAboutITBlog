@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: DriverStore Explorer"
 layout: "post"
-date: 12/28/2010 16:12:59
+date: 2010-12-28T16:12:59Z
 slug: "tooltip-driverstore-explorer"
 aliases:
   - "/2010/12/tooltip-driverstore-explorer/"

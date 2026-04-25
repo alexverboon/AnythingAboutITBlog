@@ -1,7 +1,7 @@
 ---
 title: "Power Consumption in standby mode"
 layout: "post"
-date: 11/20/2008 22:11:27
+date: 2008-11-20T22:11:27Z
 slug: "power-consumption-in-standby-mode"
 aliases:
   - "/2008/11/power-consumption-in-standby-mode/"

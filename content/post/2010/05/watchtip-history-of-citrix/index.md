@@ -1,7 +1,7 @@
 ---
 title: "WatchTip: History of Citrix"
 layout: "post"
-date: 05/24/2010 19:54:21
+date: 2010-05-24T19:54:21Z
 slug: "watchtip-history-of-citrix"
 aliases:
   - "/2010/05/watchtip-history-of-citrix/"

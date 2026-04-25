@@ -1,7 +1,7 @@
 ---
 title: "How to get the SQLCMD standalone for Microsoft SQL Server Management"
 layout: "post"
-date: 03/17/2012 10:50:39
+date: 2012-03-17T10:50:39Z
 slug: "how-to-get-the-sqlcmd-standalone-for-microsoft-sql-server-management"
 aliases:
   - "/2012/03/how-to-get-the-sqlcmd-standalone-for-microsoft-sql-server-management/"

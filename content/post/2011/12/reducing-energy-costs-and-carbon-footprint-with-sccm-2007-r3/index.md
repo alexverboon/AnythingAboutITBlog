@@ -1,7 +1,7 @@
 ---
 title: "Reducing Energy Costs and Carbon Footprint with SCCM 2007 R3"
 layout: "post"
-date: 12/27/2011 18:59:02
+date: 2011-12-27T18:59:02Z
 slug: "reducing-energy-costs-and-carbon-footprint-with-sccm-2007-r3"
 aliases:
   - "/2011/12/reducing-energy-costs-and-carbon-footprint-with-sccm-2007-r3/"

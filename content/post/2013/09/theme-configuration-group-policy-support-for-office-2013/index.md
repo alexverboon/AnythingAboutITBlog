@@ -1,7 +1,7 @@
 ---
 title: "Theme Configuration Group Policy support for Office 2013"
 layout: "post"
-date: 09/30/2013 21:29:49
+date: 2013-09-30T21:29:49Z
 slug: "theme-configuration-group-policy-support-for-office-2013"
 aliases:
   - "/2013/09/theme-configuration-group-policy-support-for-office-2013/"

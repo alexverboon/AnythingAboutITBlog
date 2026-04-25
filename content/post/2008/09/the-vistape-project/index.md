@@ -1,7 +1,7 @@
 ---
 title: "The VistaPE project"
 layout: "post"
-date: 09/07/2008 20:11:45
+date: 2008-09-07T20:11:45Z
 slug: "the-vistape-project"
 aliases:
   - "/2008/09/the-vistape-project/"

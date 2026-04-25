@@ -1,7 +1,7 @@
 ---
 title: "About disk drives"
 layout: "post"
-date: 11/05/2008 23:57:33
+date: 2008-11-05T23:57:33Z
 slug: "about-disk-drives"
 aliases:
   - "/2008/11/about-disk-drives/"

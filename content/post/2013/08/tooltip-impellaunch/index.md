@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: ImpelLaunch"
 layout: "post"
-date: 08/24/2013 11:38:24
+date: 2013-08-24T11:38:24Z
 slug: "tooltip-impellaunch"
 aliases:
   - "/2013/08/tooltip-impellaunch/"

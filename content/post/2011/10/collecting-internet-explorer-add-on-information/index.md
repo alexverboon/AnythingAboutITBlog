@@ -1,7 +1,7 @@
 ---
 title: "Collecting Internet Explorer Add-on information"
 layout: "post"
-date: 10/30/2011 13:12:51
+date: 2011-10-30T13:12:51Z
 slug: "collecting-internet-explorer-add-on-information"
 aliases:
   - "/2011/10/collecting-internet-explorer-add-on-information/"

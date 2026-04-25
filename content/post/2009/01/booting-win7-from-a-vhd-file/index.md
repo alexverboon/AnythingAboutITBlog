@@ -1,7 +1,7 @@
 ---
 title: "Booting Win7 from a VHD file"
 layout: "post"
-date: 01/03/2009 21:37:37
+date: 2009-01-03T21:37:37Z
 slug: "booting-win7-from-a-vhd-file"
 aliases:
   - "/2009/01/booting-win7-from-a-vhd-file/"

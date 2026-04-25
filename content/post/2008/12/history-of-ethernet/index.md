@@ -1,7 +1,7 @@
 ---
 title: "History of Ethernet"
 layout: "post"
-date: 12/29/2008 11:38:15
+date: 2008-12-29T11:38:15Z
 slug: "history-of-ethernet"
 aliases:
   - "/2008/12/history-of-ethernet/"

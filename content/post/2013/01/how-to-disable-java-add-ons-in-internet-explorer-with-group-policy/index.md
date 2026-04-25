@@ -1,7 +1,7 @@
 ---
 title: "How to disable Java add-ons in Internet Explorer with Group Policy"
 layout: "post"
-date: 01/13/2013 12:20:58
+date: 2013-01-13T12:20:58Z
 slug: "how-to-disable-java-add-ons-in-internet-explorer-with-group-policy"
 aliases:
   - "/2013/01/how-to-disable-java-add-ons-in-internet-explorer-with-group-policy/"

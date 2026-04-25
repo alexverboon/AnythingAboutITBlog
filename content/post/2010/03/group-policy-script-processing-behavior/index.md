@@ -1,7 +1,7 @@
 ---
 title: "Group Policy Script Processing Behavior"
 layout: "post"
-date: 03/29/2010 19:18:11
+date: 2010-03-29T19:18:11Z
 slug: "group-policy-script-processing-behavior"
 aliases:
   - "/2010/03/group-policy-script-processing-behavior/"

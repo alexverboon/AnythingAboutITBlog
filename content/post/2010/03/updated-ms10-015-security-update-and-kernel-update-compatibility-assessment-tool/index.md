@@ -1,7 +1,7 @@
 ---
 title: "Updated MS10-015 Security Update and Kernel Update Compatibility Assessment Tool"
 layout: "post"
-date: 03/02/2010 22:49:20
+date: 2010-03-02T22:49:20Z
 slug: "updated-ms10-015-security-update-and-kernel-update-compatibility-assessment-tool"
 aliases:
   - "/2010/03/updated-ms10-015-security-update-and-kernel-update-compatibility-assessment-tool/"

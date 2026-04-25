@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: AM-Deadlink"
 layout: "post"
-date: 07/29/2009 06:50:05
+date: 2009-07-29T06:50:05Z
 slug: "tooltip-am-deadlink"
 aliases:
   - "/2009/07/tooltip-am-deadlink/"

@@ -1,7 +1,7 @@
 ---
 title: "4 Great App-V videos"
 layout: "post"
-date: 12/23/2009 13:31:56
+date: 2009-12-23T13:31:56Z
 slug: "4-great-app-v-videos"
 aliases:
   - "/2009/12/4-great-app-v-videos/"

@@ -1,7 +1,7 @@
 ---
 title: "How to configure system volume with PowerShell"
 layout: "post"
-date: 05/29/2013 16:53:47
+date: 2013-05-29T16:53:47Z
 slug: "how-to-configure-system-volume-with-powershell"
 aliases:
   - "/2013/05/how-to-configure-system-volume-with-powershell/"

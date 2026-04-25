@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 &ndash; Script to automatically show the desktop"
 layout: "post"
-date: 11/04/2012 10:16:13
+date: 2012-11-04T10:16:13Z
 slug: "windows-8-script-to-automatically-show-the-desktop"
 aliases:
   - "/2012/11/windows-8-script-to-automatically-show-the-desktop/"

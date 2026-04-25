@@ -1,7 +1,7 @@
 ---
 title: "Keep track of Global and Regional Windows 7 deployment status"
 layout: "post"
-date: 04/13/2011 17:54:18
+date: 2011-04-13T17:54:18Z
 slug: "keep-track-of-global-and-regional-windows-7-deployment-status"
 aliases:
   - "/2011/04/keep-track-of-global-and-regional-windows-7-deployment-status/"

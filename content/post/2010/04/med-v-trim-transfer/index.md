@@ -1,7 +1,7 @@
 ---
 title: "MED-V Trim Transfer"
 layout: "post"
-date: 04/20/2010 23:19:17
+date: 2010-04-20T23:19:17Z
 slug: "med-v-trim-transfer"
 aliases:
   - "/2010/04/med-v-trim-transfer/"

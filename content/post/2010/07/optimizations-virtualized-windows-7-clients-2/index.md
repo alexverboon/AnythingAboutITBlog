@@ -1,7 +1,7 @@
 ---
 title: "Optimizations for Virtualized Windows 7 clients"
 layout: "post"
-date: 07/30/2010 13:18:51
+date: 2010-07-30T13:18:51Z
 slug: "optimizations-virtualized-windows-7-clients-2"
 aliases:
   - "/2010/07/optimizations-virtualized-windows-7-clients-2/"

@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 versus Vista and XP"
 layout: "post"
-date: 08/03/2009 20:03:35
+date: 2009-08-03T20:03:35Z
 slug: "windows-7-versus-vista-and-xp"
 aliases:
   - "/2009/08/windows-7-versus-vista-and-xp/"

@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Path Copy Copy"
 layout: "post"
-date: 06/03/2011 19:05:13
+date: 2011-06-03T19:05:13Z
 slug: "tooltip-path-copy-copy"
 aliases:
   - "/2011/06/tooltip-path-copy-copy/"

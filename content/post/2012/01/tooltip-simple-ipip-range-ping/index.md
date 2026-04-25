@@ -1,7 +1,7 @@
 ---
 title: "ToolTip: Simple IP/IP Range Ping"
 layout: "post"
-date: 01/31/2012 18:52:20
+date: 2012-01-31T18:52:20Z
 slug: "tooltip-simple-ipip-range-ping"
 aliases:
   - "/2012/01/tooltip-simple-ipip-range-ping/"

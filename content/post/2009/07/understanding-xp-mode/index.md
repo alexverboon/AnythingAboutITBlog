@@ -1,7 +1,7 @@
 ---
 title: "Understanding XP Mode"
 layout: "post"
-date: 07/15/2009 11:52:28
+date: 2009-07-15T11:52:28Z
 slug: "understanding-xp-mode"
 aliases:
   - "/2009/07/understanding-xp-mode/"

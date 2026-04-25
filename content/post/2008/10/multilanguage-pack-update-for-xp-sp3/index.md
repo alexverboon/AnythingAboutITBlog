@@ -1,7 +1,7 @@
 ---
 title: "Multilanguage pack update for XP SP3"
 layout: "post"
-date: 10/01/2008 19:07:11
+date: 2008-10-01T19:07:11Z
 slug: "multilanguage-pack-update-for-xp-sp3"
 aliases:
   - "/2008/10/multilanguage-pack-update-for-xp-sp3/"

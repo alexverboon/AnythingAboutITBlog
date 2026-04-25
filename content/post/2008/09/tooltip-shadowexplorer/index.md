@@ -1,7 +1,7 @@
 ---
 title: "ToolTip - Shadowexplorer"
 layout: "post"
-date: 09/26/2008 20:09:32
+date: 2008-09-26T20:09:32Z
 slug: "tooltip-shadowexplorer"
 aliases:
   - "/2008/09/tooltip-shadowexplorer/"

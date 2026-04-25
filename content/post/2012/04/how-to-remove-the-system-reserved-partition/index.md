@@ -1,7 +1,7 @@
 ---
 title: "How to remove the system reserved partition"
 layout: "post"
-date: 04/18/2012 19:33:27
+date: 2012-04-18T19:33:27Z
 slug: "how-to-remove-the-system-reserved-partition"
 aliases:
   - "/2012/04/how-to-remove-the-system-reserved-partition/"

@@ -1,7 +1,7 @@
 ---
 title: "PowerShell Script - Get-MsolUserInformation"
 layout: "post"
-date: 12/18/2016 18:27:57
+date: 2016-12-18T18:27:57Z
 slug: "powershell-script-get-msoluserinformation"
 aliases:
   - "/2016/12/powershell-script-get-msoluserinformation/"
