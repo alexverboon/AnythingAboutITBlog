@@ -13,9 +13,7 @@ tags:
   - AzureAD
   - KQL
 categories:
-  - Azure Active Directory
-  - KQL
-  - Security
+  - Microsoft Sentinel
 ---
 
 Hello there,
