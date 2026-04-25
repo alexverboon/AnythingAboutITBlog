@@ -5,7 +5,7 @@ date: 2009-01-10T17:02:05Z
 slug: "typo-in-pe-30-users-guide"
 aliases:
   - "/2009/01/typo-in-pe-30-users-guide/"
-description: "I've just found a typo in the Windows PE 3.0 Users guide. dism /image:C:\winpe_x86\mount /Add-Package /PackagePath:\"C:\Program Files\Windows **OPK**\T..."
+description: "I've just found a typo in the Windows PE 3.0 Users guide for DISM package path usage in WinPE."
 author: "Alex Verboon"
 tags:
   - aik
