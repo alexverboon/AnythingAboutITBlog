@@ -6,7 +6,8 @@ slug: "monitoring-windows-built-in-local-security-groups-with-microsoft-defender
 aliases:
   - "/2024/02/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel/"
 description: "Detect and monitor local security group changes using Microsoft Defender XDR and Microsoft Sentinel."
-image: "/post/2024/02/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel/blogpostimage.png"
+author: "Alex Verboon"
+image: "/2024/02/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel/blogpostimage.png"
 tags: ["microsoft defender xdr", "microsoft sentinel", "windows security", "kql"]
 categories: ["security"]
 ---
