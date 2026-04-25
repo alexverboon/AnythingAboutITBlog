@@ -15,10 +15,7 @@ tags:
   - grouppolicy
   - kql
 categories:
-  - defender-for-endpoint
-  - group-policy
-  - kql
-  - microsoft-defender
+  - Microsoft Defender
 ---
 Hello there,
 

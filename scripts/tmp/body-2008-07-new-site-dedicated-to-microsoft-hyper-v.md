@@ -1,0 +1,1 @@
+Steven Bink owner of the famous [Bink.nu](http://bink.nu/) web site has launched a new site dedicated to Microsoft Hyper-V and related technologies called [Hypervoria](http://hypervoria.com/)

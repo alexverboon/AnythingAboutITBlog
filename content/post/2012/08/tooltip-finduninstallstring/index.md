@@ -1,0 +1,26 @@
+---
+title: "ToolTip: FindUninstallString"
+layout: "post"
+date: 08/06/2012 19:48:26
+slug: "tooltip-finduninstallstring"
+aliases:
+  - "/2012/08/tooltip-finduninstallstring/"
+description: "'FindUninstallString' is a utility program that searches through the Registry and displays a list of programs that have an uninstall command. It’s FRE..."
+author: "Alex Verboon"
+tags:
+  - registry
+  - remove
+  - software
+  - uninstall
+  - uninstallstring
+categories:
+  - tip
+  - tools
+---
+'FindUninstallString' is a utility program that searches through the Registry and displays a list of programs that have an uninstall command. It’s FREE and does not require installation. 
+
+  
+![FindUninstallString.png](images/Download?ProjectName=finduninstallstring&DownloadId=462462)
+
+  More details and download from [here](http://finduninstallstring.codeplex.com/)
+

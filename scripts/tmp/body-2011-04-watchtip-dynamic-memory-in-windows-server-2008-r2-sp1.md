@@ -1,0 +1,1 @@
+There has been a lot of talk about Dynamic Memory in Windows Server 2008 R2 SP1. In this video Jeff Alexander provides an excellent 14 minute overview. Watch the video [here](http://technet.microsoft.com/en-us/edge/dynamic-memory-in-windows-server-2008-r2-sp1)

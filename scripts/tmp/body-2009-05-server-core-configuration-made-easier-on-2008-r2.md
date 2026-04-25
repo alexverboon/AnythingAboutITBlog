@@ -1,0 +1,1 @@
+Watch [this video](http://edge.technet.com/Media/SConfig-for-Server-Core-in-2008-R2/) on TechnetEdge explaining simplified server core configuration with Server 2008-R2.

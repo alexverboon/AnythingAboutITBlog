@@ -1,0 +1,3 @@
+*Windows 7 introduces a number of manageability improvements that can reduce total cost of ownership by helping to increase automation, improve user productivity, and provide flexible administrative control to meet compliance requirements. This paper provides an overview of each of these improvements.*
+
+  Download the document [here](http://www.microsoft.com/downloads/details.aspx?familyid=8bbb8598-95b1-4c31-9336-b5add6da65a3&displaylang=en&tm)

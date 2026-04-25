@@ -1,0 +1,25 @@
+---
+title: "Windows 7 IT Pro Guides"
+layout: "post"
+date: 02/28/2009 10:28:39
+slug: "windows-7-it-pro-guides"
+aliases:
+  - "/2009/02/windows-7-it-pro-guides/"
+description: "Microsoft has published [Windows 7 IT Pro Guides](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=c14b8a69-db3b-4b7c-9203-689b..."
+author: "Alex Verboon"
+tags:
+  - it-pro-guides
+  - new-features
+  - reading
+  - windows7
+categories:
+  - knowledge
+  - reading
+  - windows-7
+---
+Microsoft has published [Windows 7 IT Pro Guides](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=c14b8a69-db3b-4b7c-9203-689b7719b8b6). 
+
+  [](#)*These documents include: 1) A What's New in Windows 7 Guide, covering many new and changed Windows 7 features of interest to IT professionals, including DirectAccess, BranchCache and other networking technologies, VHD boot and other deployment technologies, and AppLocker, Biometrics, and other security technologies, and 2) A Windows 7 Manageability Overview Guide, covering the manageability improvements that can reduce total cost of ownership by helping to increase automation, improve user productivity, and provide flexible administrative control to meet compliance requirements.management technologies.*
+
+  Both documents can be downloaded from [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=c14b8a69-db3b-4b7c-9203-689b7719b8b6)
+

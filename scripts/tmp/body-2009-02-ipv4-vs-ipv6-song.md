@@ -1,0 +1,1 @@
+In my next blog post i will address the IP version 6 topic, but let me first share this amusing video I found while I was collecting information around IPv6. It’s really worth listening.

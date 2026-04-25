@@ -1,0 +1,1 @@
+Will we get rid of batteries soon ? Read more here: [http://www.ecoupled.com/index.html](http://www.ecoupled.com/index.html)

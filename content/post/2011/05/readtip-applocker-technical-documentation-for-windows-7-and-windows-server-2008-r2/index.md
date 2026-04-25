@@ -1,0 +1,22 @@
+---
+title: "ReadTip: AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2"
+layout: "post"
+date: 05/21/2011 11:18:16
+slug: "readtip-applocker-technical-documentation-for-windows-7-and-windows-server-2008-r2"
+aliases:
+  - "/2011/05/readtip-applocker-technical-documentation-for-windows-7-and-windows-server-2008-r2/"
+description: "The AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2 provides technical guidance about understanding how AppLocker works and..."
+author: "Alex Verboon"
+tags:
+  - applocker
+  - documentation
+categories:
+  - applocker
+---
+The AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2 provides technical guidance about understanding how AppLocker works and how to effectively plan and deploy AppLocker policies.
+
+  
+![image](images/images?q=tbn:ANd9GcRcoThRfkSr9OxcnkO6lFRQcXeEiL8U1Yo7xUnLlZIREnRIpwsf2g)
+
+  Download the documents from  [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=025cf2e8-b0ab-4419-b5bb-86ab2d5eca83)
+

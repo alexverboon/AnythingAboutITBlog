@@ -1,0 +1,1 @@
+The term App-V is often being brought in conjunction with Application Compatibility as some might believe that App-V is the general purpose OS compatibility solution. The App-V team clarifies this [here](http://blogs.technet.com/softgrid/archive/2009/12/14/do-i-need-to-re-sequence-my-applications-when-i-move-to-a-new-os.aspx)

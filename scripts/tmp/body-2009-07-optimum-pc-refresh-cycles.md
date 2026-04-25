@@ -1,0 +1,1 @@
+Whitepaper from Intel about PC Refresh Cycles. “[Pilot Study Optimum Refresh Cycle and Method for Desktop Outsourcing](http://h41201.www4.hp.com/tradein/html/910/dk/da/intel_case_study.pdf)”.

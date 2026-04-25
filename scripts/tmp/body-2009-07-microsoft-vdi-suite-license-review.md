@@ -1,0 +1,1 @@
+[Brian Madden](http://www.brianmadden.com/) has done an analysis on the Microsoft VDI Suite License bundles. Read the entire article [here](http://www.brianmadden.com/blogs/brianmadden/archive/2009/07/15/microsoft-creates-two-vdi-suite-bundles-kills-ts-cal-vecd-lives-on.aspx)

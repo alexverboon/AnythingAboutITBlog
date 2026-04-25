@@ -1,0 +1,1 @@
+Today when working on a vPro related issue, we came across the Intel vPro - [Known Issues, Best Practices and Workarounds page](http://communities.intel.com/docs/DOC-1247#Changing_Terminal_Emulation_Type). For those who deal with vPro it's definitely worth reading that content.

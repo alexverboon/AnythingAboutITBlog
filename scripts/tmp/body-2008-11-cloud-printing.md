@@ -1,0 +1,1 @@
+We all have heard about Cloud Computing, now there is Cloud Printing ! Check out HPs [CloudPrint](http://www.cloudprint.net/). It's still in BETA but worth to take a look.

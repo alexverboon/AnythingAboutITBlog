@@ -1,0 +1,17 @@
+---
+title: "Microsoft Volume Licensing"
+layout: "post"
+date: 10/01/2008 05:31:50
+slug: "microsoft-volume-licensing"
+aliases:
+  - "/2008/10/microsoft-volume-licensing/"
+description: "Most recent Microsoft Volume Licensing documentation can be found here: [http://www.microsoft.com/downloads/details.aspx?FamilyID=e8798816-b0ba-4337-b..."
+author: "Alex Verboon"
+tags:
+  - licensing
+categories:
+  - licensing
+---
+Most recent Microsoft Volume Licensing documentation can be found here:
+[http://www.microsoft.com/downloads/details.aspx?FamilyID=e8798816-b0ba-4337-ba38-8fe2cf32b5d8&DisplayLang=en](http://www.microsoft.com/downloads/details.aspx?FamilyID=e8798816-b0ba-4337-ba38-8fe2cf32b5d8&DisplayLang=en)
+

@@ -1,0 +1,3488 @@
+[
+  {
+    "title": "Outlook add-in for Office Communicator",
+    "date": "2008-12-31T15:47:04Z",
+    "slug": "outlook-add-in-for-office-communicator",
+    "description": "Those of you who work with Microsoft Outlook 2007 and Office Communicator 2007 might be interested in this one. On the [MSDN code Gallery](http://code...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "451",
+    "tags": [
+      "add-in",
+      "office-communicator",
+      "outlook-2007"
+    ],
+    "categories": [
+      "tip",
+      "tools"
+    ],
+    "image_list": [
+      "office-comm-addin.jpg"
+    ],
+    "hero_image": "office-comm-addin.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-outlook-add-in-for-office-communicator.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip - Image Resizer",
+    "date": "2008-12-29T14:00:50Z",
+    "slug": "tooltip-image-resizer",
+    "description": "Just surfing a bit on the Internet, i get a Skype call from our friends who live in Perth Australia and asking me how to reduce the size of pictures b...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "445",
+    "tags": [
+      "picture",
+      "resize",
+      "tools",
+      "utilities"
+    ],
+    "categories": [
+      "knowledge",
+      "tip",
+      "tools",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [
+      "image-thumb13.png",
+      "image-thumb14.png",
+      "image-thumb15.png",
+      "image-thumb16.png"
+    ],
+    "hero_image": "image-thumb13.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-tooltip-image-resizer.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "History of Ethernet",
+    "date": "2008-12-29T11:38:15Z",
+    "slug": "history-of-ethernet",
+    "description": "We all use it every day, it's one of the technologies that makes today's world connected, at home, at the office over the cable and wireless it's all ...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "434",
+    "tags": [
+      "ethernet"
+    ],
+    "categories": [
+      "knowledge",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-history-of-ethernet.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Your favorite apps anywhere anytime",
+    "date": "2008-12-24T10:18:20Z",
+    "slug": "your-favorite-apps-anywhere-anytime",
+    "description": "Carrying your laptop with you sometimes can be a pain, and sometimes you don't even expect that you would need your laptop. Especially when you are at...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "431",
+    "tags": [
+      "portable",
+      "usb"
+    ],
+    "categories": [
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-your-favorite-apps-anywhere-anytime.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Download Web based video Trainings",
+    "date": "2008-12-24T08:42:56Z",
+    "slug": "download-web-based-video-trainings",
+    "description": "Ever had that situation where you started looking at webcast that is being streamed and than for some reason you got distiurbed by something and can't...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "429",
+    "tags": [
+      "webcast"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-download-web-based-video-trainings.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "SCVMM 2008 - After 48 hours",
+    "date": "2008-12-23T02:15:49Z",
+    "slug": "scvmm-2008-after-48-hours",
+    "description": "It's about 48 hours ago , that i started with setting up a System Center Virtual Machine Manager environment, No worries, i have been doinng otherthin...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "423",
+    "tags": [
+      "hyper-v",
+      "virtualization"
+    ],
+    "categories": [
+      "hyper-v",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-scvmm-2008-after-48-hours.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Intel AMT in action",
+    "date": "2008-12-17T20:59:21Z",
+    "slug": "intel-amt-in-action",
+    "description": "For those of you who do have vPro capable machines in their environment, but never had the chance to take a closer look at the AMT features, this blog...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "416",
+    "tags": [
+      "amt",
+      "bios",
+      "remote-control",
+      "serial-over-lan",
+      "vpro"
+    ],
+    "categories": [
+      "automation",
+      "bios",
+      "deployment",
+      "tools",
+      "vpro"
+    ],
+    "image_list": [
+      "image-thumb9.png",
+      "image-thumb10-300x168.png",
+      "image-thumb11-300x190.png",
+      "image-thumb12.png"
+    ],
+    "hero_image": "image-thumb9.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-intel-amt-in-action.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "No Battery Alarm Sound on Vista - it's by design",
+    "date": "2008-12-13T21:48:25Z",
+    "slug": "no-battery-alarm-sound-on-vista-its-by-design",
+    "description": "Early this year I bought a new laptop for my wife with Windows Vista Home Premium pre-installed, before she used a notebook with Windows XP. Since she...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "401",
+    "tags": [
+      "battery",
+      "batterymeter",
+      "power"
+    ],
+    "categories": [
+      "tip",
+      "tools",
+      "vista"
+    ],
+    "image_list": [
+      "image-thumb7.png",
+      "image-thumb8.png"
+    ],
+    "hero_image": "image-thumb7.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-no-battery-alarm-sound-on-vista-its-by-design.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Application Virtualization Overview",
+    "date": "2008-12-13T20:21:06Z",
+    "slug": "application-virtualization-overview",
+    "description": "For all those of you who want to get an overview on today's Application Virtualization solutions and technologies, i recommend reading [\"Application V...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "395",
+    "tags": [
+      "application-virtualization",
+      "os-streaming",
+      "virtualization"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "packaging",
+      "reading",
+      "virtualization",
+      "vmware"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-application-virtualization-overview.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "An insight on error 404",
+    "date": "2008-12-13T19:08:09Z",
+    "slug": "an-insight-on-error-404",
+    "description": "Today we were at my oldest son football club year end party where someone told me a story about the meaning of the number 404, when you try to connect...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "389",
+    "tags": [
+      "404",
+      "history"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-an-insight-on-error-404.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Live Mesh - A review",
+    "date": "2008-12-12T22:37:48Z",
+    "slug": "live-mesh-a-review",
+    "description": "It's been in May this year that i first wrote about Microsoft Live Mesh, later in July I was able to get it installed and since then i have been using...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "383",
+    "tags": [
+      "cloud",
+      "live-mesh",
+      "remote"
+    ],
+    "categories": [
+      "cloud",
+      "live-mesh",
+      "mobile",
+      "tools"
+    ],
+    "image_list": [
+      "image3-300x100.png",
+      "image-thumb4.png",
+      "image5-300x254.png",
+      "image6-300x184.png"
+    ],
+    "hero_image": "image3-300x100.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-live-mesh-a-review.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Active Directory Limits",
+    "date": "2008-12-11T22:49:17Z",
+    "slug": "active-directory-limits",
+    "description": "Interesting in knowing how many objects you can create within AD ? how deep your OU structure can be ? Then read \"[Active Directory Maximum Limits](ht...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "372",
+    "tags": [
+      "active-directory"
+    ],
+    "categories": [
+      "active-directory",
+      "reading",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-active-directory-limits.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Altiris related information sources",
+    "date": "2008-12-11T14:42:09Z",
+    "slug": "altiris-related-information-sources",
+    "description": "Today someone asked a question about importing computer accounts within the Altiris Console. I had created a script for that about 4 years ago, so I w...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "370",
+    "tags": [
+      "altiris"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-altiris-related-information-sources.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "System Center - Virtual Machine Manager Demo",
+    "date": "2008-12-08T16:07:32Z",
+    "slug": "system-center-virtual-machine-manager-demo",
+    "description": "Just recently Microsoft launched the [System Center Virtual Machine Manager](http://www.microsoft.com/systemcenter/virtualmachinemanager/en/us/default...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "368",
+    "tags": [
+      "virtualization"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "hyper-v",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-system-center-virtual-machine-manager-demo.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "RSS / ATOM Feed validator",
+    "date": "2008-12-04T21:52:56Z",
+    "slug": "rss-atom-feed-validator",
+    "description": "Fort those that have a blog and enabled an [RSS](http://www.rssboard.org/) or [Atom](http://www.atomenabled.org/) feed, you can use the FEED Validator...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "365",
+    "tags": [
+      "atom",
+      "feed",
+      "rss"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-rss-atom-feed-validator.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Converting VMWare image to Hyper-V image",
+    "date": "2008-12-04T20:26:22Z",
+    "slug": "converting-vmware-image-to-hyper-v-image",
+    "description": "Tomorrow there are plans to move some VMWare slices into Hyper-V. In preparation of that i have found the following article on TechNet [http://social....",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "363",
+    "tags": [
+      "convert",
+      "hyper-v",
+      "vmware"
+    ],
+    "categories": [
+      "automation",
+      "hyper-v",
+      "tools",
+      "virtualization",
+      "vmware"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-converting-vmware-image-to-hyper-v-image.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows7 overview from Mark Minasi",
+    "date": "2008-12-03T18:34:58Z",
+    "slug": "windows7-overview-from-mark-minasi",
+    "description": "[Mark Minasi ](http://www.minasi.com/)has put together a nice overview on Windows7. \"[the next Windows: Lucky7?\"](http://www.minasi.com/win7ppt.pdf)",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "361",
+    "tags": [
+      "vista",
+      "windows-7"
+    ],
+    "categories": [
+      "reading",
+      "tip",
+      "vista",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-windows7-overview-from-mark-minasi.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Reducing the Windows Vista Footprint",
+    "date": "2008-12-03T17:47:56Z",
+    "slug": "reducing-the-windows-vista-footprint",
+    "description": "The Windows Vista footprint is quite large, so my current thoughts are \"how to reduce the Windows Vista footprint ?\". I hope to come up with a complet...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "357",
+    "tags": [
+      "vista"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-reducing-the-windows-vista-footprint.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Vista SP2 CPP anouncement",
+    "date": "2008-12-03T17:17:45Z",
+    "slug": "vista-sp2-cpp-anouncement",
+    "description": "According to a blog post on the Windows Blog from Mike Nash, Windows Vista SP2 will be made available on TechNet Thursday December 4th. [Windows Serve...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "353",
+    "tags": [
+      "cpp",
+      "sp2",
+      "vista"
+    ],
+    "categories": [
+      "automation",
+      "beta",
+      "deployment",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-vista-sp2-cpp-anouncement.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "GPO Preferences require XMLLite",
+    "date": "2008-12-02T20:28:26Z",
+    "slug": "gpo-preferences-require-xmllite",
+    "description": "Reading the [Group Policy Preferences Overview](http://www.gpoguy.com/Portals/0/Group%20Policy%20Preferences%20Overview.pdf) Whitepaper from SDM softw...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "351",
+    "tags": [
+      "gpo",
+      "group-policy"
+    ],
+    "categories": [
+      "active-directory",
+      "deployment",
+      "group-policy",
+      "reading",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-gpo-preferences-require-xmllite.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Enable Active Directory Services tools on Windows 2008",
+    "date": "2008-12-02T19:39:06Z",
+    "slug": "enable-active-directory-services-tools-on-windows-2008",
+    "description": "I just connected to our fresh installed Windows 2008 server that we intend to use as a remote system management console. The server is a member of our...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "348",
+    "tags": [
+      "active-directory",
+      "gpmc",
+      "group-policy",
+      "windows-server-2008"
+    ],
+    "categories": [
+      "active-directory",
+      "group-policy",
+      "tip",
+      "windows-server-2008"
+    ],
+    "image_list": [
+      "image-thumb-300x133.png",
+      "image1-300x102.png",
+      "image-thumb2.png"
+    ],
+    "hero_image": "image-thumb-300x133.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-enable-active-directory-services-tools-on-windows-2008.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip - CDBurnerXP",
+    "date": "2008-12-02T18:18:17Z",
+    "slug": "tooltip-cdburnerxp",
+    "description": "[CDBurnerXP ](http://cdburnerxp.se/)is a **free** application to burn CDs and DVDs, including Blu-Ray and HD-DVDs. It also includes the feature to bur...",
+    "year": 2008,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "339",
+    "tags": [
+      "burn",
+      "dvd",
+      "freeware",
+      "tools"
+    ],
+    "categories": [
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-12-tooltip-cdburnerxp.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "cdburnerxp.png"
+    ]
+  },
+  {
+    "title": "Microsoft Knowledge Base - What's new ?",
+    "date": "2008-11-27T23:18:08Z",
+    "slug": "microsoft-knowledge-base-whats-new",
+    "description": "So often you find yourself with a technical problem and after long searching you might come across a Microsoft Knowledge base article. Especially with...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "335",
+    "tags": [
+      "kb",
+      "knowledge-base",
+      "monitoring",
+      "qfe"
+    ],
+    "categories": [
+      "tip",
+      "tools",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-microsoft-knowledge-base-whats-new.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows PowerShell - Free booklet",
+    "date": "2008-11-27T22:10:10Z",
+    "slug": "windows-powershell-free-booklet",
+    "description": "As it looks like, Windows PowerShell will become part of Windows7, so it's about time to start learning this powerfull scripting language. After i had...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "333",
+    "tags": [
+      "powershell",
+      "scripting"
+    ],
+    "categories": [
+      "automation",
+      "scripting",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-windows-powershell-free-booklet.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "It's about time to install  MS08-067",
+    "date": "2008-11-26T20:18:54Z",
+    "slug": "its-about-time-to-install-ms08-067",
+    "description": "If you haven't done so yet, it's about time you get the [MS08-067 ](http://www.microsoft.com/technet/security/Bulletin/MS08-067.mspx)patch installed o...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "331",
+    "tags": [
+      "patches"
+    ],
+    "categories": [
+      "security",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-its-about-time-to-install-ms08-067.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows and Memory Limitations",
+    "date": "2008-11-26T20:03:08Z",
+    "slug": "windows-and-memory-limitations",
+    "description": "it was the second time this week i came across the Windows RAM topic, once by reading and once by a question a colleague asked me. So enough reasons t...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "327",
+    "tags": [
+      "memory",
+      "ram",
+      "windows"
+    ],
+    "categories": [
+      "reading",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-windows-and-memory-limitations.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "InstEd - Free Windows Installer database editor",
+    "date": "2008-11-26T19:51:31Z",
+    "slug": "insted-free-windows-installer-database-editor",
+    "description": "For those dealing with application packaging here's an interesting tool you should know about. For more details check out the [InstEd ](http://www.ins...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "325",
+    "tags": [
+      "msi",
+      "packaging"
+    ],
+    "categories": [
+      "automation",
+      "packaging",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-insted-free-windows-installer-database-editor.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Vista SP1 download using BITSADMIN",
+    "date": "2008-11-23T14:57:52Z",
+    "slug": "vista-sp1-download-using-bitsadmin",
+    "description": "I wrote about [BITSADMIN ](https://www.verboon.info/?p=78)earlier, use the below command line to directly download Vista SP1. Note that you have to cr...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "322",
+    "tags": [
+      "service-pack-1",
+      "vista",
+      "windows-vista"
+    ],
+    "categories": [
+      "automation",
+      "tip",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-vista-sp1-download-using-bitsadmin.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Remote Control your Mobile Phone",
+    "date": "2008-11-22T16:13:33Z",
+    "slug": "remote-control-your-mobile-phone",
+    "description": "The task for this Saturday was to remote control my mobile phone. After a short search on the web I found [MyMobileR](http://www.mymobiler.com/) The f...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "320",
+    "tags": [
+      "mobile",
+      "remote-control",
+      "windows-mobile-6"
+    ],
+    "categories": [
+      "mobile",
+      "tip",
+      "tools"
+    ],
+    "image_list": [
+      "image5.png"
+    ],
+    "hero_image": "image5.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-remote-control-your-mobile-phone.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Cloud Printing",
+    "date": "2008-11-21T11:04:14Z",
+    "slug": "cloud-printing",
+    "description": "We all have heard about Cloud Computing, now there is Cloud Printing ! Check out HPs [CloudPrint](http://www.cloudprint.net/). It's still in BETA but ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "315",
+    "tags": [
+      "cloud",
+      "printing"
+    ],
+    "categories": [
+      "cloud",
+      "hp",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-cloud-printing.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Vista SP1 cleanup tool VSP1CLN.EXE",
+    "date": "2008-11-21T00:24:20Z",
+    "slug": "vista-sp1-cleanup-tool-vsp1clnexe",
+    "description": "If you have installed Windows Vista SP1 on top of your first Vista installation and have no plans to uninstall it, you might want to give the followin...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "311",
+    "tags": [
+      "diskusage",
+      "windows-vista"
+    ],
+    "categories": [
+      "tip",
+      "tools",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-vista-sp1-cleanup-tool-vsp1clnexe.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Improve Vista Deployment time",
+    "date": "2008-11-21T00:17:28Z",
+    "slug": "improve-vista-deployment-time",
+    "description": "I just read a blogpost from [Michael Niehaus ](http://blogs.technet.com/mniehaus/)i think those deploying Windows Vista are interested to know about. ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "308",
+    "tags": [
+      "deployment",
+      "windows-vista"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-improve-vista-deployment-time.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "GMail in terminal mode",
+    "date": "2008-11-20T23:06:55Z",
+    "slug": "gmail-in-terminal-mode",
+    "description": "For all those that are missing the days when computer screens appeared in terminal mode, Google's GMail can now be configured like that. Just select S...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "306",
+    "tags": [
+      "mail"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [
+      "image-thumb4.png"
+    ],
+    "hero_image": "image-thumb4.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-gmail-in-terminal-mode.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "SQL Server services user account",
+    "date": "2008-11-20T22:58:40Z",
+    "slug": "sql-server-services-user-account",
+    "description": "When you install SQL Server 2000 / 2005 / 2008 you can configure under what user account the services are running. In the past i've often seen people ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "299",
+    "tags": [
+      "security",
+      "sql"
+    ],
+    "categories": [
+      "security",
+      "sql",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-sql-server-services-user-account.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Power Consumption in standby mode",
+    "date": "2008-11-20T22:11:27Z",
+    "slug": "power-consumption-in-standby-mode",
+    "description": "I have come across an article that describes the [power consumption of equipment in standby mode](http://www.hardwaresecrets.com/article/519/1), found...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "297",
+    "tags": [
+      "power"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-power-consumption-in-standby-mode.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Some applications survive",
+    "date": "2008-11-17T20:35:30Z",
+    "slug": "some-applications-survive",
+    "description": "Throughout my IT career i have seen many application development projects but most applications would not have survived more than 5 years until they g...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "295",
+    "tags": [
+      "applications"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-some-applications-survive.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Extending User Information in AD",
+    "date": "2008-11-17T19:44:51Z",
+    "slug": "extending-user-information-in-ad",
+    "description": "The Windows 2003 Resource Kit contains a nice extension for the Active Directory Users and Computers console showing additional User Account informati...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "293",
+    "tags": [
+      "active-directory",
+      "user-account-information"
+    ],
+    "categories": [
+      "active-directory",
+      "security",
+      "tip",
+      "tools"
+    ],
+    "image_list": [
+      "image3-230x300.png"
+    ],
+    "hero_image": "image3-230x300.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-extending-user-information-in-ad.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A song full of IT",
+    "date": "2008-11-16T14:26:26Z",
+    "slug": "a-song-full-of-it",
+    "description": "A song full of IT, enjoy :-)",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "289",
+    "tags": [
+      "fun"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-a-song-full-of-it.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Creating GPO reports",
+    "date": "2008-11-13T22:00:05Z",
+    "slug": "creating-gpo-reports",
+    "description": "Usually when you need a report for a given Group Policy object, you would launch the Group Policy Management Console, select the GPO and then select t...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "285",
+    "tags": [
+      "gpo",
+      "group-policy",
+      "scripting"
+    ],
+    "categories": [
+      "automation",
+      "group-policy",
+      "scripting",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-creating-gpo-reports.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Conference Call Rules",
+    "date": "2008-11-12T21:38:04Z",
+    "slug": "conference-call-rules",
+    "description": "As part of my job i am joining conference calls quite frequently, although whenever i can I stay away from them as mostly they aren't productive, espe...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "278",
+    "tags": [
+      "conference-call",
+      "phone"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-conference-call-rules.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Get your favorite RSS feeds emailed as PDF",
+    "date": "2008-11-12T21:10:07Z",
+    "slug": "get-your-favorite-rss-feeds-emailed-as-pdf",
+    "description": "Ever wanted to have your very personal daily or weekly newspaper that does just contain the information you want ? Then go to [http://www.tabbloid.com...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "275",
+    "tags": [
+      "pdf",
+      "rss-feed"
+    ],
+    "categories": [
+      "reading",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-get-your-favorite-rss-feeds-emailed-as-pdf.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip: Bulk Drive Manager",
+    "date": "2008-11-09T15:36:07Z",
+    "slug": "tooltip-bulk-drive-manager",
+    "description": "Easily and quickly disable USB Storage Drives, CD and Floppy drives across the network. The tool can be executed in GUI and command line mode. The too...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "271",
+    "tags": [],
+    "categories": [
+      "automation",
+      "tip",
+      "tools"
+    ],
+    "image_list": [
+      "image-thumb2.png"
+    ],
+    "hero_image": "image-thumb2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-tooltip-bulk-drive-manager.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "What is eating my disk size ?",
+    "date": "2008-11-06T21:14:11Z",
+    "slug": "what-is-eating-my-disk-size",
+    "description": "Today I was testing some OS image within various Virtual Machines and at some stage noticed my available space on the disk became lower and lower. Alt...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "256",
+    "tags": [
+      "diskusage",
+      "space"
+    ],
+    "categories": [
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-what-is-eating-my-disk-size.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "windirstat-small.jpg"
+    ]
+  },
+  {
+    "title": "About disk drives",
+    "date": "2008-11-05T23:57:33Z",
+    "slug": "about-disk-drives",
+    "description": "Today we had a brief discussion about the impact of power cycles on the disk drive lifetime. In searching for some background information on this subj...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "251",
+    "tags": [
+      "disk"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-about-disk-drives.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Linkedin Applications",
+    "date": "2008-11-05T00:45:06Z",
+    "slug": "linkedin-applications",
+    "description": "Those using Linkedin, check out [Linkedin Applications](http://www.linkedin.com/static?key=application_directory).",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "249",
+    "tags": [
+      "linkedin"
+    ],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-linkedin-applications.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Microsoft AutoColage 2008 and HD View",
+    "date": "2008-11-03T23:10:22Z",
+    "slug": "microsoft-autocolage-2008-and-hd-view",
+    "description": "From time to time I visit the Microsoft Research site. It seems that there is much focus on photography and displaying pictures. [AutoCollage 2008](ht...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "245",
+    "tags": [
+      "hd",
+      "photo"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-microsoft-autocolage-2008-and-hd-view.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Dutch architecture with free software",
+    "date": "2008-11-03T22:09:44Z",
+    "slug": "dutch-architecture-with-free-software",
+    "description": "Steve (a friend of mine) had send me this interesting article about how one makes money with free software. The story is about the design of a 5 euro ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "243",
+    "tags": [
+      "coin",
+      "euro",
+      "fun",
+      "netherlands"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-dutch-architecture-with-free-software.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "Architectuur+5+2008+vz+v5.jpg"
+    ]
+  },
+  {
+    "title": "Installing ESXi in VMWare Workstation 6.5",
+    "date": "2008-11-02T11:28:38Z",
+    "slug": "installing-esxi-in-vmware-workstation-65",
+    "description": "Finally after several attempts, i've been able to install [VMWare ESXi ](http://www.vmware.com/products/esxi/)into VMware Workstation 6.5. The intend ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "241",
+    "tags": [
+      "virtualization",
+      "vmware"
+    ],
+    "categories": [
+      "tip",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-installing-esxi-in-vmware-workstation-65.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "VI command reference",
+    "date": "2008-11-02T10:11:59Z",
+    "slug": "vi-command-reference",
+    "description": "VI - last time i had my very personal fight with this text editor was back in 1992 or 1993 when sitting in a Oracle Administration trainging class, an...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "238",
+    "tags": [
+      "editor"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-vi-command-reference.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Another great site around Virtualization",
+    "date": "2008-11-01T13:51:10Z",
+    "slug": "another-great-site-around-virtualization",
+    "description": "In continuing my journey in Virtualization, I've come across another great site called [VirtualizationAdmin.com](http://www.virtualizationadmin.com/) ...",
+    "year": 2008,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "236",
+    "tags": [
+      "virtualization"
+    ],
+    "categories": [
+      "tip",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-11-another-great-site-around-virtualization.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Don’t Wait for Windows 7",
+    "date": "2008-10-29T13:46:29Z",
+    "slug": "don%e2%80%99t-wait-for-windows-7",
+    "description": "I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7. *There is no need to wait fo...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "234",
+    "tags": [
+      "windows-7",
+      "windows-vista"
+    ],
+    "categories": [
+      "deployment",
+      "vista",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-don%e2%80%99t-wait-for-windows-7.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "News about Vista SP2",
+    "date": "2008-10-28T10:56:40Z",
+    "slug": "news-about-vista-sp2",
+    "description": "Until last week we have just seen rumours around the Service Pack 2 for Windows Vista. The only visible thing from Microsoft was a placeholder [KB ](h...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "232",
+    "tags": [
+      "vista"
+    ],
+    "categories": [
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-news-about-vista-sp2.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows Azure an introduction",
+    "date": "2008-10-27T19:23:31Z",
+    "slug": "windows-azure-an-introduction",
+    "description": "Curious about Windows Azure ? [Manuvir-Das-Introducing-Windows-Azure](http://channel9.msdn.com/posts/Charles/Manuvir-Das-Introducing-Windows-Azure/) M...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "228",
+    "tags": [
+      "azure",
+      "cloud"
+    ],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-windows-azure-an-introduction.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Management",
+    "date": "2008-10-27T10:12:02Z",
+    "slug": "management",
+    "description": "A man in a hot air balloon realised he was lost. He reduced altitude and spotted a woman below. He descended a bit more and shouted... 'Excuse me, can...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "226",
+    "tags": [
+      "fun"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-management.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Don't skip Vista",
+    "date": "2008-10-23T20:25:55Z",
+    "slug": "dont-skip-vista",
+    "description": "While most people again seem to get excited about Microsoft's next operating system and waste their time with rumours and guessing when it will be rel...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "224",
+    "tags": [
+      "vista",
+      "windows-7"
+    ],
+    "categories": [
+      "reading",
+      "vista",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-dont-skip-vista.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "User Profile Hive Cleanup Service Installation (UPHClean)",
+    "date": "2008-10-23T20:11:34Z",
+    "slug": "user-profile-hive-cleanup-service-installation-uphclean",
+    "description": "Today's challenge was to get UPHClean.msi installing correctly. You would think that installing an MSI package is an easy thing to do, so thought I. B...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "221",
+    "tags": [
+      "profiles"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-user-profile-hive-cleanup-service-installation-uphclean.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "What happens before the OS loads",
+    "date": "2008-10-21T19:12:02Z",
+    "slug": "what-happens-before-the-os-loads",
+    "description": "Ever wondered what actually happens when you turn on your PC before it loads the operating system ? Watch this video with Jamie Schwartz, Development ...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "219",
+    "tags": [
+      "bios",
+      "boot",
+      "uefi"
+    ],
+    "categories": [
+      "bios"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-what-happens-before-the-os-loads.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "VMWare 6.5 available",
+    "date": "2008-10-20T20:17:15Z",
+    "slug": "vmware-65-available",
+    "description": "I must have missed this somehow :-) VMWare finally released VMWare Workstation 6.5. For those that didn't notice it too, here's the [release notes](ht...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "216",
+    "tags": [
+      "virtualization",
+      "vmware"
+    ],
+    "categories": [
+      "scripting",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-vmware-65-available.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "All security updates on a DVD",
+    "date": "2008-10-20T19:31:19Z",
+    "slug": "all-security-updates-on-a-dvd",
+    "description": "I do periodically browse through the Microsoft Download Center ([Beta](http://www.microsoft.com/beta/downloads/Default.aspx)) to see if there is anyth...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "214",
+    "tags": [
+      "patches",
+      "security"
+    ],
+    "categories": [
+      "deployment",
+      "security",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-all-security-updates-on-a-dvd.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip - chml.exe manage Windows Integrity Levels",
+    "date": "2008-10-20T19:02:34Z",
+    "slug": "tooltip-chmlexe-manage-windows-integrity-levels",
+    "description": "To be honest i haven't gone into the details of the Windows Integrity Levels myself but wanted to mention the [chml.exe ](http://www.minasi.com/vista/...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "212",
+    "tags": [
+      "security",
+      "vista"
+    ],
+    "categories": [
+      "security",
+      "tip",
+      "tools",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-tooltip-chmlexe-manage-windows-integrity-levels.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "GPO Logging custom ADM",
+    "date": "2008-10-20T18:40:50Z",
+    "slug": "gpo-logging-custom-adm",
+    "description": "Last week we have been doing some GPO troubleshooting. Instead of setting all GPO logging options manually the custom GPO logging ADM(x) files found o...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "209",
+    "tags": [
+      "gpo",
+      "group-policy",
+      "logging"
+    ],
+    "categories": [
+      "group-policy",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-gpo-logging-custom-adm.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Microsoft Chemical Team blog",
+    "date": "2008-10-16T06:45:21Z",
+    "slug": "microsoft-chemical-team-blog",
+    "description": "For those who do work within or are working with the chemical industry this site might be of interest. [http://blogs.msdn.com/chemicals/default.aspx](...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "199",
+    "tags": [
+      "industry"
+    ],
+    "categories": [
+      "reading",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-microsoft-chemical-team-blog.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Playing games on a printer",
+    "date": "2008-10-11T20:30:28Z",
+    "slug": "playing-games-on-a-printer",
+    "description": "Are all gaming devices you have in use by the other family members ? No problem, if you have the right HP printer you can use it to play games as well...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "192",
+    "tags": [
+      "printer"
+    ],
+    "categories": [
+      "fun",
+      "hp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-playing-games-on-a-printer.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip - Recuva",
+    "date": "2008-10-10T18:50:21Z",
+    "slug": "tooltip-recuva",
+    "description": "I have this attitude to store anything I find on the web into my c:\\temp folder, then once i find things useful to keep i store it elsewhere on the sy...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "188",
+    "tags": [
+      "recovery"
+    ],
+    "categories": [
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-tooltip-recuva.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Multilanguage pack update for XP SP3",
+    "date": "2008-10-01T19:07:11Z",
+    "slug": "multilanguage-pack-update-for-xp-sp3",
+    "description": "Those that deploy Windows XP Service Pack 3 English and use multilanguage packs should consider the following update that fixes some localization issu...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "186",
+    "tags": [
+      "mui"
+    ],
+    "categories": [
+      "deployment",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-multilanguage-pack-update-for-xp-sp3.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "TCP/IP Fundamentals for Windows",
+    "date": "2008-10-01T05:39:12Z",
+    "slug": "tcpip-fundamentals-for-windows",
+    "description": "Need an update on TCP/IP ? then download this paper: [http://www.microsoft.com/downloads/details.aspx?FamilyID=c76296fd-61c9-4079-a0bb-582bca4a846f&Di...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "184",
+    "tags": [
+      "tcpip"
+    ],
+    "categories": [
+      "protocols",
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-tcpip-fundamentals-for-windows.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Microsoft Volume Licensing",
+    "date": "2008-10-01T05:31:50Z",
+    "slug": "microsoft-volume-licensing",
+    "description": "Most recent Microsoft Volume Licensing documentation can be found here: [http://www.microsoft.com/downloads/details.aspx?FamilyID=e8798816-b0ba-4337-b...",
+    "year": 2008,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "182",
+    "tags": [
+      "licensing"
+    ],
+    "categories": [
+      "licensing"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-10-microsoft-volume-licensing.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Volume activation documentation",
+    "date": "2008-09-29T20:31:06Z",
+    "slug": "volume-activation-documentation",
+    "description": "Microsoft recently updated their volume activation 2.0 technical guidance documents. Everything you need about volume activation when deploying Vista ...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "177",
+    "tags": [
+      "activation"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-volume-activation-documentation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A site worth mentioning",
+    "date": "2008-09-27T22:17:19Z",
+    "slug": "a-site-worth-mentioning",
+    "description": "While searching for something I came across the site [computer performance](http://www.computerperformance.co.uk/index.htm), why the sites is called l...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "173",
+    "tags": [
+      "script"
+    ],
+    "categories": [
+      "scripting",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-a-site-worth-mentioning.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "iTunes Genius rocks",
+    "date": "2008-09-27T21:23:37Z",
+    "slug": "itunes-genius-rocks",
+    "description": "With [iTunes 8](http://www.apple.com/itunes/whatsnew/) Apple has added a new feature called Genius. when playing music the genius sidebar shows you re...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "171",
+    "tags": [
+      "itunes"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [
+      "image-thumb4.png",
+      "image-thumb5.png"
+    ],
+    "hero_image": "image-thumb4.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-itunes-genius-rocks.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip - Shadowexplorer",
+    "date": "2008-09-26T20:09:32Z",
+    "slug": "tooltip-shadowexplorer",
+    "description": "This week i found a nice little tool called [ShadowExplorer](http://www.shadowexplorer.com/). *ShadowExplorer allows you to browse the shadow copies c...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "164",
+    "tags": [
+      "tools"
+    ],
+    "categories": [
+      "tools",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-tooltip-shadowexplorer.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "vPro colors in BIOS",
+    "date": "2008-09-26T19:48:16Z",
+    "slug": "vpro-colors-in-bios",
+    "description": "When remotely accessing the system BIOS of a HP Compaq dc7800 desktop machine using vPro, the BIOS appears in black and white as shown in the picture ...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "162",
+    "tags": [
+      "bios",
+      "vpro"
+    ],
+    "categories": [
+      "bios",
+      "tip",
+      "vpro"
+    ],
+    "image_list": [
+      "image-thumb2.png",
+      "image-thumb3.png",
+      "image6.png"
+    ],
+    "hero_image": "image-thumb2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-vpro-colors-in-bios.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Wireless GPO settings for XP",
+    "date": "2008-09-17T22:49:48Z",
+    "slug": "wireless-gpo-settings-for-xp",
+    "description": "In the last 2 days i have spend some time in getting Wireless GPO settings applied to a Windows XP client. I was actually about to describe what i hav...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "155",
+    "tags": [
+      "gpo",
+      "wireless"
+    ],
+    "categories": [
+      "deployment",
+      "group-policy",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-wireless-gpo-settings-for-xp.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Getting annoyed by the rumors",
+    "date": "2008-09-17T22:35:26Z",
+    "slug": "getting-annoyed-by-the-rumors",
+    "description": "Instead of manually searching the web, i have created some [Google Alerts](http://www.google.com/alerts/). This is very useful as it does simply send ...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "153",
+    "tags": [
+      "vista",
+      "windows-7"
+    ],
+    "categories": [
+      "vista",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-getting-annoyed-by-the-rumors.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "HP bullet proof server",
+    "date": "2008-09-17T22:09:20Z",
+    "slug": "hp-bullet-proof-server",
+    "description": "No comment, just a funny video. [](http://www.youtube.com/watch?v=VFyXlb26ihs&hl=en&fs=1)",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "151",
+    "tags": [
+      "hp"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-hp-bullet-proof-server.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Slipstreaming IE8",
+    "date": "2008-09-15T18:44:23Z",
+    "slug": "slipstreaming-ie8",
+    "description": "The \"[New Zealand IE8 Taskforce](http://blogs.msdn.com/nzie8/default.aspx)\" posted a nice article on how to [slipstream IE8](http://blogs.msdn.com/nzi...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "140",
+    "tags": [
+      "ie8",
+      "slipstream"
+    ],
+    "categories": [
+      "deployment",
+      "tip",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-slipstreaming-ie8.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Wireless Router with Power button",
+    "date": "2008-09-14T15:34:31Z",
+    "slug": "wireless-router-with-power-button",
+    "description": "This is what i have been looking for since a while, about 12 months ago i was actively searching for a Wireless router with a power on/off button, but...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "138",
+    "tags": [
+      "energy",
+      "wireless"
+    ],
+    "categories": [
+      "tip",
+      "wireless"
+    ],
+    "image_list": [
+      "image3.png"
+    ],
+    "hero_image": "image3.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-wireless-router-with-power-button.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "AppDeploy Repackager",
+    "date": "2008-09-13T12:17:12Z",
+    "slug": "appdeploy-repackager",
+    "description": "Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager.](http://www.appdeploy.com/tools/repackager) *The AppDeploy Repackag...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "135",
+    "tags": [
+      "msi"
+    ],
+    "categories": [
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-appdeploy-repackager.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "3 seconds to get system serial number",
+    "date": "2008-09-10T15:30:21Z",
+    "slug": "3-seconds-to-get-system-serial-number",
+    "description": "Okay, depends on how fast you can type. Start a command prompt and enter the following command: wmic csproduct get identifyingnumber,vendor,name In si...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "133",
+    "tags": [
+      "wmi"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-3-seconds-to-get-system-serial-number.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Intel vPro Expert center",
+    "date": "2008-09-08T19:35:50Z",
+    "slug": "intel-vpro-expert-center",
+    "description": "Michele from Intel was kind enough to send me the link to the [Intel vPro Expert center](http://communities.intel.com/community/vproexpert) *Another g...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "132",
+    "tags": [
+      "vpro"
+    ],
+    "categories": [
+      "vpro"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-intel-vpro-expert-center.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "vPro_rgb_180w_72ppi.jpg"
+    ]
+  },
+  {
+    "title": "All those being pessimistic about Vista Read this",
+    "date": "2008-09-08T15:20:22Z",
+    "slug": "all-those-being-pessimistic-about-vista-read-this",
+    "description": "All those being pessimistic about Windows Vista, book some time and carefully read this: [http://www.tweakguides.com/VA_1.html](http://www.tweakguides...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "131",
+    "tags": [
+      "vista"
+    ],
+    "categories": [
+      "reading",
+      "vista"
+    ],
+    "image_list": [
+      "vista-resolved.jpg"
+    ],
+    "hero_image": "vista-resolved.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-all-those-being-pessimistic-about-vista-read-this.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Never heard of vPro before ?",
+    "date": "2008-09-07T21:13:01Z",
+    "slug": "never-heard-of-vpro-before",
+    "description": "Well then it's time now to get familiar with it. Since about 2 years Intel is shipping [vPro](http://www.intel.com/technology/vpro/index.htm) technolo...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "128",
+    "tags": [],
+    "categories": [
+      "automation",
+      "vpro"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-never-heard-of-vpro-before.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "The VistaPE project",
+    "date": "2008-09-07T20:11:45Z",
+    "slug": "the-vistape-project",
+    "description": "Those of you that work within the desktop management space might be familiar with the PE Builder aka as [BartPE](http://www.nu2.nu/pebuilder/).Since W...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "127",
+    "tags": [],
+    "categories": [
+      "tools",
+      "vista"
+    ],
+    "image_list": [
+      "image2.png"
+    ],
+    "hero_image": "image2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-the-vistape-project.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Don't wait for Windows 7 move to Vista",
+    "date": "2008-09-07T15:08:56Z",
+    "slug": "dont-wait-for-windows-7-move-to-vista",
+    "description": "In both work and private life moving to Vista becomes a dominating topic. Of course there are reasons to stay on XP and hold on for another 2 years an...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "125",
+    "tags": [
+      "windows-7",
+      "windows-vista"
+    ],
+    "categories": [
+      "vista",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-dont-wait-for-windows-7-move-to-vista.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows 7 Wallpaper preview",
+    "date": "2008-09-07T13:44:19Z",
+    "slug": "windows-7-wallpaper-preview",
+    "description": "It will take a while until we see Microsoft's next operating system Windows 7, but for those that can't wait, some creative people have already posted...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "124",
+    "tags": [
+      "windows7"
+    ],
+    "categories": [
+      "fun",
+      "windows-7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-windows-7-wallpaper-preview.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Prep-ing WINPE does make a difference",
+    "date": "2008-09-06T12:35:57Z",
+    "slug": "prep-ing-winpe-does-make-a-difference",
+    "description": "When creating WinPE 2.0 boot images, make sure you run the [PEImg](http://technet.microsoft.com/en-us/library/cc749161.aspx) /prep command against you...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "122",
+    "tags": [
+      "waik",
+      "winpe"
+    ],
+    "categories": [
+      "deployment",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-prep-ing-winpe-does-make-a-difference.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Google launches Chrome Browser",
+    "date": "2008-09-02T22:58:04Z",
+    "slug": "google-launches-chrome-browser",
+    "description": "Today Google launched its own first web browser called [Chrome](http://www.google.com/chrome/?hl=en). Less is more, Chrome comes with a very nice lean...",
+    "year": 2008,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "121",
+    "tags": [
+      "chrome",
+      "google"
+    ],
+    "categories": [
+      "beta",
+      "google"
+    ],
+    "image_list": [
+      "image-thumb.png",
+      "image-thumb1.png"
+    ],
+    "hero_image": "image-thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-09-google-launches-chrome-browser.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "IE 8 Beta 2 released",
+    "date": "2008-08-28T07:00:11Z",
+    "slug": "ie-8-beta-2-released",
+    "description": "Earlier as planned, Microsoft has released Internet Explorer 8 Beta 2. A final release date has not been communicated yet. [http://www.microsoft.com/w...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "116",
+    "tags": [
+      "ie"
+    ],
+    "categories": [
+      "beta"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-ie-8-beta-2-released.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Take a break",
+    "date": "2008-08-26T19:37:52Z",
+    "slug": "take-a-break",
+    "description": "Remember Space Invaders. ......if you're in the office, turn of sound :-) [ ![image](images/image-thumb10.png) ](https://www.verboon.info/wp-content/u...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "115",
+    "tags": [
+      "game"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [
+      "image-thumb10.png"
+    ],
+    "hero_image": "image-thumb10.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-take-a-break.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Organize your desktop",
+    "date": "2008-08-25T20:32:55Z",
+    "slug": "organize-your-desktop",
+    "description": "[Sysinternals](http://technet.microsoft.com/en-us/sysinternals/default.aspx) published a new nice utility called [Desktops](http://technet.microsoft.c...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "112",
+    "tags": [
+      "desktop",
+      "sysinternals"
+    ],
+    "categories": [
+      "tools",
+      "virtualization"
+    ],
+    "image_list": [
+      "image-thumb9.png"
+    ],
+    "hero_image": "image-thumb9.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-organize-your-desktop.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Identifying the WDS Server",
+    "date": "2008-08-25T20:14:47Z",
+    "slug": "identifying-the-wds-server",
+    "description": "When deploying an image from a WDS server it might be useful to know its computer name. [Johan Arwidmark](http://www.deployvista.com/Blog/tabid/70/Blo...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "109",
+    "tags": [
+      "wds"
+    ],
+    "categories": [
+      "deployment",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-identifying-the-wds-server.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "No Automatic reboot please",
+    "date": "2008-08-24T13:59:22Z",
+    "slug": "no-automatic-reboot-please",
+    "description": "Saturday morning, before going out with my family on a shopping tour I started a large FTP download and assumed it would have completed upon my return...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "108",
+    "tags": [
+      "automatic-updates",
+      "registry"
+    ],
+    "categories": [
+      "tip",
+      "vista"
+    ],
+    "image_list": [
+      "image7.png",
+      "image-thumb7.png",
+      "image-thumb8.png"
+    ],
+    "hero_image": "image7.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-no-automatic-reboot-please.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "The need for installing the Intel Chipset update",
+    "date": "2008-08-21T21:56:10Z",
+    "slug": "the-need-for-installing-the-intel-chipset-update",
+    "description": "Within one of the projects I'm working on, there was a debate about installing the Intel Chipset software. It was requested not to install it. I could...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "103",
+    "tags": [
+      "chipset",
+      "drivers"
+    ],
+    "categories": [
+      "deployment",
+      "drivers"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-the-need-for-installing-the-intel-chipset-update.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "The other search engine",
+    "date": "2008-08-21T21:31:10Z",
+    "slug": "the-other-search-engine",
+    "description": "When searching the web probably most of us do use Google, because although some don't like to hear it, it has simply become the default search engine ...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "102",
+    "tags": [
+      "web"
+    ],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [
+      "image-thumb6.png"
+    ],
+    "hero_image": "image-thumb6.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-the-other-search-engine.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Official blog on Windows 7",
+    "date": "2008-08-18T09:44:33Z",
+    "slug": "official-blog-on-windows-7",
+    "description": "Looks like Microsoft has launched its first official blog that focuses on Windows 7. Read more here: [http://blogs.msdn.com/e7/default.aspx](http://bl...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "99",
+    "tags": [],
+    "categories": [
+      "windows7"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-official-blog-on-windows-7.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "GP Preferences",
+    "date": "2008-08-15T15:58:36Z",
+    "slug": "gp-preferences",
+    "description": "In 2006 Microsoft acquired the company DesktopStandard known for its extending Group Policy products GPVault and PolicyMaker. While GPVault has become...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "98",
+    "tags": [
+      "group-policy",
+      "vista"
+    ],
+    "categories": [
+      "deployment",
+      "group-policy",
+      "vista",
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-gp-preferences.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Enable access to RSAT after installation",
+    "date": "2008-08-15T10:11:39Z",
+    "slug": "enable-access-to-rsat-after-installation",
+    "description": "On Windows 2000/XP you used to install the adminpak.msi to get access to the various Administrator tools such as the Active Directory Users and Comput...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "97",
+    "tags": [
+      "rsat"
+    ],
+    "categories": [
+      "tip",
+      "vista"
+    ],
+    "image_list": [
+      "image-thumb5.png"
+    ],
+    "hero_image": "image-thumb5.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-enable-access-to-rsat-after-installation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows XP reports pending activation",
+    "date": "2008-08-15T07:49:44Z",
+    "slug": "windows-xp-reports-pending-activation",
+    "description": "Within at least every second implementation project I work on, people get nervous about Windows XP reporting that the system is not yet activated, alt...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "94",
+    "tags": [
+      "activation"
+    ],
+    "categories": [
+      "deployment",
+      "windows-xp"
+    ],
+    "image_list": [
+      "image-thumb3.png",
+      "image-thumb4.png"
+    ],
+    "hero_image": "image-thumb3.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-windows-xp-reports-pending-activation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Energy Saving Software",
+    "date": "2008-08-14T14:55:57Z",
+    "slug": "energy-saving-software",
+    "description": "Edison, provided by Verdiem helps you saving power and our environment. The tool can be downloaded here: [http://www.verdiem.com/edison/](http://www.v...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "89",
+    "tags": [
+      "energy",
+      "environment",
+      "green"
+    ],
+    "categories": [
+      "green",
+      "tools"
+    ],
+    "image_list": [
+      "image-thumb2.png"
+    ],
+    "hero_image": "image-thumb2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-energy-saving-software.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Reading TechNet Magazine offline",
+    "date": "2008-08-10T14:32:57Z",
+    "slug": "reading-technet-magazine-offline",
+    "description": "staying up to date is key when working in IT. As mentioned in an earlier post, i spend nearly 2 hours a day traveling to work and back home. Today i j...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "86",
+    "tags": [
+      "reading"
+    ],
+    "categories": [
+      "reading",
+      "tip"
+    ],
+    "image_list": [
+      "image-thumb1.png"
+    ],
+    "hero_image": "image-thumb1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-reading-technet-magazine-offline.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Microsoft Shared View Software",
+    "date": "2008-08-09T17:17:55Z",
+    "slug": "microsoft-shared-view-software",
+    "description": "Those that often work with other people in different locations and don't have access to a corporate managed solution where they can share their screen...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "83",
+    "tags": [
+      "sharing"
+    ],
+    "categories": [
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-microsoft-shared-view-software.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A GUI for Robocopy",
+    "date": "2008-08-09T17:04:00Z",
+    "slug": "a-gui-for-robocopy",
+    "description": "Some of you might now this already, I just came across this today :-) Although i prefer command lines, I must admit that i like this tool, as it allow...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "82",
+    "tags": [
+      "gui"
+    ],
+    "categories": [
+      "tools"
+    ],
+    "image_list": [
+      "image-thumb.png"
+    ],
+    "hero_image": "image-thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-a-gui-for-robocopy.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A new book arrived",
+    "date": "2008-08-09T10:51:40Z",
+    "slug": "a-new-book-arrived",
+    "description": "Since yesterday this book joined my book collection. [ ![Creating the Secure Managed Desktop: Using Group Policy, SoftGrid, Microsoft Deployment Toolk...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "79",
+    "tags": [
+      "book"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-a-new-book-arrived.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "51Rxpd2XIoL._SL500_AA240_.jpg"
+    ]
+  },
+  {
+    "title": "Using BITS for file downloads",
+    "date": "2008-08-07T21:12:01Z",
+    "slug": "using-bits-for-file-downloads",
+    "description": "Today I have come across the topic BITS which stands for Binary Intelligent Transfer Service which is a file transfer technology that is included in W...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "78",
+    "tags": [
+      "script"
+    ],
+    "categories": [
+      "automation",
+      "tools"
+    ],
+    "image_list": [
+      "ba1-thumb.jpg",
+      "bitsmon-thumb.jpg"
+    ],
+    "hero_image": "ba1-thumb.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-using-bits-for-file-downloads.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Microsoft Management Summit 2008 DVDs",
+    "date": "2008-08-04T18:59:35Z",
+    "slug": "microsoft-management-summit-2008-dvds",
+    "description": "Since a couple of days I have access to the MMS 2008 content that is available on 2 DVDs. For those that have access to it and work with Microsoft tec...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "73",
+    "tags": [
+      "mms-2008"
+    ],
+    "categories": [
+      "deployment",
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-microsoft-management-summit-2008-dvds.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows Vista Performance and Tuning Guide",
+    "date": "2008-08-04T13:48:01Z",
+    "slug": "windows-vista-performance-and-tuning-guide",
+    "description": "Microsoft has published a [Windows Vista Performance and Tuning Guide](http://www.microsoft.com/downloads/details.aspx?FamilyID=ab377598-a637-432c-a3c...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "72",
+    "tags": [
+      "vista"
+    ],
+    "categories": [
+      "tip",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-windows-vista-performance-and-tuning-guide.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "The &quot;HP&quot; Garage",
+    "date": "2008-08-03T18:00:37Z",
+    "slug": "the-hp-garage",
+    "description": "It's here where HP started...... [ ![hpgarage](images/hpgarage-thumb.jpg) ](https://www.verboon.info/wp-content/uploads/2008/08/hpgarage.jpg) See more...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "71",
+    "tags": [
+      "hp"
+    ],
+    "categories": [
+      "fun",
+      "hp"
+    ],
+    "image_list": [
+      "hpgarage-thumb.jpg"
+    ],
+    "hero_image": "hpgarage-thumb.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-the-hp-garage.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Understanding machine virtualization",
+    "date": "2008-08-02T15:04:16Z",
+    "slug": "understanding-machine-virtualization",
+    "description": "If you have a general interest in virtualization technology, have a look at this [video](http://channel9.msdn.com/shows/Inside+Out/Citrix-Understandin...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "66",
+    "tags": [
+      "virtualization"
+    ],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-understanding-machine-virtualization.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows XP until 2014",
+    "date": "2008-08-02T12:40:51Z",
+    "slug": "windows-xp-until-2014",
+    "description": "In a letter to enterprise customers Senior Vice President Bill Veghte at Microsoft informs customer about extended availability of Windows XP. Microso...",
+    "year": 2008,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "65",
+    "tags": [
+      "xp"
+    ],
+    "categories": [
+      "windows-xp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-08-windows-xp-until-2014.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Finally joining the Mesh",
+    "date": "2008-07-31T19:41:27Z",
+    "slug": "finally-joining-the-mesh",
+    "description": "Microsoft has opened live mesh to more testers, although only to users located in the U.S. Well, after changing the regional settings, you get to the ...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "64",
+    "tags": [
+      "live-mesh"
+    ],
+    "categories": [
+      "live-mesh"
+    ],
+    "image_list": [
+      "image-thumb5.png"
+    ],
+    "hero_image": "image-thumb5.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-finally-joining-the-mesh.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "When Google was born",
+    "date": "2008-07-31T19:08:45Z",
+    "slug": "when-google-was-born",
+    "description": "Using the the waybackmachine on [archive.org](http://www.archive.org/) allows you to see content of archived pages from the Internet. So i thought, le...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "61",
+    "tags": [
+      "google"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [
+      "image-thumb2.png",
+      "image-thumb3.png",
+      "image-thumb4.png"
+    ],
+    "hero_image": "image-thumb2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-when-google-was-born.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "The end of Windows 3.11",
+    "date": "2008-07-31T18:18:49Z",
+    "slug": "the-end-of-windows-311",
+    "description": "Remember this boot screen ? [ ![clip_image001](images/clip-image001-thumb.jpg) ](https://www.verboon.info/wp-content/uploads/2008/07/clip-image001.jpg...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "54",
+    "tags": [
+      "windows"
+    ],
+    "categories": [
+      "embedded",
+      "fun"
+    ],
+    "image_list": [
+      "clip-image001-thumb.jpg",
+      "clip-image0014-thumb.jpg"
+    ],
+    "hero_image": "clip-image001-thumb.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-the-end-of-windows-311.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Grow vmware size - an update",
+    "date": "2008-07-31T17:11:57Z",
+    "slug": "grow-vmware-size-an-update",
+    "description": "Earlier i wrote about how to extend you virtual disk , although I have not been able to test , verify this new feature myself, from the documentation ...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "49",
+    "tags": [
+      "vmware"
+    ],
+    "categories": [
+      "tip",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-grow-vmware-size-an-update.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows Embedded Standard",
+    "date": "2008-07-28T21:21:04Z",
+    "slug": "windows-embedded-standard",
+    "description": "Today at work we talked about Windows XP embedded. It's a bout 2 years ago that i had a look at XP embedded. Looks like Microsoft comes up with a next...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "48",
+    "tags": [
+      "embedded"
+    ],
+    "categories": [
+      "embedded"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-windows-embedded-standard.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "New site dedicated to Microsoft Hyper-V",
+    "date": "2008-07-28T08:26:00Z",
+    "slug": "new-site-dedicated-to-microsoft-hyper-v",
+    "description": "Steven Bink owner of the famous [Bink.nu](http://bink.nu/) web site has launched a new site dedicated to Microsoft Hyper-V and related technologies ca...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "47",
+    "tags": [
+      "hyper-v",
+      "virtualization"
+    ],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-new-site-dedicated-to-microsoft-hyper-v.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Yet another document resource",
+    "date": "2008-07-28T08:12:02Z",
+    "slug": "yet-another-document-resource",
+    "description": "Back from vacation and cleaning up my mail. A colleague has send us the link to [Scribd](http://www.scribd.com/). Scribd is a document sharing communi...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "46",
+    "tags": [
+      "knowledge"
+    ],
+    "categories": [
+      "reading"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-yet-another-document-resource.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Scripting Registry permissions",
+    "date": "2008-07-08T11:30:28Z",
+    "slug": "scripting-registry-permissions",
+    "description": "Today some e-mails where exchanged on how to best script registry permissions. Depending on what you want to achieve here's a couple of tools that can...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "45",
+    "tags": [
+      "registry"
+    ],
+    "categories": [
+      "automation",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-scripting-registry-permissions.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Reading - Administering Windows Vista Security",
+    "date": "2008-07-06T11:03:32Z",
+    "slug": "reading-administering-windows-vista-security",
+    "description": "Although you usually don't read IT related books from page 1 and end it on the last page, I consider having finished reading [Mark Minasis'](http://ww...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "43",
+    "tags": [
+      "book",
+      "security",
+      "vista"
+    ],
+    "categories": [
+      "reading",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-reading-administering-windows-vista-security.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "0470108320.jpg"
+    ]
+  },
+  {
+    "title": "Slaves to the process",
+    "date": "2008-07-06T10:41:33Z",
+    "slug": "slaves-to-the-process",
+    "description": "Claude my team mate sended me this one, good enough to blog a reference to this article. [http://thedailywtf.com/Articles/Slaves-to-The-Process.aspx](...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "42",
+    "tags": [
+      "process"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-slaves-to-the-process.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "For those who liked Norton Commander",
+    "date": "2008-07-05T21:38:40Z",
+    "slug": "for-those-who-liked-norton-commander",
+    "description": "Remember this one ? Yes it's the famous Norton Commander. I've been using it until we moved to Windows NT. A newer version was released that worked fo...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "41",
+    "tags": [
+      "tools",
+      "utilities"
+    ],
+    "categories": [
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-for-those-who-liked-norton-commander.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "norton.png"
+    ]
+  },
+  {
+    "title": "Bill Gates looks back",
+    "date": "2008-07-05T20:55:45Z",
+    "slug": "bill-gates-looks-back",
+    "description": "Some rare [photos](http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html) from the Microsoft archives, [commented](http://...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "39",
+    "tags": [
+      "microsoft"
+    ],
+    "categories": [
+      "fun"
+    ],
+    "image_list": [
+      "image-thumb1.png"
+    ],
+    "hero_image": "image-thumb1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-bill-gates-looks-back.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Automating Regional settings configuration for Vista",
+    "date": "2008-07-04T19:24:34Z",
+    "slug": "automating-regional-settings-configuration-for-vista",
+    "description": "In my earlier post \"[Automating Regional Settings configuration](https://www.verboon.info/?p=8)\" I described how to script the Regional Options settin...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "33",
+    "tags": [
+      "regional",
+      "vista"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip",
+      "vista"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-automating-regional-settings-configuration-for-vista.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows sidebar gadgets",
+    "date": "2008-07-02T20:29:44Z",
+    "slug": "windows-sidebar-gadgets",
+    "description": "Once announced as one of the great new features in Windows Vista, it has become silent around the Sidebar gadgets. To me it looks like people have ran...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "32",
+    "tags": [],
+    "categories": [
+      "tip"
+    ],
+    "image_list": [
+      "image-thumb.png"
+    ],
+    "hero_image": "image-thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-windows-sidebar-gadgets.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "iPhone 3G comming to Switzerland",
+    "date": "2008-07-02T17:04:30Z",
+    "slug": "iphone-3g-comming-to-switzerland",
+    "description": "Today i found a message in my private mailbox about the launch of the iPhone 3G in Switzerland, due on the 10th of July. For more information see: [ht...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "29",
+    "tags": [],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-iphone-3g-comming-to-switzerland.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Putting drive letters first",
+    "date": "2008-07-01T09:42:01Z",
+    "slug": "putting-drive-letters-first",
+    "description": "When launching Windows Explorer, by default the driver letters are being displayed behind the volume / share name. [ ![](images/explorer11.jpg) ](http...",
+    "year": 2008,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "23",
+    "tags": [
+      "registry"
+    ],
+    "categories": [
+      "automation",
+      "tip"
+    ],
+    "image_list": [
+      "explorer11.jpg",
+      "explorer2.jpg"
+    ],
+    "hero_image": "explorer11.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-07-putting-drive-letters-first.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Disable System Restore through WMI",
+    "date": "2008-06-30T14:16:05Z",
+    "slug": "disable-system-restore-through-wmi",
+    "description": "If you are sure about what you are doing and you want to speed up the installation of multiple security patches or applications, you can use the follo...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "22",
+    "tags": [
+      "script"
+    ],
+    "categories": [
+      "automation",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-disable-system-restore-through-wmi.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Scripting XP quicklaunchbar",
+    "date": "2008-06-28T08:20:27Z",
+    "slug": "scripting-xp-quicklaunchbar",
+    "description": "I posted this a couple of years ago into the MyITforum site and received plenty of replies on this, as at that stage it was an unknown trick. Below th...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "21",
+    "tags": [
+      "quicklaunch",
+      "registry",
+      "script"
+    ],
+    "categories": [
+      "automation",
+      "deployment"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-scripting-xp-quicklaunchbar.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Altiris anounces CMS 7 Beta II",
+    "date": "2008-06-28T07:58:42Z",
+    "slug": "altiris-anounces-cms-7-beta-ii",
+    "description": "In the coming days, Altiris 7 Client Management Suite and Server Management Suite Beta II will be available for download from the beta portal. [http:/...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "20",
+    "tags": [],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-altiris-anounces-cms-7-beta-ii.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A blog post about the blog",
+    "date": "2008-06-27T20:13:06Z",
+    "slug": "a-blog-post-about-the-blog",
+    "description": "Since i have moved the blog content from my previous blog site to this site, i'm using [Wordpress](http://wordpress.org/). I'm not going to loose much...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "18",
+    "tags": [],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-a-blog-post-about-the-blog.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Blocking Live Mesh within corporate networks",
+    "date": "2008-06-16T11:57:00Z",
+    "slug": "blocking-live-mesh-within-corporate-networks",
+    "description": "When i wrote about Live Mesh back in May, I asked myself what corporate security administrators would thnik about having their users starting meshing ...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "17",
+    "tags": [
+      "live-mesh"
+    ],
+    "categories": [
+      "live-mesh"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-blocking-live-mesh-within-corporate-networks.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "InstallShield Setup Parameters",
+    "date": "2008-06-16T11:46:00Z",
+    "slug": "installshield-setup-parameters",
+    "description": "On [www.AppDeploy.com](http://www.appdeploy.com/) you find an excellent document describing all Installshield setup parameters, very helpfull if you w...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "16",
+    "tags": [
+      "silent-installs"
+    ],
+    "categories": [
+      "automation",
+      "packaging"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-installshield-setup-parameters.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Live Sysinternals",
+    "date": "2008-06-13T06:18:00Z",
+    "slug": "live-sysinternals",
+    "description": "For those that need quick access to the famous sysinternals tools, direct access to the executables is now available through: [http://live.sysinternal...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "15",
+    "tags": [
+      "tools"
+    ],
+    "categories": [
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-live-sysinternals.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Reducing energy consumption",
+    "date": "2008-06-10T19:57:00Z",
+    "slug": "reducing-energy-consumption",
+    "description": "Everybody can help a little bit, turn off your TV from standby, and why not shutdown your home computer completely ? On HPs latest client hardware, yo...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "14",
+    "tags": [
+      "environment",
+      "green"
+    ],
+    "categories": [
+      "green",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-reducing-energy-consumption.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "hpowermanager.JPG"
+    ]
+  },
+  {
+    "title": "Looking for HP Drivers ?",
+    "date": "2008-06-10T14:21:00Z",
+    "slug": "looking-for-hp-drivers",
+    "description": "Usually when you would need a specific driver you go up to the vendors website and search for the driver download area. Since a while, HP provides a m...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "13",
+    "tags": [
+      "devices",
+      "drivers",
+      "hp"
+    ],
+    "categories": [
+      "drivers",
+      "hp"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-looking-for-hp-drivers.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "hpdownloadmgr.jpg"
+    ]
+  },
+  {
+    "title": "BIOS Boot delay on VMWARE",
+    "date": "2008-06-03T09:56:00Z",
+    "slug": "bios-boot-delay-on-vmware",
+    "description": "Ever had that issue that you wanted to enter the VMWARE BIOS, but you simply don't made it because the VMWARE session boots too fast ? Add the followi...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "11",
+    "tags": [
+      "bios",
+      "virtualization"
+    ],
+    "categories": [
+      "tip",
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-bios-boot-delay-on-vmware.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "VMWARE Webcasts",
+    "date": "2008-06-02T20:13:00Z",
+    "slug": "vmware-webcasts",
+    "description": "There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. R...",
+    "year": 2008,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "10",
+    "tags": [],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-06-vmware-webcasts.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Automate BIOS configuration for HP clients",
+    "date": "2008-05-30T13:22:00Z",
+    "slug": "automate-bios-configuration-for-hp-clients",
+    "description": "Today the following options exist to automate BIOS configuration for HP clients:The Client Management Interface allows you to use WSH to retrieve and ...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "9",
+    "tags": [
+      "bios",
+      "hp"
+    ],
+    "categories": [
+      "automation",
+      "hp",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-automate-bios-configuration-for-hp-clients.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Automating regional settings configuration",
+    "date": "2008-05-30T12:43:00Z",
+    "slug": "automating-regional-settings-configuration",
+    "description": "For Windows XP, regional settings can be applied by using the following method: - Create an answer file that contains the [**RegionalSettings**] secti...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "8",
+    "tags": [
+      "deployment"
+    ],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-automating-regional-settings-configuration.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Yet another source of whitepapers",
+    "date": "2008-05-22T23:17:00Z",
+    "slug": "yet-another-source-of-whitepapers",
+    "description": "Although I do frequently visit the MyITforum.com site, i never paid much attention to the download content, but unfortunately found some interesting w...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "7",
+    "tags": [],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-yet-another-source-of-whitepapers.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "A GUI for Windows Server Core",
+    "date": "2008-05-21T18:40:00Z",
+    "slug": "a-gui-for-windows-server-core",
+    "description": "When i first read about Windows Server core, let's say at some time in 2006, I immediately thought of the days managing Novell 3.11 systems, although ...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6",
+    "tags": [],
+    "categories": [
+      "automation",
+      "deployment",
+      "tip",
+      "tools"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-a-gui-for-windows-server-core.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Get meshed",
+    "date": "2008-05-19T23:12:00Z",
+    "slug": "get-meshed",
+    "description": "Already heard of Microsoft's new service called Live Mesh ? If not, have a look here: [http://www.on10.net/blogs/nic/Hands-on-with-Live-Mesh/](http://...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5",
+    "tags": [
+      "mesh"
+    ],
+    "categories": [
+      "live-mesh"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-get-meshed.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "livemesh.JPG"
+    ]
+  },
+  {
+    "title": "Grow vmware size",
+    "date": "2008-05-10T09:38:00Z",
+    "slug": "grow-vmware-size",
+    "description": "Today i ran out of diskspace on one of my systems that runs within a vmware session. The system disk only had 10 GB and I needed to add another 10 GB....",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "4",
+    "tags": [
+      "virtual",
+      "vmware"
+    ],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-grow-vmware-size.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Growing WIM files",
+    "date": "2008-05-10T09:36:00Z",
+    "slug": "growing-wim-files",
+    "description": "You might have experienced that your WIM files seem to grow in size when editing the image. Of course it does, because you add content, but what if yo...",
+    "year": 2008,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "3",
+    "tags": [
+      "virtual",
+      "vmware"
+    ],
+    "categories": [
+      "virtualization"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2008-05-growing-wim-files.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  }
+]

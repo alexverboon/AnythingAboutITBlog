@@ -1,0 +1,1 @@
+Read about what’s new in USMT (User State Migration Tool), download the whitepaper [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=59367b77-c812-489c-b23c-9ee2286424c4)

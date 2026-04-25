@@ -1,0 +1,12 @@
+For those who are in the decision making process of using BranchCache, I strongly recommend to read the Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache Report from [Edison](http://www.theedison.com/). 
+
+  *Microsoft commissioned the Edison Group to create and run a series of tests designed to provide quantified data to illustrate the effects of the file transfer acceleration provided by using Windows 7 and Windows Server 2008 R2 with BranchCache enabled. The result of the testing shows that file downloads were, on average, 69 percent faster with Windows 7 with BranchCache than for Windows XP and 66 percent faster than for Windows Vista. Bandwidth utilization averaged 58 percent less for Windows 7 with BranchCache versus Windows XP and 53 percent less than Windows Vista. This document explains the tests and presents the test results.*
+
+     
+- Common Internet File System (CIFS) and SMB file downloads for a PowerPoint® presentation were as much as 69 percent faster while utilizing an average of up to 59 percent less bandwidth than with Windows Vista or Windows XP.    
+- User download times with the HTTP protocol were 63 percent faster than with Windows Vista and Windows XP, while requiring 49 percent less wide area network bandwidth.    
+- Downloading an application or patch by using Microsoft System Center Configuration Manager (SCCM) and the BITS protocol was 76 to 79 percent faster and utilized 53 to 58 percent less bandwidth.    
+- When transferring a file from server running Microsoft Office SharePoint® Server 2007 (MOSS 2007), client computers running Windows 7 with BranchCache were 65 to 68 percent faster and utilized 66 percent less bandwidth than Windows XP or Windows Vista.    
+- Edison testing shows that BranchCache greatly accelerates App-V performance. It is 24 to 34 percent faster and utilizes 33 to 37 percent less bandwidth than using only App-V. These savings in time and bandwidth are especially important to those people responsible for application deployments and updates. 
+
+  Download the entire document from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=dc9abe4b-2c29-476e-b003-c0b93c23779b&utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+MicrosoftDownloadCenter+%28Microsoft+Download+Center%29&utm_content=Twitter#tm)

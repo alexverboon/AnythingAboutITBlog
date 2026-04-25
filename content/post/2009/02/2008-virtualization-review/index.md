@@ -1,0 +1,22 @@
+---
+title: "2008 Virtualization review "
+layout: "post"
+date: 02/20/2009 00:32:03
+slug: "2008-virtualization-review"
+aliases:
+  - "/2009/02/2008-virtualization-review/"
+description: "Brian and Gabe review the big events, trends, and themes of the desktop and application virtualization space from 2008. Watch [Brian Madden TV Episode..."
+author: "Alex Verboon"
+tags:
+  - brian-madden-tv
+  - trends
+  - virtualization
+categories:
+  - hyper-v
+  - virtualization
+  - vmware
+---
+Brian and Gabe review the big events, trends, and themes of the desktop and application virtualization space from 2008.
+
+Watch [Brian Madden TV  Episode 1 - 2008 year in review](http://www.brianmadden.com/blogs/tv/archive/2009/02/19/brian-madden-tv-episode-1-2008-year-in-review.aspx)
+

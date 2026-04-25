@@ -1,0 +1,1 @@
+Microsoft has released the Microsoft Enterprise Desktop Virtualization (MED-V version 1) Planning, Deployment and Operations Guide. The document can be found [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=fc7bef1d-2830-4848-8ed5-af555998650a)

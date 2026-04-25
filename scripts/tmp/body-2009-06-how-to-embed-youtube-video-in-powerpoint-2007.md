@@ -1,0 +1,1 @@
+Here’s a video that explains how to embed a YouTube video into a PowerPoint slide.

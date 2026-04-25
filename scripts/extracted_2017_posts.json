@@ -1,0 +1,358 @@
+[
+  {
+    "title": "Exploring Microsoft Security Update information with PowerShell",
+    "date": "2017-12-29T13:36:30Z",
+    "slug": "exploring-microsoft-security-update-information-with-powershell",
+    "description": "Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date...",
+    "year": 2017,
+    "month": "12",
+    "author": "alex",
+    "post_id": "7095",
+    "tags": [
+      "cve",
+      "powershell",
+      "security",
+      "updates",
+      "vulnerability"
+    ],
+    "categories": [
+      "security"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-exploring-microsoft-security-update-information-with-powershell.md"
+  },
+  {
+    "title": "PowerShell script Update-PoshModule",
+    "date": "2017-12-17T20:14:52Z",
+    "slug": "powershell-script-update-poshmodule",
+    "description": "With nowadays rapid development and release cycles it’s a good practice to regularly check whether you have the latest available module versions insta...",
+    "year": 2017,
+    "month": "12",
+    "author": "alex",
+    "post_id": "7084",
+    "tags": [
+      "module",
+      "powershell",
+      "update"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb-1.png",
+      "image_thumb-2.png",
+      "image_thumb-3.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-12-powershell-script-update-poshmodule.md"
+  },
+  {
+    "title": "PowerShell Script Get-BatteryChargeStatus",
+    "date": "2017-07-30T15:05:03Z",
+    "slug": "powershell-script-get-batterychargestatus",
+    "description": "**Update 01.08.2017** *I have updated the script to ensure that the Windows.Devices.Power.Battery class is properly loaded, as this wasn't the case in...",
+    "year": 2017,
+    "month": "07",
+    "author": "alex",
+    "post_id": "7055",
+    "tags": [
+      "battery",
+      "power-management"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-powershell-script-get-batterychargestatus.md"
+  },
+  {
+    "title": "How to check if Control Flow Guard is enabled",
+    "date": "2017-07-29T10:53:56Z",
+    "slug": "how-to-check-if-control-flow-guard-is-enabled",
+    "description": "How to check if Control Flow Guard is enabledControl Flow Guard helps mitigate exploits that are based on flow between code locations in memory. Contr...",
+    "year": 2017,
+    "month": "07",
+    "author": "alex",
+    "post_id": "7039",
+    "tags": [
+      "cfg",
+      "control-flow-guard",
+      "security",
+      "windows-10"
+    ],
+    "categories": [
+      "security",
+      "windows-10"
+    ],
+    "image_list": [
+      "clip_image002_thumb-1.png",
+      "clip_image004_thumb-1.png",
+      "clip_image006_thumb-1.png",
+      "clip_image008_thumb-1.png",
+      "clip_image010_thumb-1.png",
+      "clip_image012_thumb-1.png"
+    ],
+    "hero_image": "clip_image002_thumb-1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-how-to-check-if-control-flow-guard-is-enabled.md"
+  },
+  {
+    "title": "Creating and Managing Azure Storage Tables with PowerShell",
+    "date": "2017-07-01T23:36:39Z",
+    "slug": "creating-and-managing-azure-storage-tables-with-powershell",
+    "description": "Today’s mission was to get more familiar with Azure Storage Tables and to manage them with PowerShell. On GitHub I found the [AzureTableEntity module]...",
+    "year": 2017,
+    "month": "07",
+    "author": "alex",
+    "post_id": "7021",
+    "tags": [
+      "azure",
+      "azurestoragetables",
+      "cosmosdb",
+      "powershell",
+      "tables"
+    ],
+    "categories": [
+      "azure",
+      "powershell"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb-1.png",
+      "image_thumb-2.png",
+      "image_thumb-3.png",
+      "image_thumb-4.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-07-creating-and-managing-azure-storage-tables-with-powershell.md"
+  },
+  {
+    "title": "Retrieving Office 365 roadmap information with PowerShell",
+    "date": "2017-06-12T21:51:12Z",
+    "slug": "retrieving-office-365-roadmap-information-with-powershell",
+    "description": "Here’s a small cmdlet I wrote today to pull the Office 365 roadmap information with PowerShell. ``` ```",
+    "year": 2017,
+    "month": "06",
+    "author": "alex",
+    "post_id": "7006",
+    "tags": [
+      "office-365-2",
+      "powershell",
+      "roadmap"
+    ],
+    "categories": [
+      "office-365",
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-retrieving-office-365-roadmap-information-with-powershell.md"
+  },
+  {
+    "title": "Office 365 Centralized Deployment service",
+    "date": "2017-06-10T14:25:04Z",
+    "slug": "office-365-centralized-deployment-service",
+    "description": "Just recently Microsoft announced the general availability of the Office 365 centralized deployment service. I have tested it and it really makes depl...",
+    "year": 2017,
+    "month": "06",
+    "author": "alex",
+    "post_id": "6995",
+    "tags": [
+      "add-on",
+      "deployment",
+      "manifest",
+      "office-365-2"
+    ],
+    "categories": [
+      "office-365"
+    ],
+    "image_list": [
+      "image_thumb-1.png",
+      "image_thumb-2.png",
+      "image_thumb-3.png"
+    ],
+    "hero_image": "image_thumb-1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-06-office-365-centralized-deployment-service.md"
+  },
+  {
+    "title": "ConfigMgr Client Policy Settings - Get-CMclientpolicysettings",
+    "date": "2017-03-04T13:04:23Z",
+    "slug": "configmgr-client-policy-settings-get-cmclientpolicysettings",
+    "description": "Here’s a function i wrote recently to retrieve the ConfigMgr Client Policy settings. To use the function you must have the [System Center Configuratio...",
+    "year": 2017,
+    "month": "03",
+    "author": "alex",
+    "post_id": "6974",
+    "tags": [
+      "client-policy-settings",
+      "configmgr",
+      "powershell"
+    ],
+    "categories": [
+      "configmgr"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-03-configmgr-client-policy-settings-get-cmclientpolicysettings.md"
+  },
+  {
+    "title": "Untitled Draft 6973",
+    "date": "2017-02-28T21:00:53Z",
+    "slug": "untitled-draft-6973",
+    "description": "Imported placeholder draft from the WordPress export.",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6973",
+    "tags": [],
+    "categories": [],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-untitled-draft-6973.md"
+  },
+  {
+    "title": "Deploying ConfigMgr Current Branch in Azure Dev Test Lab",
+    "date": "2017-02-10T21:36:02Z",
+    "slug": "deploying-configmgr-current-branch-in-azure-dev-test-lab",
+    "description": "Remember the days when you spend hours if not days just to get a lab environment in place and any time you wanted to use the environment again, you sp...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6968",
+    "tags": [
+      "azure",
+      "azure-dev-test-lab",
+      "cloud",
+      "configmgr",
+      "deployment",
+      "lab-environment"
+    ],
+    "categories": [
+      "azure",
+      "configmgr"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-deploying-configmgr-current-branch-in-azure-dev-test-lab.md"
+  },
+  {
+    "title": "How to link an OMS Workspace with an Azure Automation Account",
+    "date": "2017-02-09T21:14:19Z",
+    "slug": "how-to-link-an-oms-workspace-with-an-azure-automation-account",
+    "description": "When adding solutions to your OMS workspace you might get prompted to specify an Azure Automation account which then results in a link being created b...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6966",
+    "tags": [
+      "automation-account",
+      "azure",
+      "link",
+      "oms"
+    ],
+    "categories": [
+      "azure",
+      "oms"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-how-to-link-an-oms-workspace-with-an-azure-automation-account.md"
+  },
+  {
+    "title": "OMS Log Analytics HTTP Data Collector API &ndash; Work notes",
+    "date": "2017-02-08T13:08:44Z",
+    "slug": "oms-log-analytics-http-data-collector-api-work-notes",
+    "description": "I believe that the Microsoft Operations Management Suite is yet another example of how cool Cloud based solutions can be. Instead of first having to s...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6961",
+    "tags": [
+      "api",
+      "azure",
+      "data-collector",
+      "json",
+      "log-analytics",
+      "oms",
+      "post"
+    ],
+    "categories": [
+      "azure",
+      "log-analytics",
+      "oms"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-oms-log-analytics-http-data-collector-api-work-notes.md"
+  },
+  {
+    "title": "Retrieve Azure Virtual Machine Size information with PowerShell",
+    "date": "2017-02-07T19:46:07Z",
+    "slug": "retrieve-azure-virtual-machine-size-information-with-powershell",
+    "description": "One important topic to consider when deploying virtual machines in Azure is the [size](https://azure.microsoft.com/en-us/pricing/details/cloud-service...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6955",
+    "tags": [
+      "azure",
+      "azure-storage",
+      "compute",
+      "powershell",
+      "pricing",
+      "size"
+    ],
+    "categories": [
+      "azure"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-retrieve-azure-virtual-machine-size-information-with-powershell.md"
+  },
+  {
+    "title": "Download and Install the Windows Assessment and Deployment Kit with PowerShell",
+    "date": "2017-02-07T16:22:42Z",
+    "slug": "download-and-install-the-windows-assessment-and-deployment-kit-with-powershell",
+    "description": "Back in June 2012 I posted the [Automated download and Installation for the Windows Assessment and Deployment kit](https://www.verboon.info/2012/06/au...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6952",
+    "tags": [
+      "adk",
+      "powershell",
+      "widnows-10",
+      "windows-assessment-and-deployment-kit"
+    ],
+    "categories": [
+      "adk",
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-download-and-install-the-windows-assessment-and-deployment-kit-with-powershell.md"
+  },
+  {
+    "title": "Select-MyAzureRmSubscription",
+    "date": "2017-02-07T15:08:07Z",
+    "slug": "select-myazurermsubscription",
+    "description": "I have multiple Azure subscriptions linked to my account, so anytime I connect to Azure in PowerShell I have to make sure i am working in the right co...",
+    "year": 2017,
+    "month": "02",
+    "author": "alex",
+    "post_id": "6947",
+    "tags": [
+      "azure",
+      "powershell"
+    ],
+    "categories": [
+      "azure",
+      "powerpoint-viewer-2010"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2017-02-select-myazurermsubscription.md"
+  }
+]

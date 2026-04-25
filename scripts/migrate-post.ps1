@@ -23,11 +23,9 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$SourceImageDir,
 
-    [Parameter(Mandatory = $true)]
-    [string[]]$ImageNames,
+    [string[]]$ImageNames = @(),
 
-    [Parameter(Mandatory = $true)]
-    [string]$HeroSourceImage,
+    [string]$HeroSourceImage = "",
 
     [Parameter(Mandatory = $true)]
     [string]$BodyMarkdownPath,
@@ -67,7 +65,7 @@ if (-not (Test-Path -LiteralPath $RepoRoot)) {
     throw "RepoRoot does not exist: $RepoRoot"
 }
 
-if (-not (Test-Path -LiteralPath $SourceImageDir)) {
+if ($ImageNames.Count -gt 0 -and -not (Test-Path -LiteralPath $SourceImageDir)) {
     throw "SourceImageDir does not exist: $SourceImageDir"
 }
 
@@ -75,7 +73,7 @@ if (-not (Test-Path -LiteralPath $BodyMarkdownPath)) {
     throw "BodyMarkdownPath does not exist: $BodyMarkdownPath"
 }
 
-if (-not (Test-Path -LiteralPath $HeroSourceImage)) {
+if ($HeroSourceImage -and -not (Test-Path -LiteralPath $HeroSourceImage)) {
     throw "HeroSourceImage does not exist: $HeroSourceImage"
 }
 
@@ -105,11 +103,12 @@ foreach ($imageName in $ImageNames) {
     Copy-Item -LiteralPath $src -Destination $dst -Force:$Force
 }
 
-if ((Test-Path -LiteralPath $heroDest) -and -not $Force) {
-    throw "Hero target exists (use -Force to overwrite): $heroDest"
+if ($HeroSourceImage) {
+    if ((Test-Path -LiteralPath $heroDest) -and -not $Force) {
+        throw "Hero target exists (use -Force to overwrite): $heroDest"
+    }
+    Copy-Item -LiteralPath $HeroSourceImage -Destination $heroDest -Force:$Force
 }
-
-Copy-Item -LiteralPath $HeroSourceImage -Destination $heroDest -Force:$Force
 
 if ((Test-Path -LiteralPath $indexPath) -and -not $Force) {
     throw "Post index exists (use -Force to overwrite): $indexPath"
@@ -121,6 +120,9 @@ if ([string]::IsNullOrWhiteSpace($aliasValue)) {
 }
 
 $body = Get-Content -LiteralPath $BodyMarkdownPath -Raw
+if ($null -eq $body) {
+    $body = ""
+}
 
 # Rewrite local markdown links to copied post images under images/.
 foreach ($imageName in $ImageNames) {
@@ -145,7 +147,9 @@ $yaml += 'aliases:'
 $yaml += ('  - "{0}"' -f $aliasValue)
 $yaml += ('description: "{0}"' -f $escapedDescription)
 $yaml += ('author: "{0}"' -f $escapedAuthor)
-$yaml += ('image: "img/post-heroes/{0}"' -f $heroName)
+if ($HeroSourceImage) {
+    $yaml += ('image: "img/post-heroes/{0}"' -f $heroName)
+}
 $yaml += 'tags:'
 $yaml += $tagLines
 $yaml += 'categories:'

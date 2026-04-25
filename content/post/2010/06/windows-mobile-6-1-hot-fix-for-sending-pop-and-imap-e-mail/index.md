@@ -1,0 +1,28 @@
+---
+title: "Windows Mobile 6.1 Hot Fix for Sending POP and IMAP E-mail"
+layout: "post"
+date: 06/17/2010 19:26:33
+slug: "windows-mobile-6-1-hot-fix-for-sending-pop-and-imap-e-mail"
+aliases:
+  - "/2010/06/windows-mobile-6-1-hot-fix-for-sending-pop-and-imap-e-mail/"
+description: "Once again, there is always a solution for every problem, it’s just that it can take a while until you find the solution. Since months I have had issu..."
+author: "Alex Verboon"
+tags:
+  - dst
+  - imap
+  - pop
+  - update
+  - windows-mobile-6-1
+categories:
+  - mobile
+  - tip
+  - windows-6-1
+---
+Once again, there is always a solution for every problem, it’s just that it can take a while until you find the solution. 
+
+  Since months I have had issues with “sending” e-mails from my Windows Mobile 6.1 device. I have several mail accounts configured on my mobile, but the one that is configured to use IMAP simply wouldn’t work. 
+
+  Today I stumbled upon a patch that fixes this. If you happen to have the same problem then download the Windows Mobile 6.1 Hot Fix for Sending POP and IMAP E-mail from [here](http://www.microsoft.com/downloads/details.aspx?FamilyID=d9d71b2e-d2dd-44f2-86e5-1e53aad7fb7a&DisplayLang=en#filelist)
+
+  And just in case your mobile doesn’t show the correct time, have a look at the DST patch which can be found [here](http://www.microsoft.com/downloads/details.aspx?familyid=3BD7C55C-8AC1-4821-81FE-3F4ADA831FE0&displaylang=en)
+

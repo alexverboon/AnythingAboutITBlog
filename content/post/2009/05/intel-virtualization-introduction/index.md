@@ -1,0 +1,20 @@
+---
+title: "Intel Virtualization introduction"
+layout: "post"
+date: 05/04/2009 21:48:01
+slug: "intel-virtualization-introduction"
+aliases:
+  - "/2009/05/intel-virtualization-introduction/"
+description: "With the launch of Windows Virtual PC for Windows7, there is a lot of talk about the Virtualization Technology again. I found this introduction video ..."
+author: "Alex Verboon"
+tags:
+  - Uncategorized
+categories:
+  - bios
+  - virtualization
+  - windows-7
+---
+With the launch of Windows Virtual PC for Windows7, there is a lot of talk about the Virtualization Technology again. I found this introduction video from Intel that provides an overview on VT.
+
+[videofile]http://cache-www.intel.com/cd/00/00/24/59/245966_245966.swf[/videofile]
+

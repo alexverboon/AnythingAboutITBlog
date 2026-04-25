@@ -1,0 +1,20 @@
+---
+title: "InstEd - Free Windows Installer database editor"
+layout: "post"
+date: 11/26/2008 19:51:31
+slug: "insted-free-windows-installer-database-editor"
+aliases:
+  - "/2008/11/insted-free-windows-installer-database-editor/"
+description: "For those dealing with application packaging here's an interesting tool you should know about. For more details check out the [InstEd ](http://www.ins..."
+author: "Alex Verboon"
+tags:
+  - msi
+  - packaging
+categories:
+  - automation
+  - packaging
+  - tip
+  - tools
+---
+For those dealing with application packaging here's an interesting tool you should know about. For more details check out the [InstEd ](http://www.instedit.com/home)site and read the[blog](http://blog.instedit.com/).
+

@@ -1,0 +1,1 @@
+[Mark Minasi ](http://www.minasi.com/)has put together a nice overview on Windows7. "[the next Windows: Lucky7?"](http://www.minasi.com/win7ppt.pdf)

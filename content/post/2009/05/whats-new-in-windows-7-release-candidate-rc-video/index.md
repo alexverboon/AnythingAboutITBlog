@@ -1,0 +1,18 @@
+---
+title: "What's New in Windows 7 Release Candidate (RC) Video"
+layout: "post"
+date: 05/01/2009 12:04:43
+slug: "whats-new-in-windows-7-release-candidate-rc-video"
+aliases:
+  - "/2009/05/whats-new-in-windows-7-release-candidate-rc-video/"
+description: "This video walks you through some of the new and updated features in the Windows 7 Release Candidate. [http://download.microsoft.com/download/2/9/3/29..."
+author: "Alex Verboon"
+tags:
+  - Uncategorized
+categories:
+  - windows7
+---
+This video walks you through some of the new and updated features in the Windows 7 Release Candidate.
+
+  [http://download.microsoft.com/download/2/9/3/293FCBA7-E0F2-4ACC-BE30-854B018F8559/WhatsNewWindows7RC.wmv](http://download.microsoft.com/download/2/9/3/293FCBA7-E0F2-4ACC-BE30-854B018F8559/WhatsNewWindows7RC.wmv)
+

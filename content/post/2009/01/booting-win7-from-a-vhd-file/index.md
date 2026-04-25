@@ -1,0 +1,20 @@
+---
+title: "Booting Win7 from a VHD file"
+layout: "post"
+date: 01/03/2009 21:37:37
+slug: "booting-win7-from-a-vhd-file"
+aliases:
+  - "/2009/01/booting-win7-from-a-vhd-file/"
+description: "Windows7 and Windows Server 2008 R2 will support booting directly from a [VHD](http://technet.microsoft.com/en-us/bb738373.aspx) (Virtual hard disk) f..."
+author: "Alex Verboon"
+tags:
+  - vhd
+categories:
+  - tip
+  - virtualization
+  - windows-7
+---
+Windows7 and Windows Server 2008 R2 will support booting directly from a [VHD](http://technet.microsoft.com/en-us/bb738373.aspx) (Virtual hard disk) file. This will allow you to run multiple operating systems on a single hard disk without the need of creating multiple partitions. 
+
+I found a nice description on the blog from rasmus sjoerslev about [booting Windows7 from a VHD file](http://it-experts.dk/blogs/rsj/archive/2009/01/01/booting-windows-7-from-a-vhd-file.aspx).
+

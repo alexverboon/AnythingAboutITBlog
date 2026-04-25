@@ -1,0 +1,35 @@
+---
+title: "Microsoft Product Lifecycle &ndash; The year 2014 is not that far away anymore"
+layout: "post"
+date: 09/21/2011 17:19:07
+slug: "microsoft-product-lifecycle-the-year-2014-is-not-that-far-away-anymore"
+aliases:
+  - "/2011/09/microsoft-product-lifecycle-the-year-2014-is-not-that-far-away-anymore/"
+description: "The countdown has started in less than 1000 days Windows XP will definitely go [end of life](http://windowsteamblog.com/windows/b/springboard/archive/..."
+author: "Alex Verboon"
+tags:
+  - 2014
+  - end-of-life
+  - extended-support
+  - lifecycle
+  - support
+  - windows
+  - windows-xp
+categories:
+  - lifecycle
+  - microsoft
+---
+The countdown has started in less than 1000 days Windows XP will definitely go [end of life](http://windowsteamblog.com/windows/b/springboard/archive/2011/07/11/with-only-1000-days-left-of-extended-support-don-t-you-think-it-s-time-to-retire-windows-xp.aspx). However note that not only Windows XP reaches its end soon, Office 2003, Windows Server 2003, Exchange 2003, SCCM 2003 and some other products are about to reach their end of life within the same timeframe. 
+
+  For my personal reference and yours if you like, I have put together a short overview of the end of life dates for the products we deal with mostly in a typical Windows SMB or Enterprise environment. 
+
+                       **Products Released**               **General Availability Date**        **Mainstream Support End Date**        **Extended Support End Date**                          **Years**                           Windows XP Professional               31-Dec-2001        14-Apr-2009        8-Apr-2014         12                           Windows Server 2003, Enterprise Edition                28-May-2003        13-Jul-2010        14-Jul-2015         12                           Windows Vista Enterprise               25-Jan-2007        10-Apr-2012        11-Apr-2017         10                           Windows Server 2008 Enterprise               6-May-2008        9-Jul-2013        10-Jul-2018         10                           Windows 7 Enterprise               22-Oct-2009        13-Jan-2015        14-Jan-2020         10                           Windows Server 2008 R2 Enterprise               22-Oct-2009        9-Jul-2013        10-Jul-2018         9                           Office Professional Enterprise Edition 2003               17-Nov-2003        14-Apr-2009        8-Apr-2014         10                           Office Enterprise 2007               27-Jan-2007        10-Apr-2012        11-Apr-2017         10                           Office Professional Plus 2010               15-Jul-2010        13-Oct-2015        13-Oct-2020         10                           Systems Management Server 2003               20-Jan-2004        12-Jan-2010        13-Jan-2015         11                           System Center Configuration Manager 2007 R3               19-Dec-2010        8-Jan-2013        9-Jan-2018         7                           Application Virtualization 4.6 for Terminal Services               27-May-2010        14-Jul-2015        14-Jul-2020         10                           Communicator 2007 R2               19-Mar-2009        8-Jan-2013        9-Jan-2018         9                           Lync 2010               25-Jan-2011        12-Apr-2016        13-Apr-2021         10                           SharePoint Portal Server 2003               23-Nov-2003        14-Apr-2009        8-Apr-2014        10                           SharePoint Server 2010               15-Jun-2010        13-Oct-2015        13-Oct-2020         10                           Exchange Server 2003 Enterprise Edition               28-Sep-2003        14-Apr-2009        8-Apr-2014         10                           Exchange Server 2007 Enterprise Edition               8-Mar-2007        10-Apr-2012        11-Apr-2017         10                           Exchange Server 2010 Enterprise               9-Nov-2009        13-Jan-2015        14-Jan-2020         10                           SQL Server 2005 Enterprise Edition               14-Jan-2006        12-Apr-2011        12-Apr-2016         10                           SQL Server 2008 Enterprise               7-Nov-2008        14-Jan-2014        8-Jan-2019         10                           SQL Server 2008 R2 Enterprise               20-Jul-2010        14-Jan-2014        8-Jan-2019         8          More details and more products can be found on the [Microsoft Lifecycle support](http://support.microsoft.com/lifecycle/) page. 
+
+  **Update**
+
+  Just received a Tweet from [@Browsium](http://twitter.com/#!/browsium) reminding me about Internet Explorer, Now to be honest, you would think that this information is clearly shown on the Microsoft Product Lifecycle page, well it isn’t. Instead of putting a clear date, Microsoft refers to the general lifecycle support policy description. . Maybe read this article [The Support Lifecycle for Internet Explorer](http://blogs.technet.com/b/lifecycle/archive/2009/06/27/the-support-lifecycle-for-internet-explorer.aspx) that tries to explain things. 
+
+  My best guess of IE support is shown in the table below. If anyone has clear facts / dates, let me know. 
+
+              **Products Released**        **General Availability Date**        **Mainstream Support End Date**        **Extended Support End Date**                  Internet Explorer 6.0        12/31/2001                 See Windows Server 2003                  Windows Internet Explorer 7        10/18/2006                 See Windows Server 2008                  Windows Internet Explorer 8        6/17/2009                 See Windows 7                  Windows Internet Explorer 9        3/15/2011
+

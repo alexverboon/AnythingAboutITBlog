@@ -3,6 +3,7 @@ title = "Anything About IT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+enableRobotsTXT = true
 
 
 [services]
@@ -15,7 +16,7 @@ defaultContentLanguage = "en"
   pagerSize = 6
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS","JSON"]
 
 [permalinks]
   post = "/:year/:month/:slug/"

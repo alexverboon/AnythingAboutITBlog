@@ -1,0 +1,478 @@
+Parsing WordPress XML export for 2018 posts...
+Found 14 of 14 target posts
+
+Processing: Stay in Control of AzureAD Enterprise Application registrations with Cloud App Security
+  Slug  : stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security
+  Date  : 2018-12-10T22:33:04Z
+  Images: 23
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-12-stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.md
+
+Processing: Azure Information Protection Scanner & Analytics û Resource Collection
+  Slug  : azure-information-protection-scanner-analytics-resource-collection
+  Date  : 2018-10-31T18:42:25Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-10-azure-information-protection-scanner-analytics-resource-collection.md
+
+Processing: Anything About IT turns 10 today
+  Slug  : anything-about-it-turns-10-today
+  Date  : 2018-05-10T14:50:47Z
+  Images: 6
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-05-anything-about-it-turns-10-today.md
+
+Processing: ItÆs never too late to start learning PowerShell
+  Slug  : its-never-too-late-to-start-learning-powershell
+  Date  : 2018-03-27T10:34:53Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-03-its-never-too-late-to-start-learning-powershell.md
+
+Processing: Backup Office 365 sign-in data with Azure Log Analytics and Logic App
+  Slug  : backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app
+  Date  : 2018-03-16T19:59:59Z
+  Images: 27
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-03-backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app.md
+
+Processing: How to get started with Azure log Analytics
+  Slug  : how-to-get-started-with-azure-log-analytics
+  Date  : 2018-03-11T16:55:36Z
+  Images: 4
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-03-how-to-get-started-with-azure-log-analytics.md
+
+Processing: Data Collection Tier in Azure Security Center
+  Slug  : data-collection-tier-in-azure-security-center
+  Date  : 2018-02-25T17:22:05Z
+  Images: 2
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-02-data-collection-tier-in-azure-security-center.md
+
+Processing: OMS Security and Audit Baseline Assessment
+  Slug  : oms-security-and-audit-baseline-assessment
+  Date  : 2018-02-19T20:53:31Z
+  Images: 10
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-02-oms-security-and-audit-baseline-assessment.md
+
+Processing: Collecting NetTcpConnection and Process information with PowerShell
+  Slug  : collecting-nettcpconnection-and-process-information-with-powershell
+  Date  : 2018-02-08T14:28:19Z
+  Images: 3
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-02-collecting-nettcpconnection-and-process-information-with-powershell.md
+
+Processing: Automating CIS-CAT Pro with PowerShell
+  Slug  : ciscatpowershell
+  Date  : 2018-02-06T20:34:49Z
+  Images: 7
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-02-ciscatpowershell.md
+
+Processing: PowerShell Core logging configuration
+  Slug  : powershell-core-logging-configuration
+  Date  : 2018-01-16T22:41:16Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-01-powershell-core-logging-configuration.md
+
+Processing: Enabling PowerShell logging for PowerShell Core 6 (Workaround)
+  Slug  : enabling-powershell-logging-for-powershell-core-6-workaround
+  Date  : 2018-01-13T02:02:41Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-01-enabling-powershell-logging-for-powershell-core-6-workaround.md
+
+Processing: Retrieving Windows Defender ATP query API data with PowerShell
+  Slug  : retrieving-windows-defender-atp-query-api-data-with-powershell
+  Date  : 2018-01-09T20:45:15Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-01-retrieving-windows-defender-atp-query-api-data-with-powershell.md
+
+Processing: Exploring the Blockchain &ndash; Part1
+  Slug  : exploring-the-blockchain-part1
+  Date  : 2018-01-06T12:10:42Z
+  Images: 0
+  Saved : C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\tmp\body-2018-01-exploring-the-blockchain-part1.md
+
+[OK] Extracted 14 posts
+[OK] JSON saved to: C:\Dev\Alex\blog\AnythingAboutITBlog\scripts\extracted_2018_posts.json
+
+--- JSON preview ---
+{
+  "title": "Stay in Control of AzureAD Enterprise Application registrations with Cloud App Security",
+  "date": "2018-12-10T22:33:04Z",
+  "slug": "stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security",
+  "description": "Azure Active Directory provides a simple process that provides users with a single sign-on (SSO) experience for accessing cloud-based applications usi...",
+  "year": 2018,
+  "month": "12",
+  "author": "alex",
+  "tags": [
+    "azure-active-directory",
+    "cloud-app-security",
+    "mcas"
+  ],
+  "categories": [
+    "azure-active-directory",
+    "cloud-app-security"
+  ],
+  "image_list": [
+    "121018_2230_StayinContr1.png",
+    "121018_2230_StayinContr2.png",
+    "121018_2230_StayinContr3.png",
+    "121018_2230_StayinContr4.png",
+    "121018_2230_StayinContr5.png",
+    "121018_2230_StayinContr6.png",
+    "121018_2230_StayinContr7.png",
+    "121018_2230_StayinContr8.png",
+    "121018_2230_StayinContr9.png",
+    "121018_2230_StayinContr10.png",
+    "121018_2230_StayinContr11.png",
+    "121018_2230_StayinContr12.png",
+    "121018_2230_StayinContr13.png",
+    "121018_2230_StayinContr14.png",
+    "121018_2230_StayinContr15.png",
+    "121018_2230_StayinContr16.png",
+    "121018_2230_StayinContr17.png",
+    "121018_2230_StayinContr18.png",
+    "121018_2230_StayinContr19.png",
+    "121018_2230_StayinContr20.png",
+    "121018_2230_StayinContr21.png",
+    "121018_2230_StayinContr22.png",
+    "121018_2230_StayinContr23.png"
+  ],
+  "hero_image": "121018_2230_StayinContr1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-12-stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.md"
+}
+{
+  "title": "Azure Information Protection Scanner & Analytics \u2013 Resource Collection",
+  "date": "2018-10-31T18:42:25Z",
+  "slug": "azure-information-protection-scanner-analytics-resource-collection",
+  "description": "Hey there, This might sound like a bad excuse for not writing up a whole blog post, but in fact I had planned to write a few words about the Azure Inf...",
+  "year": 2018,
+  "month": "10",
+  "author": "alex",
+  "tags": [
+    "aip",
+    "protection",
+    "scanner"
+  ],
+  "categories": [
+    "azure-information-protection"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-10-azure-information-protection-scanner-analytics-resource-collection.md"
+}
+{
+  "title": "Anything About IT turns 10 today",
+  "date": "2018-05-10T14:50:47Z",
+  "slug": "anything-about-it-turns-10-today",
+  "description": "On the 10th of May 2008, I wrote my first blog post here \"[Growing WIM files](https://www.verboon.info/2008/05/growing-wim-files/)\". I recently read t...",
+  "year": 2018,
+  "month": "05",
+  "author": "alex",
+  "tags": [],
+  "categories": [
+    "blog"
+  ],
+  "image_list": [
+    "051018_1450_AnythingAbo1.png",
+    "051018_1450_AnythingAbo2.png",
+    "051018_1450_AnythingAbo3.png",
+    "051018_1450_AnythingAbo4.png",
+    "051018_1450_AnythingAbo5.png",
+    "051018_1450_AnythingAbo6.png"
+  ],
+  "hero_image": "051018_1450_AnythingAbo1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-05-anything-about-it-turns-10-today.md"
+}
+{
+  "title": "It\u2019s never too late to start learning PowerShell",
+  "date": "2018-03-27T10:34:53Z",
+  "slug": "its-never-too-late-to-start-learning-powershell",
+  "description": "It's 2018 now and you might think who doesn't know PowerShell yet. Although I've seen the number of people using PowerShell increasing over the past y...",
+  "year": 2018,
+  "month": "03",
+  "author": "alex",
+  "tags": [
+    "learning",
+    "powershell"
+  ],
+  "categories": [
+    "powershell"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-its-never-too-late-to-start-learning-powershell.md"
+}
+{
+  "title": "Backup Office 365 sign-in data with Azure Log Analytics and Logic App",
+  "date": "2018-03-16T19:59:59Z",
+  "slug": "backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app",
+  "description": "The Office 365 solution in Operations Management Suite (OMS) allows you to monitor your Office 365 environment in Log Analytics. Like with any solutio...",
+  "year": 2018,
+  "month": "03",
+  "author": "alex",
+  "tags": [
+    "archive",
+    "azure-log-analytics",
+    "azure-logic-app",
+    "backup",
+    "office-365-2",
+    "sign-in-data"
+  ],
+  "categories": [
+    "azure",
+    "azure-logic-app",
+    "log-analytics"
+  ],
+  "image_list": [
+    "031618_1957_BackupOffic1.png",
+    "031618_1957_BackupOffic2.png",
+    "031618_1957_BackupOffic3.png",
+    "031618_1957_BackupOffic4.png",
+    "031618_1957_BackupOffic5.png",
+    "031618_1957_BackupOffic6.png",
+    "031618_1957_BackupOffic7.png",
+    "031618_1957_BackupOffic8.png",
+    "031618_1957_BackupOffic9.png",
+    "031618_1957_BackupOffic10.png",
+    "031618_1957_BackupOffic11.png",
+    "031618_1957_BackupOffic12.png",
+    "031618_1957_BackupOffic13.png",
+    "031618_1957_BackupOffic14.png",
+    "031618_1957_BackupOffic15.png",
+    "031618_1957_BackupOffic16.png",
+    "031618_1957_BackupOffic17.png",
+    "031618_1957_BackupOffic18.png",
+    "031618_1957_BackupOffic19.png",
+    "031618_1957_BackupOffic20.png",
+    "031618_1957_BackupOffic21.png",
+    "031618_1957_BackupOffic22.png",
+    "031618_1957_BackupOffic23.png",
+    "031618_1957_BackupOffic24.png",
+    "031618_1957_BackupOffic25.png",
+    "031618_1957_BackupOffic26.png",
+    "031618_1957_BackupOffic27.png"
+  ],
+  "hero_image": "031618_1957_BackupOffic1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app.md"
+}
+{
+  "title": "How to get started with Azure log Analytics",
+  "date": "2018-03-11T16:55:36Z",
+  "slug": "how-to-get-started-with-azure-log-analytics",
+  "description": "If you're interested in getting your hands dirty with Azure Log Analytics, here's a few resources and tips on how to get started. **The Video's ** If ...",
+  "year": 2018,
+  "month": "03",
+  "author": "alex",
+  "tags": [
+    "azure",
+    "log-analytics"
+  ],
+  "categories": [
+    "azure"
+  ],
+  "image_list": [
+    "031118_1655_Howtogetsta1.png",
+    "031118_1655_Howtogetsta2.png",
+    "031118_1655_Howtogetsta3.png",
+    "031118_1655_Howtogetsta4.png"
+  ],
+  "hero_image": "031118_1655_Howtogetsta1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-03-how-to-get-started-with-azure-log-analytics.md"
+}
+{
+  "title": "Data Collection Tier in Azure Security Center",
+  "date": "2018-02-25T17:22:05Z",
+  "slug": "data-collection-tier-in-azure-security-center",
+  "description": "Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security eve...",
+  "year": 2018,
+  "month": "02",
+  "author": "alex",
+  "tags": [
+    "azure",
+    "data-collection",
+    "eventid",
+    "security",
+    "security-center"
+  ],
+  "categories": [
+    "azure"
+  ],
+  "image_list": [
+    "022518_1719_DataCollect1.png",
+    "022518_1719_DataCollect2.png"
+  ],
+  "hero_image": "022518_1719_DataCollect1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-data-collection-tier-in-azure-security-center.md"
+}
+{
+  "title": "OMS Security and Audit Baseline Assessment",
+  "date": "2018-02-19T20:53:31Z",
+  "slug": "oms-security-and-audit-baseline-assessment",
+  "description": "The Microsoft Operations and Management Suite, Security and Audit Solution includes a Baseline Assessment component. The Baseline configuration defini...",
+  "year": 2018,
+  "month": "02",
+  "author": "alex",
+  "tags": [
+    "compliance-baseline",
+    "compliance-settings",
+    "log-analytics",
+    "oms",
+    "powershell",
+    "security-baseline"
+  ],
+  "categories": [
+    "azure",
+    "log-analytics",
+    "oms",
+    "powershell"
+  ],
+  "image_list": [
+    "021918_2045_OMSSecurity1.png",
+    "021918_2045_OMSSecurity2.png",
+    "021918_2045_OMSSecurity3.png",
+    "021918_2045_OMSSecurity4.png",
+    "021918_2045_OMSSecurity5.png",
+    "021918_2045_OMSSecurity6.png",
+    "021918_2045_OMSSecurity7.png",
+    "021918_2045_OMSSecurity8.png",
+    "021918_2045_OMSSecurity9.png",
+    "021918_2045_OMSSecurity10.png"
+  ],
+  "hero_image": "021918_2045_OMSSecurity1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-oms-security-and-audit-baseline-assessment.md"
+}
+{
+  "title": "Collecting NetTcpConnection and Process information with PowerShell",
+  "date": "2018-02-08T14:28:19Z",
+  "slug": "collecting-nettcpconnection-and-process-information-with-powershell",
+  "description": "if you need information on active TCP connections, you probably start with the [netstat](https://docs.microsoft.com/en-us/windows-server/administratio...",
+  "year": 2018,
+  "month": "02",
+  "author": "alex",
+  "tags": [
+    "network",
+    "powershell",
+    "security"
+  ],
+  "categories": [
+    "powershell",
+    "security"
+  ],
+  "image_list": [
+    "020818_1424_CollectingN1.png",
+    "020818_1424_CollectingN2.png",
+    "020818_1424_CollectingN3.png"
+  ],
+  "hero_image": "020818_1424_CollectingN1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-collecting-nettcpconnection-and-process-information-with-powershell.md"
+}
+{
+  "title": "Automating CIS-CAT Pro with PowerShell",
+  "date": "2018-02-06T20:34:49Z",
+  "slug": "ciscatpowershell",
+  "description": "CIS-CAT stands for Center for internet Security Configuration Assessment Tool. The CIS-CAT tool is used to perform configuration and vulnerability ass...",
+  "year": 2018,
+  "month": "02",
+  "author": "alex",
+  "tags": [
+    "assessment",
+    "automation",
+    "benchmark",
+    "cis-cat-pro",
+    "powershell",
+    "vulnerability"
+  ],
+  "categories": [
+    "automation",
+    "powershell",
+    "security"
+  ],
+  "image_list": [
+    "020618_2102_AutomatingC1.png",
+    "020618_2102_AutomatingC2.png",
+    "020618_2102_AutomatingC3.png",
+    "020618_2102_AutomatingC4.png",
+    "020618_2102_AutomatingC5.png",
+    "020618_2102_AutomatingC6.png",
+    "020618_2102_AutomatingC7.png"
+  ],
+  "hero_image": "020618_2102_AutomatingC1.png",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-02-ciscatpowershell.md"
+}
+{
+  "title": "PowerShell Core logging configuration",
+  "date": "2018-01-16T22:41:16Z",
+  "slug": "powershell-core-logging-configuration",
+  "description": "After having browsed through the PowerShell code a bit, found some references as to how to configure PowerShell Core logging options through GPO or vi...",
+  "year": 2018,
+  "month": "01",
+  "author": "alex",
+  "tags": [
+    "group-policy",
+    "logging",
+    "powershellcore"
+  ],
+  "categories": [
+    "powershell"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-powershell-core-logging-configuration.md"
+}
+{
+  "title": "Enabling PowerShell logging for PowerShell Core 6 (Workaround)",
+  "date": "2018-01-13T02:02:41Z",
+  "slug": "enabling-powershell-logging-for-powershell-core-6-workaround",
+  "description": "By default, PowerShell Core does not log events to the Windows Event logs. From a security perspective this isn\u2019t ideal, but that\u2019s something I\u2019ll tak...",
+  "year": 2018,
+  "month": "01",
+  "author": "alex",
+  "tags": [
+    "eventlog",
+    "powershell-core"
+  ],
+  "categories": [
+    "powershell"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-enabling-powershell-logging-for-powershell-core-6-workaround.md"
+}
+{
+  "title": "Retrieving Windows Defender ATP query API data with PowerShell",
+  "date": "2018-01-09T20:45:15Z",
+  "slug": "retrieving-windows-defender-atp-query-api-data-with-powershell",
+  "description": "I am currently working on some automation around Windows Defender, so started to look at the Windows Defender Advanced Threat Protection query API. No...",
+  "year": 2018,
+  "month": "01",
+  "author": "alex",
+  "tags": [
+    "api",
+    "defender-atp",
+    "powershell"
+  ],
+  "categories": [
+    "defender-atp",
+    "powershell"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-retrieving-windows-defender-atp-query-api-data-with-powershell.md"
+}
+{
+  "title": "Exploring the Blockchain &ndash; Part1",
+  "date": "2018-01-06T12:10:42Z",
+  "slug": "exploring-the-blockchain-part1",
+  "description": "A few days ago I decided that I wanted to learn more about the Blockchain. So I started reading various documentations, browsed through GitHub, watche...",
+  "year": 2018,
+  "month": "01",
+  "author": "alex",
+  "tags": [
+    "blockchain",
+    "blocks",
+    "ethereum",
+    "node",
+    "transactions",
+    "web3"
+  ],
+  "categories": [
+    "blockchain"
+  ],
+  "image_list": [],
+  "hero_image": "",
+  "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2018-01-exploring-the-blockchain-part1.md"
+}

@@ -1,0 +1,23 @@
+---
+title: "All those being pessimistic about Vista Read this"
+layout: "post"
+date: 09/08/2008 15:20:22
+slug: "all-those-being-pessimistic-about-vista-read-this"
+aliases:
+  - "/2008/09/all-those-being-pessimistic-about-vista-read-this/"
+description: "All those being pessimistic about Windows Vista, book some time and carefully read this: [http://www.tweakguides.com/VA_1.html](http://www.tweakguides..."
+author: "Alex Verboon"
+image: "img/post-heroes/all-those-being-pessimistic-about-vista-read-this.png"
+tags:
+  - vista
+categories:
+  - reading
+  - vista
+---
+All those being pessimistic about Windows Vista, book some time and carefully read this:
+
+[http://www.tweakguides.com/VA_1.html](http://www.tweakguides.com/VA_1.html)
+[
+![vista_resolved](images/vista-resolved.jpg)
+](http://www.tweakguides.com/VA_1.html)
+

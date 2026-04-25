@@ -1,0 +1,2 @@
+Although I do frequently visit the MyITforum.com site, i never paid much attention to the download content, but unfortunately found some interesting whitepapers and references there.
+[http://myitforum.com/cs2/files/](http://myitforum.com/cs2/files/)

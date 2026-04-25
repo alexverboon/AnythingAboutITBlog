@@ -1,0 +1,1 @@
+Claude my team mate sended me this one, good enough to blog a reference to this article. [http://thedailywtf.com/Articles/Slaves-to-The-Process.aspx](http://thedailywtf.com/Articles/Slaves-to-The-Process.aspx)

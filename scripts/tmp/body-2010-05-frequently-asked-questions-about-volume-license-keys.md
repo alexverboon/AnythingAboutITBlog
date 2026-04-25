@@ -1,0 +1,1 @@
+A good FAQ about Microsoft Volume licensing. Details [here](http://www.microsoft.com/licensing/existing-customers/product-activation-faq.aspx)

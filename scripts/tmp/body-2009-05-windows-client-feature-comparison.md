@@ -1,0 +1,3 @@
+Source Microsoft: *This chart compares features of interest to IT professionals across three versions of the Windows client operating system: Windows XP SP3, Windows Vista SP1, and Windows 7*
+
+  [http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=fa0177cc-7e82-4993-b0d6-fec84216dd9c](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=fa0177cc-7e82-4993-b0d6-fec84216dd9c)

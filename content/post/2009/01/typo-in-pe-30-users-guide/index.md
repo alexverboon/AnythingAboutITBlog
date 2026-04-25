@@ -1,0 +1,25 @@
+---
+title: "Typo in PE 3.0 Users guide"
+layout: "post"
+date: 01/10/2009 17:02:05
+slug: "typo-in-pe-30-users-guide"
+aliases:
+  - "/2009/01/typo-in-pe-30-users-guide/"
+description: "I've just found a typo in the Windows PE 3.0 Users guide. dism /image:C:\winpe_x86\mount /Add-Package /PackagePath:\"C:\Program Files\Windows **OPK**\T..."
+author: "Alex Verboon"
+tags:
+  - aik
+  - dismexe
+categories:
+  - aik
+  - automation
+  - windows-7
+---
+I've just found a typo in the Windows PE 3.0 Users guide.
+
+dism /image:C:\winpe_x86\mount /Add-Package /PackagePath:"C:\Program Files\Windows **OPK**\Tools\PETools\x86\WinPE_OCs\winpe-wmi.cab"
+
+dism /image:C:\winpe_x86\mount /Add-Package /PackagePath:"C:\Program Files\Windows **AIK**\Tools\PETools\x86\WinPE_OCs\winpe-wmi.cab"
+
+"OPK" should be replaced with "AIK" otherwise if you copy paste the sample commandline adding an optinonal component will not work.
+

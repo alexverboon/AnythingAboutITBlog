@@ -1,0 +1,1660 @@
+[
+  {
+    "title": "PowerShell - Using the WordPress Rest API",
+    "date": "2013-12-29T19:07:27Z",
+    "slug": "powershell-using-the-wordpress-rest-api",
+    "description": "I just found out that meanwhile (since October last year) the Rest API for wordpress now also works on self-hosted wordpress sites. So i can now acces...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6316",
+    "tags": [
+      "jetpack",
+      "json",
+      "powershell",
+      "rest-api",
+      "wordpress-2"
+    ],
+    "categories": [
+      "powershell",
+      "wordpress"
+    ],
+    "image_list": [
+      "2013-12-29_20h05_20_thumb.png"
+    ],
+    "hero_image": "2013-12-29_20h05_20_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-using-the-wordpress-rest-api.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - Creating Scheduled Tasks with PowerShell version 3",
+    "date": "2013-12-29T17:45:30Z",
+    "slug": "powershell-creating-scheduled-tasks-with-powershell-version-3",
+    "description": "I am currently working on a script where I need to create a scheduled task that runs a powershell script at a given time. With PowerShell 4.0 a schedu...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6308",
+    "tags": [
+      "powershell",
+      "schedule",
+      "scheduled-tasks",
+      "schtasks-exe"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-creating-scheduled-tasks-with-powershell-version-3.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - Get latest Microsoft KB information",
+    "date": "2013-12-17T00:36:24Z",
+    "slug": "powershell-get-latest-microsoft-kb-information",
+    "description": "I frequently visit kbupdate.info which is a great resource for finding latest KB updates, but still you have to manually click through the various lis...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6304",
+    "tags": [
+      "kb",
+      "knowledge-base",
+      "microsoft",
+      "powershell",
+      "rss-feed",
+      "updates"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [
+      "2013-12-17_01h34_52_thumb.png"
+    ],
+    "hero_image": "2013-12-17_01h34_52_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-get-latest-microsoft-kb-information.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - Get Stock Quote Information",
+    "date": "2013-12-15T13:29:17Z",
+    "slug": "powershell-get-stock-quote-information",
+    "description": "The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. ``` <# .Synopsis Retrieve stock information...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6294",
+    "tags": [
+      "powershell",
+      "stockquote"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [
+      "2013-12-15_14h28_47_thumb.png"
+    ],
+    "hero_image": "2013-12-15_14h28_47_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-get-stock-quote-information.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr OSD - Enable .NET Framework 3.5 on Windows 8.1",
+    "date": "2013-12-14T01:17:13Z",
+    "slug": "configmgr-osd-enable-net-framework-3-5-on-windows-8-1",
+    "description": "Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Framework 3.5 which also includes support for .NET 3.0, and 2.0, then yo...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6287",
+    "tags": [
+      "net-framework",
+      "configmgr",
+      "enable-optionalwindowsfeature",
+      "features",
+      "osd",
+      "powershell",
+      "windows-8-1"
+    ],
+    "categories": [
+      "net-framework",
+      "configmgr",
+      "powershell",
+      "windows-8-1"
+    ],
+    "image_list": [
+      "image_thumb1.png",
+      "SNAGHTMLc78dd1_thumb.png",
+      "image_thumb2.png",
+      "image_thumb3.png"
+    ],
+    "hero_image": "image_thumb1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-configmgr-osd-enable-net-framework-3-5-on-windows-8-1.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - How to qukckly access the Azure Management Portal",
+    "date": "2013-12-09T23:42:33Z",
+    "slug": "powershell-how-to-qukckly-access-the-azure-management-portal",
+    "description": "Whenever I worked with Azure, first thing i usualy did was fire a web search to get the url for the Azure Management portal. I know I could bookmark i...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6266",
+    "tags": [
+      "azure",
+      "cmdlet",
+      "management-portal",
+      "powershell"
+    ],
+    "categories": [
+      "azure",
+      "powershell"
+    ],
+    "image_list": [
+      "2013-12-10_00h38_30_thumb.png"
+    ],
+    "hero_image": "2013-12-10_00h38_30_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-how-to-qukckly-access-the-azure-management-portal.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows 8.1 - Shutdown and Shutdown",
+    "date": "2013-12-09T22:00:54Z",
+    "slug": "windows-8-1-shutdown-and-shutdown",
+    "description": "Hey there, when i watched the last edition of “[The Defrag Show](http://channel9.msdn.com/Shows/The-Defrag-Show/Defrag-Migration-Documentation-Folder-...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6258",
+    "tags": [
+      "charms-bar",
+      "fast-boot",
+      "hybrid",
+      "shutdown",
+      "x-menu"
+    ],
+    "categories": [
+      "windows-8-1"
+    ],
+    "image_list": [
+      "2013-12-09_22h38_47_thumb.png",
+      "2013-12-09_22h40_11_thumb.png",
+      "2013-12-09_22h52_52_thumb.png"
+    ],
+    "hero_image": "2013-12-09_22h38_47_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-windows-8-1-shutdown-and-shutdown.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - Retrieve App-V 4.6 Package Information",
+    "date": "2013-12-02T21:44:12Z",
+    "slug": "powershell-retrieve-app-v-4-6-package-information",
+    "description": "Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6243",
+    "tags": [
+      "app-v",
+      "cachesize",
+      "configmgr",
+      "packages",
+      "powershell"
+    ],
+    "categories": [
+      "app-v",
+      "powershell"
+    ],
+    "image_list": [
+      "image_thumb.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-retrieve-app-v-4-6-package-information.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell - Yet another Sysinternals download script",
+    "date": "2013-12-01T22:10:33Z",
+    "slug": "powershell-yet-another-sysinternals-download-script",
+    "description": "Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/tra...",
+    "year": 2013,
+    "month": "12",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6236",
+    "tags": [
+      "whatif-verbose",
+      "download",
+      "invoke-webrequest",
+      "powershell",
+      "sysinternals"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-12-powershell-yet-another-sysinternals-download-script.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell Script&ndash;Set App-V 4.6 Cache Size",
+    "date": "2013-11-29T18:13:07Z",
+    "slug": "powershell-scriptset-app-v-4-6-cache-size",
+    "description": "Background: As part of our migration process from Configuration Manager 2007 to Configuration Manager 2012 R2 we also adjust the App-V Cache Size that...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6233",
+    "tags": [
+      "app-v",
+      "appvcachesize-exe",
+      "cachesize",
+      "clientappfs",
+      "powershell",
+      "remote"
+    ],
+    "categories": [
+      "app-v",
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-powershell-scriptset-app-v-4-6-cache-size.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell App Deployment Toolkit&ndash; How to make the message  Font size larger",
+    "date": "2013-11-22T14:32:33Z",
+    "slug": "powershell-app-deployment-toolkit-how-to-make-the-message-font-size-larger",
+    "description": "I have had a request this week to make the font size of the Message text displayed by the PowerShell App Deployment Tookit function **Show-Installatio...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6229",
+    "tags": [
+      "app-deployment-toolkit",
+      "fontsize",
+      "message",
+      "powershell"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [
+      "SNAGHTML173a21f_thumb.png",
+      "image_thumb2.png",
+      "SNAGHTML17b9fcf_thumb.png"
+    ],
+    "hero_image": "SNAGHTML173a21f_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-powershell-app-deployment-toolkit-how-to-make-the-message-font-size-larger.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell Desired State Configuration - My first experiences",
+    "date": "2013-11-16T20:44:28Z",
+    "slug": "powershell-desire-state-configuration-my-first-experiences",
+    "description": "During the past weeks I have been reading and listening about PowerShell Desired State Configuration a new feature introduced with PowerShell 4.0 whic...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6212",
+    "tags": [
+      "applyandautocorrect",
+      "desired-state-configuration",
+      "dsc",
+      "mof",
+      "powershell"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [
+      "2013-11-16_18h04_29_thumb.png",
+      "2013-11-16_18h18_01_thumb.png",
+      "2013-11-16_18h21_08_thumb.png",
+      "2013-11-16_18h22_36_thumb.png",
+      "2013-11-16_19h48_56_thumb.png",
+      "2013-11-16_19h54_40_thumb.png",
+      "2013-11-16_19h57_31_thumb.png",
+      "2013-11-16_20h02_21_thumb.png",
+      "2013-11-16_20h18_20_thumb.png",
+      "2013-11-16_20h41_30_thumb.png",
+      "2013-11-16_20h44_24_thumb.png",
+      "2013-11-16_20h50_05_thumb.png",
+      "2013-11-16_21h02_01_thumb.png",
+      "2013-11-16_21h02_55_thumb.png",
+      "2013-11-16_21h13_27_thumb.png",
+      "2013-11-16_21h22_06_thumb.png",
+      "2013-11-16_21h33_37_thumb.png",
+      "2013-11-16_21h29_18_thumb.png"
+    ],
+    "hero_image": "2013-11-16_18h04_29_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-powershell-desire-state-configuration-my-first-experiences.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell Script - Are we running as Admin?",
+    "date": "2013-11-08T20:19:16Z",
+    "slug": "powershell-script-are-we-running-as-admin",
+    "description": "While exploring some of the new cmdlets that come with Windows 8.1 I came across [Test-NetConnection](http://technet.microsoft.com/en-us/library/dn372...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6134",
+    "tags": [
+      "admin-credentials",
+      "powershell"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-powershell-script-are-we-running-as-admin.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr PowerShell Script to check if Application or Program is allowed to run in TS without being deployed",
+    "date": "2013-11-07T23:54:46Z",
+    "slug": "configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed",
+    "description": "Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6129",
+    "tags": [
+      "applications",
+      "configmgr",
+      "powershell",
+      "programs",
+      "tasksequence-enabled"
+    ],
+    "categories": [
+      "configmgr",
+      "powershell"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb1.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell Script to detect ConfigMgr Task Sequence unfriendly Software Updates",
+    "date": "2013-11-05T23:58:55Z",
+    "slug": "powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates",
+    "description": "**Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788) If you’re dealing with ConfigMgr and OS Deployment task sequences...",
+    "year": 2013,
+    "month": "11",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6117",
+    "tags": [
+      "configmgr",
+      "kb2894518",
+      "powershell",
+      "reboot",
+      "task-sequence"
+    ],
+    "categories": [
+      "configmgr",
+      "powershell",
+      "windows-update"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-11-powershell-script-to-detect-configmgr-task-sequence-unfriendly-software-updates.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell Script - Get-ComputerGeolocation",
+    "date": "2013-10-27T13:35:01Z",
+    "slug": "powershell-script-get-computergeolocation",
+    "description": "**28-OCT-2013 Update**: I have updated the script to retry when the status of the location provider is in initializing mode. The below script uses the...",
+    "year": 2013,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6112",
+    "tags": [
+      "google-geocoding",
+      "gps",
+      "latitude",
+      "longitude",
+      "powershell",
+      "sensor",
+      "wi-fi",
+      "windows-location-platform",
+      "windows-location-provider"
+    ],
+    "categories": [
+      "windows-8-1",
+      "windows-location-provider"
+    ],
+    "image_list": [
+      "image_thumb9.png",
+      "2013-10-27_14h10_32_thumb.png",
+      "2013-10-27_14h31_00_thumb.png"
+    ],
+    "hero_image": "image_thumb9.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-10-powershell-script-get-computergeolocation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to build a site Windows 8.1 tile for your blog",
+    "date": "2013-10-20T10:51:24Z",
+    "slug": "how-to-build-a-site-windows-8-1-tile-for-your-blog",
+    "description": "With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do. Navigate to [http...",
+    "year": 2013,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6096",
+    "tags": [
+      "blog",
+      "desktop",
+      "internet-explorer",
+      "live-tile",
+      "start-menu",
+      "windows-8-1"
+    ],
+    "categories": [
+      "internet-explorer",
+      "windows-8-1"
+    ],
+    "image_list": [
+      "2013-10-20_12h32_50_thumb.png",
+      "2013-10-20_12h33_26_thumb.png",
+      "2013-10-20_12h33_57_thumb.png",
+      "2013-10-20_12h35_51_thumb.png",
+      "2013-10-20_12h43_29_thumb.png",
+      "2013-10-20_12h22_48_thumb.png"
+    ],
+    "hero_image": "2013-10-20_12h32_50_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-10-how-to-build-a-site-windows-8-1-tile-for-your-blog.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr - PowerShell Script to collect remote log files",
+    "date": "2013-10-13T14:35:41Z",
+    "slug": "configmgr-powershell-script-to-collect-remote-log-files",
+    "description": "Looking at a client’s ConfigMgr Agent log files is inevitable when managing a Configuration Manager infrastructure. If you are working within a local ...",
+    "year": 2013,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6068",
+    "tags": [
+      "configmgr",
+      "log-files",
+      "powershell",
+      "remoting",
+      "transfer"
+    ],
+    "categories": [
+      "configmgr"
+    ],
+    "image_list": [
+      "image_thumb7.png",
+      "image_thumb8.png"
+    ],
+    "hero_image": "image_thumb7.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-10-configmgr-powershell-script-to-collect-remote-log-files.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr&ndash;Failed to get following optional attributes warning in adsysdis.log",
+    "date": "2013-10-09T16:27:57Z",
+    "slug": "configmgrfailed-to-get-following-optional-attributes-warning-in-adsysdis-log",
+    "description": "Should you ever get a warning message in your adsysdis.log that starts with WARN: Failed to get following optional attributes then you have probably a...",
+    "year": 2013,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6054",
+    "tags": [
+      "active-directory",
+      "active-directory-system-discovery",
+      "adsysdis-log",
+      "configmgr",
+      "optional-attributes"
+    ],
+    "categories": [
+      "active-directory",
+      "configmgr"
+    ],
+    "image_list": [
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png",
+      "image_thumb6.png"
+    ],
+    "hero_image": "image_thumb3.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-10-configmgrfailed-to-get-following-optional-attributes-warning-in-adsysdis-log.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr&ndash;Compliance Baseline for BranchCache on Windows 8",
+    "date": "2013-10-08T14:14:03Z",
+    "slug": "configmgrcompliance-baseline-for-branchcache-on-windows-8",
+    "description": "Here’s a ConfigMgr Compliance baseline that checks the BranchCache configuration on Windows 8 clients. With the release of Windows 8 and Server 2012 M...",
+    "year": 2013,
+    "month": "10",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6032",
+    "tags": [
+      "branchcache",
+      "compliance-baseline",
+      "configmgr",
+      "configuration-item",
+      "powershell",
+      "widnows-8"
+    ],
+    "categories": [
+      "branchcache",
+      "configmgr"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb1.png",
+      "image_thumb2.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-10-configmgrcompliance-baseline-for-branchcache-on-windows-8.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Theme Configuration Group Policy support for Office 2013",
+    "date": "2013-09-30T21:29:49Z",
+    "slug": "theme-configuration-group-policy-support-for-office-2013",
+    "description": "As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27/setting-the-office-theme-using-group-policy.aspx) on the Office IT Pr...",
+    "year": 2013,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "6016",
+    "tags": [
+      "group-policy",
+      "office-2013",
+      "roaming",
+      "theme"
+    ],
+    "categories": [
+      "group-policy",
+      "office-2013"
+    ],
+    "image_list": [
+      "2013-09-30_20h44_13_thumb.png",
+      "2013-09-30-21h30_14_thumb.png",
+      "2013-09-30-22h53_15_thumb.png",
+      "2013-09-30-23h11_30_thumb.png",
+      "2013-09-30-23h16_31_thumb.png"
+    ],
+    "hero_image": "2013-09-30_20h44_13_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-09-theme-configuration-group-policy-support-for-office-2013.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to add your preferred Topics to your TechNet Forums profile",
+    "date": "2013-09-23T22:27:15Z",
+    "slug": "how-to-add-your-preferred-topics-to-your-technet-forums-profile",
+    "description": "Not too long ago Microsoft introduced a new look and feel of the TechNet forums. I am not going to comment here whether this was a good move, but do k...",
+    "year": 2013,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5991",
+    "tags": [
+      "categories",
+      "profile",
+      "search",
+      "technet-forums"
+    ],
+    "categories": [
+      "technet-2"
+    ],
+    "image_list": [
+      "image_thumb6.png",
+      "image_thumb7.png",
+      "image_thumb8.png",
+      "image_thumb9.png",
+      "image_thumb10.png",
+      "image_thumb11.png"
+    ],
+    "hero_image": "image_thumb6.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-09-how-to-add-your-preferred-topics-to-your-technet-forums-profile.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "List ConfigMgr Software Update Group members with PowerShell",
+    "date": "2013-09-22T20:47:18Z",
+    "slug": "list-configmgr-software-update-group-members-with-powershell",
+    "description": "The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. ``` <...",
+    "year": 2013,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5963",
+    "tags": [
+      "configmgr",
+      "get-cmsoftwareupdate",
+      "get-cmsoftwareupdategroup",
+      "powershell",
+      "software-update-group",
+      "software-updates"
+    ],
+    "categories": [
+      "configmgr",
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-09-list-configmgr-software-update-group-members-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Windows 8.1 Command Prompt or PowerShell",
+    "date": "2013-09-09T22:38:04Z",
+    "slug": "windows-8-1-command-prompt-or-powershell",
+    "description": "If you have used the Windows 8.1 preview build, you will have noticed that the X-Menu by default had PowerShell enabled instead of the Command Prompt....",
+    "year": 2013,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5957",
+    "tags": [
+      "command-prompt",
+      "dontusepowershellonwinx",
+      "group-policy",
+      "powershell",
+      "registry",
+      "windows-8-1"
+    ],
+    "categories": [
+      "powershell",
+      "windows-8-1"
+    ],
+    "image_list": [
+      "image_thumb1.png",
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png"
+    ],
+    "hero_image": "image_thumb1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-09-windows-8-1-command-prompt-or-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "MBSA 2.3 Preview Release Available",
+    "date": "2013-09-08T13:05:08Z",
+    "slug": "mbsa-2-3-preview-release-available",
+    "description": "Based on a statement made by Microsoft in the August 2012 security bulletin, I wrote a short blog post back in November 2012 that there would be [no M...",
+    "year": 2013,
+    "month": "09",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5931",
+    "tags": [
+      "mbsa",
+      "scan",
+      "security",
+      "windows-8",
+      "windows-8-1"
+    ],
+    "categories": [
+      "mbsa",
+      "windows-8",
+      "windows-8-1"
+    ],
+    "image_list": [
+      "image_thumb.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-09-mbsa-2-3-preview-release-available.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Some Tech Videos you might enjoy as well",
+    "date": "2013-08-27T20:16:56Z",
+    "slug": "some-tech-videos-you-might-enjoy-as-well",
+    "description": "Below you find some links of Tech related video’s I enjoyed watching, so thought I’d share them for those who love to go down the memory lane as well....",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5923",
+    "tags": [
+      "dec",
+      "future",
+      "history",
+      "linux",
+      "os2",
+      "past",
+      "video",
+      "windows-3",
+      "windows-nt"
+    ],
+    "categories": [
+      "video"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-some-tech-videos-you-might-enjoy-as-well.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ToolTip: ImpelLaunch",
+    "date": "2013-08-24T11:38:24Z",
+    "slug": "tooltip-impellaunch",
+    "description": "If you are using Windows Intune, this little FREE utility from [Impeltec](http://www.impeltec.com/Default.aspx) might be of interest to you. ImpelLaun...",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5921",
+    "tags": [
+      "application-deployment",
+      "configuration-manager",
+      "credentials",
+      "dfs",
+      "download",
+      "network-share",
+      "script",
+      "system-context",
+      "windows-intune",
+      "wrapper"
+    ],
+    "categories": [
+      "windows-intune"
+    ],
+    "image_list": [
+      "image_thumb20.png",
+      "image_thumb21.png",
+      "image_thumb22.png",
+      "image_thumb23.png"
+    ],
+    "hero_image": "image_thumb20.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-tooltip-impellaunch.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to enable Group Policy Preferences Logging via the Local Group Policy Editor",
+    "date": "2013-08-21T15:54:44Z",
+    "slug": "how-to-enable-group-policy-preferences-logging-via-the-local-group-policy-editor",
+    "description": "When opening the local Group Policy Editor (gpedit.msc) you will notice that on a default Windows 7 SP1 Enterprise client there is no logging and trac...",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5903",
+    "tags": [
+      "admx",
+      "central-store",
+      "gpo",
+      "group-policy",
+      "group-policy-preferences",
+      "logging",
+      "trace"
+    ],
+    "categories": [
+      "group-policy"
+    ],
+    "image_list": [
+      "gp_no_pref_thumb.png",
+      "gp_with_pref_thumb.png"
+    ],
+    "hero_image": "gp_no_pref_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-how-to-enable-group-policy-preferences-logging-via-the-local-group-policy-editor.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr 2012 - Troubleshooting a Software Update Package",
+    "date": "2013-08-19T18:25:42Z",
+    "slug": "configmgr-2012-troubleshooting-a-software-update-package",
+    "description": "Last week I had an issue with a Software Update package in Configuration Manager 2012 SP1 that wouldn’t update properly after i had changed it’s sourc...",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5887",
+    "tags": [
+      "configmgr",
+      "content-library",
+      "content-status",
+      "distmgr-log",
+      "software-updates"
+    ],
+    "categories": [
+      "configmgr"
+    ],
+    "image_list": [
+      "image_thumb8.png",
+      "image_thumb9.png",
+      "image_thumb10.png",
+      "image_thumb11.png",
+      "image_thumb12.png",
+      "image_thumb13.png",
+      "image_thumb14.png",
+      "image_thumb15.png",
+      "image_thumb16.png",
+      "image_thumb17.png",
+      "image_thumb19.png"
+    ],
+    "hero_image": "image_thumb8.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-configmgr-2012-troubleshooting-a-software-update-package.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr 2012 local GPO settings",
+    "date": "2013-08-13T22:26:06Z",
+    "slug": "configmgr-2012-local-gpo-settings",
+    "description": "When configuring ConfigMgr 2012 client settings, notice that some of these settings result in Local Group Policy Settings being applied to the client....",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5841",
+    "tags": [
+      "bits",
+      "configmgr",
+      "configuration-manager",
+      "group-policy",
+      "local-group-policy",
+      "remote-desktop",
+      "wua"
+    ],
+    "categories": [
+      "configmgr",
+      "group-policy"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb1.png",
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png",
+      "image_thumb6.png",
+      "image_thumb7.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-configmgr-2012-local-gpo-settings.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr 2012 Script for Incremental Collection threshold",
+    "date": "2013-08-05T20:07:46Z",
+    "slug": "configmgr-2012-script-for-incremental-collection-threshold",
+    "description": "As described within the [ConfigMgr 2012 Best Practices Wiki](http://social.technet.microsoft.com/wiki/contents/articles/11215.system-center-2012-confi...",
+    "year": 2013,
+    "month": "08",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5793",
+    "tags": [
+      "collections",
+      "configuration-manager",
+      "incremental-updates",
+      "powershell",
+      "threshold"
+    ],
+    "categories": [
+      "configmgr",
+      "powershell"
+    ],
+    "image_list": [
+      "col4_thumb.png",
+      "col6_thumb.png"
+    ],
+    "hero_image": "col4_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-08-configmgr-2012-script-for-incremental-collection-threshold.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "ConfigMgr 2012 Script to retrieve source path locations",
+    "date": "2013-07-28T14:16:44Z",
+    "slug": "configmgr-2012-script-to-retrieve-source-path-locations",
+    "description": "Here’s a PowerShell script we recently wrote to show the source path location for all the content that we put into ConfigMgr. The Script lists all the...",
+    "year": 2013,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5711",
+    "tags": [
+      "configmgr",
+      "configuration-manager",
+      "content",
+      "powershell",
+      "source-path"
+    ],
+    "categories": [
+      "configmgr",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "CMDATASOURCE_thumb.png"
+    ],
+    "hero_image": "CMDATASOURCE_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-07-configmgr-2012-script-to-retrieve-source-path-locations.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Configuration Manager - DCM Import Error",
+    "date": "2013-07-04T11:28:35Z",
+    "slug": "configuration-manager-dcm-import-error",
+    "description": "While importing a Configuration Manager Configuration Baseline within our lab infrastructure that I had previously exported from our production enviro...",
+    "year": 2013,
+    "month": "07",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5705",
+    "tags": [
+      "configuration-baseline",
+      "configuration-item",
+      "configuration-manager",
+      "export",
+      "import"
+    ],
+    "categories": [
+      "sccm-2012"
+    ],
+    "image_list": [
+      "dcm_error_thumb.png",
+      "image_thumb.png",
+      "dcm_patch_thumb.png"
+    ],
+    "hero_image": "dcm_error_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-07-configuration-manager-dcm-import-error.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "New Integration Service &ldquo;Guest Service&rdquo; in Windows 8.1 Hyper-V",
+    "date": "2013-06-30T18:28:23Z",
+    "slug": "new-integration-service-guest-service-in-windows-8-1-hyper-v",
+    "description": "When opening the Virtual Machine Settings Integration Services node in Hyper-V running on Windows 8.1 Preview, you will notice that there is now an ad...",
+    "year": 2013,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5691",
+    "tags": [
+      "copy-vmfile",
+      "guest-services",
+      "hyper-v",
+      "integration-services",
+      "windows-8-1"
+    ],
+    "categories": [
+      "hyper-v",
+      "windows-8-1"
+    ],
+    "image_list": [
+      "hv01_thumb.png"
+    ],
+    "hero_image": "hv01_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-06-new-integration-service-guest-service-in-windows-8-1-hyper-v.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "TechEd 2013 Hands-On Labs",
+    "date": "2013-06-15T14:42:41Z",
+    "slug": "teched-2013-hands-on-labs",
+    "description": "The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually s...",
+    "year": 2013,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5685",
+    "tags": [
+      "app-v",
+      "client",
+      "configuration-manager",
+      "hands-on-labs",
+      "learning",
+      "software-management",
+      "teched-2013",
+      "ue-v"
+    ],
+    "categories": [
+      "labs"
+    ],
+    "image_list": [
+      "2013-06-15_15h54_47_thumb.png"
+    ],
+    "hero_image": "2013-06-15_15h54_47_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-06-teched-2013-hands-on-labs.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "SCCM 2012 SP1 Client Settings only configurable within the Default Client Settings",
+    "date": "2013-06-04T20:14:48Z",
+    "slug": "sccm-2012-sp1-client-settings-only-configurable-within-the-default-client-settings",
+    "description": "While preparing and documenting the System Center Configuration Manager 2012 SP1 Client settings for our clients and servers I noticed that there are ...",
+    "year": 2013,
+    "month": "06",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5679",
+    "tags": [
+      "configuration-manager",
+      "custom-client-settings",
+      "default-client-settings",
+      "sccm-2012"
+    ],
+    "categories": [
+      "sccm-2012"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-06-sccm-2012-sp1-client-settings-only-configurable-within-the-default-client-settings.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to configure system volume with PowerShell",
+    "date": "2013-05-29T16:53:47Z",
+    "slug": "how-to-configure-system-volume-with-powershell",
+    "description": "Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/) progra...",
+    "year": 2013,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5677",
+    "tags": [
+      "mute",
+      "powershell",
+      "script",
+      "volume"
+    ],
+    "categories": [
+      "powershell"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-05-how-to-configure-system-volume-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to reapply a Group Policy Preference that is configured to Apply Once",
+    "date": "2013-05-25T11:03:43Z",
+    "slug": "how-to-reapply-a-group-policy-preference-that-is-configured-to-apply-once",
+    "description": "When creating a Group Policy Preference you can configure it to only apply once. The exact wording is “Apply once and do not reapply”. But when you ar...",
+    "year": 2013,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5673",
+    "tags": [
+      "apply-once",
+      "group-policy",
+      "group-policy-preferences",
+      "reapply"
+    ],
+    "categories": [
+      "group-policy"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb1.png",
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-05-how-to-reapply-a-group-policy-preference-that-is-configured-to-apply-once.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Tip: PowerShell Script to create Shutdown/Restart/Logoff Windows 8 Tile for the Start menu",
+    "date": "2013-05-17T13:52:36Z",
+    "slug": "tip-powershell-script-to-create-shutdownrestartlogoff-windows-8-tile-for-the-start-menu",
+    "description": "A PowerShell script shows how to create a Shutdown, Restart or Logoff Windows 8 tile for the Start menu. ![](images/image011.png) ![](images/image015....",
+    "year": 2013,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5647",
+    "tags": [
+      "logoff",
+      "restart",
+      "shutdown",
+      "start-menu",
+      "tiles"
+    ],
+    "categories": [
+      "windows-8"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-05-tip-powershell-script-to-create-shutdownrestartlogoff-windows-8-tile-for-the-start-menu.md",
+    "remote_fallback": true,
+    "missing_local_images": [
+      "image011.png",
+      "image015.png"
+    ]
+  },
+  {
+    "title": "Bill Gates announcing the Surface in 1991",
+    "date": "2013-05-13T20:28:48Z",
+    "slug": "bill-gates-announcing-the-surface-in-1991",
+    "description": "Being interested in computer history, now and then I look at old recordings and found Bill Gates announcing the Touch Sensitive **Surface** 21 years b...",
+    "year": 2013,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5645",
+    "tags": [
+      "bill-gates",
+      "fun",
+      "surface"
+    ],
+    "categories": [
+      "microsoft",
+      "surface-2"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-05-bill-gates-announcing-the-surface-in-1991.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to change the SCCM 2012 Package Source Path with PowerShell",
+    "date": "2013-05-13T20:08:57Z",
+    "slug": "how-to-change-the-sccm-2012-package-source-path-with-powershell",
+    "description": "Let’s assume you’ve just created a larger number of packages within SCCM 2012 and then you’re asked to move the package sources to a different locatio...",
+    "year": 2013,
+    "month": "05",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5641",
+    "tags": [
+      "packagesource",
+      "powershell",
+      "sccm-2012",
+      "set-cmpackage"
+    ],
+    "categories": [
+      "powershell",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "package1_thumb.png",
+      "packag2_thumb.png",
+      "package3_thumb.png",
+      "pacakge4_thumb.png"
+    ],
+    "hero_image": "package1_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-05-how-to-change-the-sccm-2012-package-source-path-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "PowerShell: Script to Retrieve SCCM 2012 Client Settings",
+    "date": "2013-04-30T22:16:54Z",
+    "slug": "powershell-script-to-retrieve-sccm-2012-client-settings",
+    "description": "**4/3/2017 - Update: here's a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/ To make ...",
+    "year": 2013,
+    "month": "04",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5623",
+    "tags": [
+      "client-settings",
+      "documentation",
+      "get-cmclientsetting",
+      "powershell",
+      "sccm-2012"
+    ],
+    "categories": [
+      "powershell",
+      "sccm-2012"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-04-powershell-script-to-retrieve-sccm-2012-client-settings.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Integrating DaRT 8.0 SP1 Remote Connection into the SCCM 2012 OSD Process",
+    "date": "2013-04-22T22:13:09Z",
+    "slug": "integrating-dart-8-0-sp1-remote-connection-into-the-sccm-2012-osd-process",
+    "description": "While preparing for an SCCM 2012 upgrade, I thought it might be a good idea to consider implementing some of the best practices that are around such a...",
+    "year": 2013,
+    "month": "04",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5615",
+    "tags": [
+      "dart",
+      "os-deployment",
+      "remote-connection",
+      "remote-viewer",
+      "sccm-2012",
+      "software-assurance",
+      "task-sequence"
+    ],
+    "categories": [
+      "dart",
+      "mdop",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "image_thumb12.png",
+      "image_thumb1.png",
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png",
+      "image_thumb6.png",
+      "image_thumb7.png",
+      "image_thumb8.png",
+      "image_thumb9.png",
+      "image_thumb10.png",
+      "image_thumb11.png"
+    ],
+    "hero_image": "image_thumb12.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-04-integrating-dart-8-0-sp1-remote-connection-into-the-sccm-2012-osd-process.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to automate SCCM 2012 Task Sequence Media Creation",
+    "date": "2013-04-15T20:46:29Z",
+    "slug": "how-to-automate-sccm-2012-task-sequence-media-creation",
+    "description": "Just recently I went through the CM12 Console Task Sequence media creation wizard several times a day, so at some point I thought, this is a good cand...",
+    "year": 2013,
+    "month": "04",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5539",
+    "tags": [
+      "automation",
+      "boot-media",
+      "cu1",
+      "new-cmtasksequencemedia",
+      "powershell",
+      "sccm-2012",
+      "script",
+      "task-sequence"
+    ],
+    "categories": [
+      "powershell",
+      "sccm-2012"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-04-how-to-automate-sccm-2012-task-sequence-media-creation.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to install System Center 2012 Endpoint Protection on a standalone client",
+    "date": "2013-03-24T14:48:33Z",
+    "slug": "how-to-install-system-center-2012-endpoint-protection-on-a-standalone-client",
+    "description": "Suppose you have a need to deploy System Center 2012 Endpoint Protection to a number of clients that later run in standalone mode, meaning that they a...",
+    "year": 2013,
+    "month": "03",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5537",
+    "tags": [
+      "command-line",
+      "endpoint-protection",
+      "policy",
+      "scepinstall-exe",
+      "stand-alone"
+    ],
+    "categories": [
+      "endpoint-protection",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "2013-03-24_14h58_38_thumb.png",
+      "2013-03-24_14h59_12_thumb.png",
+      "image_thumb6.png",
+      "2013-03-24_15h44_12_thumb.png"
+    ],
+    "hero_image": "2013-03-24_14h58_38_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-03-how-to-install-system-center-2012-endpoint-protection-on-a-standalone-client.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to add custom registry keys to the Windows Embedded / ThinPC Registry Filter",
+    "date": "2013-03-17T21:55:26Z",
+    "slug": "how-to-add-custom-registry-keys-to-the-windows-embedded-thinpc-registry-filter",
+    "description": "When running Windows Embedded Standard 7 or Windows ThinPC with the Enhanced Write Filter (volume based protection) or File Based Write Filter (File b...",
+    "year": 2013,
+    "month": "03",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5519",
+    "tags": [
+      "_machineaccount",
+      "custom-keys",
+      "exclusions",
+      "filter",
+      "persist",
+      "regdata",
+      "registry",
+      "thinpc",
+      "windows-embedded"
+    ],
+    "categories": [
+      "registry",
+      "thinpc",
+      "windows-embedded"
+    ],
+    "image_list": [
+      "image_thumb.png",
+      "image_thumb1.png",
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png"
+    ],
+    "hero_image": "image_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-03-how-to-add-custom-registry-keys-to-the-windows-embedded-thinpc-registry-filter.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "Group Policy changes included in the Windows Management Framework 3.0",
+    "date": "2013-02-26T06:48:22Z",
+    "slug": "group-policy-changes-included-in-the-windows-management-framework-3-0",
+    "description": "While creating a new Group Policy object to enable WinRM (Windows Remote Management) on clients, I noticed some Group Policy changes that are introduc...",
+    "year": 2013,
+    "month": "02",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5457",
+    "tags": [
+      "group-policy",
+      "powershell",
+      "windows-remote-management",
+      "winrm"
+    ],
+    "categories": [
+      "group-policy",
+      "winrm"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-02-group-policy-changes-included-in-the-windows-management-framework-3-0.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to create a custom antimalware policy in SCCM 2012 for your App-V sequencing clients",
+    "date": "2013-02-22T16:33:44Z",
+    "slug": "how-to-create-a-custom-antimalware-policy-in-sccm-2012-for-your-app-v-sequencing-clients",
+    "description": "Today I wanted to start sequencing an application for App-V within my lab environment where I have deployed SCCM 2012 SP1 including Endpoint Protectio...",
+    "year": 2013,
+    "month": "02",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5455",
+    "tags": [
+      "app-v",
+      "endpoint-protection",
+      "policies",
+      "realtime-protection",
+      "sccm-2012",
+      "sequencing"
+    ],
+    "categories": [
+      "app-v",
+      "endpoint-protection",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "image_thumb2.png",
+      "image_thumb3.png",
+      "image_thumb4.png",
+      "image_thumb5.png",
+      "image_thumb6.png",
+      "image_thumb7.png",
+      "image_thumb8.png"
+    ],
+    "hero_image": "image_thumb2.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-02-how-to-create-a-custom-antimalware-policy-in-sccm-2012-for-your-app-v-sequencing-clients.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to generate random computer names for lab deployments using SCCM OSD",
+    "date": "2013-02-21T11:22:32Z",
+    "slug": "how-to-generate-random-computer-names-for-lab-deployments-using-sccm-osd",
+    "description": "For my **lab** environment I use the below described approach to generate random computernames for my clients. The script does the following: - Read t...",
+    "year": 2013,
+    "month": "02",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5420",
+    "tags": [
+      "computername",
+      "deployment",
+      "lab-environment",
+      "osd",
+      "random",
+      "sccm"
+    ],
+    "categories": [
+      "osd",
+      "sccm-2012"
+    ],
+    "image_list": [
+      "image_thumb1.png"
+    ],
+    "hero_image": "image_thumb1.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-02-how-to-generate-random-computer-names-for-lab-deployments-using-sccm-osd.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to convert registry files (.reg) into XML for Group Policy Preferences import",
+    "date": "2013-02-06T10:50:26Z",
+    "slug": "how-to-convert-registry-files-reg-into-xml-for-group-policy-preferences-import",
+    "description": "Creating registry settings manually within the Group Policy Preferences editor can become a cumbersome task, especially when you need to create many o...",
+    "year": 2013,
+    "month": "02",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5413",
+    "tags": [
+      "convert",
+      "group-policy-preferences",
+      "import",
+      "registry",
+      "registry-to-xml",
+      "xml"
+    ],
+    "categories": [
+      "group-policy"
+    ],
+    "image_list": [
+      "clip_image002_thumb.jpg",
+      "clip_image004_thumb1.jpg",
+      "clip_image006_thumb1.jpg",
+      "clip_image008_thumb1.jpg",
+      "clip_image010_thumb1.jpg",
+      "clip_image012_thumb1.jpg"
+    ],
+    "hero_image": "clip_image002_thumb.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-02-how-to-convert-registry-files-reg-into-xml-for-group-policy-preferences-import.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to create a SCCM 2012 SP1 Configuration Baseline with Security Compliance Manager (SCM) 3.0",
+    "date": "2013-02-04T12:56:59Z",
+    "slug": "how-to-create-a-sccm-2012-sp1-configuration-baseline-with-security-compliance-manager-scm-3-0",
+    "description": "Most enterprises take advantage of Group Policies to manage security configuration settings across their server and desktop infrastructure. Usually on...",
+    "year": 2013,
+    "month": "02",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5387",
+    "tags": [
+      "configuration-baseline",
+      "configuration-item",
+      "group-policy",
+      "monitor",
+      "sccm-2012",
+      "scm",
+      "security",
+      "security-compliance-manager",
+      "sla"
+    ],
+    "categories": [
+      "compliance",
+      "group-policy",
+      "sccm-2012",
+      "scm"
+    ],
+    "image_list": [
+      "clip_image002_thumb.png",
+      "clip_image004_thumb.jpg",
+      "clip_image006_thumb.jpg",
+      "clip_image008_thumb.jpg",
+      "clip_image010_thumb.jpg",
+      "clip_image012_thumb.jpg",
+      "image_thumb.png",
+      "clip_image013_thumb.png",
+      "clip_image015_thumb.jpg",
+      "clip_image017_thumb.jpg",
+      "clip_image019_thumb.jpg",
+      "clip_image021_thumb.jpg",
+      "clip_image023_thumb.jpg",
+      "clip_image025_thumb.jpg",
+      "clip_image027_thumb.jpg",
+      "clip_image029_thumb.jpg",
+      "clip_image031_thumb.jpg",
+      "clip_image033_thumb.jpg"
+    ],
+    "hero_image": "clip_image002_thumb.png",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-02-how-to-create-a-sccm-2012-sp1-configuration-baseline-with-security-compliance-manager-scm-3-0.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to disable Java add-ons in Internet Explorer with Group Policy",
+    "date": "2013-01-13T12:20:58Z",
+    "slug": "how-to-disable-java-add-ons-in-internet-explorer-with-group-policy",
+    "description": "Follow the below steps to disable Java in Internet Explorer with Group Policy. Open Internet Explorer, then from the Tools menu select Manage Add-ons....",
+    "year": 2013,
+    "month": "01",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5313",
+    "tags": [
+      "add-ons",
+      "disable",
+      "group-policy",
+      "internet-explorer",
+      "java"
+    ],
+    "categories": [
+      "internet-explorer",
+      "java"
+    ],
+    "image_list": [
+      "clip_image002_thumb.jpg",
+      "clip_image004_thumb.jpg",
+      "clip_image006_thumb.jpg"
+    ],
+    "hero_image": "clip_image002_thumb.jpg",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-01-how-to-disable-java-add-ons-in-internet-explorer-with-group-policy.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  },
+  {
+    "title": "How to check the status of BIOS &ndash; UEFI &ndash; Secure Boot with PowerShell",
+    "date": "2013-01-11T14:22:06Z",
+    "slug": "how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell",
+    "description": "During the past weeks I spend a bit of time deploying Windows 8 to UEFI enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdl...",
+    "year": 2013,
+    "month": "01",
+    "author": "alex",
+    "status": "publish",
+    "post_id": "5299",
+    "tags": [
+      "bios",
+      "csm",
+      "powershell",
+      "secure-boot",
+      "uefi",
+      "windows-8"
+    ],
+    "categories": [
+      "secureboot",
+      "uefi",
+      "windows-8"
+    ],
+    "image_list": [],
+    "hero_image": "",
+    "body_file_path": "C:\\Dev\\Alex\\blog\\AnythingAboutITBlog\\scripts\\tmp\\body-2013-01-how-to-check-the-status-of-bios-uefi-secure-boot-with-powershell.md",
+    "remote_fallback": false,
+    "missing_local_images": []
+  }
+]

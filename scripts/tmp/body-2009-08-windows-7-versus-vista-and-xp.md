@@ -1,0 +1,1 @@
+Kai Schmerer from [ZDNet](http://www.zdnet.com/) Germany has done some benchmarking with Windows 7 , Vista and XP. The full article can be found [here](http://blogs.zdnet.com/BTL/?p=22006)

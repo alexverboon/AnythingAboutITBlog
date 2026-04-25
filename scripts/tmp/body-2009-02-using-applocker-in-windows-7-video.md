@@ -1,0 +1,1 @@
+Watch the [Using AppLocker in Win7](http://edge.technet.com/Media/Using-AppLocker-in-Win7/) video on TechNet where Paul Cooke gives an insight on what Applocker is, how it works and how to deploy it.

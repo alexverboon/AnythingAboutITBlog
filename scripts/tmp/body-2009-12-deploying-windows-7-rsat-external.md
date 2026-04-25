@@ -1,0 +1,1 @@
+Just found this post on Trevor Sullivan’s Tech Room blog which explains how to automate the Windows 7 Remote Server Administration Tools (RSAT) installation. Read the entire article [here](http://trevorsullivan.wordpress.com/2009/11/19/deploying-windows-7-rsat/)

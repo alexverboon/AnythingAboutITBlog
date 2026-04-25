@@ -1,0 +1,3 @@
+Throughout my IT career i have seen many application development projects but most applications would not have survived more than 5 years until they got replaced by a new one. So I was quite pleased to find this success story about a software that is still being used by a company i once worked for and I was even one of the initial application architects of that application. Looks like this application made its Return On Investment.
+
+*This project was launched in **1994 **as a solution for handling the transport activities. *The full story can be found [here](http://www.en.logica.ch/file/7839).

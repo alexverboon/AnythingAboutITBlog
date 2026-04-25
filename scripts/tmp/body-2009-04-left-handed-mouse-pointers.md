@@ -1,0 +1,1 @@
+for those that are left-handed, have a look at these [mouse pointers on MSDN Code Gallery](http://code.msdn.microsoft.com/lefthanded). These left-handed Windows Vista mouse pointers are designed for left-handed users. They point to the right, instead of the left, which may feel more natural for left-handed users.

@@ -1,0 +1,1 @@
+Microsoft published the Office 2010 Administrative Template files (ADM, ADMX/ADML) and Office Customization Tool. Get it from [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=64b837b6-0aa0-4c07-bc34-bec3990a7956)

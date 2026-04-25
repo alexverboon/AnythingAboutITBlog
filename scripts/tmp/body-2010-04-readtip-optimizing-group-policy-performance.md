@@ -1,0 +1,1 @@
+This is an excellent article written by Darren Mar-Elia author of [gpoguy.com](http://www.gpoguy.com/) and founder of [sdmsoftware](http://www.sdmsoftware.com/). The article provides guidance for optimizing Group Policy Performance. Read the entire article [here](http://207.46.16.252/en-us/magazine/2008.01.gpperf.aspx)
