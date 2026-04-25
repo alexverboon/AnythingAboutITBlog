@@ -1,4 +1,4 @@
-baseURL = "https://<your-github-username>.github.io/AnythingAboutITBlog/"
+baseURL = "https://alexverboon.github.io/AnythingAboutITBlog/"
 title = "Anything About IT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
