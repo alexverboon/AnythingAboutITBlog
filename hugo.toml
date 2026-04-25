@@ -42,7 +42,7 @@ home = ["HTML", "RSS"]
   algolia_apiKey = ""
 
   sidebar_about_description = "Anything About IT"
-  sidebar_avatar = "img/avatar.png"
+  sidebar_avatar = ""
 
   featured_tags = true
   featured_condition_size = 1
