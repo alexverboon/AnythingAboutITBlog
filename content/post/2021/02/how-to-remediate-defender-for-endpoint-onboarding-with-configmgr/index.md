@@ -16,10 +16,6 @@ tags:
   - Security
   - Troubleshooting
 categories:
-  - ConfigMgr
-  - Defender ATP
-  - Defender for Endpoint
-  - Deployment
   - Microsoft Defender
 ---
 During the past 5 years I have onboarded a couple of thousand devices into Microsoft Defender for Endpoint and can say that, provided that you done your homework with regards to network connectivity, onboarding devices into Defender for Endpoint usually just works. But as always in IT, there are exceptions.
