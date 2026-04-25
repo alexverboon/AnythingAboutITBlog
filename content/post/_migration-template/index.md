@@ -1,5 +1,6 @@
 ---
 title: "Post Title"
+layout: "post"
 date: 2024-02-15T10:00:00+01:00
 slug: "monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel"
 aliases:
