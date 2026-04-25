@@ -35,9 +35,9 @@ While importing a Configuration Manager Configuration Baseline within our lab in
 ![image](images/image_thumb.png)
 ](https://www.verboon.info/wp-content/uploads/2013/07/image.png)
 
- Execute WQL  =select CI_ID from SMS_SoftwareUpdate where CI_UniqueID='011f4bc8-e312-48df-8656-073be2ab9ee0'~  $$<SMS Provider><07-04-2013 09:38:06.559-120><thread=1212 (0x4BC)>
-Execute SQL =select  all SMS_SoftwareUpdate.CI_ID from fn_ListUpdateCIs(1033) AS SMS_SoftwareUpdate  where SMS_SoftwareUpdate.CI_UniqueID = N'**011f4bc8-e312-48df-8656-073be2ab9ee0'**~  $$<SMS Provider><07-04-2013 09:38:06.561-120><thread=1212 (0x4BC)>
-Results returned : 0 of 1~  $$<SMS Provider><07-04-2013 09:38:06.615-120><thread=1212 (0x4BC)>
+ Execute WQL =select CI_ID from SMS_SoftwareUpdate where CI_UniqueID='011f4bc8-e312-48df-8656-073be2ab9ee0'~ \$\$<SMS Provider><07-04-2013 09:38:06.559-120><thread=1212 (0x4BC)>
+Execute SQL =select all SMS_SoftwareUpdate.CI_ID from fn_ListUpdateCIs(1033) AS SMS_SoftwareUpdate where SMS_SoftwareUpdate.CI_UniqueID = N'**011f4bc8-e312-48df-8656-073be2ab9ee0'**~ \$\$<SMS Provider><07-04-2013 09:38:06.561-120><thread=1212 (0x4BC)>
+Results returned : 0 of 1~ \$\$<SMS Provider><07-04-2013 09:38:06.615-120><thread=1212 (0x4BC)>
 
  I then opened the Configuration Baseline XML file that is located within the exported CAB file and searched for the CI_UniqueID. 
 
