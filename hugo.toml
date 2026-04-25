@@ -37,7 +37,7 @@ home = ["HTML", "RSS","JSON"]
 
   image_404 = "img/404.png"
   title_404 = "Page not found"
-  omit_categories = false
+  omit_categories = true
 
   page_view_counter = false
   leancloud_app_id = ""
