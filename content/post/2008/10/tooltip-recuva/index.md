@@ -5,7 +5,7 @@ date: 2008-10-10T18:50:21Z
 slug: "tooltip-recuva"
 aliases:
   - "/2008/10/tooltip-recuva/"
-description: "I have this attitude to store anything I find on the web into my c:\temp folder, then once i find things useful to keep i store it elsewhere on the sy..."
+description: "A short tip about Recuva and practical file recovery for accidentally deleted files."
 author: "Alex Verboon"
 tags:
   - recovery

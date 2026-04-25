@@ -5,7 +5,7 @@ date: 2011-05-07T11:51:47Z
 slug: "running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script"
 aliases:
   - "/2011/05/running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script/"
-description: "Here’s a small script I just wrote to perform an antivirus scan against a specified file. @Echo off FOR /F \"Tokens=4\" %%a IN ('\"C:\Program Files\Micro..."
+description: "A batch script example to run a custom Microsoft Security Essentials antivirus scan."
 author: "Alex Verboon"
 image: "img/post-heroes/running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script.png"
 tags:

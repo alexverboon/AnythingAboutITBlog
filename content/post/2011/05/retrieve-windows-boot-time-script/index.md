@@ -5,7 +5,7 @@ date: 2011-05-19T00:42:14Z
 slug: "retrieve-windows-boot-time-script"
 aliases:
   - "/2011/05/retrieve-windows-boot-time-script/"
-description: "Here’s a small batch script to get the Windows 7 Boot time shown in milliseconds. @echo off FOR /F \"Tokens=4\" %%a IN ('%windir%\system32\wevtutil.exe ..."
+description: "A small script to retrieve Windows boot time in milliseconds from event data."
 author: "Alex Verboon"
 image: "img/post-heroes/retrieve-windows-boot-time-script.png"
 tags:

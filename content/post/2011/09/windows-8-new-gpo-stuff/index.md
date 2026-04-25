@@ -5,7 +5,7 @@ date: 2011-09-15T20:53:16Z
 slug: "windows-8-new-gpo-stuff"
 aliases:
   - "/2011/09/windows-8-new-gpo-stuff/"
-description: "I have just compared the C:\Windows\PolicyDefinitions folder on the Widows 8 preview build with a Windows 7 Enterprise build. And unless I missed one,..."
+description: "A quick overview of new Group Policy settings discovered in the Windows 8 preview."
 author: "Alex Verboon"
 tags:
   - appx

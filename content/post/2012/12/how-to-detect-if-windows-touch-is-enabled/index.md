@@ -5,7 +5,7 @@ date: 2012-12-20T19:15:54Z
 slug: "how-to-detect-if-windows-touch-is-enabled"
 aliases:
   - "/2012/12/how-to-detect-if-windows-touch-is-enabled/"
-description: "While I was actually looking for something totally different, I stumbled over the **IsTouchEnabled.exe **that is stored within the MDT 2012 \Tools\OSD..."
+description: "How to detect whether Windows Touch is enabled using MDT tooling and a lightweight check."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-detect-if-windows-touch-is-enabled.png"
 tags:
