@@ -3,7 +3,7 @@ title = "Anything About IT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-hasCJKLanguage = true
+
 
 [services]
   [services.disqus]
@@ -52,6 +52,7 @@ home = ["HTML", "RSS"]
 
   last_posts = true
 
+  custom_css = ["css/hero-overlay.css"]
   custom_js = ["js/nav-fixes.js"]
 
   [params.social]
