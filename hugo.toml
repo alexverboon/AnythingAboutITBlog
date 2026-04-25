@@ -52,6 +52,8 @@ home = ["HTML", "RSS"]
 
   last_posts = true
 
+  custom_js = ["js/nav-fixes.js"]
+
   [params.social]
   rss = true
   email = ""

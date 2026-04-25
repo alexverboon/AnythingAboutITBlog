@@ -12,7 +12,6 @@ tags:
   - Security
   - Vulnerability
 categories:
-  - Browser
   - Microsoft Defender
 ---
 
