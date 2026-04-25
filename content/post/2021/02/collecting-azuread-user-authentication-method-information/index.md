@@ -10,9 +10,8 @@ author: "Alex Verboon"
 image: "img/post-heroes/collecting-azuread-user-authentication-method-information.png"
 tags:
   - authenticationmethod
-  - azuread
-  - mfa
-  - microsoft-graph
+  - Entra
+  - MFA
   - powershell
 categories:
   - EntraID

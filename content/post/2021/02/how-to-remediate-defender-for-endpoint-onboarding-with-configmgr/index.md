@@ -10,11 +10,9 @@ author: "Alex Verboon"
 image: "img/post-heroes/how-to-remediate-defender-for-endpoint-onboarding-with-configmgr.png"
 tags:
   - DefenderforEndpoint
-  - MDE
   - MEMCM
   - PowerShell
   - Security
-  - Troubleshooting
 categories:
   - Microsoft Defender
 ---
