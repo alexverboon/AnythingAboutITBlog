@@ -7,7 +7,7 @@ aliases:
   - "/2024/02/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel/"
 description: "Detect and monitor local security group changes using Microsoft Defender XDR and Microsoft Sentinel."
 author: "Alex Verboon"
-image: "/img/post-heroes/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel.png"
+image: "img/post-heroes/monitoring-windows-built-in-local-security-groups-with-microsoft-defender-xdr-or-sentinel.png"
 tags: ["microsoft defender xdr", "microsoft sentinel", "kql"]
 categories: ["Microsoft Defender"]
 ---
@@ -76,7 +76,7 @@ DeviceEvents
 
 When looking at the event details we see the following
 
-![](bp1.png)
+![](images/bp1.png)
 
 1. The device name where the user was added to a local group.
 2. The AccountSID of the User that was added to the local group.
@@ -93,65 +93,65 @@ Also keep in mind, that there are quite a few scenarios for adding users to a lo
 
 You will end up with something like shown in the example below.
 
-![](bp2-1024x271.png)
+![](images/bp2-1024x271.png)
 
 As mentioned above, we don’t get the friendly name of the user that was added to the group, but only their AccountSID. When you look closely, you’ll notice different patterns of the SID, this is because as mentioned previously there are several scenarios that can occur, i.e. whether the added user is a local user, an Active Directory User or an Entra ID user.
 
 I wanted to have something that is easier to read, so I started working on a KQL query that enriches the information accordingly.
 
-![](bp3-1024x170.png)
+![](images/bp3-1024x170.png)
 
 Let me walk you through the query in detail.
 
 **Important**: The below query example is for use in Microsoft Sentinel, you will find the link to both queries for Defender XDR and Sentinel at the end of the post.
 
-![](bp4-1024x105.png)
+![](images/bp4-1024x105.png)
 
 Retrieve all Identities from the **IdentityInfo** table and store them in a variable, we use this information later to join it with the results. Note that you must have Defender for Identity enabled in Defender XDR and when using the query in Microsoft Sentinel, you must configure the synchronization within the UEBA options.
 
-![](bp5-1024x96.png)
+![](images/bp5-1024x96.png)
 
 Here we are trying to determine the Active Directory Domain identifiers, and we use this later to find out whether the account is an AD-based account.
 
-![](bp6-1024x225.png)
+![](images/bp6-1024x225.png)
 
 Here we’re retrieving information about local accounts that were created so that we can later enrich the SIDs that relate to local accounts, since we don’t have information about them in the IdentityInfo table.
 
-![](bp7-1024x193.png)
+![](images/bp7-1024x193.png)
 
 Here we define the SIDs and Group Names of the Windows built-in local security groups.
 
-![](bp8-1024x209.png)
+![](images/bp8-1024x209.png)
 
 Now we are getting all events where any of the defined groups was changed. We exclude any actions that originate from the SID **S-1-5-18**, so we avoid the noise from local group membership changes originating from Windows LAPS or Group Policy.
 
-![](bp9-1024x192.png)
+![](images/bp9-1024x192.png)
 
 And finally, we add some other attributes that should help to provide context whether the added account is a local, domain or Entra Account and the source of the account who performed the action.
 
 Let’s take a look at the results.
 
-![](bp10-1-1024x175.png)
+![](images/bp10-1-1024x175.png)
 
 In the first record, where the **AccountSource** is Entra ID, we can’t see the name of the User that was added, this is because the event only stores the SID, but we can’t find that SID in the IdentityInfo table, so the only way to identify the user is to convert the user’s Entra ID SID to the Object ID. Since we can’t do this in KQL, we have to do this elsewhere like [https://erikengberg.com/azure-ad-sid-to-object-id/](https://erikengberg.com/azure-ad-sid-to-object-id/)
 
-![](bpconvert-1024x402.png)
+![](images/bpconvert-1024x402.png)
 
 When we have the ObjectID, we can do a further search to find the Users friendly name.
 
-![](bpconvert2.png)
+![](images/bpconvert2.png)
 
 When looking at the records where the **AccountSource** is Local, we see one record with a Username and one without. For the record without the name, we were unable to retrieve the information from historical user creation events (unless we would increase the lookback period, which would consume a lot of query resources). In this case, you will have to search for the account with the corresponding SID locally on the device. This can be done by collecting an [investigation package](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/respond-machine-alerts?view=o365-worldwide#collect-investigation-package-from-devices) or running a [live response session](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/respond-machine-alerts?view=o365-worldwide#initiate-live-response-session) in Microsoft Defender for Endpoint.
 
-![](bp10-4-1024x175.png)
+![](images/bp10-4-1024x175.png)
 
 For Active Directory accounts, it is usually quite simple to correlate the SID with the actual user, provided the account information is visible within the IdentityInfo table.
 
-![](bp10-5-1024x175.png)
+![](images/bp10-5-1024x175.png)
 
 To enrich the Actor information (so the Identity that added the user), we basically do the same as described above.
 
-![](bpl1.png)
+![](images/bpl1.png)
 
 I hope this will help you to monitor or proactively hunt for Windows built-in local security group changes. In an upcoming post, we’ll investigate monitoring Active Directory and Entra ID group changes.
 
@@ -170,4 +170,6 @@ Additional References
 [Azure AD SID to Object ID Converter - ErikEngberg.com](https://erikengberg.com/azure-ad-sid-to-object-id/)
 
 [Identify internet-facing devices in Microsoft Defender for Endpoint | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/internet-facing-devices?view=o365-worldwide//?wt.mc_id=AZ-MVP-5003805)
+
+
 

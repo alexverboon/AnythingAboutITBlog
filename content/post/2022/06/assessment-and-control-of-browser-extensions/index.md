@@ -3,7 +3,7 @@ title: Assessment and Control of Browser Extensions
 date: 2022-06-19T21:38:01Z
 layout: "post"
 author: "Alex Verboon"
-image: "/img/post-heroes/assessment-and-control-of-browser-extensions.png"
+image: "img/post-heroes/assessment-and-control-of-browser-extensions.png"
 slug: "assessment-and-control-of-browser-extensions"
 tags:
   - Browser
@@ -35,7 +35,7 @@ Well known browser extensions are used for:
 - Ad blockers
 - User productivity
 
-![](061922_2134_Assessmenta1.png)
+![](images/061922_2134_Assessmenta1.png)
 
 ## Where are Extensions Installed?
 
@@ -47,13 +47,13 @@ When you install a browser extension, the browser stores the content in the foll
 
 Below is an example of the content of the NordVPN extension
 
-![](061922_2134_Assessmenta2.png)
+![](images/061922_2134_Assessmenta2.png)
 
 ## Browser Extension Permissions
 
 The permissions a browser extension uses are defined within the manifest.json file. Below are the permissions defined for the LastPass browser extension.
 
-![](061922_2134_Assessmenta3.png)
+![](images/061922_2134_Assessmenta3.png)
 
 Detailed information about the chrome API permissions can be found here: [Declare API permissions in extension manifests](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/enterprise/declare-permissions)
 
@@ -63,29 +63,29 @@ If you are responsible for the security of your company you should pay attention
 
 Extensions for Edge Chromium and Google chrome are packed in a file that ends with CRX, hence we can use advanced hunting in Microsoft Defender for endpoint to identify devices that download extensions.
 
-![](061922_2134_Assessmenta4.png)
+![](images/061922_2134_Assessmenta4.png)
 
 ## Browser Extension inventory in Microsoft Defender
 
 Last month Microsoft [announced](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/announcing-microsoft-defender-vulnerability-management-in-public/ba-p/3361003) the public preview of Microsoft Defender for Threat and vulnerability management. Defender Vulnerability Management's **browser extensions inventory** provides [detailed information](https://docs.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/tvm-browser-extensions?view=o365-worldwide) on the permissions requested by each extension and identifies those with the highest associated risk levels.
 
-![](061922_2134_Assessmenta5.png)
+![](images/061922_2134_Assessmenta5.png)
 
 Let's take a look at the LastPass extension permissions, within the manifest.json file the permissions are defined as following:
 
-![](061922_2134_Assessmenta6.png)
+![](images/061922_2134_Assessmenta6.png)
 
 Microsoft Defender Threat and Vulnerability management nicely translates these permissions as shown below.
 
-![](061922_2134_Assessmenta7.png)
+![](images/061922_2134_Assessmenta7.png)
 
 We can use advanced hunting to query the browser extension data.
 
-![](061922_2134_Assessmenta8.png)
+![](images/061922_2134_Assessmenta8.png)
 
 Let's take a look at all the extensions that have the **proxy** permission
 
-![](061922_2134_Assessmenta9.png)
+![](images/061922_2134_Assessmenta9.png)
 
 ## Controlling the use of Browser Extensions
 
@@ -98,7 +98,7 @@ Now that we have an overview of the extensions in use, you might to start taking
 
 Here, by default we do not allow the user to install any extension, except for those that are explicitly defined.
 
-![](061922_2134_Assessmenta10.png)
+![](images/061922_2134_Assessmenta10.png)
 
 For more details see: [Use group policies to manage Microsoft Edge extensions](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-manage-extensions-policies)
 
@@ -128,3 +128,5 @@ I hope you find this post useful, as always I welcome your feedback.
   [https://securityboulevard.com/2019/01/browser-extensions-can-pose-significant-cyber-security-threats/](https://securityboulevard.com/2019/01/browser-extensions-can-pose-significant-cyber-security-threats/)
 - ExtAnalysis
   [https://github.com/Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis)
+
+

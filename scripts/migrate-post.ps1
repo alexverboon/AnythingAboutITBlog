@@ -80,17 +80,19 @@ if (-not (Test-Path -LiteralPath $HeroSourceImage)) {
 }
 
 $postDir = Join-Path $RepoRoot "content/post/$Year/$Month/$Slug"
+$postImagesDir = Join-Path $postDir "images"
 $heroDir = Join-Path $RepoRoot "static/img/post-heroes"
 $heroName = "$Slug.png"
 $heroDest = Join-Path $heroDir $heroName
 $indexPath = Join-Path $postDir "index.md"
 
 Ensure-Path -Path $postDir
+Ensure-Path -Path $postImagesDir
 Ensure-Path -Path $heroDir
 
 foreach ($imageName in $ImageNames) {
     $src = Join-Path $SourceImageDir $imageName
-    $dst = Join-Path $postDir $imageName
+    $dst = Join-Path $postImagesDir $imageName
 
     if (-not (Test-Path -LiteralPath $src)) {
         throw "Missing source image: $src"
@@ -119,6 +121,13 @@ if ([string]::IsNullOrWhiteSpace($aliasValue)) {
 }
 
 $body = Get-Content -LiteralPath $BodyMarkdownPath -Raw
+
+# Rewrite local markdown links to copied post images under images/.
+foreach ($imageName in $ImageNames) {
+    $body = $body.Replace("]($imageName)", "](images/$imageName)")
+    $body = $body.Replace("](./$imageName)", "](images/$imageName)")
+}
+
 $tagLines = To-YamlList -Values $Tags
 $categoryLines = To-YamlList -Values $Categories
 
@@ -136,7 +145,7 @@ $yaml += 'aliases:'
 $yaml += ('  - "{0}"' -f $aliasValue)
 $yaml += ('description: "{0}"' -f $escapedDescription)
 $yaml += ('author: "{0}"' -f $escapedAuthor)
-$yaml += ('image: "/img/post-heroes/{0}"' -f $heroName)
+$yaml += ('image: "img/post-heroes/{0}"' -f $heroName)
 $yaml += 'tags:'
 $yaml += $tagLines
 $yaml += 'categories:'

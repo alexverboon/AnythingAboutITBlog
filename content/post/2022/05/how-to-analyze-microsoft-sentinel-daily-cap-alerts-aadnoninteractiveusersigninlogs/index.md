@@ -7,7 +7,7 @@ aliases:
   - "/2022/05/how-to-analyze-microsoft-sentinel-daily-cap-alerts-aadnoninteractiveusersigninlogs/"
 description: "How to investigate Microsoft Sentinel daily cap alerts and identify high-volume AADNonInteractiveUserSignInLogs contributors."
 author: "Alex Verboon"
-image: "/img/post-heroes/how-to-analyze-microsoft-sentinel-daily-cap-alerts-aadnoninteractiveusersigninlogs.png"
+image: "img/post-heroes/how-to-analyze-microsoft-sentinel-daily-cap-alerts-aadnoninteractiveusersigninlogs.png"
 tags:
   - daily cap
   - KQL
@@ -31,25 +31,25 @@ Okay, let's start at the beginning.
 
 To avoid a bill shock, we set a daily cap.
 
-![](052022_2013_Howtoanalyz1.png)
+![](images/052022_2013_Howtoanalyz1.png)
 
 ## Analytics Rule
 
 If we want to get alerted, we can set up an analytics rule within Microsoft Sentinel as shown in the example below.
 
-![](052022_2013_Howtoanalyz2.png)
+![](images/052022_2013_Howtoanalyz2.png)
 
 ## The Alert
 
 With the analytics rule in place, we get an alert as shown below when the daily data cap is reached.
 
-![](052022_2013_Howtoanalyz3.png)
+![](images/052022_2013_Howtoanalyz3.png)
 
 ## Analyzing the Data Usage
 
 Now that we have an alert, we have to investigate what caused the high data volume. Log on to the Azure portal and navigate to the Usage and estimated costs blade within the Microsoft Sentinel Log Analytics workspace. Here we can already identify which solution caused the data ingestion increase. Select Open chart in analytics.
 
-![](052022_2013_Howtoanalyz4.png)
+![](images/052022_2013_Howtoanalyz4.png)
 
 Log Analytics is opened with a predefined query that shows usage. Here we see that LogManagement had an increase in data ingestion. Remove the start date and set the time range to 24 hours.
 
@@ -60,7 +60,7 @@ Usage
 | render columnchart
 ```
 
-![](052022_2013_Howtoanalyz5.png)
+![](images/052022_2013_Howtoanalyz5.png)
 
 Change the query to display DataType instead of Solution, then re-run the query.
 
@@ -71,7 +71,7 @@ Usage
 | render columnchart
 ```
 
-![](052022_2013_Howtoanalyz6.png)
+![](images/052022_2013_Howtoanalyz6.png)
 
 Next, remove the `| render` instruction from the query to see the details.
 
@@ -88,7 +88,7 @@ AADNonInteractiveUserSignInLogs
 | summarize count() by UserPrincipalName
 ```
 
-![](052022_2013_Howtoanalyz7.png)
+![](images/052022_2013_Howtoanalyz7.png)
 
 Next, we drill down into events for the user that triggers the most events.
 
@@ -98,7 +98,7 @@ AADNonInteractiveUserSignInLogs
 | summarize count() by UserPrincipalName, ClientAppUsed, AppDisplayName
 ```
 
-![](052022_2013_Howtoanalyz8.png)
+![](images/052022_2013_Howtoanalyz8.png)
 
 Here we see that we have a lot of Windows Sign In events. Next, let's drill into the details to identify the device.
 
@@ -112,7 +112,7 @@ AADNonInteractiveUserSignInLogs
 | extend operatingSystem = tostring(parse_json(DeviceDetail).operatingSystem)
 ```
 
-![](052022_2013_Howtoanalyz9.png)
+![](images/052022_2013_Howtoanalyz9.png)
 
 Next, let's see how many devices are involved and add the following KQL line.
 
@@ -120,10 +120,12 @@ Next, let's see how many devices are involved and add the following KQL line.
 | summarize count() by DeviceName
 ```
 
-![](052022_2013_Howtoanalyz10.png)
+![](images/052022_2013_Howtoanalyz10.png)
 
 That's it for today, I hope you found this useful. I'm currently working on early detection when logs start to unusually grow, so that IT operations or security teams can take immediate action and prevent the daily cap from being reached.
 
 Bye,
 
 Alex
+
+

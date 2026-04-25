@@ -7,7 +7,7 @@ aliases:
   - "/2022/11/users-can-create-azuread-tenants/"
 description: "Review and monitor the Azure AD setting that allows users to create new tenants, with KQL detection queries."
 author: "Alex Verboon"
-image: "/img/post-heroes/users-can-create-azuread-tenants.png"
+image: "img/post-heroes/users-can-create-azuread-tenants.png"
 tags:
   - EntraID
   - KQL
@@ -19,7 +19,7 @@ Hello there,
 
 In this blog post we look at a setting within the Azure AD portal: "Users can create Azure AD tenants". Unfortunately, this setting is enabled by default. Most organizations will probably want to turn this off. You can find it in the Azure AD portal under Settings > Users > User settings > Tenant creation.
 
-![](112222_2202_Userscancre1.png)
+![](images/112222_2202_Userscancre1.png)
 
 `Yes` allows default users to create Azure AD tenants. `No` allows only users with the Global Administrator or Tenant Creator roles to create Azure AD tenants. Anyone who creates a tenant becomes the Global Administrator for that tenant.
 
@@ -27,47 +27,47 @@ Let's look at what a standard user can do when the setting is enabled and they h
 
 Select Manage tenants.
 
-![](112222_2202_Userscancre2.png)
+![](images/112222_2202_Userscancre2.png)
 
 Then select Create.
 
-![](112222_2202_Userscancre3.png)
+![](images/112222_2202_Userscancre3.png)
 
 Select a tenant type.
 
-![](112222_2202_Userscancre4.png)
+![](images/112222_2202_Userscancre4.png)
 
 Finally, enter the name of the tenant.
 
-![](112222_2202_Userscancre5.png)
+![](images/112222_2202_Userscancre5.png)
 
-![](112222_2202_Userscancre6.png)
+![](images/112222_2202_Userscancre6.png)
 
 After a few minutes, Sam has its own tenant.
 
-![](112222_2202_Userscancre7.png)
+![](images/112222_2202_Userscancre7.png)
 
 We also get an audit log for this activity with the activity type `Create Company`.
 
-![](112222_2202_Userscancre8.png)
+![](images/112222_2202_Userscancre8.png)
 
 And we also get the Tenant ID that was created.
 
-![](112222_2202_Userscancre9.png)
+![](images/112222_2202_Userscancre9.png)
 
 If you have not disabled the setting yet, here is a KQL query to check whether someone in your organization already created a tenant.
 
-![](112222_2202_Userscancre10.png)
+![](images/112222_2202_Userscancre10.png)
 
 And here is another query to find who enabled the feature again after it was disabled.
 
-![](112222_2202_Userscancre11.png)
+![](images/112222_2202_Userscancre11.png)
 
 If you use Microsoft Sentinel, you can create analytic rules for both activities.
 
-![](112222_2202_Userscancre12.png)
+![](images/112222_2202_Userscancre12.png)
 
-![](112222_2202_Userscancre13.png)
+![](images/112222_2202_Userscancre13.png)
 
 Below are the KQL queries.
 
@@ -96,3 +96,5 @@ AuditLogs
 | project TimeGenerated, OperationName, Setting, newValue, oldValue, InitiatedByUser, InitiatedByIP, SourceSystem
 | where newValue == "true"
 ```
+
+
