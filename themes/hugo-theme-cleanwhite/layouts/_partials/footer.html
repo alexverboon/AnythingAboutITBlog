@@ -106,6 +106,16 @@
                         </a>
                     </li>
 		           {{ end }}
+                    {{ with .Site.Params.social.microsoft_mvp }}
+                    <li>
+                        <a target="_blank" href="{{ . }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-microsoft fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                   {{ end }}
                     {{ with .Site.Params.social.medium }}
                     <li>
                         <a target="_blank" href="{{ . }}">
