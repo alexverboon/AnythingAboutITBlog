@@ -9,8 +9,7 @@ description: "Review and monitor the Azure AD setting that allows users to creat
 author: "Alex Verboon"
 image: "/img/post-heroes/users-can-create-azuread-tenants.png"
 tags:
-  - AllowedToCreateTenants
-  - AzureAD
+  - EntraID
   - KQL
 categories:
   - Microsoft Sentinel

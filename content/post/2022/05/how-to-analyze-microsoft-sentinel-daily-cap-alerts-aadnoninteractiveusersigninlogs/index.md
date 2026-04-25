@@ -13,8 +13,7 @@ tags:
   - KQL
   - sentinel
 categories:
-  - Azure Sentinel
-  - KQL
+  - Microsoft Sentinel
 ---
 
 To avoid unplanned costs for Microsoft Sentinel, it is recommended to set a daily cap and create an analytics rule that triggers an alert when the daily cap is reached. Microsoft has published general guidance for monitoring costs [here](https://learn.microsoft.com/azure/sentinel/billing-monitor-costs).
