@@ -1,0 +1,4 @@
+baseurl = "https://alexverboon.github.io/AnythingAboutITBlog/"
+title = "AnythingAboutIT"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
