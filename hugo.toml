@@ -17,15 +17,18 @@ hasCJKLanguage = true
 [outputs]
 home = ["HTML", "RSS"]
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/anythingaboutit_hero.png"
   SEOTitle = "Anything About IT"
   description = "by Alex Verboon"
   keyword = "security,microsoft,defender XDR, Sentinel, PowerShell, KQL"
   slogan = "Learning, Building, Sharing"
   upstreamAttribution = false
 
-  image_404 = "img/404-bg.jpg"
+  image_404 = "img/404.png"
   title_404 = "Page not found"
   omit_categories = false
 
