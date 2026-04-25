@@ -20,6 +20,12 @@ home = ["HTML", "RSS"]
 [permalinks]
   post = "/:year/:month/:slug/"
 
+[[cascade]]
+  [cascade.params]
+    headerstyle = "text"
+  [cascade._target]
+    path = "/post/**"
+
 [params]
   header_image = "img/anythingaboutit_hero.png"
   SEOTitle = "Anything About IT"
@@ -52,7 +58,6 @@ home = ["HTML", "RSS"]
 
   last_posts = true
 
-  custom_css = ["css/hero-overlay.css"]
   custom_js = ["js/nav-fixes.js"]
 
   [params.social]
