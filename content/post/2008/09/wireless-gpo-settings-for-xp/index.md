@@ -5,16 +5,14 @@ date: 2008-09-17T22:49:48Z
 slug: "wireless-gpo-settings-for-xp"
 aliases:
   - "/2008/09/wireless-gpo-settings-for-xp/"
-description: "In the last 2 days i have spend some time in getting Wireless GPO settings applied to a Windows XP client. I was actually about to describe what i hav..."
+description: "Wireless GPO settings"
 author: "Alex Verboon"
 tags:
   - gpo
   - wireless
   - Windows
 categories:
-  - deployment
-  - group-policy
-  - windows-xp
+  - GroupPolicy
 ---
 In the last 2 days i have spend some time in getting Wireless GPO settings applied to a Windows XP client.
 

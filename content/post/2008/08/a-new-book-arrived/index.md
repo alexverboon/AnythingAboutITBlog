@@ -5,12 +5,12 @@ date: 2008-08-09T10:51:40Z
 slug: "a-new-book-arrived"
 aliases:
   - "/2008/08/a-new-book-arrived/"
-description: "Since yesterday this book joined my book collection. [ ![Creating the Secure Managed Desktop: Using Group Policy, SoftGrid, Microsoft Deployment Toolk..."
+description: "New Book: Creating the Secure Managed Desktop: Using Group Policy, SoftGrid, and Microsoft Deployment and Management Tools "
 author: "Alex Verboon"
 tags:
   - book
 categories:
-  - reading
+  - Tips
 ---
 Since yesterday this book joined my book collection.
 

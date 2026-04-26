@@ -4,15 +4,13 @@ layout: "post"
 date: 2008-10-29T13:46:29Z
 slug: "don%e2%80%99t-wait-for-windows-7"
 aliases:
-  - "/2008/10/don%e2%80%99t-wait-for-windows-7/"
-description: "I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7. *There is no need to wait fo..."
+  - "/2008/10/dont-wait-for-windows-7/"
+description: "I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7." 
 author: "Alex Verboon"
 tags:
   - windows-vista
-  - Windows
+  - Windows7
 categories:
-  - deployment
-  - vista
   - Windows
 ---
 I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7.

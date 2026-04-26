@@ -5,17 +5,15 @@ date: 2008-10-20T19:02:34Z
 slug: "tooltip-chmlexe-manage-windows-integrity-levels"
 aliases:
   - "/2008/10/tooltip-chmlexe-manage-windows-integrity-levels/"
-description: "To be honest i haven't gone into the details of the Windows Integrity Levels myself but wanted to mention the [chml.exe ](http://www.minasi.com/vista/..."
+description: "Windows integrity levels"
 author: "Alex Verboon"
 tags:
   - security
   - vista
   - Windows
 categories:
-  - security
-  - tip
-  - tools
-  - vista
+  - Tips
+
 ---
 To be honest i haven't gone into the details of the Windows Integrity Levels myself but wanted to mention the [chml.exe ](http://www.minasi.com/vista/chml.htm)tool that can be downloaded from Mark Minasi's [web site](http://www.minasi.com/).
 

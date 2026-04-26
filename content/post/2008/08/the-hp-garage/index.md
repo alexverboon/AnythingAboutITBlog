@@ -1,24 +1,22 @@
 ---
-title: "The &quot;HP&quot; Garage"
+title: "The HP Garage"
 layout: "post"
 date: 2008-08-03T18:00:37Z
 slug: "the-hp-garage"
 aliases:
   - "/2008/08/the-hp-garage/"
-description: "It's here where HP started...... [ ![hpgarage](images/hpgarage-thumb.jpg) ](https://www.verboon.info/wp-content/uploads/2008/08/hpgarage.jpg) See more..."
+description: "It's here where HP started...."
 author: "Alex Verboon"
 image: "img/post-heroes/the-hp-garage.png"
 tags:
   - hp
+  - history
 categories:
-  - fun
-  - hp
+  - HP
 ---
 It's here where HP started......
 
-[
 ![hpgarage](images/hpgarage-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2008/08/hpgarage.jpg)
 
 See more pictures of the HP House here: [http://www.kennethkuhn.com/hpmuseum/garage/](http://www.kennethkuhn.com/hpmuseum/garage/)
 

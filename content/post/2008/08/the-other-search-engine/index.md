@@ -5,13 +5,13 @@ date: 2008-08-21T21:31:10Z
 slug: "the-other-search-engine"
 aliases:
   - "/2008/08/the-other-search-engine/"
-description: "When searching the web probably most of us do use Google, because although some don't like to hear it, it has simply become the default search engine ..."
+description: "the other search engine"
 author: "Alex Verboon"
 image: "img/post-heroes/the-other-search-engine.png"
 tags:
   - web
 categories:
-  - tip
+  - Web
 ---
 When searching the web probably most of us do use Google, because although some don't like to hear it, it has simply become the default search engine for most users and there doesn't seem to be much competition, or would you use MSN search ? :-)
 
@@ -19,7 +19,8 @@ I recently read an article in a newspaper about a new search engine that was bei
 
 In any case give it a try: [www.cuil.com](http://www.cuil.com)
 
-[
+![cuil](./images/cuilsearch.png)
+
 ![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2008/08/image6.png)
+
 

@@ -5,13 +5,12 @@ date: 2008-09-07T15:08:56Z
 slug: "dont-wait-for-windows-7-move-to-vista"
 aliases:
   - "/2008/09/dont-wait-for-windows-7-move-to-vista/"
-description: "In both work and private life moving to Vista becomes a dominating topic. Of course there are reasons to stay on XP and hold on for another 2 years an..."
+description: "Don't wait for Windows 7 move to Vista"
 author: "Alex Verboon"
 tags:
   - windows-vista
-  - Windows
+  - Windows7
 categories:
-  - vista
   - Windows
 ---
 In both work and private life moving to Vista becomes a dominating topic. Of course there are reasons to stay on XP and hold on for another 2 years and then move to Windows 7, but should Microsoft release Windows 7 as planned in early 2010, it then still takes at least a year until enterprise users will see it, as from experience, enterprises don't adopt new operating systems quickly and there is still this myth of waiting for the first service pack, to give Windows 2008 server a boost , it was released initially with service pack 1 included (just kidding here).

@@ -5,14 +5,14 @@ date: 2008-08-21T21:56:10Z
 slug: "the-need-for-installing-the-intel-chipset-update"
 aliases:
   - "/2008/08/the-need-for-installing-the-intel-chipset-update/"
-description: "Within one of the projects I'm working on, there was a debate about installing the Intel Chipset software. It was requested not to install it. I could..."
+description: "About installng Chipset drivers"
 author: "Alex Verboon"
 tags:
   - chipset
   - drivers
-categories:
   - deployment
-  - drivers
+categories:
+  - Tips
 ---
 Within one of the projects I'm working on, there was a debate about installing the Intel Chipset software. It was requested not to install it. I could not agree with that, as it is a common known best practice to install the Intel Chipset update software unless the operating system can configure the Intel chipset natively.
 

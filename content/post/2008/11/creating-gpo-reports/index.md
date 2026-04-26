@@ -5,18 +5,14 @@ date: 2008-11-13T22:00:05Z
 slug: "creating-gpo-reports"
 aliases:
   - "/2008/11/creating-gpo-reports/"
-description: "Usually when you need a report for a given Group Policy object, you would launch the Group Policy Management Console, select the GPO and then select t..."
+description: "Creating GPO Reports"
 author: "Alex Verboon"
 tags:
   - gpo
   - group-policy
   - scripting
 categories:
-  - automation
-  - group-policy
-  - scripting
-  - tip
-  - tools
+  - GroupPolicy
 ---
 Usually when you need a report for a given Group Policy object, you would launch the Group Policy Management Console, select the GPO and then select the settings tab that produces the report.
 

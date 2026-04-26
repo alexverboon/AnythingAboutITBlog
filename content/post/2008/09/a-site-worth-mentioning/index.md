@@ -5,16 +5,14 @@ date: 2008-09-27T22:17:19Z
 slug: "a-site-worth-mentioning"
 aliases:
   - "/2008/09/a-site-worth-mentioning/"
-description: "While searching for something I came across the site [computer performance](http://www.computerperformance.co.uk/index.htm), why the sites is called l..."
+description: "A site worth mentioning"
 author: "Alex Verboon"
 tags:
   - script
   - Windows
 categories:
-  - scripting
-  - tip
+  - Tips
 ---
 While searching for something I came across the site [computer performance](http://www.computerperformance.co.uk/index.htm), why the sites is called like that, i don't know, but it has a lot of interesting content related to windows 2008, vista, scripting etc. so that i find it worth mentioning.
 
-[http://www.computerperformance.co.uk/index.htm](http://www.computerperformance.co.uk/index.htm)
-
+![cpwebsite](./images/cpwebsite.png)

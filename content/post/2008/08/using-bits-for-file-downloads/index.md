@@ -5,15 +5,15 @@ date: 2008-08-07T21:12:01Z
 slug: "using-bits-for-file-downloads"
 aliases:
   - "/2008/08/using-bits-for-file-downloads/"
-description: "Today I have come across the topic BITS which stands for Binary Intelligent Transfer Service which is a file transfer technology that is included in W..."
+description: "About BITS"
 author: "Alex Verboon"
 image: "img/post-heroes/using-bits-for-file-downloads.png"
 tags:
   - script
   - Windows
+  - BITS
 categories:
-  - automation
-  - tools
+  - Tips
 ---
 Today I have come across the topic BITS which stands for Binary Intelligent Transfer Service which is a file transfer technology that is included in Windows XP, Windows Server 2003 and Windows Vista.
 
@@ -33,15 +33,15 @@ To download Microsoft Windows Automated Installation Kit sources (992 MB) you wo
 
 bitsadmin /TRANSFER waikdl [http://download.microsoft.com/download/8/6/d/86d6ba9c-98ff-444e-87ed-3e76772eb2a6/vista_6000.16386.061101-2205-LRMAIK_EN.img](http://download.microsoft.com/download/8/6/d/86d6ba9c-98ff-444e-87ed-3e76772eb2a6/vista_6000.16386.061101-2205-LRMAIK_EN.img) C:\transfer\waik.img
 
-[
+
 ![ba1](images/ba1-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2008/08/ba1.jpg)
 
 if you want to monitor any BITS activity on your system then type:
 
+```bash
 bitsadmin  /MONITOR
+```
 
-[
 ![bitsmon](images/bitsmon-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2008/08/bitsmon.jpg)
+
 

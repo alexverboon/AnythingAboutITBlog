@@ -5,15 +5,14 @@ date: 2008-10-23T20:11:34Z
 slug: "user-profile-hive-cleanup-service-installation-uphclean"
 aliases:
   - "/2008/10/user-profile-hive-cleanup-service-installation-uphclean/"
-description: "Today's challenge was to get UPHClean.msi installing correctly. You would think that installing an MSI package is an easy thing to do, so thought I. B..."
+description: "Profile cleanup"
 author: "Alex Verboon"
 tags:
   - profiles
   - Windows
-categories:
-  - automation
   - deployment
-  - tip
+categories:
+  - Tips
 ---
 Today's challenge was to get UPHClean.msi installing correctly. You would think that installing an MSI package is an easy thing to do, so thought I. But unfortunately MSI is not always MSI. Looking at all the posts on the web, it seems I was not the only one who had a bit of a challenge getting this installed in an automated way.
 

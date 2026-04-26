@@ -5,14 +5,12 @@ date: 2008-10-23T20:25:55Z
 slug: "dont-skip-vista"
 aliases:
   - "/2008/10/dont-skip-vista/"
-description: "While most people again seem to get excited about Microsoft's next operating system and waste their time with rumours and guessing when it will be rel..."
+description: "Dont skip vista"
 author: "Alex Verboon"
 tags:
   - vista
   - Windows
 categories:
-  - reading
-  - vista
   - Windows
 ---
 While most people again seem to get excited about Microsoft's next operating system and waste their time with rumours and guessing when it will be released, let me continue with promoting not to skip Vista :-)

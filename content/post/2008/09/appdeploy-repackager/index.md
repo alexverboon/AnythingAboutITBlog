@@ -5,13 +5,14 @@ date: 2008-09-13T12:17:12Z
 slug: "appdeploy-repackager"
 aliases:
   - "/2008/09/appdeploy-repackager/"
-description: "Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager.](http://www.appdeploy.com/tools/repackager) *The AppDeploy Repackag..."
+description: "Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager"
 author: "Alex Verboon"
 tags:
   - msi
   - Windows
+  - Application Packaging
 categories:
-  - tools
+  - Tools
 ---
 Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager.](http://www.appdeploy.com/tools/repackager)
 
@@ -19,3 +20,4 @@ Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackage
 
 More information about what the Repackager can do and can not do can be found in the [FAQ](http://www.appdeploy.com/tools/repackager/faq.asp).
 
+![Repackager](./images/packagingtool.png)
