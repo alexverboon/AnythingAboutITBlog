@@ -14,8 +14,7 @@ tags:
   - kql
   - Windows
 categories:
-  - Microsoft Defender XDR
-  - Microsoft Sentinel
+  - Microsoft Defender XDR  
 ---
 
 # Windows Built-in local security groups
@@ -165,17 +164,13 @@ You can find the queries in my GitHub repository here.
 
 [Hunting-Queries-Detection-Rules/Defender For Endpoint/MDE-WindowsBuiltInGroupMemberChanges.md at main · alexverboon/Hunting-Queries-Detection-Rules (github.com)](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20For%20Endpoint/MDE-WindowsBuiltInGroupMemberChanges.md)
 
-Additional References
+# Additional References
 
-[Security identifiers | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers/?wt.mc_id=AZ-MVP-5003805)
-
-[Local Accounts - Windows Security | Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts//?wt.mc_id=AZ-MVP-5003805)
-
-[Security guidance for remote desktop adoption | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2020/04/16/security-guidance-remote-desktop-adoption/)
-
-[Azure AD SID to Object ID Converter - ErikEngberg.com](https://erikengberg.com/azure-ad-sid-to-object-id/)
-
-[Identify internet-facing devices in Microsoft Defender for Endpoint | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/internet-facing-devices?view=o365-worldwide//?wt.mc_id=AZ-MVP-5003805)
+- [Security identifiers | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers/?wt.mc_id=AZ-MVP-5003805)
+- [Local Accounts - Windows Security | Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts//?wt.mc_id=AZ-MVP-5003805)
+- [Security guidance for remote desktop adoption | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2020/04/16/security-guidance-remote-desktop-adoption/)
+- [Azure AD SID to Object ID Converter - ErikEngberg.com](https://erikengberg.com/azure-ad-sid-to-object-id/)
+- [Identify internet-facing devices in Microsoft Defender for Endpoint | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/internet-facing-devices?view=o365-worldwide//?wt.mc_id=AZ-MVP-5003805)
 
 
 

@@ -9,7 +9,7 @@ description: "You might have experienced that your WIM files seem to grow in siz
 author: "Alex Verboon"
 tags:
   - virtual
-  - vmware
+  - wim
 categories:
   - virtualization
 ---

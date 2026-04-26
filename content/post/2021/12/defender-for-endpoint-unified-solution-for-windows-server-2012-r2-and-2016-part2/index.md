@@ -15,9 +15,7 @@ tags:
 - Windows
 - PowerShell
 categories:
-  - Security
-  - PowerShell
-  - Microsoft Defender XDR
+- Microsoft Defender XDR
 ---
 
 Hello everyone,

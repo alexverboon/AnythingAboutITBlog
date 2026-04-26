@@ -5,14 +5,13 @@ date: 2008-07-08T11:30:28Z
 slug: "scripting-registry-permissions"
 aliases:
   - "/2008/07/scripting-registry-permissions/"
-description: "Today some e-mails where exchanged on how to best script registry permissions. Depending on what you want to achieve here's a couple of tools that can..."
+description: "Scripting Registry permissions"
 author: "Alex Verboon"
 tags:
   - registry
+  - scripting
 categories:
-  - automation
-  - tip
-  - tools
+  - Tips
 ---
 Today some e-mails where exchanged on how to best script registry permissions.
 

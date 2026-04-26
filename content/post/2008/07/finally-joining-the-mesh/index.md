@@ -11,13 +11,13 @@ image: "img/post-heroes/finally-joining-the-mesh.png"
 tags:
   - live-mesh
 categories:
-  - live-mesh
+  - Cloud
 ---
 Microsoft has opened live mesh to more testers, although only to users located in the U.S.
 
 Well, after changing the regional settings, you get to the next page, where you can sign-up :-)
 
-And after a few seconds.......[
+And after a few seconds.......
 ![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2008/07/image6.png)
+
 

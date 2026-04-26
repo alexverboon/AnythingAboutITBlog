@@ -8,9 +8,9 @@ aliases:
 description: "In the coming days, Altiris 7 Client Management Suite and Server Management Suite Beta II will be available for download from the beta portal. [http:/..."
 author: "Alex Verboon"
 tags:
-  - Uncategorized
+  - Altiris
 categories:
-  - Uncategorized
+  - Various
 ---
 In the coming days, Altiris 7 Client Management Suite and Server Management Suite Beta II will be available for download from the beta portal. [http://betanew.altiris.com/](http://betanew.altiris.com/)
 

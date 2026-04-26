@@ -11,14 +11,11 @@ tags:
   - bios
   - hp
 categories:
-  - automation
-  - hp
-  - tools
+  - BIOS
 ---
 Today the following options exist to automate BIOS configuration for HP clients:The Client Management Interface allows you to use WSH to retrieve and set BIOS settings like in the example below which changes the Ownership Tag.
  
- 
-
+```vb
 Const wbemFlagReturnImmediately = 16
 Const wbemFlagForwardOnly = 32
 lFlags = wbemFlagReturnImmediately + wbemFlagForwardOnly
@@ -52,6 +49,7 @@ Case 6 strReturn = "Access Denied"
 Case Else strReturn = "..."
 End Select
 WScript.Echo "SetBiosSetting()
+```
 
 More information about HP CMI can be found here:
 [http://h20331.www2.hp.com/Hpsub/cache/284014-0-0-225-121.html?jumpid=reg_R1002_USEN](http://h20331.www2.hp.com/Hpsub/cache/284014-0-0-225-121.html?jumpid=reg_R1002_USEN)
@@ -61,10 +59,13 @@ The other option is to use the biosconfigutility.exe which comes with the HP Sys
 BiosConfigUtility.exe /setconfig:wlan.txt
 
 (wlan.txt content)
+
+```bash
 English
 LAN/WLAN Switching 
 Disable
 *Enable
+```
 
 More Information about HP SSM can be found here:
 [http://h20219.www2.hp.com/Hpsub/cache/284133-0-0-225-121.html](http://h20219.www2.hp.com/Hpsub/cache/284133-0-0-225-121.html)

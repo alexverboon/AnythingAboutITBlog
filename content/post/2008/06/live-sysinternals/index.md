@@ -9,8 +9,9 @@ description: "For those that need quick access to the famous sysinternals tools,
 author: "Alex Verboon"
 tags:
   - tools
+  - sysinternals
 categories:
-  - tools
+  - Tips
 ---
 For those that need quick access to the famous sysinternals tools, direct access to the executables is now available through:
 [http://live.sysinternals.com/](http://live.sysinternals.com/)
@@ -18,3 +19,6 @@ For those that need quick access to the famous sysinternals tools, direct access
 On Microsoft Technet, the tools can be found here:
 [http://technet.microsoft.com/en-us/sysinternals/default.aspx](http://technet.microsoft.com/en-us/sysinternals/default.aspx)
 
+[https://web.archive.org/web/20080513070655/http://technet.microsoft.com/en-us/sysinternals/default.aspx](https://web.archive.org/web/20080513070655/http://technet.microsoft.com/en-us/sysinternals/default.aspx)
+
+![live sysinternals](./images/sysinternals.png)

@@ -9,14 +9,15 @@ description: "Everybody can help a little bit, turn off your TV from standby, an
 author: "Alex Verboon"
 tags:
   - environment
-  - green
+  - Tools
 categories:
-  - green
-  - tools
+  - Tips
 ---
 Everybody can help a little bit, turn off your TV from standby, and why not shutdown your home computer completely ? 
 
 On HPs latest client hardware, you'll find a nice little tool that helps you reduce energy costs as well, it's called the HP Power Manager.
 
-![](http://bp0.blogger.com/_Dz3BIkh6Pig/SE7dclHSiPI/AAAAAAAAAAg/3zxm5taJhLE/s1600-h/hpowermanager.JPG) The tool lets you select a power saving scheme and dows display as well the potential cost and energy savings, and most important how much you help saving the environment.I did just install a standalone version, but for large enterprises Verdiem provides an enterprise suite, that allows you centrally manage your users power settings. I'm just about to send them an e-mail to get a trial version, so hopefully i can let you more abuot this in a couple of days or so.
+![HP Energy Tool](./images/hpenergytool.png) 
+
+The tool lets you select a power saving scheme and dows display as well the potential cost and energy savings, and most important how much you help saving the environment.I did just install a standalone version, but for large enterprises Verdiem provides an enterprise suite, that allows you centrally manage your users power settings. I'm just about to send them an e-mail to get a trial version, so hopefully i can let you more abuot this in a couple of days or so.
 

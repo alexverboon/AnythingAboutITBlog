@@ -5,20 +5,17 @@ date: 2008-07-31T18:18:49Z
 slug: "the-end-of-windows-311"
 aliases:
   - "/2008/07/the-end-of-windows-311/"
-description: "Remember this boot screen ? [ ![clip_image001](images/clip-image001-thumb.jpg) ](https://www.verboon.info/wp-content/uploads/2008/07/clip-image001.jpg..."
+description: "Remember this boot screen ?"
 author: "Alex Verboon"
 image: "img/post-heroes/the-end-of-windows-311.png"
 tags:
   - windows
 categories:
-  - embedded
-  - fun
+  - Windows
 ---
 Remember this boot screen ?
 
-[
 ![clip_image001](images/clip-image001-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2008/07/clip-image001.jpg)
 
 Although retired for years now, the Embedded community could still use it.
 
@@ -26,7 +23,8 @@ In November 2008 it will definitely retire. Read more about the end of WFW 3.11 
 
 As this discussion started in our internal discussion forum, i started looking in my drawer and guess what..... found an old floppy.
 
-[
 ![clip_image001[4]](images/clip-image0014-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2008/07/clip-image0014.jpg)
 
+[Archive](https://web.archive.org/web/20221119023914/https://learn.microsoft.com/en-us/archive/blogs/jcoyne/its-the-end-for-3-11)
+
+![EndWin311](./images/endwin311.png)

@@ -8,9 +8,9 @@ aliases:
 description: "There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. R..."
 author: "Alex Verboon"
 tags:
-  - Uncategorized
-categories:
   - virtualization
+categories:
+  - Various
 ---
 There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. 
 

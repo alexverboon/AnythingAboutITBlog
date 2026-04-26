@@ -12,7 +12,7 @@ tags:
   - EntraID
   - KQL
 categories:
-  - Microsoft Sentinel
+  - EntraID
 ---
 
 Hello there,

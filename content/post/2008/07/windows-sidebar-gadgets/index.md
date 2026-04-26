@@ -12,15 +12,15 @@ tags:
   - Uncategorized
   - Windows
 categories:
-  - tip
+  - Tips
 ---
 Once announced as one of the great new features in Windows Vista, it has become silent around the Sidebar gadgets. To me it looks like people have ran out of ideas about what could be *gadgetized*. 
 
   You find tons of Vista sidebar gadgets that display the weather, latest news, stocks, clocks and a whole range of search gadgets. Then there is another set of tools and utilities where most seem to focus on displaying some system information. 
 
-              [
 ![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2008/07/image.png)         From time to time i browse the gadgets galleries on [Windows Live Sidebar Gadgets](http://vista.gallery.microsoft.com/vista/SideBar.aspx?mkt=en) and today found the Outlook  Info gadget which i found somehow quite nice and useful.           
+
+      From time to time i browse the gadgets galleries on [Windows Live Sidebar Gadgets](http://vista.gallery.microsoft.com/vista/SideBar.aspx?mkt=en) and today found the Outlook  Info gadget which i found somehow quite nice and useful.           
           
 First i downloaded and installed it and as expected it then appeared in my sidebar, this actually started make me wondering where this thing got installed on the system.           
           

@@ -13,8 +13,7 @@ tags:
   - script
   - Windows
 categories:
-  - automation
-  - deployment
+  - Tips
 ---
 I posted this a couple of years ago into the MyITforum site and received plenty of replies on this, as at that stage it was an unknown trick. Below the trick how to enable the Windows XP quicklaunch bar by using a registry hack.
 

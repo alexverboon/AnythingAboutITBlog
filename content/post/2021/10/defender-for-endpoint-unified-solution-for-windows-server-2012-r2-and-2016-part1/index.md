@@ -11,9 +11,8 @@ image: "img/post-heroes/defender-for-endpoint-unified-solution-for-windows-serve
 tags:
   - defenderforendpoint
   - unified
-  - Windows
+  - Windows Server
 categories:
-  - Windows
   - Microsoft Defender XDR
 ---
 

@@ -10,7 +10,7 @@ author: "Alex Verboon"
 tags:
   - mesh
 categories:
-  - live-mesh
+  - Cloud
 ---
 Already heard of Microsoft's new service called Live Mesh ? If not, have a look here:
 [http://www.on10.net/blogs/nic/Hands-on-with-Live-Mesh/](http://www.on10.net/blogs/nic/Hands-on-with-Live-Mesh/)
