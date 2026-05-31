@@ -26,7 +26,7 @@ This can happen when for example a co-worker who works on a project for a client
 This triggered the idea write some MTP advanced hunting queries on public free e-mail services. In the first query, I going to look at the e-mail **received** from free e-mail services.
 
 The variable **emailservicedomains** contains a list of most popular free email services across the globe.
-```
+```kql
 // Query 1:
 // Summary of e-mail RECEIVED from free web mail services
 let timeframe = 7d;
@@ -61,7 +61,7 @@ By adding | render piechart at the end of query we get a nice graph.
 ![](images/092220_2151_MTPAdvanced3.png)
 
 Now let's turn things around and take a look at how much e-mail is **send** to free e-mail service domains.
-```
+```kql
 // Query2
 // Summary of e-mail SEND to free web mail services
 let timeframe = 7d;
@@ -92,7 +92,7 @@ What we get is a list of all the e-mail send **to** the defined e-mail domains.
 ![](images/092220_2151_MTPAdvanced4.png)
 
 Next, let's take a look at emails where user impersonation was detected.
-```
+```kql
 // Query 3:
 // find potential impersonation
 let timeframe = 7d;
@@ -132,4 +132,3 @@ Change the query as following to identify the users affected
 As always, I hope you enjoyed reading this blog post, comments, suggestions are always welcome
 
 Alex
-

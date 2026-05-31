@@ -23,13 +23,13 @@ Open Windows PowerShell as Administrator and run the following command to instal
 
 ```powershell
 Install-Module AutomatedLab -AllowClobber
-```
+`powershell
 
 Next run the following command to create the Lab sources folder
 
 ```powershell
 New-LabSourcesFolder -Drive C
-```
+`powershell
 
 Now we have to [download](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso?wa=wsignin1.0) the Windows 11 ISO file and save it in the lab sources \ ISO folder as shown below. Note to access the Windows Insider download page, you must be a member of the Windows Insider program.
 
@@ -98,5 +98,3 @@ If you want to learn more about AutomatedLab I suggest to check out the followin
 - https://sysmansquad.com/2020/06/15/getting-started-with-automatedlab/
 
 Enjoy Windows 11!
-
-

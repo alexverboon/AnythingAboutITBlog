@@ -41,7 +41,7 @@ tags:
 
   
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -130,4 +130,3 @@ Else
 Get-ComputerGeoLocation
 
 ```
-

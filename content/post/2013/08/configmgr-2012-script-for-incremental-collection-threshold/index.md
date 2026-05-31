@@ -30,7 +30,7 @@ As described within the [ConfigMgr 2012 Best Practices Wiki](http://social.techn
 
     **Value** **Description**  1 Manual  2 Periodic  4 CONSTANT_UPDATE  6 CONSTANT_UPDATE and PERIODIC The following script uses the ConfigMgr CmdLets Get-CMDeviceCollection and Get-CMUserCollection to retrieve Device and User Collections that have incremental updates enabled.    
 
-```
+`powershell
 
 # Import the Configuration Manager PS Module (You must have the Admin Console installed for this to work)
 
@@ -52,4 +52,3 @@ $a
 write-host  "Total User Collections with dynamic update enabled " $b.count
 
 ```
-

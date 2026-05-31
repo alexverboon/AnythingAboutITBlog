@@ -16,7 +16,7 @@ tags:
 ---
 The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. 
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -94,4 +94,3 @@ $info | Out-GridView -Title "$Title"
 Get-UpdateGroupcontent
 
 ```
-

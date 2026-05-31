@@ -24,7 +24,7 @@ I recently came across a FREE utility called [IsCommandLineApp](http://helgeklei
    
 
   
-```
+`powershell
 
 # =====================================================================
   
@@ -119,4 +119,3 @@ $files = get-childitem $StartPath -filter *.exe -recurse
 ```
 
 To get all the results into a text file run listcommandlineapps.ps1 >allcmdapps.txt
-

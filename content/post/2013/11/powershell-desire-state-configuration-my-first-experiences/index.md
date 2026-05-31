@@ -23,7 +23,7 @@ During the past weeks I have been reading and listening about PowerShell Desired
 
   
 
-```
+`powershell
 #Configuration settings for the Foo Corp Client to demonstrate DSC
 
 Configuration ClientConfig
@@ -55,7 +55,7 @@ Node $MachineName
 # Save the MOF file
 ClientConfig -MachineName "localhost" -OutPutPath "c:\Data\DSC\ClientConfig" 
 
-```
+`powershell
 
 The result of running the above script is the **localhost.mof** file
 
@@ -108,11 +108,11 @@ GenerationHost="DEV001";
 
 Now that we have the configuration stored in a MOF file, let’s apply it to the local machine by running the following command. 
 
-```
+`powershell
 # Apply the Configuration
 Start-DscConfiguration -Path "c:\Data\DSC\ClientConfig" -wait -Verbose 
 
-```
+```powershell
 
 ![2013-11-16_18h18_01](images/2013-11-16_18h18_01_thumb.png)
 
@@ -130,19 +130,19 @@ Speaking about the Event log, if you open the Event log viewer, you will find a 
 
 To see what configuration is stored on the system, we can simply run the following command
 
-```
+`powershell
 Get-DSCConfiguration
 
-```
+`powershell
 
 ![2013-11-16_19h54_40](images/2013-11-16_19h54_40_thumb.png)
 
 To check whether our system is still compliant we run the following command
 
-```
+`powershell
 Test-DscConfiguration -Verbose
 
-```
+```powershell
 
 ![2013-11-16_19h57_31](images/2013-11-16_19h57_31_thumb.png)
 
@@ -154,19 +154,19 @@ What is interesting is that as soon as it detected that the registry setting is 
 
 The engine that drives the Desired State Configuration is called the Local Configuration Manager. By running the following command we can see the Local Configuration Manager’s current configuration. 
 
-```
+`powershell
 Get-DscLocalConfigurationManager
 
-```
+`powershell
 
 ![2013-11-16_20h18_20](images/2013-11-16_20h18_20_thumb.png)
 
 It took me a bit to find this one out, but after putting together the following command
 
-```
+`powershell
 Get-CimClass -Namespace root/Microsoft/Windows/DesiredStateConfiguration -ClassName MSFT_DSCMetaConfiguration | Select-Object -ExpandProperty CimClassProperties | Select-Object @{Label="ConfigSetting";Expression={$_.Name}} -ExpandProperty Qualifiers
 
-```
+```powershell
 
 we know that there are three Configuration Modes. ApplyOnly, ApplyAndMonitor, ApplyAndAutoCorrect. On a Windows 8.1 client the default is ApplyAndMonitor. We look at how to change this in just a moment. 
 
@@ -176,12 +176,12 @@ During my DSC discovery journey I also found out that there is a Scheduled Task 
 
 To find out what actions these tasks perform, we can use the following command. 
 
-```
+`powershell
 # Get the Scheduled Task Execution Information
 $DSCTasks = Get-ScheduledTask | Select-Object TaskName -ExpandProperty Actions| Select-Object TaskName, Execute, Arguments 
 $DSCTasks | Select-Object TaskName, Execute, Arguments | Where-Object {$_.Arguments -like "*desired*"} | format-list *
 
-```
+`powershell
 
 ![2013-11-16_20h44_24](images/2013-11-16_20h44_24_thumb.png)
 
@@ -195,15 +195,15 @@ Now that we know that DSC is triggered through a Scheduled Task let’s change o
 
 Run the Scheduled Task and and then check the event log
 
-```
+`powershell
 Start-ScheduledTask -TaskName "Consistency" -TaskPath "\Microsoft\Windows\Desired State Configuration\"
 
-```
+```powershell
 
-```
+`powershell
 Get-WinEvent -ProviderName "Microsoft-Windows-DSC" -MaxEvents 10  | Select-Object TimeCreated, ID, LevelDisplayName, Message | format-list 
 
-```
+`powershell
 
 ![2013-11-16_21h02_01](images/2013-11-16_21h02_01_thumb.png)
 
@@ -215,7 +215,7 @@ Remember that we spoke about the Configuration Modes earlier. By default the loc
 
 Configuring the Local Configuration Manager works just like creating any other configuration  You just include the local configuration manager configuration within an existing configuration by adding a LocalConfigurationManager block inside the Node block, or create a separate script as shown below. 
 
-```
+`powershell
 # Configuration Settings for DSC Local Configuration Manager
 
 Configuration LocalCfgMgr
@@ -233,18 +233,18 @@ Node $MachineName
 # Write MOF File
 LocalCfgMgr -MachineName localhost -OutPutPath "c:\Data\DSC\LocalCfgMgr" 
 
-```
+```powershell
 
 This time the MOF file created is called localhost.**meta**.mof
 ![2013-11-16_21h13_27](images/2013-11-16_21h13_27_thumb.png)
 
 ****To change the Local Configuration Manager configuration, we run the following command
 
-```
+`powershell
 # Set DSCLocalConfiguration Manager configuration settings
 Set-DscLocalConfigurationManager -Path "C:\Data\DSC\LocalCfgMgr" -Verbose
 
-```
+`powershell
 
 Running the Get-DscLocalConfigurationManager now shows the new configured Configuration Mode. 
 ![2013-11-16_21h22_06](images/2013-11-16_21h22_06_thumb.png)
@@ -254,7 +254,7 @@ If you change the ConfigurationModeFrequencyMins value, the Scheduled Task gets 
 
 Now let’s run the Scheduled Task again and see what happens. 
 
-```
+`powershell
 start-ScheduledTask -TaskName "Consistency" -TaskPath "\Microsoft\Windows\Desired State Configuration\"
 
 ```
@@ -282,4 +282,3 @@ After running the Scheduled Task the missing registry got automatically re-creat
 - [Building a Desired State Configuration Infrastructure](http://powershell.org/wp/2013/10/02/building-a-desired-state-configuration-infrastructure/)
 
 - [Desired State Configuration MOF Reference](http://msdn.microsoft.com/en-us/library/dn469247(v=vs.85).aspx)
-

@@ -16,7 +16,7 @@ tags:
 ---
 Here’s a function I wrote to create a large dummy file either filled with zero’s or random characters. The -Target parameter must be eitehr a file including the path or just the path. If the path does not exist, it will be created. If only a path is provided a file with a random file name is generated. 
 
-```
+`powershell
 Function New-BigFile {
 <#
 .Synopsis
@@ -152,28 +152,27 @@ Else
 } 
 } 
 
-```
+`powershell
 
 Run the following command to create a dummy file of 10 MB with random content
 
-```
+`powershell
 New-bigfile c:\temp\lf 10 random  -Verbose 
 
-```
+```powershell
 
 Run the following command to create a dummy file dummy10mb.txt with random content
 
-```
+`powershell
 New-bigfile c:\temp\lf\dummy10mb.txt 10 random  -Verbose 
 
-```
+`powershell
 
 Run the following command to create a dummy file of 20 MB filled with zeros
 
-```
+`powershell
 New-bigfile c:\temp\lf 20 empty-Verbose 
 
 ```
 
 If you prefer to see what is going on, add the -Showprogress option. And last but not least the function also supports the -whatif option.
-

@@ -17,7 +17,7 @@ tags:
 ---
 The below script provides a simple and quick method to find ConfigMgr Collections and its members. The script has a -Name parameter that accepts the exact or part of the collection name. Next all collections that match the name are listed. After selecting a collection, its members are listed. 
 
-```
+`powershell
 Function Get-CMColContent()
 {
 <#
@@ -82,4 +82,3 @@ Get-CMColContent -Name “All”
 ![SNAGHTMLa17ffb](images/SNAGHTMLa17ffb_thumb.png)
 
 ![SNAGHTMLa30678](images/SNAGHTMLa30678_thumb.png)
-

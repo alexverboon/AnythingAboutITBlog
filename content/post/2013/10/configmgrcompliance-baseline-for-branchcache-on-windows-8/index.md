@@ -29,7 +29,7 @@ Here’s a ConfigMgr Compliance baseline that checks the BranchCache configurati
   The following PowerShell commands are included within the configuration items. 
 
   
-```
+`powershell
 
 $bcstat = get-bcstatus | Select-Object -Property BranchCacheIsEnabled
 $($bcstat).BranchCacheIsEnabled
@@ -55,4 +55,3 @@ Or as following when things are NOT Compliant. 
 ![image](images/image_thumb2.png)
 
 You can download the exported Win8-BranchCache.cab fie from here: [http://sdrv.ms/GKMDyE](http://sdrv.ms/GKMDyE)
-

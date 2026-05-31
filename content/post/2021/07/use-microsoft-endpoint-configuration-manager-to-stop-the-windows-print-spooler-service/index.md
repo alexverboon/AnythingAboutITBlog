@@ -26,7 +26,7 @@ I guess by now, everyone has heard of the Windows Print Spooler Remote Code Exec
 
 We can leverage CMPivot to find systems where the print spooler service is running and configured to start automatically by running the following query:
 
-```
+```kql
 Services
 | where Name == 'spooler'
 | project Device,Startmode,State,Name
@@ -64,7 +64,7 @@ Process{
     }
 }
 End{}
-```
+`powershell
 
 ![](images/070321_1315_UseMicrosof2.png)
 
@@ -117,5 +117,3 @@ End{}
 Hope this helps you with your mitigation actions.
 
 Alex
-
-

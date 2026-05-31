@@ -33,19 +33,17 @@ Let us take a look at on particular event where the local Administrators group w
 
 Great, so we have a way to monitor changes to local groups, now let us continue to change the query a bit , so that we just return the data we actually need. First, we extract the SID of the user account from the **AdditionalFields** that was added to the group, the **AccountName** represents the local group name, so we call this field LocalGroup, the **AccountSID** represents the SID of the modified local group, so call this field LocalGroupSID.  The **InitiatingProcessAccountName** refers to who made the change, so we call this field Actor.
 
-![](images/090620_0816_HuntingforL3.png)DeviceEvents
+![](images/090620_0816_HuntingforL3.png)
 
+```kql
+DeviceEvents
 | where ActionType == 'UserAccountAddedToLocalGroup'
-
 | extend AddedAccountSID = tostring(parse_json(AdditionalFields).MemberSid)
-
 | extend LocalGroup = AccountName
-
 | extend LocalGroupSID = AccountSid
-
 | extend Actor = trim(@"[^\w]+",InitiatingProcessAccountName)
-
 | project Timestamp , DeviceName, AddedAccountSID , LocalGroup , LocalGroupSID , Actor
+```
 We now have a clear view of users that were added to a local group on the device, but we only have the SID of the user that was added, if we want to know the user account name we would have to lookup the SID of the user on the local device or within active directory.
 
 ![](images/090620_0816_HuntingforL4.png)
@@ -86,7 +84,7 @@ Now,  who are the most active Actors (administrators) making local group members
 
 ![](images/090620_0816_HuntingforL13.png)
 
-Want try it out yourself, here's the AH query to copy paste into your own environment: [https://gist.github.com/alexverboon/ad59c3b0f8bbace142bd3acaac5b6ad9](#)
+Want try it out yourself, here's the AH query to copy paste into your own environment: [https://gist.github.com/alexverboon/ad59c3b0f8bbace142bd3acaac5b6ad9](https://gist.github.com/alexverboon/ad59c3b0f8bbace142bd3acaac5b6ad9)
 
 And for all of you who do not have Microsoft Defender ATP, but use Microsoft Endpoint Configuration Manager, you can also query the security event log for local group membership changes with CMPivot by querying the security log for EventID [4732](#)![](images/090620_0816_HuntingforL14.png)
 

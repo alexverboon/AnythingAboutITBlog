@@ -19,9 +19,9 @@ Hello everyone, in today's article we are going to take look at how we can use T
 
 # URLhaus
 
-URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution. [https://urlhaus.abuse.ch/](#) The project provides several ways to find and retrieve information about malware URLs.
+URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution. [https://urlhaus.abuse.ch/](https://urlhaus.abuse.ch/) The project provides several ways to find and retrieve information about malware URLs.
 
-You can browse the URL database interactively through [https://urlhaus.abuse.ch/browse/](#)![](images/062120_1454_DefenderATP1.png)
+You can browse the URL database interactively through [https://urlhaus.abuse.ch/browse/](https://urlhaus.abuse.ch/browse/)![](images/062120_1454_DefenderATP1.png)
 
 You can also download the database in various formats such as a CSV file that contains the following information:
 
@@ -49,11 +49,11 @@ Advanced hunting in Microsoft Defender ATP is based on the [Kusto query language
 
 Let me show two examples using two data sources from URLhaus. First we are going to retrieve the URLhaus detailed database information containing online URLs.
 
-[https://urlhaus.abuse.ch/downloads/csv_online/](#)![](images/062120_1454_DefenderATP4.png)
+[https://urlhaus.abuse.ch/downloads/csv_online/](https://urlhaus.abuse.ch/downloads/csv_online/)![](images/062120_1454_DefenderATP4.png)
 
 In the following example, we use the online URLs only list.
 
-[https://urlhaus.abuse.ch/downloads/text_online/](#)![](images/062120_1454_DefenderATP5.png)
+[https://urlhaus.abuse.ch/downloads/text_online/](https://urlhaus.abuse.ch/downloads/text_online/)![](images/062120_1454_DefenderATP5.png)
 
 And how about looking at malicious all URLs from the URLhaus database whose domain name resolve to an IP address associated with a particular geo IP location (country code)? (*To see data related to your country, simply change the country code i.e. NL, US etc.* )
 

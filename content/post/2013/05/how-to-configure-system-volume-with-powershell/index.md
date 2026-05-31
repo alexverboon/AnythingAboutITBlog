@@ -35,7 +35,7 @@ Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://
 
  ****
 
-```
+`powershell
 
  <#   
     .SYNOPSIS   
@@ -84,4 +84,3 @@ If you do not want to permanently install the module on the device, just place t
 I have tested the script on Windows 8 64 bit and Windows 7 64 Bit and on 3 different hardware models. 
 
 That’s it
-

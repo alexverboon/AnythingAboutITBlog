@@ -19,7 +19,7 @@ While reviewing ConfigMgr status messages for clients reporting problems acquiri
 
  ![SNAGHTML11ce803](images/SNAGHTML11ce803_thumb.png)
 
-```
+`powershell
 function Get-xCMContentIDforApp
 {
 <#
@@ -91,4 +91,3 @@ End
 }
 
 ```
-

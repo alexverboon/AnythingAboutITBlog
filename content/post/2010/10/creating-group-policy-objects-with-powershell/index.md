@@ -59,7 +59,7 @@ To see the content of the registry.pol file I used the [RegistryPol Reader](http
 
 So now that I had the Registry key, value, type and data information I could actually start creating my Group Policy creation PowerShell Script that looks as following:
 
-```
+`powershell
 import-module -Name grouppolicy
 
 Write-Host "Creating Group Policy Object with name A_TestGPO"
@@ -83,4 +83,3 @@ Side note: Microsoft has used the ScreenSaveTimeOut setting in their CmdLet exam
 Here’s the new GPO called A_TestGPO created through PowerShell.
 
 ![2010-10-16 18h50_17](images/2010-10-16-18h50_17_thumb.png)
-

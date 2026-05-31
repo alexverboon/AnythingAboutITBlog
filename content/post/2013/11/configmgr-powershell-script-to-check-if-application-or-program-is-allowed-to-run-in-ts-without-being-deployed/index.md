@@ -25,7 +25,7 @@ Kind of a long title for a blog post, but I could not come up with something sho
   
 
   
-```
+`powershell
 
 <#
 .Synopsis
@@ -129,4 +129,3 @@ Get-TSInstallEnabled
 - [Application.AutoInstall Property](http://msdn.microsoft.com/en-us/library/hh947725.aspx) 
 
 - [Application Members](http://msdn.microsoft.com/en-us/library/hh946964.aspx)
-

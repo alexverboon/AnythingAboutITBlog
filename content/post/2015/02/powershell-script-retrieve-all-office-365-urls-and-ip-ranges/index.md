@@ -24,7 +24,7 @@ This week I took the [Office 365 Performance Management](http://www.microsoftvir
    
 
   
-```
+`powershell
 function Get-Office365URLIPInfo
 {
 <#
@@ -195,4 +195,3 @@ End{
 When you run the script, you get a list of all URLs or IP Ranges and the related Service.
 
 ![office365](images/office365_thumb.png)
-

@@ -33,7 +33,7 @@ Here’s a PowerShell script we recently wrote to show the source path location 
   before executing the script, connect to your site. 
 
   
-```
+`powershell
 
 clear-host
 
@@ -199,4 +199,3 @@ GetInfoPackages | Format-Table -AutoSize
 ```
 
 Thanks to Claude Henchoz for helping me out with the the Applications function.
-

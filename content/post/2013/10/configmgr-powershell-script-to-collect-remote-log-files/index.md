@@ -41,7 +41,7 @@ Looking at a client’s ConfigMgr Agent log files is inevitable when managing a 
 
  ![image](images/image_thumb8.png)
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -484,4 +484,3 @@ Note that the script is written to work with Configuration Manager 2012 Clients.
 Any comments, inputs are welcome. 
 
 Happy log file collecting!
-

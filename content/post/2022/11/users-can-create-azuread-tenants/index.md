@@ -78,8 +78,7 @@ AuditLogs
 | extend InitiatedByIP = tostring(parse_json(tostring(InitiatedBy.user)).ipAddress)
 | extend TenantId = tostring(TargetResources[0].id)
 | project TimeGenerated, OperationName, TenantId, InitiatedByUser, InitiatedByIP
-```
-
+```kql
 ```kusto
 // AzureAD - Allow users to create tenants - enabled
 AuditLogs
@@ -95,5 +94,4 @@ AuditLogs
 | project TimeGenerated, OperationName, Setting, newValue, oldValue, InitiatedByUser, InitiatedByIP, SourceSystem
 | where newValue == "true"
 ```
-
 

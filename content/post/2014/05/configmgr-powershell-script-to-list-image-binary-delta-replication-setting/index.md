@@ -21,7 +21,7 @@ Here’s a script that lists all Boot and Operating system images stored within 
 
   
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -79,4 +79,3 @@ function Get-CMImgBDRSetting
 }
 
 ```
-

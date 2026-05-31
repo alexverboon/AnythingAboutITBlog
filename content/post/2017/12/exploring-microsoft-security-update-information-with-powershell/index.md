@@ -34,21 +34,21 @@ Go to [https://portal.msrc.microsoft.com/en-us/developer](https://portal.msrc.mi
 
 Next open PowerShell and install the MsrcSecurityUpdates Module.
 
-```
+`powershell
 ### Install Module
 Install-Module -Name MsrcSecurityUpdates
 ### Load the module
 Import-Module -Name MsrcSecurityUpdates
-```
+`powershell
 
  
 
 Set the API key using the following command:
 
-```
+`powershell
 $apikey = "<PASTE KEY HERE>"
 Set-MSRCApiKey -ApiKey $apikey
-```
+```powershell
 
  
 
@@ -56,15 +56,15 @@ Okay, now we are ready to explore security update information through PowerShell
 
 To get a list of all Security updates that are available through the API simply enter the following command:
 
-```
+`powershell
 Get-MsrcSecurityUpdate
-```
+`powershell
 
  
 
 Now let’s take a look at the most recent update from December 2017.
 
-```
+`powershell
 $id = Get-MsrcCvrfDocument -ID '2017-Dec'
 $affsw = Get-MsrcCvrfAffectedSoftware -Vulnerability $id.Vulnerability -ProductTree $id.ProductTree
 $affsw
@@ -72,13 +72,13 @@ $cvesum = Get-MsrcCvrfCVESummary -Vulnerability $id.Vulnerability -ProductTree $
 $cvesum
 $explind = Get-MsrcCvrfExploitabilityIndex -Vulnerability $id.Vulnerability
 $explind
-```
+```powershell
 
  
 
 To generate a report with all CVE details included, we use the following command:
 
-```
+`powershell
 Get-MsrcVulnerabilityReportHtml -Vulnerability $id.Vulnerability -ProductTree $id.ProductTree | Out-File -FilePath "C:\temp\$($id.documenttitle).html"
 Invoke-Item -Path "C:\temp\$($id.documenttitle).html"
 ```
@@ -99,4 +99,3 @@ PowerShell script that uses the Security Update API
  	
 - Security Update API
 [https://portal.msrc.microsoft.com/en-us/developer](https://portal.msrc.microsoft.com/en-us/developer)
-

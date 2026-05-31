@@ -30,7 +30,7 @@ Let’s assume you’ve just created a larger number of packages within SCCM 201
   **Note**: Before running the below script make sure you’re connected to the site through PowerShell.  Also make sure to set the variable $OldPath1 according to your environment. 
 
   
-```
+`powershell
 
 # Define output file
 $script_parent = Split-Path -Parent $MyInvocation.MyCommand.Definition
@@ -43,7 +43,7 @@ $OldPath1 = "\\LABSCCM01\Sources\Packages"
 Get-CMPackage | Select-object Name, PkgSourcePath, PackageID | Where-Object {$_.PkgSourcePath.ToLower().contains($OldPath1.ToLower())} |  Export-Csv $csv_path -Encoding Unicode -NoTypeInformation -delimiter "`t"
 
 }
-```
+`powershell
 
  
 
@@ -53,7 +53,7 @@ The output generated looks as following.
 
 If we are sure that these are the packages we want to change, we copy paste the content and store into a new file called Update_Package_SrcPath.txt. Then open CMPackage_Update_SourcePath.ps1 containing the code below. Edit the variables $OldPath, $OldPath1 and $NewPath. If you just want to simulate things, add –whatif to the line that starts with Set-CMPackage 
 
-```
+`powershell
 
   <#   
     .SYNOPSIS   
@@ -158,4 +158,3 @@ Write-host "Completed" -ForegroundColor blue
 Going back to the Console we see the updated Source folders. 
 
 ![pacakge4](images/pacakge4_thumb.png)
-

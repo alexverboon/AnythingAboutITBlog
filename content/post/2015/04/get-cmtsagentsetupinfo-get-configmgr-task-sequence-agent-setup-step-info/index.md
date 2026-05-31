@@ -31,7 +31,7 @@ The script retrieves the following information:
 
 The script can be downloaded form the Microsoft Script Center [here](https://gallery.technet.microsoft.com/scriptcenter/Get-CMTSAgentSetupInfops1-04ed5981)
 
-```
+`powershell
 Function Get-CMTSAgentSetupInfo
 <#
 .Synopsis
@@ -135,4 +135,3 @@ End {
     }
 }
 ```
-

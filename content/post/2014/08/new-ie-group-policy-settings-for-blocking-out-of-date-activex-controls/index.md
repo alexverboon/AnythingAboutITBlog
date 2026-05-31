@@ -62,7 +62,7 @@ As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-be
  If you enable this policy setting, you can enter a custom list of domains for which outdated ActiveX controls won't be blocked in Internet Explorer. Each domain entry must be formatted like one of the following:
 
  1. "domain.name.TLD". For example, if you want to include *.contoso.com/*, use "contoso.com"
-2. "hostname". For example, if you want to include [http://example](#), use "example"
+2. "hostname". For example, if you want to include [http://example](http://example), use "example"
 3. "file:///path/filename.htm". For example, use "file:///C:/Users/contoso/Desktop/index.htm"
 
  If you disable or don't configure this policy setting, the list is deleted and Internet Explorer continues to block specific outdated ActiveX controls on all domains in the Internet Zone.

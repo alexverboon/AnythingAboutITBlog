@@ -21,7 +21,7 @@ Just recently I went through the CM12 Console Task Sequence media creation wizar
   CreateTaskMedia.ps1
 
   
-```
+`powershell
 
 import-module ($Env:SMS_ADMIN_UI_PATH.Substring(0,$Env:SMS_ADMIN_UI_PATH.Length-5) + '\ConfigurationManager.psd1')
 cd NL1:
@@ -49,4 +49,3 @@ A detailed description of the command line options available for CreateMedia.exe
 All Task Sequence Media creation task activities are logged here: 
   
 "C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\AdminUILog\CreateTsMedia.log"
-

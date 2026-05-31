@@ -61,7 +61,7 @@ When running Get-MCASCredential we can set the credentials for the current Power
 
 Run the following commands (replace the URL and API Token with your information).
 
-```
+`powershell
 # Set the MCAS Credential Variable
 $MCASToken="<YOUR TOKEN>"
 $MCASUrl="<YOUR URL>"
@@ -97,4 +97,3 @@ Or if we want to see all events form a partical user we can run
 Get-MCASActivity -UserName "jane@verboon.org"
 
 So that's it for today, in Part 2, we'll look into more details and examples using PowerShell to explore Microsoft Cloud App Security. Stay tuned.
-

@@ -26,7 +26,7 @@ Below is an example of Credential dumping, when you look at the MITRE ATT&CK mat
 
 Now if you want to advance your Microsoft Defender ATP hunting skills, you need *data* to hunt for. By data I mean that we have to feed MDATP with data. A while ago I found the [Atomic Red Team](#) Git repository. This repository contains tests that allows you to execute several techniques used by adversaries and…. They are mapped to MITRE ATT&CK.
 
-Okay enough about the theory, let's get back to the keyboard. To run the tests on Windows we first need to  install the Atomic test execution framework that's hosted here on GitHub [https://github.com/redcanaryco/invoke-atomicredteam](#) and the documentation for it can be found here: [https://github.com/redcanaryco/invoke-atomicredteam/wiki](#)
+Okay enough about the theory, let's get back to the keyboard. To run the tests on Windows we first need to  install the Atomic test execution framework that's hosted here on GitHub [https://github.com/redcanaryco/invoke-atomicredteam](https://github.com/redcanaryco/invoke-atomicredteam) and the documentation for it can be found here: [https://github.com/redcanaryco/invoke-atomicredteam/wiki](https://github.com/redcanaryco/invoke-atomicredteam/wiki)
 
 Note: I suggest that you perform the following tasks on a test client and not on your own device. Although these are just simulations and the tests do include cleanup tasks, things might be left behind that you would then have to cleanup manually. (*Like notepad and calculator that continue to startup on one of my test devices upon every user logon* )
 
@@ -43,7 +43,7 @@ And you see, we have several tests for the techniques available.
 If you want to get more information about the individual tests, just run the following command
 Invoke-AtomicTest -AtomicTechnique T1197 -ShowDetails![](images/060520_1235_Advanceyour5.png)
 
-Okay, now let's run the test, T1003 , Credential Dumping: [https://attack.mitre.org/techniques/T1003/](#)Invoke-AtomicTest -AtomicTechnique T1003![](images/060520_1235_Advanceyour6.png)![](images/060520_1235_Advanceyour7.png)
+Okay, now let's run the test, T1003 , Credential Dumping: [https://attack.mitre.org/techniques/T1003/](https://attack.mitre.org/techniques/T1003/)Invoke-AtomicTest -AtomicTechnique T1003![](images/060520_1235_Advanceyour6.png)![](images/060520_1235_Advanceyour7.png)
 
 Now let's turn over to Microsoft Defender ATP and see what's happening there, looks like our tests created some noise.
 
@@ -90,7 +90,7 @@ If you want to improve your advanced hunting skills in Microsoft Defender ATP, I
 
 Below you find some references to various collections of hunting queries:
 
-[https://github.com/DebugPrivilege/KQL-Queries/tree/master/MDAPT](#)[https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries](#)[https://github.com/CGCFAD/WDATP-Advanced-Hunting](#)[https://github.com/richlilly2004/Microsoft-Defender-ATP](#)[https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries](#)[https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries](#)
+[https://github.com/DebugPrivilege/KQL-Queries/tree/master/MDAPT](https://github.com/DebugPrivilege/KQL-Queries/tree/master/MDAPT)[https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)[https://github.com/CGCFAD/WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)[https://github.com/richlilly2004/Microsoft-Defender-ATP](https://github.com/richlilly2004/Microsoft-Defender-ATP)[https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)[https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 
 If you happen to have a Pluralsight subscription, I recommend the course [Kusto Query Language (KQL) from Scratch](#)
 

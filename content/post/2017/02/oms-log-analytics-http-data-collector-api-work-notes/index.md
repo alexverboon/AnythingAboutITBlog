@@ -36,9 +36,9 @@ I believe that the Microsoft Operations Management Suite is yet another example 
 
  When running the command:
 
-```
+`powershell
 Get-AzureRmOperationalInsightsWorkspace
-```
+`powershell
 
 We get the the following output:
 
@@ -51,7 +51,7 @@ The Microsoft Operations Management suite provides a HTTP Data Collector API to 
 
 In the following example, we are going to submit custom data to the OMS workspace we just created. Let’s start with setting some variables:
 
-```
+`powershell
 #OMS workspace Name
 $OMSWorkspacename = "APIDemo"
 
@@ -64,22 +64,22 @@ $customerId = (Get-AzureRmOperationalInsightsWorkspace | Where-Object {$_.Name -
 # Primary Shared Key
 $sharedKey = (Get-AzureRmOperationalInsightsWorkspaceSharedKeys -ResourceGroupName $resourcegroupname -Name $OMSWorkspacename).PrimarySharedKey
 
-```
+```powershell
 
 As a next step we define the LogType and the TimeStampField reference. The LogType is the name of our custom log that will be created. The TimeStampField is a reference to the Field that contains the date-time stamp. (For more details look at the [Request Headers](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-collector-api) section). 
 
-```
+`powershell
 # Specify the name of the record type that you'll be creating
 $LogType = "MyComputers"
 
 # Specify a field with the created time for the records
 $TimeStampField = "DateValue"
 
-```
+`powershell
 
 Next we define the data that we want to submit:
 
-```
+`powershell
 $json = @"
 [{
     "MyComputerName": "Computer10",
@@ -104,11 +104,11 @@ $json = @"
 }]
 "@
 
-```
+```powershell
 
 And finally the code to submit the data to OMS, The Build-Signature and Post-OMSData functions originate from [example](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-collector-api) provided by Microsoft. 
 
-```
+`powershell
 # Create the function to create the authorization signature
 Function Build-Signature ($customerId, $sharedKey, $date, $contentLength, $method, $contentType, $resource)
 {
@@ -160,16 +160,16 @@ Function Post-OMSData($customerId, $sharedKey, $body, $logType)
 # Submit the data to the API endpoint
 Post-OMSData -customerId $customerId -sharedKey $sharedKey -body ([System.Text.Encoding]::UTF8.GetBytes($json)) -logType $logType
 
-```
+`powershell
 
 If all went well we get a return code of “**200**” All possible return codes are documented [here](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-collector-api) in the Return Codes section. Let’s have a look if the data was successfully submitted, for this we can run the following command:
 
-```
+`powershell
 $dynamicQuery = "* Type=MyComputers_CL"
 $result = Get-AzureRmOperationalInsightsSearchResults -ResourceGroupName $ResourceGroupName -WorkspaceName $OMSWorkspacename -Query $dynamicQuery -Top 100
 $result.Value | ConvertFrom-Json
 
-```
+```powershell
 
 ![image](https://i1.wp.com/www.verboon.info/wp-content/uploads/e706d27f3053_964D/image_6.png)
 
@@ -177,7 +177,7 @@ $result.Value | ConvertFrom-Json
 
 When submitting data for the first time to OMS, the log analytics schema is extended with the custom fields defined within the json object. I wrote a little helper function that retrieves the Log Analytics schema information. The Get-OMSSchemaInfo cmdlet can be downloaded from [here](https://github.com/alexverboon/posh/blob/master/Azure/OMS/Get-OMSSchemaInfo.ps1). 
 
-```
+`powershell
 Get-OMSSchemaInfo -ResourceGroupName $ResourceGroupName -WorkSpaceName $OMSWorkspacename | Where-Object {$_.OwnerType -like "MyComputers*"}
 
 ```
@@ -224,4 +224,3 @@ Other useful resources that helped me throughout my OMS exploration process:
 [https://www.youtube.com/watch?v=oysafpYZl38](https://www.youtube.com/watch?v=oysafpYZl38)
 Great introduction from Marc Kean on Log Analytics
 [https://www.youtube.com/watch?v=5qq4mBUJ6aQ](https://www.youtube.com/watch?v=5qq4mBUJ6aQ)
-

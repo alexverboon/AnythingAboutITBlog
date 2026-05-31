@@ -24,7 +24,7 @@ Hey there, when i watched the last edition of “[The Defrag Show](http://channe
 
  To find out how your client last booted, you can use the below powrshell code
 
-```
+`powershell
 $boot = Get-WinEvent -ProviderName Microsoft-Windows-Kernel-boot  -MaxEvents 10 | Where-Object {$_.message -like "The boot type*"}
 $boot| format-list 
 
@@ -35,4 +35,3 @@ $boot| format-list
 - 0x1 indicates that the system did a fast startup
 
 - 0x0 indicates that the system did a cold boot
-

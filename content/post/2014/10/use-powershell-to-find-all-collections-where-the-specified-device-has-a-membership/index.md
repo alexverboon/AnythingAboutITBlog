@@ -23,7 +23,7 @@ The Get-CMCollectionOfDevice command retrieves all collections where the specifi
 
 The Script can be downloaded from [here](https://gallery.technet.microsoft.com/Get-CMCollectionOfDevice-13a130b3)
 
-```
+`powershell
 <#
 .SYNOPSIS
     Get-CMCollectionOfDevice retrieves all collections where the specified device has a membership
@@ -139,4 +139,3 @@ End
 }
 
 ```
-

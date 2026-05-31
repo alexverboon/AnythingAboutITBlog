@@ -23,7 +23,7 @@ Today we’ve been looking at App-V 4.6 package settings before and after migrat
 
   
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -118,4 +118,3 @@ $appv | Select-Object -Property $selcol
 }
 
 ```
-

@@ -17,12 +17,12 @@ tags:
 ---
 I was recently writing some advanced hunting queries for Microsoft Defender ATP to search for the execution of specific PowerShell commands. If you are just looking for one specific command, you can run query as sown below
 
-```
-`// Find all machines running a given Powersehll cmdlet. 
+```kql
+// Find all machines running a given Powersehll cmdlet.
 let powershellCommandName = "Invoke-RickAscii"; 
 DeviceEvents 
 | where ActionType == "PowerShellCommand" 
-| where AdditionalFields contains powershellCommandName`
+| where AdditionalFields contains powershellCommandName
 ```
 But if you are looking for several functions, then there is going to be a lot of manual editing, and so the idea was born to use PowerShell to help me generate an advanced hunting query. The below function can do the following:
 
@@ -38,9 +38,8 @@ Below are a few examples how to use the script **New-KQPSModuleFunctions** (sorr
 
 ![](images/071020_2310_GeneratingA2.png)And here the advanced hunting query with all the functions included in the **Powersploit** module
 
-![](images/071020_2310_GeneratingA3.png)The code can be found here: [https://gist.github.com/alexverboon/9ccf8af7569103397da2b8ba4079529d](#)
+![](images/071020_2310_GeneratingA3.png)The code can be found here: [https://gist.github.com/alexverboon/9ccf8af7569103397da2b8ba4079529d](https://gist.github.com/alexverboon/9ccf8af7569103397da2b8ba4079529d)
 
 That's it, have a great day
 
 Alex
-

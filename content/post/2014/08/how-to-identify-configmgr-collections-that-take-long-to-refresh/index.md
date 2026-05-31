@@ -18,7 +18,7 @@ I’ve put together the below PowerShell script this week to identify collection
 
   
 
-```
+`powershell
 Function Get-CMCollectionRefreshDuration
 {
 <#
@@ -123,4 +123,3 @@ End{
 ```
 
 Thanks to Roger Zander and Claude Henchoz for the SQL query to find these collections.
-

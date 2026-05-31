@@ -48,7 +48,7 @@ After a while we see the logs from [**AADServicePrincipalSignInLogs**](#)****com
 ![](images/101020_1404_MonitoringS7.png)
 
 Below is the query for the scheduled Query rule in Azure Sentinel. The query will return all logs of the service principal sign-in that do not originate from a known IP address.
-```
+```kql
 AADServicePrincipalSignInLogs
 | where ServicePrincipalName contains "MTPAPI"
 // your IP address
@@ -65,5 +65,4 @@ AADServicePrincipalSignInLogs
 After setting up the scheduled query rule and accessing the application from two other different locations an incident is created in Azure Sentinel.
 
 ![](images/101020_1404_MonitoringS9.png)**Additional Information
-**[https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins](#)[https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/aadserviceprincipalsigninlogs](#)
-
+**[https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins)[https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/aadserviceprincipalsigninlogs](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/aadserviceprincipalsigninlogs)

@@ -63,7 +63,7 @@ Find-Module AzureRM.OperationalInsights | Install-Module
 
 and check if it installed correctly:
 
-```
+`powershell
 Get-Module AzureRm.OperationalInsights
 ```
 
@@ -71,24 +71,24 @@ Most of the Azure OperationalInsights cmdlets require the Resource Group and Wor
 
 ```
 Find-AzureRmResource -ResourceType "Microsoft.OperationalInsights/workspaces"
-```
+`powershell
 
 ![image](images/image_thumb-4.png)
 
 So for my further code snippets I define the the following variables:
 
-```
+`powershell
 $ResourceGroupName = "mms-weu"
 $WorkSpaceName = "AlexVerboonOMS"
-```
+```powershell
 
 Okay, now let’s take a look if we have any saved searches (we have because i created two of them)
 
-```
+`powershell
 # Get Saved Searches
 $query = Get-AzureRmOperationalInsightsSavedSearch -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName
 $query.value |FL
-```
+`powershell
 
  
 
@@ -96,10 +96,10 @@ $query.value |FL
 
 To see the definition of the saved search  we’ll use the following code, note the **SavedSearchId** value
 
-```
+`powershell
 $query = Get-AzureRmOperationalInsightsSavedSearch  -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName -SavedSearchId "test|Drivers"
 $query.properties | FL
-```
+```powershell
 
  
 
@@ -107,10 +107,10 @@ $query.properties | FL
 
 Now let’s get the data.
 
-```
+`powershell
 $result = Get-AzureRmOperationalInsightsSavedSearchResults -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName -SavedSearchId "test|Drivers"
 $Drivers = $result.value | ConvertFrom-Json
-```
+`powershell
 
  
 
@@ -118,21 +118,21 @@ $Drivers = $result.value | ConvertFrom-Json
 
 Run a query directly without using a saved search? Here you go:
 
-```
+`powershell
 $dynamicQuery = "Manufacturer=*"
 $result = Get-AzureRmOperationalInsightsSearchResults -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName -Query $dynamicQuery -Top 10$result.Value | ConvertFrom-Json
-```
+```powershell
 
 And last but not least, let’s have a look at all the classes that are in OMS, by exploring the Schema.
 
-```
+`powershell
 $schema = Get-AzureRmOperationalInsightsSchema -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName
 $schemas = $schema.Value | Select-Object Name| Sort-Object Name
-```
+`powershell
 
 and here a quick and dirty script that outputs all the classes that actually hold data.
 
-```
+`powershell
 $datainfo = @()
 ForEach($s in $schemas)
 {
@@ -156,4 +156,3 @@ $datainfo
 
 That’s it for today, waiting for more data to come into my workspace 
 ![Smile](images/wlEmoticon-smile.png)
-

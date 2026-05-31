@@ -27,7 +27,7 @@ If you have not done so yet, install the Microsoft Graph PowerShell modules.
 ```powershell
 Find-Module -Name "Microsoft.Graph" | Install-Module -Scope CurrentUser
 Find-Module -Name Microsoft.Graph.Identity.AuthenticationMethods | Install-Module -Scope CurrentUser
-```
+`$lang
 
 Then run the following command.
 
@@ -60,7 +60,6 @@ The script and instructions can be found on GitHub here: [https://github.com/ale
 Hope you liked this blog post, as always feedback is welcome.
 
 Alex
-
 
 
 

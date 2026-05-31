@@ -19,7 +19,7 @@ In preparation of the Internet [Explorer out of date ActiveX control blocking](h
 
 You can download the script from [here](http://gallery.technet.microsoft.com/scriptcenter/Get-ActiveXControlLog-58d33184)
 
-```
+`powershell
 function Get-ActiveXControlLog
 {
 <#
@@ -115,4 +115,3 @@ function Get-ActiveXControlLog
     }
 }
 ```
-

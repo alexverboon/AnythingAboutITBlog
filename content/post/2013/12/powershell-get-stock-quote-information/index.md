@@ -16,7 +16,7 @@ tags:
 ---
 The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. 
 
-```
+`powershell
 
 <#
 .Synopsis
@@ -61,4 +61,3 @@ End{}
 ```
 
 ![2013-12-15_14h28_47](images/2013-12-15_14h28_47_thumb.png)
-

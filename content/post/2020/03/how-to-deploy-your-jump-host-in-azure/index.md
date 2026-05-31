@@ -45,7 +45,7 @@ To setup a jump host in Azure you need the following:
 # Setting up your Jump Host
 
 Follow the hereafter described instructions to setup your jump host in Azure.
-**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](#) and select **Virtual Machines**![](images/032920_1446_Howtodeploy2.png)**2**Select **Add
+**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](https://portal.azure.com) and select **Virtual Machines**![](images/032920_1446_Howtodeploy2.png)**2**Select **Add
 **![](images/032920_1446_Howtodeploy3.png)**3**If you have multiple Azure subscriptions select the subscription. Next select **Create New** to create a new Resource Group
 
 ![](images/032920_1446_Howtodeploy4.png)**4**Enter a **Name** for the resource group
@@ -96,7 +96,7 @@ Select **Next Advanced** at the bottom of the screen to move to the next configu
 
 ![](images/032920_1446_Howtodeploy18.png)**15**Configure the **VM Generation** option to **Gen 2**
 
-I selected a Generation 2 VM so that I can make use of as many features as possible, however please note that although Generation 2 VM are configured to use UEFI instead of BIOS, not all features are available. One important feature that is still missing is secure boot. For more details I recommend reading the Microsoft docs page [https://docs.microsoft.com/en-us/azure/virtual-machines/windows/generation-2?WT.mc_id=thomasmaurer-blog-thmaure](#) and Thomas Maurer's blog post [GENERATION 2 VM SUPPORT ON AZURE – AND WHY SHOULD I CARE?](#)
+I selected a Generation 2 VM so that I can make use of as many features as possible, however please note that although Generation 2 VM are configured to use UEFI instead of BIOS, not all features are available. One important feature that is still missing is secure boot. For more details I recommend reading the Microsoft docs page [https://docs.microsoft.com/en-us/azure/virtual-machines/windows/generation-2?WT.mc_id=thomasmaurer-blog-thmaure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/generation-2?WT.mc_id=thomasmaurer-blog-thmaure) and Thomas Maurer's blog post [GENERATION 2 VM SUPPORT ON AZURE – AND WHY SHOULD I CARE?](#)
 
 Select **Next Tags** at the bottom of the screen to move to the next configuration page.
 
@@ -123,7 +123,7 @@ To prevent port 3389 from being permanently open, you can use two methods:
 ## Configure Just in Time VM Access in Security Center
 
 Follow the below steps to enable Just in Time VM access using Azure Security Center
-**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](#) and select **Security Center**![](images/032920_1446_Howtodeploy24.png)**2**Within the Security Center portal, select **Just in time VM access**, then in the virtual machines list select **Recommended, **then select to VM to enable just in time VM access for then click on the **Enable JIT on VMs **button
+**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](https://portal.azure.com) and select **Security Center**![](images/032920_1446_Howtodeploy24.png)**2**Within the Security Center portal, select **Just in time VM access**, then in the virtual machines list select **Recommended, **then select to VM to enable just in time VM access for then click on the **Enable JIT on VMs **button
 
 ![](images/032920_1446_Howtodeploy25.png)**3**A list of ports is displayed that will only be enabled when using just in time VM access. By default, JIT activation lasts for 3 hours, if you feel that this is not enough click on a row and select the …. Menu at the end of the row to change the default settings. When completed save the settings.
 
@@ -135,13 +135,13 @@ Follow the below steps to enable Just in Time VM access using Azure Security Cen
 ## Manually Enabling RDP access
 
 Follow the below steps to manually configure access to RDP
-**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](#) and select the Jump Host virtual machine.**2**Select Networking, default-allow-RDP rule and then configure the Action Allow or Deny.
+**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](https://portal.azure.com) and select the Jump Host virtual machine.**2**Select Networking, default-allow-RDP rule and then configure the Action Allow or Deny.
 
 ![](images/032920_1446_Howtodeploy30.png)**3**You can of course use this as an alternative, just in case when you are not using Azure Security center, however the risk is high that you forget to toggle between deny and allow and so leave the machine vulnerable to RDP attacks while it's running unattended.
 # Accessing the Jump Host
 
 Now that you have completed the setup and configuration of your Jump Host, let's access it.
-**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](#) and select **Virtual Machines
+**#****Description****1**Logon to the **Azure Portal**[https://portal.azure.com](https://portal.azure.com) and select **Virtual Machines
 **![](images/032920_1446_Howtodeploy31.png)**2**Select your **Jump Host** virtual machine, and check the Status, if the VM is not running, select **Start**![](images/032920_1446_Howtodeploy32.png)**3**Once the your Jump Host VM is running, select **Connect, RDP**![](images/032920_1446_Howtodeploy33.png)**4**Next select **Request Access**![](images/032920_1446_Howtodeploy34.png)
 
 And wait for the access request to be **approved **and then select **Download RDP file**![](images/032920_1446_Howtodeploy35.png)**5**Select **Open file** when the RDP file is downloaded

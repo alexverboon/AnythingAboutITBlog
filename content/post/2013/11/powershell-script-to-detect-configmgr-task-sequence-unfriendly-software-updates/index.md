@@ -22,7 +22,7 @@ tags:
 
  The script published below, contains all KB numbers stored in the $KB variable. I recommend that you update the variable within the script as the online article gets updated with additional KB numbers. If you prefer to just check for one particular KB number, you can run the script using the –KB parameter.
 
-```
+`powershell
 <#
 .Synopsis
    Lists Software Updates found within Software Update Groups that can cause ConfigMgr Task Sequences to fail
@@ -112,4 +112,3 @@ Pop-Location
 Find-TSFailSWUpdates
 
 ```
-

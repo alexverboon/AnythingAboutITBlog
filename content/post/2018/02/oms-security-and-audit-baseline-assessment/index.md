@@ -79,7 +79,7 @@ When Looking inside one of the server baseline definition files "BaselineWindows
 
 Now that we understand the structure of the XML file, we can use PowerShell to extract the content and create a list of the Baseline Rules. I created a cmdlet to parse the baseline configuration files. [**Get-OMSOSBaselineDefinitions**](https://github.com/alexverboon/posh/blob/master/Azure/OMS/Get-OMSOSBaselineDefinitions.ps1).
 
-```
+`powershell
 $Rules = Get-OMSOSBaselineDefinitions -Baseline 'C:\Program Files\Microsoft Monitoring Agent\Agent\Health Service State\Resources\689\BaselineWindowsServer2016.xml' -verbose
 ```
 
@@ -89,7 +89,7 @@ Now run the following command to get a list of all the Rules included in the Ser
 
 ```
 $rules | select Name
-```
+`$lang
 
  	
 - Ensure 'Accounts: Limit local account use of blank passwords to console logon only' is set to 'Enabled'
@@ -378,7 +378,7 @@ When running the following query , we get a complete list of all the rules and t
 
 ```
 SecurityBaseline| where BaselineType in ('WindowsOS')| project Computer , Description, AnalyzeResult, BaselineRuleType, AssessmentId, CceId , ExpectedResult , RuleSeverity , ActualResult
-```
+`powershell
 
  
 
@@ -392,7 +392,7 @@ Alex
 
 **Cmdlet**: [Get-OMSOSBaselineDefinitions](https://github.com/alexverboon/posh/blob/master/Azure/OMS/Get-OMSOSBaselineDefinitions.ps1)
 
-```
+`powershell
 Function Get-OMSOSBaselineDefinitions {
 <#
 .SYNOPSIS
@@ -500,4 +500,3 @@ End{
 }
 
 ```
-

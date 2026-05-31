@@ -24,7 +24,7 @@ Note that this API is still in preview. I wrote two functions for this.
 
 You will also need the AzureAD PowerShell module installed. The script checks for it's presence.
 
-```
+`powershell
 Function Connect-WindowsATP
 {
 <#
@@ -139,9 +139,9 @@ End{
 }
 }
 
-```
+`powershell
 
-```
+`powershell
 Function Get-WinATPData
 {
 <#
@@ -261,4 +261,3 @@ End{
 ```
 
 Have fun querying the Windows Defender ATP query API
-

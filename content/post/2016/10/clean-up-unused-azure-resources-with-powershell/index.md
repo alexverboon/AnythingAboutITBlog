@@ -23,21 +23,21 @@ To get an overview of all disks, I wrote the following script called Get-AzureBl
 
 Since I am only interested in VHD files, I use the following command:
 
-```
+`powershell
 Get-AzureBlobInfo | Where-Object {($_.name).split(".")[-1] -like "vhd" } | Select-Object Name,STorageaccount,LeaseStatus,{($_.StorageAccountKey)[0].value} | fl
-```
+`powershell
 
 ![image](images/image_thumb-1.png)
 
 To delete the vhd file, we first must set the Azure storage context.
 
-```
+`powershell
 $ctx = New-AzureStorageContext -StorageAccountName saverboon1 -StorageAccountKey 5JcWTPE6PeU3BTWpkKzAw55eFRb8A0KZybc+OV+IlS2hOWRiqPanZsi4nyQOyl9jMA==
-```
+```powershell
 
-```
+`powershell
 Remove-AzureStorageBlob -Blob OSDDisk_ALEX04.vhd -Container vhds -Context $ctx
-```
+`$lang
 
 Okay, that’s how we get rid of unused VHDs. Now while I am at it anyway, I thought I take this a step further since I’m aware that I have more orphaned azure resources like Network Interfaces, Public IP Addresses and Network security groups. So I wrote three additional functions
 
@@ -77,4 +77,3 @@ All mentioned functions are listed below and can also be found in my GitHub repo
 ```
 
 ```
-

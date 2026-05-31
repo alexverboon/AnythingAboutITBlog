@@ -54,7 +54,7 @@ Below the PowerShell based discovery script used in this configuration item, the
 
  
 
-```
+`powershell
 <#
 .Synopsis
    CI_DefenderMAPS_Discovery
@@ -129,4 +129,3 @@ Windows Defender Antivirus cloud protection service: Advanced real-time defense 
 ```
 
 ```
-

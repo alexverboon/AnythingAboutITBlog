@@ -31,13 +31,13 @@ Within the Office Store I have found an add-in that i want to deploy called the 
 
 From the URL extract the Office store asset id of the add-in
 
-```
+`powershell
 New-OrganizationAddIn -AssetId WA103304320 -Locale en-US -ContentMarket en-US -Members "johndoe@contoso.com" –Disabled
-```
+`powershell
 
 Let’s take a look at the add-in details
 
-```
+`powershell
 Get-OrganizationAddIn -ProductId e69e87c3-de20-491e-b891-0d75e1e1c6bf | fl
 
 AssetId                  : WA103304320
@@ -71,11 +71,11 @@ IconUrl                  : https://az158878.vo.msecnd.net/marketing/product/4294
 ProductId                : e69e87c3-de20-491e-b891-0d75e1e1c6bf
 ServicePrincipalObjectId : 
 Version                  : 1.1
-```
+```powershell
 
 The add-in is still not enabled, so let’s do that now.
 
-```
+`powershell
 Set-OrganizationAddIn -ProductId e69e87c3-de20-491e-b891-0d75e1e1c6bf -Enabled $true
 ProductId                            DisplayName         OfficeProducts StatusCode
 ---------                            -----------         -------------- ----------
@@ -105,4 +105,3 @@ More information here:
 [https://www.microsoft.com/en-us/download/details.aspx?id=55267](https://www.microsoft.com/en-us/download/details.aspx?id=55267)
 
 [https://support.office.com/en-us/article/Use-the-Centralized-Deployment-PowerShell-cmdlets-to-manage-add-ins-94f4e86d-b8e5-42dd-b558-e6092f830ec9](https://support.office.com/en-us/article/Use-the-Centralized-Deployment-PowerShell-cmdlets-to-manage-add-ins-94f4e86d-b8e5-42dd-b558-e6092f830ec9)
-

@@ -57,7 +57,7 @@ After refreshing the page (F5), the Time zone menu now also shows us locale opti
 
 ![](images/060920_1544_ManagingTim8.png)
 
-The official documentation for time zone settings in defender security center is here: [https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/time-settings](#)
+The official documentation for time zone settings in defender security center is here: [https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/time-settings](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/time-settings)
 # Advanced Hunting
 
 Now let us move on and let's look at how date and time is displayed in advanced hunting. As described in the Kusto query language [reference](#):
@@ -75,7 +75,9 @@ And when changing the Timezone to Timezone local the results are displayed in lo
 
 ![](images/060920_1544_ManagingTim10.png)
 
-How about the date time format? Well the answer is the locale settings have no effect on how the results of an advanced hunting query are displayed, if you want to change the format, you have to use the Kusto scalar function [format_datetime()](#)```
+How about the date time format? Well the answer is the locale settings have no effect on how the results of an advanced hunting query are displayed, if you want to change the format, you have to use the Kusto scalar function [format_datetime()](#)
+
+```kql
 DeviceAlertEvents
 | where DeviceName contains "TestClient6"
 | extend TimestampFormatted = format_datetime(Timestamp,"dd.MM.yyyy HH:mm:ss")

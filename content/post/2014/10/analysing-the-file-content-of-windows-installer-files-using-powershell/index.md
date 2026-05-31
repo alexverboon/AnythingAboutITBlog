@@ -75,7 +75,7 @@ TargetPath
 
 The entire script can be downloaded from [here](http://gallery.technet.microsoft.com/Get-MSIFileINfo-Retrieve-db7b6cad)
 
-```
+`powershell
 function Get-MSIFileInfo()
 {
 <#
@@ -637,4 +637,3 @@ End
 }
 } # end function
 ```
-
