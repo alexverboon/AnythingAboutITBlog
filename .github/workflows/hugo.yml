@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --minify --baseURL "https://alexverboon.github.io/AnythingAboutITBlog/"
+        run: hugo --minify --baseURL "https://www.verboon.info"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
