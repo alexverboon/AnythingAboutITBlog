@@ -7,17 +7,11 @@ aliases:
   - "/2009/07/tooltip-vlc-media-player/"
 description: "After nearly 13 years of development version 1.0 of VLC media player has been released in July 2009. What started as an academic project became one of..."
 author: "Alex Verboon"
-tags:
-  - audio
-  - media
-  - media-player
-  - video
-  - vlc
-  - Windows
 categories:
-  - media-player
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Media-Player'
+  - 'Media'
 ---
 After nearly 13 years of development version 1.0 of VLC media player has been released in July 2009. What started as an academic project became one of the most powerful media players available today. 
 

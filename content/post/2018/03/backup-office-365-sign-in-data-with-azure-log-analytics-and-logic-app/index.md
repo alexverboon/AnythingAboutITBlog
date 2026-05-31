@@ -9,19 +9,11 @@ description: The Office 365 solution in Operations Management Suite (OMS) allows
   to monitor your Office 365 environment in Log Analytics. Like with any solutio...
 author: Alex Verboon
 image: img/post-heroes/backup-office-365-sign-in-data-with-azure-log-analytics-and-logic-app.png
-tags:
-- archive
-- azure-log-analytics
-- azure-logic-app
-- backup
-- office-365-2
-- sign-in-data
-- Office
 categories:
-- azure
-- azure-logic-app
-- log-analytics
-- Office
+  - 'Azure'
+tags:
+  - 'Azure-Log-Analytics'
+  - 'Backup'
 ---
 The Office 365 solution in Operations Management Suite (OMS) allows you to monitor your Office 365 environment in Log Analytics. Like with any solution that you setup in OMS you have to think of the data retention time.
 

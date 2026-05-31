@@ -7,17 +7,11 @@ aliases:
   - "/2011/12/running-within-an-sccm-2007-tasksequence-or-not/"
 description: "I’ve been working on a batch script that runs as part of an SCCM 2007 TaskSequence or simply as a regular program. Because there were different condit..."
 author: "Alex Verboon"
-tags:
-  - detection
-  - environment
-  - osd
-  - sccm-2007
-  - script
-  - tasksequence
-  - variable
 categories:
-  - sccm-2007
-  - tasksequence
+  - 'PowerShell'
+tags:
+  - 'Sccm-2007'
+  - 'Tasksequence'
 ---
 I’ve been working on a batch script that runs as part of an SCCM 2007 TaskSequence or simply as a regular program. Because there were different conditions whether I run the script as part of a TaskSequence or just as a program and did not want to create two separate scripts I needed a way to detect within what environment the script is running. 
 

@@ -7,11 +7,10 @@ aliases:
   - "/2008/08/windows-xp-until-2014/"
 description: "Windows XP Support"
 author: "Alex Verboon"
-tags:
-  - Windows
-  - WindowsXP
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windowsxp'
 ---
 In a letter to enterprise customers Senior Vice President Bill Veghte at Microsoft informs customer about extended availability of Windows XP. Microsoft will continue to support Windows XP and release security updates until 2014.
 

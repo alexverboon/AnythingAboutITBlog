@@ -7,19 +7,11 @@ aliases:
   - "/2010/01/agpm-least-privilege-scenario-external/"
 description: "Just going through an AGPM Installation (Advanced Group Policy Management) where I had to choose an Account for the AGPM Service which can be the Loca..."
 author: "Alex Verboon"
-tags:
-  - advanced-group-policy-management
-  - agpm
-  - delegation
-  - gpo
-  - mdop
-  - Windows
 categories:
-  - agpm
-  - deployment
-  - group-policy
-  - mdop
-  - security
+  - 'Security'
+tags:
+  - 'Agpm'
+  - 'Advanced-Group-Policy-Management'
 ---
 Just going through an AGPM Installation (Advanced Group Policy Management) where I had to choose an Account for the AGPM Service which can be the Local System Account or a domain user account. Instead of just clicking next next…. I found some good guidance in the Ask the Directory Services Team blog - [AGPM Least Privilege Scenario article](http://blogs.technet.com/askds/archive/2008/12/16/agpm-least-privilege-scenario.aspx). Also read [Locking down AGPM fit for least privilege](http://blogs.technet.com/mkleef/archive/2008/11/18/locking-down-agpm-fit-for-least-privilege.aspx). 
 

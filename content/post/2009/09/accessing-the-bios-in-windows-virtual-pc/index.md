@@ -8,17 +8,11 @@ aliases:
 description: "When setting up a Virtual Machine in Windows Virtual PC, You will see the following progress window when the VM is started. [ ![image](images/image_th..."
 author: "Alex Verboon"
 image: "img/post-heroes/accessing-the-bios-in-windows-virtual-pc.png"
-tags:
-  - bios
-  - boot
-  - virtual-pc
-  - Windows
 categories:
-  - bios
-  - tip
-  - virtualization
-  - xp-mode
-  - Windows
+  - 'Windows'
+tags:
+  - 'Virtual-Pc'
+  - 'Tips-Tools'
 ---
 When setting up a Virtual Machine in Windows Virtual PC, You will see the following progress window when the VM is started. [
 ![image](images/image_thumb1.png)

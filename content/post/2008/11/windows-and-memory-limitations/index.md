@@ -7,14 +7,11 @@ aliases:
   - "/2008/11/windows-and-memory-limitations/"
 description: "it was the second time this week i came across the Windows RAM topic, once by reading and once by a question a colleague asked me. So enough reasons t..."
 author: "Alex Verboon"
-tags:
-  - memory
-  - ram
-  - windows
 categories:
-  - reading
-  - vista
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Memory'
+  - 'Ram'
 ---
 it was the second time this week i came across the Windows RAM topic, once by reading and once by a question a colleague asked me. So enough reasons to to look for something that describes it in detail.
 

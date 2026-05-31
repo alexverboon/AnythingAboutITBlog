@@ -7,10 +7,11 @@ aliases:
   - "/2008/06/vmware-webcasts/"
 description: "There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. R..."
 author: "Alex Verboon"
-tags:
-  - virtualization
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Various'
+  - 'Virtualization'
 ---
 There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. 
 

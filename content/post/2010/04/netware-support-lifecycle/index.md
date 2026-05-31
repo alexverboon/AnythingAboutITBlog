@@ -8,14 +8,11 @@ aliases:
 description: "Remember this one? If not, it’s the Novell NetWare Console. Although I don’t consider myself as that old yet, i had the pleasure of working with Novel..."
 author: "Alex Verboon"
 image: "img/post-heroes/netware-support-lifecycle.png"
-tags:
-  - lifecycle
-  - netware
-  - novell
-  - support
 categories:
-  - netware
-  - novell
+  - 'Security'
+tags:
+  - 'Lifecycle'
+  - 'Netware'
 ---
 Remember this one? If not, it’s the Novell NetWare Console. Although I don’t consider myself as that old yet, i had the pleasure of working with Novell NetWare 3.11 and later editions until 4.1 myself until our customers started moving to Microsoft’s Active Directory as of the the year 2000. 
 

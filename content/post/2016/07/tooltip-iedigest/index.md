@@ -8,13 +8,11 @@ aliases:
 description: "IEDigest is collecting all relevant Internet Explorer settings and generates a well formated HTML report. In addition to this there is an XML output a..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-iedigest.png"
-tags:
-  - group-policy
-  - internet-explorer
-  - settings
-  - tools
 categories:
-  - internet-explorer
+  - 'Tips-Tools'
+tags:
+  - 'Group Policy'
+  - 'Internet-Explorer'
 ---
 IEDigest is collecting all relevant Internet Explorer settings and generates a well formated HTML report. In addition to this there is an XML output as well which can be taken for comparing reports coming from different environments. This is helpfull for troubleshooting purposes when having working and non-working machines. 
 

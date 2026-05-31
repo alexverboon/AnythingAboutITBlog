@@ -7,15 +7,11 @@ aliases:
   - "/2009/06/tooltip-shell-extensions-for-vhd-files/"
 description: "If you are running a Hyper-V server, this is something you want to look at. The [VHDShellExt.VBS](http://code.msdn.microsoft.com/VHDShellExt) extends ..."
 author: "Alex Verboon"
-tags:
-  - shell-extension
-  - tool
-  - vhd
-  - Windows
 categories:
-  - hyper-v
-  - virtualization
-  - windows-server-2008
+  - 'Tips-Tools'
+tags:
+  - 'Shell-Extension'
+  - 'Vhd'
 ---
 If you are running a Hyper-V server, this is something you want to look at. The [VHDShellExt.VBS](http://code.msdn.microsoft.com/VHDShellExt) extends the explorer context menu for VHD files with the following functions. 
 

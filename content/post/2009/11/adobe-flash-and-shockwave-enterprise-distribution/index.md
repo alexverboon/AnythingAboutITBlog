@@ -8,17 +8,11 @@ aliases:
 description: "Adobe Flash and Shockwave are probably one of those most installed applications on home and enterprise computers. Working within the End User Computin..."
 author: "Alex Verboon"
 image: "img/post-heroes/adobe-flash-and-shockwave-enterprise-distribution.png"
-tags:
-  - adobe-flash
-  - adobe-shockwave
-  - deployment
-  - distribution
-  - packaging
 categories:
-  - automation
-  - deployment
-  - packaging
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Adobe-Flash'
+  - 'Distribution'
 ---
 Adobe Flash and Shockwave are probably one of those most installed applications on home and enterprise computers. Working within the End User Computing environment for large enterprise customers since quite a while, I can’t remember of just one company that wouldn’t maintain Adobe Flash and Shockwave in their list of enterprise standard applications. 
 

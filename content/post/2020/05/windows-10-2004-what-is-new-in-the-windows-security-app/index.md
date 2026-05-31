@@ -9,12 +9,11 @@ description: When all goes well, Microsoft will soon release the next version of
   10 aka Windows 10 2004.
 author: Alex Verboon
 image: img/post-heroes/windows-10-2004-what-is-new-in-the-windows-security-app.png
-tags:
-- Windows
 categories:
-- Security
-- Windows
-- PowerShell
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'PowerShell'
 ---
 When all goes well, Microsoft will soon release the next version of Windows 10 aka as Windows 10 2004. I am an active Windows Insider user and noticed a few little changes within the Windows 10 Security App that I think are worth sharing.
 ![](https://www.verboon.info/wp-content/uploads/2020/05/052120_1307_Windows10201.png)

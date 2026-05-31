@@ -8,16 +8,11 @@ aliases:
 description: "Just took a look on CodePlex to see if there’s any new interesting projects and came across the [Windows4all.com](http://www.windows4all.com/) project..."
 author: "Alex Verboon"
 image: "img/post-heroes/is-this-windows-in-the-cloud.png"
-tags:
-  - operating-system
-  - virtualization
-  - web
-  - wiki-os
-  - windows4all
-  - Windows
 categories:
-  - cloud
-  - virtualization
+  - 'Windows'
+tags:
+  - 'Cloud'
+  - 'Operating-System'
 ---
 Just took a look on CodePlex to see if there’s any new interesting projects and came across the [Windows4all.com](http://www.windows4all.com/) project. Windows4all.com is a silverlight based website simulating an operating system inside your web browser. 
 

@@ -8,19 +8,11 @@ aliases:
 description: "Are you an Administrator tired of manually creating folder structures for new projects? Then DirCreator is just what you need. DirCreator is an enterp..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-dircreator.png"
-tags:
-  - acl
-  - active-directory
-  - automate
-  - dircreator
-  - directory
-  - folders
-  - group-membership
-  - project-folders
-  - Windows
 categories:
-  - automation
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Dircreator'
+  - 'Active Directory'
 ---
 Are you an Administrator tired of manually creating folder structures for new projects? Then DirCreator is just what you need. DirCreator is an enterprise-proven tool to automatically generate structured, template-based directory structures, along with groups, members and ACLs.
 

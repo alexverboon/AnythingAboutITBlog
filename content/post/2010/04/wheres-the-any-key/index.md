@@ -7,10 +7,10 @@ aliases:
   - "/2010/04/wheres-the-any-key/"
 description: "Go to the [Where is the ANY KEY](http://www.wherestheanykey.co.uk/) website and read tails on IT fails, Have fun. *Troubleshooting a printer problem: ..."
 author: "Alex Verboon"
-tags:
-  - fun
 categories:
-  - fun
+  - 'Security'
+tags:
+  - 'Fun'
 ---
 Go to the [Where is the ANY KEY](http://www.wherestheanykey.co.uk/) website and read tails on IT fails, Have fun. 
 

@@ -8,15 +8,11 @@ aliases:
 description: "I’ve spend about 2 hours tonight getting SQL Server 2008 Express installed on a Windows Server 2008 system…….. Launched the installation package, it s..."
 author: "Alex Verboon"
 image: "img/post-heroes/sql-server-2008-express-setup-challenge.png"
-tags:
-  - error
-  - server-2008
-  - setup
-  - sql-server-2008-express
-  - Windows
 categories:
-  - sql-server-2008-express
-  - windows-server-2008
+  - 'Windows'
+tags:
+  - 'Server-2008'
+  - 'Sql-Server-2008-Express'
 ---
 I’ve spend about 2 hours tonight getting SQL Server 2008 Express installed on a Windows Server 2008 system…….. Launched the installation package, it started extracting it’s content, it made an attempt to launch the embedded setup.exe and then…..Nothing. 
 

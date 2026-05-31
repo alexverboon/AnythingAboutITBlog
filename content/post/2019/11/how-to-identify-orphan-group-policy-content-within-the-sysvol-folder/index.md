@@ -9,17 +9,11 @@ description: Today I was working on a Microsoft Security Configuration baseline 
   and browsing through the Sysvol folder for orphan GPO content.
 author: Alex Verboon
 image: img/post-heroes/how-to-identify-orphan-group-policy-content-within-the-sysvol-folder.png
-tags:
-- gpo
-- group-policy
-- housekeeping
-- security
-- sysvol
-- PowerShell
 categories:
-- gpo
-- group-policy
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Group Policy'
+  - 'Sysvol'
 ---
 G'day everyone. Today I was working on a Microsoft Security Configuration baseline implementation and while browsing through the Sysvol folder I got the impression that there are less GPO objects stored within AD compared to the number of GPO content folders located within the Sysvol\Policies folder. As we speak about several hundred folders here, too many to count manually, and so another PowerShell script was born.
 

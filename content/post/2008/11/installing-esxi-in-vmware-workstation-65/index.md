@@ -7,11 +7,11 @@ aliases:
   - "/2008/11/installing-esxi-in-vmware-workstation-65/"
 description: "Installing ESXi"
 author: "Alex Verboon"
-tags:
-  - virtualization
-  - vmware
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Vmware'
+  - 'Virtualization'
 ---
 Finally after several attempts, i've been able to install [VMWare ESXi ](http://www.vmware.com/products/esxi/)into VMware Workstation 6.5. The intend of doing this is purely to get familiar with the product. To get this done, i have been mainly following the [instructions ](http://knowledge.xtravirt.com/white-papers/esx-3x.html)provided by [xtravirt.com](http://knowledge.xtravirt.com/)
 

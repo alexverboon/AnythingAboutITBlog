@@ -8,21 +8,11 @@ aliases:
 description: "When running Windows Embedded Standard 7 or Windows ThinPC with the Enhanced Write Filter (volume based protection) or File Based Write Filter (File b..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-add-custom-registry-keys-to-the-windows-embedded-thinpc-registry-filter.png"
-tags:
-  - _machineaccount
-  - custom-keys
-  - exclusions
-  - filter
-  - persist
-  - regdata
-  - registry
-  - thinpc
-  - windows-embedded
-  - Windows
 categories:
-  - registry
-  - thinpc
-  - windows-embedded
+  - 'Windows'
+tags:
+  - 'Filter'
+  - 'Registry'
 ---
 When running Windows Embedded Standard 7 or Windows ThinPC with the Enhanced Write Filter (volume based protection) or File Based Write Filter (File based protection) enabled, the system returns to its original state upon every reboot. This is a good thing, but as always there are exceptions, one of them is Antivirus Software. When after a reboot a system is reset to its original state, it means that any changes such as the installation of engine updates are lost, to avoid this from happening file and registry exclusions can be set.  I am going to focus on the registry filter as I made some findings I believe is worth sharing and might save you some time getting it to work.  Registry Filter settings are stored within the Registry Filter Service located under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\RegFilter\Parameters\MonitoredKeys [
 ![image](images/image_thumb.png)

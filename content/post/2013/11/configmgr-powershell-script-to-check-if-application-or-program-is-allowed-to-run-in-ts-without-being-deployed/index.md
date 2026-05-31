@@ -10,15 +10,11 @@ description: Kind of a long title for a blog post, but I could not come up with 
   shorter to describe the content of this blog post. The below script shows...
 author: Alex Verboon
 image: img/post-heroes/configmgr-powershell-script-to-check-if-application-or-program-is-allowed-to-run-in-ts-without-being-deployed.png
-tags:
-- applications
-- configmgr
-- programs
-- tasksequence-enabled
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'PowerShell'
+  - 'Applications'
 ---
 Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows the status of the “**Allow this Application / program to be installed from the Application / program install task sequence action without being deployed”** setting. 
 

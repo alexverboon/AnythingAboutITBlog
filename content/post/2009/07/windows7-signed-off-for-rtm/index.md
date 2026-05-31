@@ -7,11 +7,10 @@ aliases:
   - "/2009/07/windows7-signed-off-for-rtm/"
 description: "Windows7 has been signed-off and now goes into RTM. See the video below where contributing development teams give their go to release Windows7. Window..."
 author: "Alex Verboon"
-tags:
-  - rtm
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Rtm'
 ---
 Windows7 has been signed-off and now goes into RTM. See the video below where contributing development teams give their go to release Windows7.
 

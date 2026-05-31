@@ -7,14 +7,11 @@ aliases:
   - "/2008/12/tooltip-cdburnerxp/"
 description: "[CDBurnerXP ](http://cdburnerxp.se/)is a **free** application to burn CDs and DVDs, including Blu-Ray and HD-DVDs. It also includes the feature to bur..."
 author: "Alex Verboon"
-tags:
-  - burn
-  - dvd
-  - freeware
-  - tools
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Burn'
+  - 'Freeware'
 ---
 [CDBurnerXP ](http://cdburnerxp.se/)is a **free** application to burn CDs and DVDs, including Blu-Ray and HD-DVDs. It also includes the feature to burn and create ISOs, as well as a multilanguage interface. Everyone, even companies, can use it for free. It does not include adware or similar malicious components.
 

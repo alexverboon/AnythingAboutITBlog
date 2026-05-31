@@ -8,14 +8,11 @@ aliases:
 description: Hey there, This might sound like a bad excuse for not writing up a whole
   blog post, but in fact I had planned to write a few words about the Azure Inf...
 author: Alex Verboon
-tags:
-- aip
-- protection
-- scanner
-- PowerShell
 categories:
-- azure-information-protection
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Azure-Information-Protection'
+  - 'Protection'
 ---
 Hey there,
 

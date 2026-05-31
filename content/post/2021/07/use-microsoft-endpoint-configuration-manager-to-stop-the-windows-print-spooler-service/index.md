@@ -10,14 +10,12 @@ description: How to use Microsoft Endpoint Configuration Manager to identify and
   the Windows Print Spooler service to mitigate CVE-2021-34527.
 author: Alex Verboon
 image: img/post-heroes/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service.png
-tags:
-- CVE-2021-34527
-- ConfigMgr
-- Vulnerability
 categories:
-  - ConfigMgr
+  - 'ConfigMgr'
+tags:
+  - 'Cve-2021-34527'
+  - 'Vulnerability'
 ---
-
 Hello there,
 
 I guess by now, everyone has heard of the Windows Print Spooler Remote Code Execution Vulnerability ([CVE-2021-34527](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527)). At this time Microsoft recommends disabling the Print Spooler service on domain controllers and on servers where it is not needed or to Disable inbound remote printing through Group Policy. In this short blog post I will demonstrate how you can use Microsoft Endpoint Configuration Manager to identify systems where the print spooler service is running and how to stop and disable the service.

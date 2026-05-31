@@ -8,16 +8,12 @@ aliases:
 description: "How to migrate Microsoft Defender for Identity sensors from WinPcap to Npcap and detect impacted domain controllers."
 author: "Alex Verboon"
 image: "img/post-heroes/microsoft-defender-for-identity-npcap-driver-update.png"
-tags:
-  - MDI
-  - npcap
-  - Sensor
-  - winpcap
-  - Windows
 categories:
-  - Microsoft Defender XDR
+  - 'Windows'
+tags:
+  - 'Npcap'
+  - 'Sensor'
 ---
-
 Hello everyone,
 
 In July 2021 Microsoft [announced](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/microsoft-defender-for-identity-and-npcap/m-p/2584151) that starting with MDI version [2.156](https://docs.microsoft.com/en-us/defender-for-identity/whats-new) they included the OEM version of the Npcap executable in the Sensor deployment package. The reason for doing so is because WinPcap is no longer supported and since it's no longer being developed, the driver cannot be optimized any longer for the Defender for Identity sensor. Additionally, if there is an issue in the future with the WinPcap driver, there are no options for a fix. More details can be found [here](https://docs.microsoft.com/en-us/defender-for-identity/technical-faq).

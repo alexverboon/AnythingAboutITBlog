@@ -9,16 +9,11 @@ description: Here’s a PowerShell script we recently wrote to show the source p
   location for all the content that we put into ConfigMgr. The Script lists all the...
 author: Alex Verboon
 image: img/post-heroes/configmgr-2012-script-to-retrieve-source-path-locations.png
-tags:
-- configmgr
-- configuration-manager
-- content
-- source-path
-- PowerShell
 categories:
-- configmgr
-- sccm-2012
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Source-Path'
+  - 'Configuration-Manager'
 ---
 Here’s a PowerShell script we recently wrote to show the source path location for all the content that we put into ConfigMgr. The Script lists all the content source paths for the following CM objects. 
 

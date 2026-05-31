@@ -7,13 +7,11 @@ aliases:
   - "/2009/04/another-windows7-article-from-gartner/"
 description: "This article discusses some thoughts around Windows 7 and Service Pack 1. [Windows 7 Won't Need SP1, but Will Still Need 12 to 18 Months Before Deploy..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - sp1
-  - Windows
 categories:
-  - deployment
-  - Windows
+  - 'Windows'
+tags:
+  - 'Deployment'
+  - 'Sp1'
 ---
 This article discusses some thoughts around Windows 7 and Service Pack 1. 
 

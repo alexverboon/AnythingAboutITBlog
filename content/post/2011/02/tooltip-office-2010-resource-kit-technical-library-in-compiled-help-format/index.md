@@ -8,15 +8,11 @@ aliases:
 description: For those that frequently need access to the Office 2010 Resource Kit,
   here’s an offline version available as downloadable CHM file. Download from [he...
 author: Alex Verboon
-tags:
-- help
-- resource-kit
-- Office
 categories:
-- resource-kit
-- tip
-- tools
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Resource-Kit'
 ---
 For those that frequently need access to the Office 2010 Resource Kit, here’s an offline version available as downloadable CHM file. Download from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=e6dcc787-4653-49da-aeef-564a64dd4ac5)
 

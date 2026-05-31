@@ -7,10 +7,11 @@ aliases:
   - "/2008/10/management/"
 description: "A man in a hot air balloon realised he was lost. He reduced altitude and spotted a woman below. He descended a bit more and shouted... 'Excuse me, can..."
 author: "Alex Verboon"
-tags:
-  - Fun
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Various'
+  - 'Fun'
 ---
 A man in a hot air balloon realised he was lost. He reduced altitude and spotted a woman below. He descended a bit more and shouted...
 

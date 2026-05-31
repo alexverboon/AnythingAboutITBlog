@@ -8,11 +8,10 @@ aliases:
 description: "Today I stumbled upon the [Defraggler](http://www.defraggler.com/) utility from [Piriform](http://www.piriform.com/). The tool provides a nice and lea..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-defraggler.png"
-tags:
-  - defragmentation
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Defragmentation'
 ---
 Today I stumbled upon the [Defraggler](http://www.defraggler.com/) utility from [Piriform](http://www.piriform.com/). The tool provides a nice and lean interface to analyze and defrag drives or individual files. But most important, it’s FREE!
 

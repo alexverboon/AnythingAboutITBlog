@@ -7,14 +7,11 @@ aliases:
   - "/2010/01/windows-7-master-control-panel-aka-god-mode/"
 description: "Since yesterday there have been a lot of tweets and e-mails about the so-called Windows 7 God Mode, which in fact was available in Vista already. In s..."
 author: "Alex Verboon"
-tags:
-  - ed7ba470-8e54-465e-825c-99712043e01c
-  - control-panel
-  - god-mode
-  - Windows
 categories:
-  - tip
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Control-Panel'
+  - 'God-Mode'
 ---
 Since yesterday there have been a lot of tweets and e-mails about the so-called Windows 7 God Mode, which in fact was available in Vista already. In short the Windows 7 God mode can be considered as an extended Control Panel. 
 

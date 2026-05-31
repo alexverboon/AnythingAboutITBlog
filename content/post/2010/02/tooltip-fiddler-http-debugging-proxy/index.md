@@ -8,21 +8,11 @@ aliases:
 description: "During an Application Compatibility webcast I attended recently the presenter mentioned the Fiddler Tool. There are many network traffic monitoring To..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-fiddler-http-debugging-proxy.png"
-tags:
-  - debugging
-  - http
-  - tips
-  - tools
-  - traffic
 categories:
-  - compatibility
-  - internet
-  - internet-explorer
-  - protocols
-  - security
-  - tip
-  - tools
-  - web
+  - 'Security'
+tags:
+  - 'Debugging'
+  - 'Http'
 ---
 During an Application Compatibility webcast I attended recently the presenter mentioned the Fiddler Tool. There are many network traffic monitoring Tools out there, but if you are just after capturing HTTP traffic, this one should get your attention. 
 

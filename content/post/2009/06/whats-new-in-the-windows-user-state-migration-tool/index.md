@@ -7,15 +7,11 @@ aliases:
   - "/2009/06/whats-new-in-the-windows-user-state-migration-tool/"
 description: "Read about what’s new in USMT (User State Migration Tool), download the whitepaper [here](http://www.microsoft.com/downloads/details.aspx?displaylang=..."
 author: "Alex Verboon"
-tags:
-  - hard-link
-  - usmt-40
-  - Windows
 categories:
-  - deployment
-  - knowledge
-  - reading
-  - usmt
+  - 'Windows'
+tags:
+  - 'Hard-Link'
+  - 'Usmt-40'
 ---
 Read about what’s new in USMT (User State Migration Tool), download the whitepaper [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=59367b77-c812-489c-b23c-9ee2286424c4)
 

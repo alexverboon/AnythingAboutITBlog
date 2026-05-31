@@ -7,11 +7,11 @@ aliases:
   - "/2008/09/never-heard-of-vpro-before/"
 description: "Well then it's time now to get familiar with it. Since about 2 years Intel is shipping [vPro](http://www.intel.com/technology/vpro/index.htm) technolo..."
 author: "Alex Verboon"
-tags:
-  - vPro
-  - Intel
 categories:
-  - Intel
+  - 'Security'
+tags:
+  - 'Vpro'
+  - 'Intel'
 ---
 Well then it's time now to get familiar with it. Since about 2 years Intel is shipping [vPro](http://www.intel.com/technology/vpro/index.htm) technology, but still many people aren't familiar with this technology or haven't even heard of it at all, for those I recommend to look at these demonstration movies:
 

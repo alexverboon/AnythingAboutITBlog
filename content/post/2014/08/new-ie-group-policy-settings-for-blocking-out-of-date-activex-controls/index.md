@@ -7,14 +7,11 @@ aliases:
   - "/2014/08/new-ie-group-policy-settings-for-blocking-out-of-date-activex-controls/"
 description: "As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-begins-blocking-out-of-date-activex-controls.aspx) by Microsoft last wee..."
 author: "Alex Verboon"
-tags:
-  - activex
-  - group-policy
-  - internet-explorer
-  - Windows
 categories:
-  - group-policy
-  - internet-explorer
+  - 'Windows'
+tags:
+  - 'Activex'
+  - 'Group Policy'
 ---
 As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-begins-blocking-out-of-date-activex-controls.aspx) by Microsoft last week on their IEBlog Internet Explorer will start blocking out of date ActiveX controls For managed environments there are updated [administrative templates](http://www.microsoft.com/en-us/download/details.aspx?id=40905) for Internet Explorer to control the behaviour of the ActiveX blocking feature. 
 

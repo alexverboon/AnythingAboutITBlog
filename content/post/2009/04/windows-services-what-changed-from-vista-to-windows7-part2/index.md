@@ -8,13 +8,11 @@ aliases:
 description: "In part one of “[Windows Services, What changed from Vista to Windows7](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-services-what-changed-from-vista-to-windows7-part2.png"
-tags:
-  - services
-  - windows-vista
-  - Windows
 categories:
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Services'
+  - 'Vista'
 ---
 In part one of “[Windows Services, What changed from Vista to Windows7](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-vista-to-windows7-part1/)”  I highlighted the new, renamed and removed services that come with Windows7. 
 

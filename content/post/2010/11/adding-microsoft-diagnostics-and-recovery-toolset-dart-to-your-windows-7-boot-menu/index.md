@@ -10,20 +10,11 @@ description: Last weekend I went through the Microsoft TechEd 2010 presentations
   one of the presentations that got my attention was “Keeping Windows Running Ef...
 author: Alex Verboon
 image: img/post-heroes/adding-microsoft-diagnostics-and-recovery-toolset-dart-to-your-windows-7-boot-menu.png
-tags:
-- bcd
-- dart
-- diagnostic
-- mdop
-- recovery
-- Windows
-- WinPE
 categories:
-- dart
-- mdop
-- recovery
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Diagnostic'
+  - 'Recovery'
 ---
 Last weekend I went through the Microsoft TechEd 2010 presentations and one of the presentations that got my attention was “Keeping Windows Running Effeciently with the Microsoft Diagnostics and Recovery Toolset”. Presentation video and slides from this session can be found [here](http://www.msteched.com/2010/NorthAmerica/WCL309) (TechEd USA) or [here](http://www.msteched.com/2010/Europe/WCL318) (TechEd Europe)
 

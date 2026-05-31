@@ -8,21 +8,11 @@ aliases:
 description: "ImageX is a command-line tool for capturing, modifying and applying file based disk images. ImageX is included within the Windows Automated Installati..."
 author: "Alex Verboon"
 image: "img/post-heroes/splitting-and-merging-image-files-with-imagex.png"
-tags:
-  - capture
-  - deployment
-  - export
-  - image-size
-  - imagex
-  - merge
-  - size
-  - split
-  - Windows
 categories:
-  - deployment
-  - imagex
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Imagex'
+  - 'Split'
 ---
 ImageX is a command-line tool for capturing, modifying and applying file based disk images. ImageX is included within the Windows Automated Installation Kit. 
 

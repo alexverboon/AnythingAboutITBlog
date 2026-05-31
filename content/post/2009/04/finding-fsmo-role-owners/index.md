@@ -8,16 +8,11 @@ aliases:
 description: "In preparation of doing some Group Policy related things, I decided to extend my Home Lab AD infrastructure running on Windows Server 2003, with Windo..."
 author: "Alex Verboon"
 image: "img/post-heroes/finding-fsmo-role-owners.png"
-tags:
-  - active-directory
-  - fsmo
-  - Windows
 categories:
-  - active-directory
-  - group-policy
-  - tip
-  - tools
-  - windows-server-2008
+  - 'Tips-Tools'
+tags:
+  - 'Fsmo'
+  - 'Active Directory'
 ---
 In preparation of doing some Group Policy related things, I decided to extend my Home Lab AD infrastructure running on Windows Server 2003, with  Windows Server 2008 and Windows Server 2008R2 domain controllers. 
 

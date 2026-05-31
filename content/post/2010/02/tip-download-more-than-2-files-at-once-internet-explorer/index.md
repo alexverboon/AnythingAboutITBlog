@@ -7,16 +7,11 @@ aliases:
   - "/2010/02/tip-download-more-than-2-files-at-once-internet-explorer/"
 description: "I had thought that by now this is something everybody knows, but unfortunately that is not the case, so that is why I post this one today. By default,..."
 author: "Alex Verboon"
-tags:
-  - download
-  - ie
-  - ie7
-  - ie8
-  - internet-explorer
-  - Windows
 categories:
-  - internet-explorer
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Download'
+  - 'Internet-Explorer'
 ---
 I had thought that by now this is something everybody knows, but unfortunately that is not the case, so that is why I post this one today. 
 

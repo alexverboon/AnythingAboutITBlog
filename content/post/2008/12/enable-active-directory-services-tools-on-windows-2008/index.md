@@ -8,17 +8,11 @@ aliases:
 description: "I just connected to our fresh installed Windows 2008 server that we intend to use as a remote system management console. The server is a member of our..."
 author: "Alex Verboon"
 image: "img/post-heroes/enable-active-directory-services-tools-on-windows-2008.png"
-tags:
-  - active-directory
-  - gpmc
-  - group-policy
-  - windows-server-2008
-  - Windows
 categories:
-  - active-directory
-  - group-policy
-  - tip
-  - windows-server-2008
+  - 'Windows'
+tags:
+  - 'Active Directory'
+  - 'Tips-Tools'
 ---
 I just connected to our fresh installed Windows 2008 server that we intend to use as a remote system management console. The server is a member of our Windows 2003 Active Directory domain, not a DC itself.
 

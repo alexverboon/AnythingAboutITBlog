@@ -7,13 +7,11 @@ aliases:
   - "/2009/11/the-machine-sid-duplication-myth/"
 description: "Mark Russinovich explains why he’s retiring “NewSID”. In short, he explains that he heard that people were having some issues with it on Vista, which ..."
 author: "Alex Verboon"
-tags:
-  - sid
-  - newsid
-  - sysprep
 categories:
-  - deployment
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Sid'
+  - 'Newsid'
 ---
 Mark Russinovich explains why he’s retiring “NewSID”. In short, he explains that he heard that people were having some issues with it on Vista, which made him do some research on whether SID changing is still necessary... Turns out he couldn’t find anyone in Microsoft who could tell him why duplicate SIDs could be a problem. Because it’s not a problem. And: It never was. Anyway for people that did OS deployment the correct way, this tool wasn’t needed, as the proper way is to use sysprep. 
 

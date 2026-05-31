@@ -8,18 +8,11 @@ aliases:
 description: For anyone who is somehow involved in a Office 2010 deployment planning
   I strongly recommend reading the [Planning Guide for Microsoft Office 2010](ht...
 author: Alex Verboon
-tags:
-- gpo
-- kms
-- outlook
-- planning
-- Windows
-- Office
 categories:
-- deployment
-- tip
-- Windows
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Planning'
 ---
 For anyone who is somehow involved in a Office 2010 deployment planning I strongly recommend reading the [Planning Guide for Microsoft Office 2010](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=b4917d33-441a-4dd2-8255-9fa599bae3db). Microsoft just released an updated version. Don’t be shocked, the document counts 458 pages, but does contain a lot of useful and interesting information. 
 

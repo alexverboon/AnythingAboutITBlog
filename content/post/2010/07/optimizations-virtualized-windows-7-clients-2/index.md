@@ -7,14 +7,11 @@ aliases:
   - "/2010/07/optimizations-virtualized-windows-7-clients-2/"
 description: "Just found these two blog posts that describe some Registry and Services optimizations when running Windows 7 as a virtual client. [Windows 7 Registry..."
 author: "Alex Verboon"
-tags:
-  - registry
-  - services
-  - virtualization
-  - Windows
 categories:
-  - Uncategorized
-  - Windows
+  - 'Windows'
+tags:
+  - 'Registry'
+  - 'Services'
 ---
 Just found these two blog posts that describe some Registry and Services optimizations when running Windows 7 as a virtual client. 
 

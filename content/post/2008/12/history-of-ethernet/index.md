@@ -8,12 +8,11 @@ aliases:
 description: We all use it every day, it's one of the technologies that makes today's
   world connected, at home, at the office over the cable and wireless it's all ...
 author: Alex Verboon
-tags:
-- ethernet
-- Office
 categories:
-- knowledge
-- tip
+  - 'M365'
+tags:
+  - 'Ethernet'
+  - 'Knowledge'
 ---
 We all use it every day, it's one of the technologies that makes today's world connected, at home, at the office over the cable and wireless it's all Ethernet. 
 

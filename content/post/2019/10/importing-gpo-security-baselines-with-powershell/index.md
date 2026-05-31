@@ -9,18 +9,11 @@ description: A PowerShell script to import GPO Security Baselines automatically 
   of doing it manually each time.
 author: Alex Verboon
 image: img/post-heroes/importing-gpo-security-baselines-with-powershell.png
-tags:
-- import
-- security-baseline
-- Windows
-- PowerShell
-- Office
 categories:
-- group-policy
-- security
-- Windows
-- PowerShell
-- Office
+  - 'Security'
+tags:
+  - 'Import'
+  - 'PowerShell'
 ---
 Okay there’s this rule , if you do something manually for the third time, it’s about time to think of automating it. Here’s a script that I created to create Group Policy Objects and import the security baseline settings. The script will work with any security baseline that is provided with Group Policy backups e.g. Microsoft Security baseline, CIS, NSA.
 

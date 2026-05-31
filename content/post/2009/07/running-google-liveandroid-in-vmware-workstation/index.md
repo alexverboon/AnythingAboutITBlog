@@ -8,18 +8,11 @@ aliases:
 description: "When I checked my Twitter messages today, I came across a message about [LiveAndroid](http://code.google.com/p/live-android/). LiveAndroid allows you ..."
 author: "Alex Verboon"
 image: "img/post-heroes/running-google-liveandroid-in-vmware-workstation.png"
-tags:
-  - android
-  - google
-  - liveandroid
-  - mobile-os
-  - vmware
 categories:
-  - android
-  - google
-  - mobile
-  - virtualization
-  - vmware
+  - 'Security'
+tags:
+  - 'Android'
+  - 'Google'
 ---
 When I checked my Twitter messages today, I came across a message about [LiveAndroid](http://code.google.com/p/live-android/). LiveAndroid allows you to run Google’s Android operating system that is used on mobile phones on a x86 platform. 
 

@@ -8,12 +8,11 @@ aliases:
 description: "Automatic Reboots"
 author: "Alex Verboon"
 image: "img/post-heroes/no-automatic-reboot-please.png"
-tags:
-  - automatic-updates
-  - registry
-  - Windows
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Automatic-Updates'
+  - 'Registry'
 ---
 Saturday morning, before going out with my family on a shopping tour I started a large FTP download and assumed it would have completed upon my return.... a few hours later, I found my system at the logon prompt, as it had rebooted itself automatically and of course the FTP download was not completed.
 

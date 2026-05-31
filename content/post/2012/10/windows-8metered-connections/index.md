@@ -8,21 +8,11 @@ aliases:
 description: "One of the new features in Windows 8 is that we can configure WLAN and WWAN cost settings. In the Windows UI this is called a metered connection. [ ![..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8metered-connections.png"
-tags:
-  - cost
-  - fixed
-  - group-policy
-  - metered-network
-  - netsh
-  - unrestricted
-  - variable
-  - wlan
-  - wwan
-  - Windows
 categories:
-  - group-policy
-  - network
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Metered-Network'
 ---
 One of the new features in Windows 8 is that we can configure WLAN and WWAN cost settings. In the Windows UI this is called a metered connection. 
 

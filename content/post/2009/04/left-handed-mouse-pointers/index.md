@@ -7,13 +7,11 @@ aliases:
   - "/2009/04/left-handed-mouse-pointers/"
 description: "for those that are left-handed, have a look at these [mouse pointers on MSDN Code Gallery](http://code.msdn.microsoft.com/lefthanded). These left-hand..."
 author: "Alex Verboon"
-tags:
-  - left-handed
-  - mouse-pointers
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Left-Handed'
+  - 'Mouse-Pointers'
 ---
 for those that are left-handed, have a look at these [mouse pointers on MSDN Code Gallery](http://code.msdn.microsoft.com/lefthanded). These left-handed Windows Vista mouse pointers are designed for left-handed users. They point to the right, instead of the left, which may feel more natural for left-handed users.
 

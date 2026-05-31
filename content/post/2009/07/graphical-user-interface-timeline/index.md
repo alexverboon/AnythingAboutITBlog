@@ -7,12 +7,11 @@ aliases:
   - "/2009/07/graphical-user-interface-timeline/"
 description: "Watch the GUI Timeline from 1973 until 2007 [here](http://toastytech.com/guis/guitimeline.html)"
 author: "Alex Verboon"
-tags:
-  - gui
-  - timeline
 categories:
-  - fun
-  - history
+  - 'Security'
+tags:
+  - 'Timeline'
+  - 'Gui'
 ---
 Watch the GUI Timeline from 1973 until 2007 [here](http://toastytech.com/guis/guitimeline.html)
 

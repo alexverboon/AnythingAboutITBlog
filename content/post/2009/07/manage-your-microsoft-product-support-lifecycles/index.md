@@ -8,13 +8,11 @@ aliases:
 description: "Knowing what products are being used within your IT environment is key. From a technology planning point of view its also important to understand the ..."
 author: "Alex Verboon"
 image: "img/post-heroes/manage-your-microsoft-product-support-lifecycles.png"
-tags:
-  - lifecycle
-  - product-support
 categories:
-  - compatibility
-  - microsoft
-  - product-lifecycle
+  - 'Security'
+tags:
+  - 'Lifecycle'
+  - 'Product-Support'
 ---
 Knowing what products are being used within your IT environment is key. From a technology planning point of view its also important to understand the entire product lifecycle of a given product, especially when the it’s being used by a large amount of users or if its use is business critical. 
 

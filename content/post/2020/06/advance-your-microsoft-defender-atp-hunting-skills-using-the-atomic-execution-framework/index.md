@@ -10,13 +10,11 @@ description: Advance my hunting skills using MITRE ATT&CK and Microsoft Defender
   Threat Protection.
 author: Alex Verboon
 image: img/post-heroes/advance-your-microsoft-defender-atp-hunting-skills-using-the-atomic-execution-framework.png
-tags:
-- mitreattack
-- PowerShell
 categories:
-- Microsoft Defender XDR
-- Security
-- PowerShell
+  - 'Security'
+tags:
+  - 'Microsoft Defender Xdr'
+  - 'Mitreattack'
 ---
 Hello everyone, during the past months I took a closer look at [MITRE ATT&CK ](#) to advance my hunting skills using [Microsoft Defender Advanced Threat Protection](#). For those not familiar with MITRE ATT&CK, in short, it is a knowledge base knowledge base of adversary tactics and techniques based on real-world observations.
 

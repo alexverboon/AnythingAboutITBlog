@@ -8,20 +8,11 @@ aliases:
 description: "If you are using Windows Intune, this little FREE utility from [Impeltec](http://www.impeltec.com/Default.aspx) might be of interest to you. ImpelLaun..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-impellaunch.png"
-tags:
-  - application-deployment
-  - configuration-manager
-  - credentials
-  - dfs
-  - download
-  - network-share
-  - script
-  - system-context
-  - windows-intune
-  - wrapper
-  - Windows
 categories:
-  - windows-intune
+  - 'Windows'
+tags:
+  - 'Application-Deployment'
+  - 'Configuration-Manager'
 ---
 If you are using Windows Intune, this little FREE utility from [Impeltec](http://www.impeltec.com/Default.aspx) might be of interest to you. ImpelLaunch was created to overcome the following Application deployment challenges when deploying Software with Windows Intune. . 
 

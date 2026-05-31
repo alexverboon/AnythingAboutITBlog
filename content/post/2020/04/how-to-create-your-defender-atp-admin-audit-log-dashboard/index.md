@@ -8,13 +8,11 @@ aliases:
 description: "Walk you through the process of creating an admin audit log dashboard for Defender Advanced Threat Protection."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-create-your-defender-atp-admin-audit-log-dashboard.png"
-tags:
-  - audit
-  - azure-logic-app
-  - log-analytics
-  - Windows
 categories:
-  - Security
+  - 'Security'
+tags:
+  - 'Audit'
+  - 'Azure-Logic-App'
 ---
 Hello everyone,
 

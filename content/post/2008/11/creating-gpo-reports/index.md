@@ -7,12 +7,11 @@ aliases:
   - "/2008/11/creating-gpo-reports/"
 description: "Creating GPO Reports"
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - scripting
 categories:
-  - GroupPolicy
+  - 'PowerShell'
+tags:
+  - 'Group Policy'
+  - 'Scripting'
 ---
 Usually when you need a report for a given Group Policy object, you would launch the Group Policy Management Console, select the GPO and then select the settings tab that produces the report.
 

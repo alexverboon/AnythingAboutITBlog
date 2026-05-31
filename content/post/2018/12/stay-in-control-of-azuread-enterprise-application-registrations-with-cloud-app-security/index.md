@@ -10,16 +10,11 @@ description: Azure Active Directory provides a simple process that provides user
   with a single sign-on (SSO) experience for accessing cloud-based applications usi...
 author: Alex Verboon
 image: img/post-heroes/stay-in-control-of-azuread-enterprise-application-registrations-with-cloud-app-security.png
-tags:
-- azure-active-directory
-- cloud-app-security
-- mcas
-- Windows
-- Office
 categories:
-- azure-active-directory
-- cloud-app-security
-- Office
+  - 'M365'
+tags:
+  - 'Cloud-App-Security'
+  - 'Azure AD'
 ---
 Azure Active Directory provides a simple process that provides users with a single sign-on (SSO) experience for accessing cloud-based applications using their AzureAD identity. This is a great capability as it removes the need for users to manage multiple identities while enterprises keep visibility and if needed control over which applications are used by their employees.
 

@@ -7,17 +7,11 @@ aliases:
   - "/2012/01/windows-8-whats-new-in-the-deployment-image-servicing-and-management-tool-dism/"
 description: "On my journey discovering the new features within Windows 8 I’ve come across a bunch of new options within the Deployment Image Servicing and Manageme..."
 author: "Alex Verboon"
-tags:
-  - dism
-  - imagex
-  - mount
-  - servicing
-  - vhd
-  - wim
-  - Windows
 categories:
-  - dism-2
-  - Windows
+  - 'Windows'
+tags:
+  - 'Servicing'
+  - 'Dism'
 ---
 On my journey discovering the new features within Windows 8 I’ve come across a bunch of new options within the Deployment Image Servicing and Management Tool aka DISM. When running launching the DISM command we get an overview of all the commands and options. The **blue** coloured commands and options below are the new ones added compared to Windows 7. At first we see a whole new command group being added called “Generic Imaging Commands. While the Windows 7 DISM command is used to service the current running operating system or WIM images, in Windows 8 the DISM tool has been extended with commands to service VHD type images. 
 

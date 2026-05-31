@@ -7,10 +7,11 @@ aliases:
   - "/2008/11/about-disk-drives/"
 description: "Today we had a brief discussion about the impact of power cycles on the disk drive lifetime. In searching for some background information on this subj..."
 author: "Alex Verboon"
-tags:
-  - disk
 categories:
-  - reading
+  - 'Security'
+tags:
+  - 'Disk'
+  - 'Reading'
 ---
 Today we had a brief discussion about the impact of power cycles on the disk drive lifetime. In searching for some background information on this subject, I found the followiing.
 

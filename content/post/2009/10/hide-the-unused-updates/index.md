@@ -8,14 +8,11 @@ aliases:
 description: "When opening Windows Update, you might see a number of Important and optional updates that are available to your system. But what to do if you are not..."
 author: "Alex Verboon"
 image: "img/post-heroes/hide-the-unused-updates.png"
-tags:
-  - windows-update
-  - Windows
 categories:
-  - security
-  - tip
-  - vista
-  - Windows
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'Windows-Update'
 ---
 When opening Windows Update, you might see a number of Important and optional updates that are available to your system. But what to do if you are not interested in installing one of these updates? Over time the list will keep growing as new updates will be released and it becomes quite an annoying job to go over the entire list over and over again. 
 

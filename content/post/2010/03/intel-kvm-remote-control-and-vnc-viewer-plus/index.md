@@ -8,18 +8,11 @@ aliases:
 description: Back in December 2009 I posted [Remote Management of AMT/vPro machine
   with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management...
 author: Alex Verboon
-tags:
-- amt
-- remote-control
-- vnc
-- vnc-viewer
-- vpro
-- WinPE
 categories:
-- amt
-- vnc
-- vpro
-- WinPE
+  - 'Security'
+tags:
+  - 'Remote-Control'
+  - 'Vnc-Viewer'
 ---
 Back in December 2009 I posted [Remote Management of AMT/vPro machine with WinPE and VNC](https://www.verboon.info/index.php/2009/12/remote-management-of-amtvpro-machine-with-winpe-and-vnc/) which explained how to use VNC running in WinPE to remotely manage a vPro enabled device. For those that did try this themselves will have noticed that the process isn’t as comfortable as we would like it to be for day to day use. 
 

@@ -8,18 +8,11 @@ aliases:
 description: Just recently I went through the CM12 Console Task Sequence media creation
   wizard several times a day, so at some point I thought, this is a good cand...
 author: Alex Verboon
-tags:
-- automation
-- boot-media
-- cu1
-- new-cmtasksequencemedia
-- sccm-2012
-- script
-- task-sequence
-- PowerShell
 categories:
-- sccm-2012
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Sccm-2012'
+  - 'Task-Sequence'
 ---
 Just recently I went through the CM12 Console Task Sequence media creation wizard several times a day, so at some point I thought, this is a good candidate for automation. 
 

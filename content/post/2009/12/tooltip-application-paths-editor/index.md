@@ -8,17 +8,11 @@ aliases:
 description: "The Application Paths Editor allows you to add, edit and remove Application Paths. Setting an application path for your favorite application or script..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-application-paths-editor.png"
-tags:
-  - application-paths
-  - application-paths-editor
-  - registry
-  - tool
-  - Windows
 categories:
-  - automation
-  - registry
-  - scripting
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Application-Paths'
+  - 'Application-Paths-Editor'
 ---
 The Application Paths Editor allows you to add, edit and remove Application Paths. Setting an application path for your favorite application or script allows you to run the application directly from the “Run” dialog at the Start Menu. 
 

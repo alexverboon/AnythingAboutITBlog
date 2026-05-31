@@ -9,14 +9,11 @@ description: False positives with e-mail Impersonation detection in Microsoft Th
   Protection.
 author: Alex Verboon
 image: img/post-heroes/mtp-advanced-hunting-public-free-e-mail-services.png
-tags:
-- kql
-- mtp
-- Office
 categories:
-- mtp
-- security
-- Office
+  - 'Security'
+tags:
+  - 'Mtp'
+  - 'Office'
 ---
 Today I received an e-mail from a customer explaining to me that at times they have false positives with e-mail Impersonation. Depending on your configuration the e-mail will end up being moved to the user's junk folder or into quarantine. When releasing such a message and have safety tips turned on, you might see the following message at the top of the message.
 

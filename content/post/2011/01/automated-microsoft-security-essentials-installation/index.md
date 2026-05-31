@@ -8,18 +8,11 @@ aliases:
 description: "For all those that frequently setup test machines and get tired of manually installing the Microsoft Security Essentials 2.0, here’s a straight forwar..."
 author: "Alex Verboon"
 image: "img/post-heroes/automated-microsoft-security-essentials-installation.png"
-tags:
-  - download
-  - installation
-  - microsoft
-  - script
-  - security-essentials
-  - silent-installs
 categories:
-  - scripting
-  - security
-  - security-essentials
-  - tools
+  - 'Security'
+tags:
+  - 'Installation'
+  - 'Security-Essentials'
 ---
 For all those that frequently setup test machines and get tired of manually installing the Microsoft Security Essentials 2.0, here’s a straight forward batch file (even a regular user could use) that does the following:
 

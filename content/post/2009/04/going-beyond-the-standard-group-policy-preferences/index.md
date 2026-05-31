@@ -8,16 +8,11 @@ aliases:
 description: "Group Policies and Group Policy Preferences are great technologies to manage your enterprise desktops. But what if you want to go beyond the features ..."
 author: "Alex Verboon"
 image: "img/post-heroes/going-beyond-the-standard-group-policy-preferences.png"
-tags:
-  - gpo
-  - group-policy
-  - policypak
-  - Windows
 categories:
-  - active-directory
-  - automation
-  - deployment
-  - group-policy
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Policypak'
 ---
 Group Policies and Group Policy Preferences are great technologies to manage your enterprise desktops. But what if you want to go beyond the features Microsoft has build into the Group Policy Management Console?
 

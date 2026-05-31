@@ -8,12 +8,11 @@ aliases:
 description: "Easily and quickly disable USB Storage Drives, CD and Floppy drives across the network. The tool can be executed in GUI and command line mode. The too..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-bulk-drive-manager.png"
-tags:
-  - Uncategorized
 categories:
-  - automation
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Automation'
+  - 'Uncategorized'
 ---
 Easily and quickly disable USB Storage Drives, CD and Floppy drives across the network.  The tool can be executed in GUI and command line mode.
 

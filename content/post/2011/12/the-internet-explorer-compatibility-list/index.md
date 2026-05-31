@@ -8,20 +8,11 @@ aliases:
 description: "In today’s blog post I’d like to share some basic information I gathered today about the Internet Explorer Compatibility list option that is available..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-internet-explorer-compatibility-list.png"
-tags:
-  - compatibility
-  - docmode
-  - emulate
-  - ie7
-  - ie8
-  - ie9compatviewlist-xml
-  - internet-explorer
-  - list
-  - website
-  - Windows
 categories:
-  - compatibility
-  - internet-explorer
+  - 'Windows'
+tags:
+  - 'Compatibility'
+  - 'Internet-Explorer'
 ---
 In today’s blog post I’d like to share some basic information I gathered today about the Internet Explorer Compatibility list option that is available within the Compatibility View Settings in Internet Explorer 8 and 9. By default this setting is enabled and causes websites that are listed within the Compatibility list to render properly in newer versions of Internet Explorer. 
 

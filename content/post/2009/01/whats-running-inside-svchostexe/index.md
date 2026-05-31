@@ -8,15 +8,11 @@ aliases:
 description: "When you open the Windows Task Manager and select the Processes tab and then select the \"show processes from all users\" button, you will find many ins..."
 author: "Alex Verboon"
 image: "img/post-heroes/whats-running-inside-svchostexe.png"
-tags:
-  - process
-  - svchostexe
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
-  - windows-xp
+  - 'Tips-Tools'
+tags:
+  - 'Svchostexe'
+  - 'Process'
 ---
 When you open the Windows Task Manager and select the Processes tab and then select the "show processes from all users" button, you will find many instances of the [svchost.exe ](http://support.microsoft.com/kb/314056/en-us)as shown in the picture below.
 [

@@ -7,11 +7,10 @@ aliases:
   - "/2009/06/windows7-rtm-and-ga-communication-from-microsoft/"
 description: "Windows 7 and Windows Server 2008 R2 RTM and General Availability dates were confirmed today by Microsoft. [http://blogs.technet.com/windowsserver/arc..."
 author: "Alex Verboon"
-tags:
-  - rtm
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Rtm'
 ---
 Windows 7 and Windows Server 2008 R2 RTM and General Availability dates were confirmed today by Microsoft.
 

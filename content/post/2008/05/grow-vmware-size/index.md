@@ -8,13 +8,11 @@ aliases:
 description: Today i ran out of diskspace on one of my systems that runs within a
   vmware session. The system disk only had 10 GB and I needed to add another 10 GB....
 author: Alex Verboon
-tags:
-- vmware
-- Windows
-- WinPE
 categories:
-- Virtualization
-
+  - 'Windows'
+tags:
+  - 'Vmware'
+  - 'Virtualization'
 ---
 Today i ran out of diskspace on one of my systems that runs within a vmware session. The system disk only had 10 GB and I needed to add another 10 GB.
 

@@ -7,13 +7,11 @@ aliases:
   - "/2010/05/palm-memories/"
 description: "This week HP [announced](http://www.hp.com/hpinfo/newsroom/press/2010/100428xa.html) to acquire Palm. Palm?, oh yeah those that created the Palm Pilot..."
 author: "Alex Verboon"
-tags:
-  - history
-  - palm
-  - palm-pilot
 categories:
-  - history
-  - palm
+  - 'Security'
+tags:
+  - 'Palm'
+  - 'History'
 ---
 This week HP [announced](http://www.hp.com/hpinfo/newsroom/press/2010/100428xa.html) to acquire Palm. Palm?, oh yeah those that created the Palm Pilot. I remember well, it was somewhere around 1996 and 1997 when several of our users users came up with this thing called Palm PDA and wanted to synchronize their calendars with our E-Mail system Lotus Notes. Nowadays we just connect our mobile phone to our PC and things magically start to synchronize, I can tell you this wasn’t the case then. 
 

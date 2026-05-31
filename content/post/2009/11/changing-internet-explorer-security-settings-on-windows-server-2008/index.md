@@ -8,17 +8,11 @@ aliases:
 description: "While I was preparing my home lab for some Group Policy tests i wanted to perform I got an error when generating a report in the Group Policy Manageme..."
 author: "Alex Verboon"
 image: "img/post-heroes/changing-internet-explorer-security-settings-on-windows-server-2008.png"
-tags:
-  - gpmc
-  - internet-explorer
-  - report
-  - security
-  - server-2008
-  - Windows
 categories:
-  - group-policy
-  - internet-explorer
-  - windows-server-2008
+  - 'Security'
+tags:
+  - 'Internet-Explorer'
+  - 'Server-2008'
 ---
 While I was preparing my home lab for some Group Policy tests i wanted to perform I got an error when generating a report in the Group Policy Management Console which is running on a Windows Server 2008 with Internet Explorer 8. 
 

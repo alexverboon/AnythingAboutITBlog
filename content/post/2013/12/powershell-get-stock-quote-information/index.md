@@ -9,11 +9,10 @@ description: The below script makes use of a webservice hosted by webserviceX.ne
   and provides stock quote information. ``` <# .Synopsis Retrieve stock information...
 author: Alex Verboon
 image: img/post-heroes/powershell-get-stock-quote-information.png
-tags:
-- stockquote
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Stockquote'
 ---
 The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. 
 

@@ -8,15 +8,11 @@ aliases:
 description: "Should you ever get a warning message in your adsysdis.log that starts with WARN: Failed to get following optional attributes then you have probably a..."
 author: "Alex Verboon"
 image: "img/post-heroes/configmgrfailed-to-get-following-optional-attributes-warning-in-adsysdis-log.png"
-tags:
-  - active-directory
-  - active-directory-system-discovery
-  - adsysdis-log
-  - configmgr
-  - optional-attributes
 categories:
-  - active-directory
-  - configmgr
+  - 'ConfigMgr'
+tags:
+  - 'Adsysdis-Log'
+  - 'Optional-Attributes'
 ---
 Should you ever get a warning message in your adsysdis.log that starts with 
 

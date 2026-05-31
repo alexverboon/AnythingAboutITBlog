@@ -8,20 +8,11 @@ aliases:
 description: "Today I want to share with you a nice FREE tool I’ve just used recently while troubleshooting some networking issues on one of our customers network. ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-port-listener.png"
-tags:
-  - firewall
-  - listening
-  - netstat
-  - network
-  - port
-  - tcpip
-  - tool
-  - utility
-  - Windows
 categories:
-  - port
-  - tcpip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Port'
+  - 'Firewall'
 ---
 Today I want to share with you a nice FREE tool I’ve just used recently while troubleshooting some networking issues on one of our customers network. The problem I had was that I couldn’t get my backend infrastructure talk to the client and vise versa. To keep this post generic I won’t use any products name, but both the backend and client that has an agent require that some ports are open in either one or both ways. 
 

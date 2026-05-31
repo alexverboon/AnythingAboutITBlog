@@ -8,16 +8,11 @@ aliases:
 description: "As a response to the European Antitrust Commission, Microsoft will strip the Internet Explorer from Windows7 SKUs aimed for European markets. For end ..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-download-a-browser-on-windows7-e.png"
-tags:
-  - antitrust
-  - european-antitrust-commission
-  - windows7e
-  - Windows
 categories:
-  - internet
-  - internet-explorer
-  - windows7e
-  - Windows
+  - 'Windows'
+tags:
+  - 'Antitrust'
+  - 'European-Antitrust-Commission'
 ---
 As a response to the European Antitrust Commission, Microsoft will strip the Internet Explorer from Windows7 SKUs aimed for European markets. For end users this means that unless the hardware vendor has a browser pre-installed, which is going to be very unlikely, users must install a browser themselves. 
 

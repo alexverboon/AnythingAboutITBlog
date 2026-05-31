@@ -7,18 +7,11 @@ aliases:
   - "/2010/03/readtip-making-applications-compatible-with-windows-7-in-a-virtualized-environment/"
 description: "Often people think that App-V is is an Application Compatibility Solution, it’s not. Chris Jackson has written an excellent article where he explains ..."
 author: "Alex Verboon"
-tags:
-  - act
-  - app-v
-  - compatibility
-  - shim
-  - virtualization
-  - Windows
 categories:
-  - app-v
-  - compatibility
-  - virtualization
-  - Windows
+  - 'Windows'
+tags:
+  - 'Compatibility'
+  - 'Virtualization'
 ---
 Often people think that App-V is is an Application Compatibility Solution, it’s not. Chris Jackson has written an excellent article where he explains this in detail. Read the entire article [here](http://technet.microsoft.com/en-us/magazine/ff458340.aspx)
 

@@ -7,16 +7,11 @@ aliases:
   - "/2011/03/readtip-branchcache-learning-roadmap/"
 description: "Microsoft has published a BranchCache Learning Roadmap document. Download the document from [here](http://www.microsoft.com/downloads/en/details.aspx?..."
 author: "Alex Verboon"
-tags:
-  - branchcache
-  - learning
-  - windows-2008-r2
-  - Windows
 categories:
-  - branchcache
-  - knowledge
-  - windows-server-2008-r2
-  - Windows
+  - 'Windows'
+tags:
+  - 'Branchcache'
+  - 'Learning'
 ---
 Microsoft has published a BranchCache Learning Roadmap document. Download the document from [here](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=cda652cf-c954-4b78-9e1b-7a660dc3b867)
 

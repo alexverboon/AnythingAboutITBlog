@@ -9,18 +9,11 @@ aliases:
 description: While reading the [Windows 8 Consumer Preview and Windows Server “8”
   Beta Compatibility Cookbook](http://msdn.microsoft.com/en-us/library/hh848074(v=v...
 author: Alex Verboon
-tags:
-- backup-and-restore
-- feature
-- file-history
-- previous-versions
-- restore
-- Windows
-- WinPE
 categories:
-- file-history
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Backup-And-Restore'
+  - 'Feature'
 ---
 While reading the [Windows 8 Consumer Preview and Windows Server “8” Beta Compatibility Cookbook](http://msdn.microsoft.com/en-us/library/hh848074(v=vs.85).aspx) I came across the topic [Volume Shadow Copy Service UI Removed](http://msdn.microsoft.com/en-us/library/hh848072(v=vs.85).aspx). Due to the fact that this feature was obviously rarely used by end users and it’s negative impact on Windows performance, Microsoft decided to removed this feature from Windows 8. In addition Microsoft also decided to [deprecate the Windows 7 Backup and Restore](http://msdn.microsoft.com/en-us/library/hh848073(v=vs.85).aspx) feature, again because this functionality appears to be rarely used. 
 

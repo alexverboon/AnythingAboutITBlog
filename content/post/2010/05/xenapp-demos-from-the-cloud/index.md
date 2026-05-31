@@ -8,19 +8,11 @@ aliases:
 description: "In these days we hear a lot about Desktop Virtualization and Application Virtualization. Last week-end someone asked me what I was currently doing and..."
 author: "Alex Verboon"
 image: "img/post-heroes/xenapp-demos-from-the-cloud.png"
-tags:
-  - citrix
-  - cloud
-  - streaming
-  - virtualization
-  - xenapp
-  - Windows
 categories:
-  - citrix
-  - cloud
-  - virtualization
-  - xenapp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Xenapp'
+  - 'Cloud'
 ---
 In these days we hear a lot about Desktop Virtualization and Application Virtualization. Last week-end someone asked me what I was currently doing and I told him that beside my normal day job, I am doing a number of Citrix trainings. Now let me mention that this person is just a regular user who doesn’t know anything about managing an Enterprise IT infrastructure, leave alone he would understand what Virtualization technology is about. Heck… how to explain Application Virtualization, Streaming, VDI to an ordinary mortal?
 

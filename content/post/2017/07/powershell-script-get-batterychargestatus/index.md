@@ -9,13 +9,11 @@ description: '**Update 01.08.2017** *I have updated the script to ensure that th
   Windows.Devices.Power.Battery class is properly loaded, as this wasn''t the case
   in...'
 author: Alex Verboon
-tags:
-- battery
-- power-management
-- Windows
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Battery'
+  - 'Power-Management'
 ---
 **Update 01.08.2017**
 

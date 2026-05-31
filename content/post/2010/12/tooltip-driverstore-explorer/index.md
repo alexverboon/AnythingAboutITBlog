@@ -8,17 +8,11 @@ aliases:
 description: "In my previous blog post [Inside the Windows 7 Driver Store](https://www.verboon.info/index.php/2010/12/inside-the-windows-7-driver-store/) I explaine..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-driverstore-explorer.png"
-tags:
-  - driver
-  - driver-store
-  - tool
-  - utility
-  - Windows
 categories:
-  - driver-store
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Driver'
+  - 'Driver Store'
 ---
 In my previous blog post [Inside the Windows 7 Driver Store](https://www.verboon.info/index.php/2010/12/inside-the-windows-7-driver-store/) I explained how to retrieve information about the Windows in-box drivers. Beside the in-box drivers the driver store also hosts the drivers installed via Windows Update or the native OEM provided driver installation package. 
 

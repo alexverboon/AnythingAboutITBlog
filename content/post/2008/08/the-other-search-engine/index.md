@@ -8,10 +8,10 @@ aliases:
 description: "the other search engine"
 author: "Alex Verboon"
 image: "img/post-heroes/the-other-search-engine.png"
-tags:
-  - web
 categories:
-  - Web
+  - 'Security'
+tags:
+  - 'Web'
 ---
 When searching the web probably most of us do use Google, because although some don't like to hear it, it has simply become the default search engine for most users and there doesn't seem to be much competition, or would you use MSN search ? :-)
 

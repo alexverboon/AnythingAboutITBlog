@@ -10,17 +10,11 @@ description: Being one of the lucky ones who was able to sign-up to the Microsof
   o...
 author: Alex Verboon
 image: img/post-heroes/microsoft-office-2010-beta-silent-install.png
-tags:
-- deployment
-- silent-installs
-- Office
 categories:
-- automation
-- beta
-- deployment
-- packaging
-- tip
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Beta'
 ---
 Being one of the lucky ones who was able to sign-up to the Microsoft Office 2010 Technical Preview program, I have started looking at the deployment of Microsoft Office 2010 today. 
 

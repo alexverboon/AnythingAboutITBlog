@@ -9,14 +9,11 @@ description: Yesterday evening I was helping out my wife with creating some invi
   cards for a children event that takes place during spring vacation. For the ...
 author: Alex Verboon
 image: img/post-heroes/font-collection.png
-tags:
-- download
-- fonts
-- ttf
-- Office
 categories:
-- fun
-- tip
+  - 'M365'
+tags:
+  - 'Download'
+  - 'Office'
 ---
 Yesterday evening I was helping out my wife with creating some invitation cards for a children event that takes place during spring vacation. For the juniors there was a picture on the front side of the invitation that was okay, but we both decided that for the teen-agers we must use a different theme. 
 

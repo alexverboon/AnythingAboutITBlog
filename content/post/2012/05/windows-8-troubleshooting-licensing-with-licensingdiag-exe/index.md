@@ -7,16 +7,11 @@ aliases:
   - "/2012/05/windows-8-troubleshooting-licensing-with-licensingdiag-exe/"
 description: "Should you encounter problems with activating Windows 8 or Server 2012 then have a look at the new added command-line tool **licensingdiag.exe**. To r..."
 author: "Alex Verboon"
-tags:
-  - command-line
-  - licensing
-  - licensingdiag-exe
-  - server-2012
-  - troubleshooting
-  - Windows
 categories:
-  - licensing
-  - Windows
+  - 'Windows'
+tags:
+  - 'Licensing'
+  - 'Licensingdiag-Exe'
 ---
 Should you encounter problems with activating Windows 8 or Server 2012 then have a look at the new added command-line tool **licensingdiag.exe**.
 

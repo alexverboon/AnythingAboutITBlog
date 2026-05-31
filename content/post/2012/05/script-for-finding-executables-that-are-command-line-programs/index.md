@@ -9,16 +9,11 @@ description: I recently came across a FREE utility called [IsCommandLineApp](htt
   from [Helge Klein](http://helgekle...
 author: Alex Verboon
 image: img/post-heroes/script-for-finding-executables-that-are-command-line-programs.png
-tags:
-- command-line
-- executables
-- tool
-- Windows
-- PowerShell
 categories:
-- commandline
-- tools
-- PowerShell
+  - 'Tips-Tools'
+tags:
+  - 'Command-Line'
+  - 'Executables'
 ---
 I recently came across a FREE utility called [IsCommandLineApp](http://helgeklein.com/free-tools/iscommandlineapp/) from [Helge Klein](http://helgeklein.com/),  a little command-line tool that can be used to determine whether a specific executable is a command-line program. To run this against multiple executables manually is a kind of a pain, so I decided to write a PowerShell script that runs IsCommandLineapp against a defined Folder and all it’s subfolders. 
 

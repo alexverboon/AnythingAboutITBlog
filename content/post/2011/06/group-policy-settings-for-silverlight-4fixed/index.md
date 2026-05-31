@@ -8,18 +8,11 @@ aliases:
 description: "On the Microsoft Silverlight website you will find a page that describes the [available Group Policy Settings for Silverlight](http://www.microsoft.co..."
 author: "Alex Verboon"
 image: "img/post-heroes/group-policy-settings-for-silverlight-4fixed.png"
-tags:
-  - adml
-  - admx
-  - central-store
-  - gpo
-  - group-policy
-  - silverlight
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - silverlight
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Silverlight'
 ---
 On the Microsoft Silverlight website you will find a page that describes the [available Group Policy Settings for Silverlight](http://www.microsoft.com/getsilverlight/resources/documentation/grouppolicysettings.aspx#isolated-storage) as well as the content for the ADMX and ADML file. But… it doesn’t work because the code on the web contains a bug and a section is missing. 
 

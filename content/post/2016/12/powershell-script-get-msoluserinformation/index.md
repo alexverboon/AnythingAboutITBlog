@@ -8,16 +8,11 @@ aliases:
 description: The Get-MsolUserInformation cmdlet provides an easy way to retrieve all
   users that are a member or guest and/or are registered in Azure Directory or A...
 author: Alex Verboon
-tags:
-- active-directory
-- azureactivedirectory
-- PowerShell
-- Office
 categories:
-- active-directory
-- azure
-- PowerShell
-- Office
+  - 'Azure'
+tags:
+  - 'PowerShell'
+  - 'Active Directory'
 ---
 The Get-MsolUserInformation cmdlet provides an easy way to retrieve all users that are a member or guest and/or are registered in Azure Directory or Active Directory.
 

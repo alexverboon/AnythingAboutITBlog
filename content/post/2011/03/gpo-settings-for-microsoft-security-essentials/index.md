@@ -7,15 +7,11 @@ aliases:
   - "/2011/03/gpo-settings-for-microsoft-security-essentials/"
 description: "With the release of the latest version of Microsoft Security Essentials 2.0 in December 2010, Microsoft also changed the licensing terms. ***Small Bus..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - mse
-  - security-essentials
 categories:
-  - gpo
-  - group-policy
-  - security
-  - security-essentials
+  - 'Security'
+tags:
+  - 'Security-Essentials'
+  - 'Group Policy'
 ---
 With the release of the latest version of Microsoft Security Essentials 2.0 in December 2010, Microsoft also changed the licensing terms.
 

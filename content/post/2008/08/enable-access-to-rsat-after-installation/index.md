@@ -8,11 +8,11 @@ aliases:
 description: "On Windows 2000/XP you used to install the adminpak.msi to get access to the various Administrator tools"
 author: "Alex Verboon"
 image: "img/post-heroes/enable-access-to-rsat-after-installation.png"
-tags:
-  - rsat
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Rsat'
+  - 'Tips-Tools'
 ---
 On Windows 2000/XP you used to install the adminpak.msi to get access to the various Administrator tools such as the Active Directory Users and Computers or the DHCP management interface.
 

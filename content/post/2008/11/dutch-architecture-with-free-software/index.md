@@ -7,13 +7,11 @@ aliases:
   - "/2008/11/dutch-architecture-with-free-software/"
 description: "Steve (a friend of mine) had send me this interesting article about how one makes money with free software."
 author: "Alex Verboon"
-tags:
-  - coin
-  - euro
-  - fun
-  - netherlands
 categories:
-  - fun
+  - 'Security'
+tags:
+  - 'Netherlands'
+  - 'Coin'
 ---
 Steve (a friend of mine) had send me this interesting article about how one makes money with free software. The story is about the design of a 5 euro piece that has been made with free software.
 

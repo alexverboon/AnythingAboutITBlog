@@ -8,16 +8,11 @@ aliases:
 description: "While browsing through the MDT 2012 scripts, I noticed that here and there MDT uses functions included in the Microsoft.BDD.Utility.dll which is loade..."
 author: "Alex Verboon"
 image: "img/post-heroes/exploring-the-functions-included-in-microsoft-bdd-utility-dll.png"
-tags:
-  - functions
-  - isadmin
-  - isuefi
-  - mdt
-  - microsoft-bdd-utility-dll
-  - script
 categories:
-  - mdt
-  - scripting
+  - 'PowerShell'
+tags:
+  - 'Functions'
+  - 'Microsoft-Bdd-Utility-Dll'
 ---
 While browsing through the MDT 2012 scripts, I noticed that here and there MDT uses functions included in the Microsoft.BDD.Utility.dll which is loaded by ZTIUtility.vbs. A good example is the ZTIGather.wsf where the following function is used to determine whether the system is running UEFI or native BIOS. 
 

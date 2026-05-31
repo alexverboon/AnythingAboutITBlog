@@ -8,14 +8,11 @@ aliases:
 description: Here’s a small cmdlet I wrote today to pull the Office 365 roadmap information
   with PowerShell. ``` ```
 author: Alex Verboon
-tags:
-- office-365-2
-- roadmap
-- PowerShell
-- Office
 categories:
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Office'
+  - 'Roadmap'
 ---
 Here’s a small cmdlet I wrote today to pull the Office 365 roadmap information with PowerShell.
 

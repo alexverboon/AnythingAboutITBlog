@@ -8,17 +8,11 @@ aliases:
 description: "A while back I wrote about how to [create empty files using FSUTIL](https://www.verboon.info/index.php/2009/05/create-empty-files-using-fsutilexe/) a ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-dummy-file-creator.png"
-tags:
-  - compressible
-  - empty-files
-  - files
-  - random
-  - tip
-  - tools
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Compressible'
+  - 'Empty-Files'
 ---
 A while back I wrote about how to [create empty files using FSUTIL](https://www.verboon.info/index.php/2009/05/create-empty-files-using-fsutilexe/) a windows build-in command line tool for managing FAT and NTFS file systems. Today I found a nice little free utility called Dummy File Creator created by Nikko Cheng. 
 

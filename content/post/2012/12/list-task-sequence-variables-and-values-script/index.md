@@ -8,19 +8,11 @@ aliases:
 description: "For years I have been using the following script from [myITforum](http://www.myitforum.com/articles/42/view.asp?id=11729) to list Task Sequence Enviro..."
 author: "Alex Verboon"
 image: "img/post-heroes/list-task-sequence-variables-and-values-script.png"
-tags:
-  - dump
-  - mdt
-  - microsoft-sms-tsenvironment
-  - process
-  - sccm
-  - task-sequence
-  - values
-  - variables
 categories:
-  - mdt
-  - sccm
-  - scripting
+  - 'ConfigMgr'
+tags:
+  - 'Task-Sequence'
+  - 'Values'
 ---
 For years I have been using the following script from [myITforum](http://www.myitforum.com/articles/42/view.asp?id=11729) to list Task Sequence Environment Variables and Values 
 

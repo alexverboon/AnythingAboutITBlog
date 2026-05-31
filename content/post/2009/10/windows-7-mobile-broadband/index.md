@@ -7,17 +7,11 @@ aliases:
   - "/2009/10/windows-7-mobile-broadband/"
 description: "*Windows 7’s Mobile Broadband enhancements give people a more reliable way to connect to the Internet using a wireless modem. Taking advantage of this..."
 author: "Alex Verboon"
-tags:
-  - broadband
-  - drivers
-  - mobile
-  - wwan
-  - Windows
 categories:
-  - broadband
-  - drivers
-  - mobile
-  - Windows
+  - 'Windows'
+tags:
+  - 'Broadband'
+  - 'Mobile'
 ---
 *Windows 7’s Mobile Broadband enhancements give people a more reliable way to connect to the Internet using a wireless modem. Taking advantage of this feature is just like connecting to any other wireless network, and is done using the View Available Networks feature.*
 

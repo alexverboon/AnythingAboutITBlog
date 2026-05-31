@@ -8,15 +8,11 @@ aliases:
 description: If you have an Office 2010 installation that is customized by use of
   the Office customization tool the customizations are stored within an MSP file th...
 author: Alex Verboon
-tags:
-- customization
-- extract
-- msp
-- oct
-- tool
-- Office
 categories:
-- Office
+  - 'M365'
+tags:
+  - 'Customization'
+  - 'Extract'
 ---
 If you have an Office 2010 installation that is customized by use of the Office customization tool the customizations are stored within an MSP file that uses Extensible Markup Language (XML) format. 
 

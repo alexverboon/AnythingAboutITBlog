@@ -8,13 +8,11 @@ aliases:
 description: "Before Windows Vista Boot Configuration Information was stored within the boot.inifile. With the introduction of Windows Vista Microsoft has completel..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-bcd-store.png"
-tags:
-  - bcd
-  - Windows
 categories:
-  - bios
-  - tools
-  - vista
+  - 'Windows'
+tags:
+  - 'Bcd'
+  - 'Tips-Tools'
 ---
 Before Windows Vista Boot Configuration Information was stored within the boot.inifile. With the introduction of Windows Vista Microsoft has completely reengineered the boot environment and Windows startup process. . Since then Boot Configuration information is not stored within the boot.ini anymore but within the BCD store. BCD = Boot Configuration Data.
 

@@ -8,18 +8,11 @@ aliases:
 description: "I blogged earlier about [Image resizer utilities](https://www.verboon.info/index.php/2008/12/tooltip-image-resizer/), but just found another one worth..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-another-picture-resizer.png"
-tags:
-  - image
-  - picture
-  - resize
-  - tool
-  - utility
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
-  - windows-xp
+  - 'Tips-Tools'
+tags:
+  - 'Picture'
+  - 'Resize'
 ---
 I blogged earlier about [Image resizer utilities](https://www.verboon.info/index.php/2008/12/tooltip-image-resizer/), but just found another one worth mentioning.
 

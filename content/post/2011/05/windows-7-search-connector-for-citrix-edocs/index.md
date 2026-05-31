@@ -8,16 +8,11 @@ aliases:
 description: "Here’s another Search Connector for Windows 7 I’ve just created. Start your [Citrix eDocs](http://support.citrix.com/proddocs/index.jsp) search direct..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-search-connector-for-citrix-edocs.png"
-tags:
-  - citrix
-  - edocs
-  - explorer
-  - search
-  - search-connector
-  - Windows
 categories:
-  - citrix
-  - Windows
+  - 'Windows'
+tags:
+  - 'Citrix'
+  - 'Search'
 ---
 Here’s another Search Connector for Windows 7 I’ve just created. Start your [Citrix eDocs](http://support.citrix.com/proddocs/index.jsp) search directly from the Windows Explorer. 
 

@@ -8,11 +8,11 @@ aliases:
 description: "Today Google launched its own first web browser called Chrome"
 author: "Alex Verboon"
 image: "img/post-heroes/google-launches-chrome-browser.png"
-tags:
-  - chrome
-  - google
 categories:
-  - Browser
+  - 'Security'
+tags:
+  - 'Chrome'
+  - 'Google'
 ---
 Today Google launched its own first web browser called [Chrome](http://www.google.com/chrome/?hl=en). Less is more, Chrome comes with a very nice lean design.
 

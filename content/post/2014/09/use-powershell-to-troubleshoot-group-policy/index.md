@@ -8,12 +8,10 @@ aliases:
 description: While I was on vacation last summer Ed Wilson aka Microsoft Scripting
   Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blo...
 author: Alex Verboon
-tags:
-- group-policy
-- PowerShell
 categories:
-- group-policy
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Group Policy'
 ---
 While I was on vacation last summer Ed Wilson aka Microsoft Scripting Guy asked me if I would like to write a guest post for the Hey Scripting Guy Blog. Of course !! was my immediate response. 
 

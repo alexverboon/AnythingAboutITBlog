@@ -7,18 +7,11 @@ aliases:
   - "/2009/09/installing-branded-ie7-on-windows-xp-service-pack-3/"
 description: "I’ve spend nearly 3 hours in troubleshooting today to find out the reason why a custom IE7 package, that worked fine on Windows XP SP2 would not work ..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - ie7
-  - installation
-  - xpsp3
-  - Windows
 categories:
-  - deployment
-  - internet-explorer
-  - tip
-  - windows-xp
-  - xpsp3
+  - 'Windows'
+tags:
+  - 'Ie7'
+  - 'Tips-Tools'
 ---
 I’ve spend nearly 3 hours in troubleshooting today to find out the reason why a custom IE7 package, that worked fine on Windows XP SP2 would not work on Windows XP SP3. 
 

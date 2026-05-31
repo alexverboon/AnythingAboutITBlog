@@ -8,16 +8,11 @@ aliases:
 description: "With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do. Navigate to [http..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-build-a-site-windows-8-1-tile-for-your-blog.png"
-tags:
-  - blog
-  - desktop
-  - internet-explorer
-  - live-tile
-  - start-menu
-  - Windows
 categories:
-  - internet-explorer
-  - Windows
+  - 'Windows'
+tags:
+  - 'Desktop'
+  - 'Internet-Explorer'
 ---
 With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do. 
 

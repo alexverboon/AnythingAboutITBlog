@@ -8,14 +8,12 @@ aliases:
 description: "Use Kusto Query Language in Microsoft Defender for Endpoint advanced hunting to identify clients with outdated antivirus definitions."
 author: "Alex Verboon"
 image: "img/post-heroes/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions.png"
-tags:
-  - Advanced Hunting
-  - Defender Antivirus
-  - KQL
 categories:
-  - Microsoft Defender XDR
+  - 'Security'
+tags:
+  - 'Advanced Hunting'
+  - 'Defender Antivirus'
 ---
-
 In an ideal world all of our devices are fully patched and the Microsoft Defender antivirus agent has the latest definition updates installed. Unfortunately reality is often different. When using Microsoft Endpoint Manager we can find devices with outdated definition updates through the Microsoft Endpoint Manager portal as shown in the example below.
 
 ![](images/082521_1519_Useadvanced2.png)

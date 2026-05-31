@@ -8,17 +8,11 @@ aliases:
 description: "Today I worked on something where I needed a Windows 8 client that does not have a system reserved partition. To avoid a fresh installation of Windows..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-remove-the-system-reserved-partition.png"
-tags:
-  - bitlocker-partition
-  - bootrec
-  - delete
-  - disk-management
-  - diskpart
-  - system-reserved-partition
-  - Windows
 categories:
-  - tip
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'System-Reserved-Partition'
+  - 'Bitlocker-Partition'
 ---
 Today I worked on something where I needed a Windows 8 client that does not have a system reserved partition. To avoid a fresh installation of Windows I decided to re-use one of my Virtual Machine templates and apply the process described below. 
 

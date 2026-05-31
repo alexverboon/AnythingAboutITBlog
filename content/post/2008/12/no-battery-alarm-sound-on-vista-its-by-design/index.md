@@ -8,15 +8,11 @@ aliases:
 description: "Early this year I bought a new laptop for my wife with Windows Vista Home Premium pre-installed, before she used a notebook with Windows XP. Since she..."
 author: "Alex Verboon"
 image: "img/post-heroes/no-battery-alarm-sound-on-vista-its-by-design.png"
-tags:
-  - battery
-  - batterymeter
-  - power
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
+  - 'Tips-Tools'
+tags:
+  - 'Battery'
+  - 'Batterymeter'
 ---
 Early this year I bought a new laptop for my wife with Windows Vista Home Premium pre-installed, before she used a notebook with Windows XP. Since she is using that new notebook, she is regularly complaining about Windows Vista just shutting down. Of course we could argue that people should read the messages they get such as the one below:
 

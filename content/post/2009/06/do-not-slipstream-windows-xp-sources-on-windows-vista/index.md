@@ -7,17 +7,11 @@ aliases:
   - "/2009/06/do-not-slipstream-windows-xp-sources-on-windows-vista/"
 description: "Today one of my colleagues ran into an issue after having slipstreamed Service Pack 3 into Windows XP. During the Windows XP unattended installation p..."
 author: "Alex Verboon"
-tags:
-  - product-key
-  - service-pack-3
-  - slipstream
-  - unattendtxt
-  - windows-xp
-  - Windows
 categories:
-  - knowledge
-  - tip
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Slipstream'
+  - 'Tips-Tools'
 ---
 Today one of my colleagues ran into an issue after having slipstreamed Service Pack 3 into Windows XP. During the Windows XP unattended installation process the provided product key within the unattend.txt file was not accepted, which caused the system to prompt for the product key. 
 

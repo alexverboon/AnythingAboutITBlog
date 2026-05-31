@@ -8,17 +8,11 @@ aliases:
 description: "Hey here’s another cool application that can help improving Windows startup boot times. The Application is called Soluto and can be downloaded from [h..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-solutoimprove-your-windows-boot-performance.png"
-tags:
-  - boot
-  - performance
-  - startup
-  - tips
-  - tools
-  - windows
 categories:
-  - performance
-  - tip
-  - tools
+  - 'Windows'
+tags:
+  - 'Performance'
+  - 'Tips-Tools'
 ---
 Hey here’s another cool application that can help improving Windows startup boot times. The Application is called Soluto and can be downloaded from [here](http://www.soluto.com/). 
 

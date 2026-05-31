@@ -8,17 +8,11 @@ aliases:
 description: "When configuring ConfigMgr 2012 client settings, notice that some of these settings result in Local Group Policy Settings being applied to the client...."
 author: "Alex Verboon"
 image: "img/post-heroes/configmgr-2012-local-gpo-settings.png"
-tags:
-  - bits
-  - configmgr
-  - configuration-manager
-  - group-policy
-  - local-group-policy
-  - remote-desktop
-  - wua
 categories:
-  - configmgr
-  - group-policy
+  - 'ConfigMgr'
+tags:
+  - 'Configuration-Manager'
+  - 'Group Policy'
 ---
 When configuring ConfigMgr 2012 client settings, notice that some of these settings result in Local Group Policy Settings being applied to the client. If you’re sure that you have not configured any other local GPOs, then a simple way to find out what settings are applied by ConfigMgr is to open the Local Group Policy Editor (gpedit.msc( and filter for configured settings. 
 

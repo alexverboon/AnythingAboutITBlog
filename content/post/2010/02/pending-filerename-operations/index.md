@@ -8,18 +8,11 @@ aliases:
 description: "When installing Applications or operating system hotfixes the installation process sometimes requires replacing or deleting files that are in use, if ..."
 author: "Alex Verboon"
 image: "img/post-heroes/pending-filerename-operations.png"
-tags:
-  - pending-filerename-operation
-  - pendingfilerenameoperations
-  - reboot
-  - session-manager
-  - Windows
 categories:
-  - automation
-  - deployment
-  - registry
-  - tip
-  - wmi
+  - 'Tips-Tools'
+tags:
+  - 'Pending-Filerename-Operation'
+  - 'Pendingfilerenameoperations'
 ---
 When installing Applications or operating system hotfixes the installation process sometimes requires replacing or deleting files that are in use, if that is the case these files can only be replaced or deleted during the next system reboot. 
 

@@ -8,18 +8,11 @@ aliases:
 description: "Usually when you read a Microsoft Knowledge Base article you find a detailed description on how to solve a particular problem. In some KB articles you..."
 author: "Alex Verboon"
 image: "img/post-heroes/fix-it-automates-steps-described-in-microsoft-kb-articles.png"
-tags:
-  - fix
-  - kb
-  - knowledge-base
-  - script
 categories:
-  - deployment
-  - knowledge
-  - packaging
-  - scripting
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Fix'
+  - 'Kb'
 ---
 Usually when you read a Microsoft Knowledge Base article you find a detailed description on how to solve a particular problem.
 

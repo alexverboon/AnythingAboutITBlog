@@ -7,17 +7,11 @@ aliases:
   - "/2009/01/technet-windows-7-forums/"
 description: "Looking for answers on Windows 7 ? have a look on the [Microsoft Technet Forums for Windows 7 Beta](http://social.technet.microsoft.com/Forums/en/cate..."
 author: "Alex Verboon"
-tags:
-  - beta
-  - forum
-  - Windows
 categories:
-  - beta
-  - deployment
-  - knowledge
-  - reading
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Forum'
+  - 'Tips-Tools'
 ---
 Looking for answers on Windows 7 ? have a look  on the [Microsoft Technet Forums for Windows 7 Beta](http://social.technet.microsoft.com/Forums/en/category/w7itpro/).
 

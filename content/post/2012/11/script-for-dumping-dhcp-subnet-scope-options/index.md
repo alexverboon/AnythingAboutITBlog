@@ -7,16 +7,11 @@ aliases:
   - "/2012/11/script-for-dumping-dhcp-subnet-scope-options/"
 description: "Here’s simple script I’ve put together as I was in need of one that dumps the DHCP subnet scope options into a text file. The script first queries the..."
 author: "Alex Verboon"
-tags:
-  - dhcp
-  - dhcp-server
-  - dump
-  - netsh
-  - scope-options
-  - Windows
 categories:
-  - dhcp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Scope-Options'
+  - 'Dhcp'
 ---
 Here’s simple script I’ve put together as I was in need of one that dumps the DHCP subnet scope options into a text file. 
 

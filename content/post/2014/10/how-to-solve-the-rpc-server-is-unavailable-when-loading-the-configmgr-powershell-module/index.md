@@ -11,15 +11,11 @@ description: Since a few weeks, I received the below error message when importin
   ...
 author: Alex Verboon
 image: img/post-heroes/how-to-solve-the-rpc-server-is-unavailable-when-loading-the-configmgr-powershell-module.png
-tags:
-- configmgr
-- error
-- import-mdoule
-- rpc
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'PowerShell'
+  - 'Rpc'
 ---
 Since a few weeks, I received the below error message when importing the ConfigMgr module in PowerShell, but everything I ran afterwards worked fine, so I kept ignoring it for a while. [
 ![image](images/image_thumb4.png)

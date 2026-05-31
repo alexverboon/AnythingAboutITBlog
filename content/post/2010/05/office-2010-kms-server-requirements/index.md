@@ -8,18 +8,11 @@ aliases:
 description: Although I have been working with Office 2010 for a while, I wasn’t aware
   of the KMS Server specific requirements until today when we were asked to lo...
 author: Alex Verboon
-tags:
-- activation
-- kms
-- server-2008-r2
-- Windows
-- Office
 categories:
-- kms
-- licensing
-- windows-server-2008-r2
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Office'
+  - 'Kms'
 ---
 Although I have been working with Office 2010 for a while, I wasn’t aware of the KMS Server specific requirements until today when we were asked to load the Office 2010 KMS key into one of our customers KMS servers. 
 

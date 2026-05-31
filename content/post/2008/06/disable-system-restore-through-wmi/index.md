@@ -7,11 +7,11 @@ aliases:
   - "/2008/06/disable-system-restore-through-wmi/"
 description: "If you are sure about what you are doing and you want to speed up the installation of multiple security patches or applications, you can use the follo..."
 author: "Alex Verboon"
-tags:
-  - script
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Script'
+  - 'Tips-Tools'
 ---
 If you are sure about what you are doing and you want to speed up the installation of multiple security patches or applications, you can use the following WMI command to disable Windows XP system restore.
 

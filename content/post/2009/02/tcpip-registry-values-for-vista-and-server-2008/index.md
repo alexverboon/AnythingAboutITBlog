@@ -7,17 +7,11 @@ aliases:
   - "/2009/02/tcpip-registry-values-for-vista-and-server-2008/"
 description: "Microsoft has updated the TCP/IP Registry Values for Microsoft Windows Vista and Windows Server 2008 whitepaper that describes how to modify the TCP/I..."
 author: "Alex Verboon"
-tags:
-  - configuration
-  - registry
-  - tcpip
-  - Windows
 categories:
-  - protocols
-  - reading
-  - tip
-  - vista
-  - windows-server-2008
+  - 'Windows'
+tags:
+  - 'Registry'
+  - 'Tcpip'
 ---
 Microsoft has updated the TCP/IP Registry Values for Microsoft Windows Vista and Windows Server 2008 whitepaper that describes how to modify the TCP/IP behavior by making registry edits. 
 

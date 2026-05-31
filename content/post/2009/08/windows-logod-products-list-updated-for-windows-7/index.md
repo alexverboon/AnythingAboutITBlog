@@ -8,19 +8,11 @@ aliases:
 description: "The [Windows Hardware Compatibility list ](http://winqual.microsoft.com/hcl/)(HCL) has been updated for Windows 7. So far there are no entries form th..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-logod-products-list-updated-for-windows-7.png"
-tags:
-  - compatibility
-  - devices
-  - logo
-  - support
-  - whql
-  - x64
-  - Windows
 categories:
-  - 64-bit
-  - compaq
-  - compatibility
-  - Windows
+  - 'Windows'
+tags:
+  - 'Logo'
+  - 'Compatibility'
 ---
 The [Windows Hardware Compatibility list ](http://winqual.microsoft.com/hcl/)(HCL) has been updated for Windows 7. So far there are no entries form the major hardware manufacturers, but I’m sure that will change within the next couple of weeks as they continue submitting their drivers for WHQL testing.
 

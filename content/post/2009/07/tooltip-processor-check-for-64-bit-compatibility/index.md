@@ -8,18 +8,11 @@ aliases:
 description: "In my earlier post “[Detect XP Mode support](https://www.verboon.info/index.php/2009/07/detect-xp-mode-support/)” I wrote about a utility that checks ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-processor-check-for-64-bit-compatibility.png"
-tags:
-  - 64-bit
-  - cpu
-  - guest
-  - processor
-  - virtualization
-  - vmware
 categories:
-  - tip
-  - tools
-  - virtualization
-  - vmware
+  - 'Tips-Tools'
+tags:
+  - '64-Bit'
+  - 'Processor'
 ---
 In my earlier post “[Detect XP Mode support](https://www.verboon.info/index.php/2009/07/detect-xp-mode-support/)” I wrote about a utility that checks the system for virtualization support. I have just found a similar one from VMWare that helps detecting if your CPU supports running virtual 64 bit guest operating systems. 
 

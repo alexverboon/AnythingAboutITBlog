@@ -9,15 +9,11 @@ description: Most companies put storage limits on their users mailboxes. To avoi
   full mailboxes, some periodic housekeeping is required. This can be done by eithe...
 author: Alex Verboon
 image: img/post-heroes/removing-large-size-content-from-outlook-calendar.png
-tags:
-- large-content
-- outlook-2007
-- storage
-- Office
 categories:
-- knowledge
-- office-2007
-- tip
+  - 'M365'
+tags:
+  - 'Knowledge'
+  - 'Large-Content'
 ---
 Most companies put storage limits on their users mailboxes. To avoid full mailboxes, some periodic housekeeping is required. This can be done by either using the archiving function or by deleting content manually. 
 

@@ -7,18 +7,11 @@ aliases:
   - "/2012/09/windows-8-boot-time-in-bginfo/"
 description: "Last week I noticed that the Boot Time shown on my BGInfo generated desktop wallpaper had a date of several days ago. This is because of the new Fast ..."
 author: "Alex Verboon"
-tags:
-  - microsoft-windows-power-troubleshooter
-  - bginfo
-  - cold-boot
-  - fast-boot
-  - restart
-  - wake-time
-  - wmi
-  - Windows
 categories:
-  - bginfo
-  - Windows
+  - 'Windows'
+tags:
+  - 'Bginfo'
+  - 'Cold-Boot'
 ---
 Last week I noticed that the Boot Time shown on my BGInfo generated desktop wallpaper had a date of several days ago. This is because of the new Fast Startup feature introduced with Windows 8. 
 

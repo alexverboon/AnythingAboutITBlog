@@ -8,16 +8,11 @@ aliases:
 description: "For those of you that do already use Windows 7 DirectAccess or plan to do so in the near future have a look at the Microsoft DirectAccess Connectivity..."
 author: "Alex Verboon"
 image: "img/post-heroes/microsoft-directaccess-connectivity-assistant-dca.png"
-tags:
-  - connectivity
-  - dca
-  - directaccess
-  - Windows
 categories:
-  - directaccess
-  - tools
-  - windows-server-2008-r2
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Connectivity'
+  - 'Directaccess'
 ---
 For those of you that do already use Windows 7 DirectAccess or plan to do so in the near future have a look at the Microsoft DirectAccess Connectivity Assistant (DCA). 
 

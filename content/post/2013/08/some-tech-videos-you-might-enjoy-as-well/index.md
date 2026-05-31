@@ -7,19 +7,11 @@ aliases:
   - "/2013/08/some-tech-videos-you-might-enjoy-as-well/"
 description: "Below you find some links of Tech related video’s I enjoyed watching, so thought I’d share them for those who love to go down the memory lane as well...."
 author: "Alex Verboon"
-tags:
-  - dec
-  - future
-  - history
-  - linux
-  - os2
-  - past
-  - video
-  - windows-3
-  - windows-nt
-  - Windows
 categories:
-  - video
+  - 'Windows'
+tags:
+  - 'Video'
+  - 'Future'
 ---
 Below you find some links of Tech related video’s I enjoyed watching, so thought I’d share them for those who love to go down the memory lane as well. 
 

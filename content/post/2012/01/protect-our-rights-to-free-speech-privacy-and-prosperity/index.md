@@ -7,10 +7,9 @@ aliases:
   - "/2012/01/protect-our-rights-to-free-speech-privacy-and-prosperity/"
 description: "Protect our rights to free speech, privacy, and prosperity"
 author: "Alex Verboon"
-tags:
-  - sopa
 categories:
-  - internet
+  - 'Security'
+tags:
+  - 'Internet'
+  - 'Sopa'
 ---
-
-

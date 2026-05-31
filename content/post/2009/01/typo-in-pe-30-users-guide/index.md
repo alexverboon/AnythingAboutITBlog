@@ -8,16 +8,11 @@ aliases:
 description: I've just found a typo in the Windows PE 3.0 Users guide for DISM package
   path usage in WinPE.
 author: Alex Verboon
-tags:
-- aik
-- dismexe
-- Windows
-- WinPE
 categories:
-- aik
-- automation
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Automation'
+  - 'Dismexe'
 ---
 I've just found a typo in the Windows PE 3.0 Users guide.
 

@@ -8,14 +8,11 @@ aliases:
 description: "Ever wondered why a double click in the upper left corner closes the Window although there is no close icon? [ ![2011-04-20 17h42_10](images/2011-04-2..."
 author: "Alex Verboon"
 image: "img/post-heroes/why-a-double-click-in-the-upper-left-corner-closes-the-window.png"
-tags:
-  - gui
-  - history
-  - windows
 categories:
-  - history
-  - tip
-  - windows
+  - 'Windows'
+tags:
+  - 'History'
+  - 'Tips-Tools'
 ---
 Ever wondered why a double click in the upper left corner closes the Window although there is no close icon?
 

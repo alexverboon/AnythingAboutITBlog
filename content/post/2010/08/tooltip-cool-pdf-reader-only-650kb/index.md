@@ -8,14 +8,11 @@ aliases:
 description: "As written in my previous post, I have just finished installing a Server 2008 R2 to conduct a proof of concept. I have also some PDF documents that I ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-cool-pdf-reader-only-650kb.png"
-tags:
-  - pdf
-  - reader
-  - tools
 categories:
-  - pdf
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Reader'
+  - 'Pdf'
 ---
 As written in my previous post, I have just finished installing a Server 2008 R2 to conduct a proof of concept. I have also some PDF documents that I will use for reference. So I was just about to install some PDF reader software, but then I thought, hey why “install” software, there must be something small out there that allows me reading a PDF file without having to install anything on my fresh installed server. 
 

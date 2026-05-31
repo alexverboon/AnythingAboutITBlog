@@ -8,18 +8,11 @@ aliases:
 description: As we move towards the end of the year I thought it’s a good time to
   do some housekeeping activities within the lab infrastructure in which we work on...
 author: Alex Verboon
-tags:
-- active-directory
-- lastlogontimestamp
-- quest
-- Windows
-- PowerShell
 categories:
-- active-directory
-- automation
-- tip
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Active Directory'
+  - 'Automation'
 ---
 As we move towards the end of the year I thought it’s a good time to do some housekeeping activities within the lab infrastructure in which we work on a daily basis. Throughout the year we often create test user and computer objects within Active Directory and of course sometimes we forget to delete them. 
 

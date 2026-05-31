@@ -7,16 +7,11 @@ aliases:
   - "/2008/12/converting-vmware-image-to-hyper-v-image/"
 description: "Tomorrow there are plans to move some VMWare slices into Hyper-V. In preparation of that i have found the following article on TechNet [http://social...."
 author: "Alex Verboon"
-tags:
-  - convert
-  - hyper-v
-  - vmware
 categories:
-  - automation
-  - hyper-v
-  - tools
-  - virtualization
-  - vmware
+  - 'Tips-Tools'
+tags:
+  - 'Convert'
+  - 'Hyper-V'
 ---
 Tomorrow there are plans to move some VMWare slices into Hyper-V. In preparation of that i have found the following article on TechNet
 

@@ -7,16 +7,11 @@ aliases:
   - "/2009/03/microsoft-enterprise-desktop-virtualization-v10-beta-demo-kit/"
 description: "Microsoft has made available a Demo Kit for their Enterprise Desktop Virtualization Beta aka MED-V. For more details read my earlier blog post “[Micro..."
 author: "Alex Verboon"
-tags:
-  - desktop-virtualization
-  - kidaro
-  - med-v
-  - Windows
 categories:
-  - deployment
-  - virtualization
-  - vista
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Desktop-Virtualization'
+  - 'Virtualization'
 ---
 Microsoft has made available a Demo Kit for their Enterprise Desktop Virtualization Beta aka MED-V. For more details read my earlier blog post “[Microsoft Enterprise Desktop Virtualization aka MED-V](https://www.verboon.info/index.php/2009/01/microsoft-enterprise-desktop-virtualization-aka-med-v/)”. 
 

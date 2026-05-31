@@ -8,12 +8,11 @@ aliases:
 description: "When you open an executable in notepad, you might have noticed that every executable starts with the letters **MZ** [ ![image](images/image-thumb13.pn..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-mz-header-in-exe-files.png"
-tags:
-  - mz
-  - Windows
 categories:
-  - knowledge
-  - tip
+  - 'Windows'
+tags:
+  - 'Mz'
+  - 'Tips-Tools'
 ---
 When you open an executable in notepad, you might have noticed that every executable starts with the letters **MZ**
 

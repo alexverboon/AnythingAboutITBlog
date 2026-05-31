@@ -8,19 +8,11 @@ aliases:
 description: "When joining a Computer to an Active Directory domain using the Domain Join UI in Windows or a command line tool such as NETDOM.EXE, by default the co..."
 author: "Alex Verboon"
 image: "img/post-heroes/redirect-computers-container-in-active-directory.png"
-tags:
-  - active-directory
-  - computers
-  - domain
-  - join
-  - redircomp
-  - redirection
-  - wellknownobjects
-  - Windows
 categories:
-  - active-directory
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Active Directory'
+  - 'Computers'
 ---
 When joining a Computer to an Active Directory domain using the Domain Join UI in Windows or a command line tool such as NETDOM.EXE, by default the computer object is stored in the **Computers** container which is defined as the default Container in Active Directory for new created Computer objects. 
 

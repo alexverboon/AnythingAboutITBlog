@@ -10,17 +10,12 @@ description: How to use Microsoft Endpoint Configuration Manager and configurati
   baselines to ensure the Windows Print Spooler service remains stopped and disabled.
 author: Alex Verboon
 image: img/post-heroes/use-microsoft-endpoint-configuration-manager-to-configure-the-windows-print-spooler-service.png
-tags:
-- ConfigMgr
-- PrintNightMare
-- PrintSpooler
-- Security
-- Windows
-- PowerShell
 categories:
-- Security
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'ConfigMgr'
 ---
-
 Hello there,
 
 In [my earlier post](https://www.verboon.info/2021/07/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service/) [Use Microsoft Endpoint Configuration Manager to stop the Windows Print Spooler Service – Anything about IT (verboon.info)](https://www.verboon.info/2021/07/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service/) I explained how to stop the Print Spooler service using Microsoft Endpoint Configuration Manager leveraging CMPivot to identify servers where the Print Spooler is running and the Run Script function to stop and disable the service. This method was intended as a first response action, however as new servers get deployed, we want to make sure the print spooler remains disabled, so we need a more permanent solution.

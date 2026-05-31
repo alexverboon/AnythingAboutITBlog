@@ -7,17 +7,11 @@ aliases:
   - "/2012/06/tooltip-diagnostic-tool-for-the-wsus-agent/"
 description: "If you’re looking for a more advanced version of the [WSUS Client Diagnostic Tool](https://www.verboon.info/index.php/2010/01/wsus-client-diagnostic-t..."
 author: "Alex Verboon"
-tags:
-  - agent
-  - diagnostic
-  - patch-management-software
-  - tool
-  - troubleshooting
-  - wsus
-  - Windows
 categories:
-  - tools
-  - wsus
+  - 'Tips-Tools'
+tags:
+  - 'Diagnostic'
+  - 'Agent'
 ---
 If you’re looking for a more advanced version of the [WSUS Client Diagnostic Tool](https://www.verboon.info/index.php/2010/01/wsus-client-diagnostic-tool/) then have a look at the Diagnostic Tool for the WSUS Agent provided by Solarwinds. As for most of the Tools I mention on this blog, it’s **FREE**.
 

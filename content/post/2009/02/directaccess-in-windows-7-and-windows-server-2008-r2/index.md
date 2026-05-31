@@ -7,13 +7,11 @@ aliases:
   - "/2009/02/directaccess-in-windows-7-and-windows-server-2008-r2/"
 description: "Microsoft published a Technical Overview document that covers the functional and architectural aspects of DirectAccess, a technology introduced in Win..."
 author: "Alex Verboon"
-tags:
-  - directaccess
-  - windows-2008-r2
-  - Windows
 categories:
-  - reading
-  - Windows
+  - 'Windows'
+tags:
+  - 'Directaccess'
+  - 'Windows-2008-R2'
 ---
 Microsoft published a Technical Overview document that covers the functional and architectural aspects of DirectAccess, a technology introduced in Windows 7 and Windows Server 2008 R2 to enable mobile workers to seamlessly connect to enterprise network resources when connected to the Internet.
 

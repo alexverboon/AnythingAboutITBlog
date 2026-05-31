@@ -7,14 +7,11 @@ aliases:
   - "/2011/11/windows-8-support-for-edrives/"
 description: "I have just installed the Windows 8 Assessment and Deployment Kit and came across some information about Windows 8 support for eDrive also known as th..."
 author: "Alex Verboon"
-tags:
-  - adk
-  - edrive
-  - unattendxml
-  - Windows
 categories:
-  - edrive
-  - Windows
+  - 'Windows'
+tags:
+  - 'Edrive'
+  - 'Unattendxml'
 ---
 I have just installed the Windows 8 Assessment and Deployment Kit and came across some information about Windows 8 support for eDrive also known as the Encrypted Hard Disk Drive.. 
 

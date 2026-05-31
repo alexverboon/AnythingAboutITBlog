@@ -7,18 +7,11 @@ aliases:
   - "/2009/01/gpo-survival-guide/"
 description: "Just came across this handy document from Microsoft called the \"[Group Policy Documentation Survival Guide](http://download.microsoft.com/download/2/1..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - Windows
 categories:
-  - deployment
-  - group-policy
-  - knowledge
-  - tip
-  - vista
-  - windows-server-2008
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Tips-Tools'
 ---
 Just came across this handy document from Microsoft called the "[Group Policy Documentation Survival Guide](http://download.microsoft.com/download/2/1/2/212db64c-3e9c-44d3-b822-b2508e0eccf3/Group Policy Survival Guide.pdf)".
 

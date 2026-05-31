@@ -7,14 +7,11 @@ aliases:
   - "/2009/01/windows-7-and-windows-server-2008-r2-networking-enhancements-for-enterprises/"
 description: "A document that describes the networking enhancements available in Windows 7 and Windows Server 2008 R2 and their benefit to enterprise networks. Down..."
 author: "Alex Verboon"
-tags:
-  - networking
-  - Windows
 categories:
-  - knowledge
-  - protocols
-  - reading
-  - Windows
+  - 'Windows'
+tags:
+  - 'Networking'
+  - 'Knowledge'
 ---
 A document that describes the networking enhancements available in Windows 7 and Windows Server 2008 R2 and their benefit to enterprise networks.
 

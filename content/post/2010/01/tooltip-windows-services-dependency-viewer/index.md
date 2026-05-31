@@ -8,17 +8,11 @@ aliases:
 description: "During my periodic visit on CodePlex I came across the Windows Services Dependency Viewer utility. The tool provides access to the following informati..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-windows-services-dependency-viewer.png"
-tags:
-  - dependency
-  - process
-  - services
-  - viewer
-  - windows
-  - wmi
 categories:
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Dependency'
+  - 'Services'
 ---
 During my periodic visit on CodePlex I came across the Windows Services Dependency Viewer utility. The tool provides access to the following information:
 

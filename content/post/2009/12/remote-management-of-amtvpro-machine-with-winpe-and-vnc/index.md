@@ -9,26 +9,11 @@ description: Intel vPro/AMT enabled systems allow you to remotely reboot a syste
   from a redirected CD-ROM aka as IDE-R. So if one of your users devices doesn't bo...
 author: Alex Verboon
 image: img/post-heroes/remote-management-of-amtvpro-machine-with-winpe-and-vnc.png
-tags:
-- boot
-- intel
-- iso
-- manageability
-- remote-control
-- vnc
-- vpro
-- Windows
-- WinPE
 categories:
-- bios
-- deployment
-- knowledge
-- tip
-- tools
-- vpro
-- waik
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Vnc'
+  - 'Vpro'
 ---
 Intel vPro/AMT enabled systems allow you to remotely reboot a system from a redirected CD-ROM aka as IDE-R.  So if one of your users devices doesn't boot its OS properly anymore, you can remotely boot that system with a diagnostics CD that you have stored on your local disk drive. 
 

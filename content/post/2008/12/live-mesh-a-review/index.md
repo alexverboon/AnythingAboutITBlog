@@ -8,16 +8,11 @@ aliases:
 description: "It's been in May this year that i first wrote about Microsoft Live Mesh, later in July I was able to get it installed and since then i have been using..."
 author: "Alex Verboon"
 image: "img/post-heroes/live-mesh-a-review.png"
-tags:
-  - cloud
-  - live-mesh
-  - remote
-  - Windows
 categories:
-  - cloud
-  - live-mesh
-  - mobile
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Live-Mesh'
+  - 'Remote'
 ---
 It's been in May this year that i first wrote about Microsoft Live Mesh, later in July I was able to get it installed and since then i have been using it on a regular basis.
 

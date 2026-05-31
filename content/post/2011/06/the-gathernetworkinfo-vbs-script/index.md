@@ -8,19 +8,11 @@ aliases:
 description: "I recently read the whitepaper“[Using Windows Script Host and COM to Hack Windows](http://www.sans.org/reading_room/whitepapers/hackers/windows-script..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-gathernetworkinfo-vbs-script.png"
-tags:
-  - collect
-  - data
-  - gather
-  - gathernetworkinfo-vbs
-  - script
-  - system-information
-  - wsh
-  - Windows
 categories:
-  - network
-  - tcpip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Gather'
+  - 'Gathernetworkinfo-Vbs'
 ---
 I recently read the whitepaper“[Using Windows Script Host and COM to Hack Windows](http://www.sans.org/reading_room/whitepapers/hackers/windows-script-host-hack-windows_33583)” that is mentioning the GatherNetworkinfo.vbs script I hadn’t paid attention to yet. The gathernetworkinfo.vbs script comes by default with every Windows 7 installation and is located within the C:\Windows\System32\ folder. 
 

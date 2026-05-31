@@ -8,21 +8,11 @@ aliases:
 description: "Just learned about these SuperFlows, although some of them were already released a while ago, for some reason I missed that one, well you can’t keep u..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-superflow.png"
-tags:
-  - app-v
-  - process
-  - pxe
-  - sccm-2007
-  - sequencing
-  - software-updates
-  - superflow
 categories:
-  - app-v
-  - process
-  - sccm-2007
-  - superflow
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Superflow'
+  - 'Process'
 ---
 Just learned about these SuperFlows, although some of them were already released a while ago, for some reason I missed that one, well you can’t keep up with everything. Just installed 3 of them, really cool stuff. If you’re dealing with SCCM or App-V, give it a try. 
 

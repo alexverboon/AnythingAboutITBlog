@@ -7,12 +7,11 @@ aliases:
   - "/2008/09/wireless-gpo-settings-for-xp/"
 description: "Wireless GPO settings"
 author: "Alex Verboon"
-tags:
-  - gpo
-  - wireless
-  - Windows
 categories:
-  - GroupPolicy
+  - 'Windows'
+tags:
+  - 'Wireless'
+  - 'Group Policy'
 ---
 In the last 2 days i have spend some time in getting Wireless GPO settings applied to a Windows XP client.
 

@@ -8,23 +8,11 @@ aliases:
 description: "Most enterprises take advantage of Group Policies to manage security configuration settings across their server and desktop infrastructure. Usually on..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-create-a-sccm-2012-sp1-configuration-baseline-with-security-compliance-manager-scm-3-0.png"
-tags:
-  - configuration-baseline
-  - configuration-item
-  - group-policy
-  - monitor
-  - sccm-2012
-  - scm
-  - security
-  - security-compliance-manager
-  - sla
-  - Windows
 categories:
-  - compliance
-  - group-policy
-  - sccm-2012
-  - scm
-  - Windows
+  - 'Windows'
+tags:
+  - 'Configuration-Baseline'
+  - 'Sccm-2012'
 ---
 Most enterprises take advantage of Group Policies to manage security configuration settings across their server and desktop infrastructure. Usually once tested and implemented it’s assumed they get applied correctly. But can we be 100% sure that our clients and servers do actually receive these settings? 
 

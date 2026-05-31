@@ -7,16 +7,11 @@ aliases:
   - "/2010/09/tip-how-to-troubleshoot-kms-activation-problems/"
 description: "Here are some good resources for KMS troubleshooting: MS KB [938450](http://support.microsoft.com/kb/938450/en-us) How to troubleshoot Volume Activati..."
 author: "Alex Verboon"
-tags:
-  - activation
-  - kms
-  - troubleshooting
-  - volume-licensing
-  - Windows
 categories:
-  - kms
-  - licensing
-  - Windows
+  - 'Windows'
+tags:
+  - 'Activation'
+  - 'Kms'
 ---
 Here are some good resources for KMS troubleshooting:
 

@@ -7,10 +7,11 @@ aliases:
   - "/2009/01/wireless-power-technology/"
 description: "Will we get rid of batteries soon ? Read more here: [http://www.ecoupled.com/index.html](http://www.ecoupled.com/index.html)"
 author: "Alex Verboon"
-tags:
-  - wireless-power
 categories:
-  - Uncategorized
+  - 'Security'
+tags:
+  - 'Wireless-Power'
+  - 'Uncategorized'
 ---
 Will we get rid of batteries soon ? Read more here: [http://www.ecoupled.com/index.html](http://www.ecoupled.com/index.html)
 

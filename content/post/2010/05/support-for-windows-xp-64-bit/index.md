@@ -7,16 +7,11 @@ aliases:
   - "/2010/05/support-for-windows-xp-64-bit/"
 description: "As most of you probably know by now, support for Windows XP SP2 ends on July 13, 2010. Well that’s for the 32 bit version of Windows XP, but what abou..."
 author: "Alex Verboon"
-tags:
-  - 64-bit
-  - product-lifecycle
-  - support
-  - windows-xp
-  - Windows
 categories:
-  - 64-bit
-  - product-lifecycle
-  - windows-xp
+  - 'Windows'
+tags:
+  - '64-Bit'
+  - 'Support'
 ---
 As most of you probably know by now, support for Windows XP SP2 ends on July 13, 2010. Well that’s for the 32 bit version of Windows XP, but what about Windows XP 64 bit, knowing that there isn’t an SP3 for that one?
 

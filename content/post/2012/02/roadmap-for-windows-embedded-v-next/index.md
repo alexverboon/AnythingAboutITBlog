@@ -7,17 +7,11 @@ aliases:
   - "/2012/02/roadmap-for-windows-embedded-v-next/"
 description: "While talking about Windows Embedded with a customer last week, a question came up about the next major release of the Windows Embedded operating syst..."
 author: "Alex Verboon"
-tags:
-  - arm
-  - release
-  - roadmap
-  - rtm
-  - vnext
-  - windows-embedded
-  - Windows
 categories:
-  - windows-embedded
-  - Windows
+  - 'Windows'
+tags:
+  - 'Roadmap'
+  - 'Windows-Embedded'
 ---
 While talking about Windows Embedded with a customer last week, a question came up about the next major release of the Windows Embedded operating system. From past experience we know that usually the Embedded version is released a few months after the release of the full version of the operating system. Looking at the current release of the Embedded operating system, Windows 7 was formally released on 22.10.2009, and Windows Embedded Standard 7 was released on 29.07.2010 so nearly 9 months later. 
 

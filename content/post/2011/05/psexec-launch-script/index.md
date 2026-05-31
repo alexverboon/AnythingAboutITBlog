@@ -7,18 +7,11 @@ aliases:
   - "/2011/05/psexec-launch-script/"
 description: "Tired of typing the psexec command with all the command line options? Here’s a short PsExec launch script I wrote today. Using this allows you to just..."
 author: "Alex Verboon"
-tags:
-  - process
-  - psexec-2
-  - pstools-2
-  - remote
-  - tip
-  - tools
 categories:
-  - psexec
-  - pstools
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Psexec'
+  - 'Process'
 ---
 Tired of typing the psexec command with all the command line options? Here’s a short PsExec launch script I wrote today. Using this allows you to just type the remote computer’s computer name or IP address and then launches the command prompt. 
 

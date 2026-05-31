@@ -8,11 +8,11 @@ aliases:
 description: "Once announced as one of the great new features in Windows Vista, it has become silent around the Sidebar gadgets. To me it looks like people have ran..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-sidebar-gadgets.png"
-tags:
-  - Uncategorized
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
+  - 'Uncategorized'
 ---
 Once announced as one of the great new features in Windows Vista, it has become silent around the Sidebar gadgets. To me it looks like people have ran out of ideas about what could be *gadgetized*. 
 

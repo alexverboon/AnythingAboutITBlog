@@ -7,12 +7,11 @@ aliases:
   - "/2010/05/tooltip-win7-library-tool/"
 description: "A nice FREE Tool to manage Windows 7 Libraries. Download from [here](http://zornsoftware.talsit.info/?p=3) ![win7librarytool](images/win7librarytool.p..."
 author: "Alex Verboon"
-tags:
-  - libraries
-  - Windows
 categories:
-  - library
-  - Windows
+  - 'Windows'
+tags:
+  - 'Library'
+  - 'Libraries'
 ---
 A nice FREE Tool to manage Windows 7 Libraries. Download from [here](http://zornsoftware.talsit.info/?p=3)
 

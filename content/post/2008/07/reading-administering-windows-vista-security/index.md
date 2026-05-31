@@ -7,13 +7,11 @@ aliases:
   - "/2008/07/reading-administering-windows-vista-security/"
 description: "Reading - Administering Windows Vista Security"
 author: "Alex Verboon"
-tags:
-  - book
-  - security
-  - vista
-  - Windows
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'Vista'
 ---
 Although you usually don't read IT related books from page 1 and end it on the last page, I consider having finished reading [Mark Minasis'](http://www.minasi.com/) A**dministering Windows Vista Security - The Big surprises**.
 

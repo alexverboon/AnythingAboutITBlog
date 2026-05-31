@@ -7,17 +7,11 @@ aliases:
   - "/2010/03/watchtip-creating-a-firewall-rule-to-allow-icmpv4-echo-requests/"
 description: "Windows 7 with the Firewall enabled by default does not allow ping requests, hence when you ping a remote Windows 7 client it will not respond. In thi..."
 author: "Alex Verboon"
-tags:
-  - firewall
-  - icmpv4
-  - ping
-  - Windows
 categories:
-  - network
-  - protocols
-  - tcpip
-  - tip
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Firewall'
+  - 'Icmpv4'
 ---
 Windows 7 with the Firewall enabled by default does not allow ping requests, hence when you ping a remote Windows 7 client it will not respond. 
 

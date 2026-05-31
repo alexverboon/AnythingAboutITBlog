@@ -7,15 +7,11 @@ aliases:
   - "/2012/04/saturday-morning-ramblings-with-windows-8-hyper-v-and-sun-virtualbox/"
 description: "Yesterday I prepared a new system with Windows 8 CP that has the latest Intel I7 processor and 8GB of RAM. My initial plan was to use Hyper-V which is..."
 author: "Alex Verboon"
-tags:
-  - 64-bit
-  - guest
-  - hyper-v
-  - virtualbox-2
-  - Windows
 categories:
-  - virtualbox
-  - Windows
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Virtualbox'
 ---
 Yesterday I prepared a new system with Windows 8 CP that has the latest Intel I7 processor and 8GB of RAM. My initial plan was to use Hyper-V which is now also included as a feature on the Client.
 

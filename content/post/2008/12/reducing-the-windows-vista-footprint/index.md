@@ -7,14 +7,11 @@ aliases:
   - "/2008/12/reducing-the-windows-vista-footprint/"
 description: "The Windows Vista footprint is quite large, so my current thoughts are \"how to reduce the Windows Vista footprint ?\". I hope to come up with a complet..."
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - automation
-  - deployment
-  - tip
-  - vista
+  - 'Windows'
+tags:
+  - 'Vista'
+  - 'Tips-Tools'
 ---
 The Windows Vista footprint is quite large, so my current thoughts are "how to reduce the Windows Vista footprint ?". I hope to come up with a complete overview at some stage, for now i have found the following interesting references:
 

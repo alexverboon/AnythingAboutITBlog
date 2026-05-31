@@ -8,23 +8,11 @@ aliases:
 description: "Microsoft Security Essentials (MSE) is Microsoft's free Antivirus Software which helps protecting clients against viruses and spyware. For years I had..."
 author: "Alex Verboon"
 image: "img/post-heroes/managing-microsoft-security-essentials-from-the-command-line.png"
-tags:
-  - antivirus
-  - definitions
-  - mpcmdrun
-  - mse
-  - scan
-  - security-essentials
-  - spyware
-  - update
-  - Windows
 categories:
-  - automation
-  - mse
-  - security
-  - tip
-  - tools
-  - Windows
+  - 'Security'
+tags:
+  - 'Security-Essentials'
+  - 'Antivirus'
 ---
 Microsoft Security Essentials (MSE) is Microsoft's free Antivirus Software which helps protecting clients against viruses and spyware. For years I had used other free Antivirus programs on my home based clients, but have switched them all to MSE since it’s release in September 2009. 
 

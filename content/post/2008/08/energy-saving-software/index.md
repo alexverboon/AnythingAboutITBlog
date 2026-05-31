@@ -8,12 +8,11 @@ aliases:
 description: "Edison, provided by Verdiem helps you saving power and our environment."
 author: "Alex Verboon"
 image: "img/post-heroes/energy-saving-software.png"
-tags:
-  - energy
-  - environment
-  - green
 categories:
-    - Tools
+  - 'Tips-Tools'
+tags:
+  - 'Energy'
+  - 'Environment'
 ---
 Edison, provided by Verdiem helps you saving power and our environment.
 

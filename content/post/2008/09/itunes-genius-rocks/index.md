@@ -8,10 +8,11 @@ aliases:
 description: "iTunes Genius"
 author: "Alex Verboon"
 image: "img/post-heroes/itunes-genius-rocks.png"
-tags:
-  - itunes
 categories:
-  - Apple
+  - 'Security'
+tags:
+  - 'Itunes'
+  - 'Apple'
 ---
 With [iTunes 8](http://www.apple.com/itunes/whatsnew/) Apple has added a new feature called Genius. when playing music the genius sidebar shows you related artists and songs.
 

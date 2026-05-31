@@ -8,11 +8,11 @@ aliases:
 description: "VistaPE Project"
 author: Alex Verboon
 image: img/post-heroes/the-vistape-project.png
-tags:
-- Windows
-- WinPE
 categories:
-- Tools
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
+  - 'Winpe'
 ---
 Those of you that work within the desktop management space might be familiar with the PE Builder aka as [BartPE](http://www.nu2.nu/pebuilder/).Since WinPE was only available to enterprise customers, BartPE was a good alternative for those that had did not have access to WinPE. the PE builder allowed building a preboot environment boot CD by just using the Windows XP or Windows 2003 sources.
 

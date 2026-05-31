@@ -8,12 +8,11 @@ aliases:
 description: "The Windows 2003 Resource Kit contains a nice extension for the Active Directory Users and Computers console."
 author: "Alex Verboon"
 image: "img/post-heroes/extending-user-information-in-ad.png"
-tags:
-  - active-directory
-  - user-account-information
-  - Windows
 categories:
-  - Active Directory
+  - 'Windows'
+tags:
+  - 'Active Directory'
+  - 'User-Account-Information'
 ---
 The Windows 2003 Resource Kit contains a nice extension for the Active Directory Users and Computers console showing additional User Account information.
 

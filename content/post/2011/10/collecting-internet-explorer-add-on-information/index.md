@@ -8,17 +8,11 @@ aliases:
 description: "The Windows 8 developer preview build installation media contains an executable called wicainventory.exe. Wicainventory tool collects application and ..."
 author: "Alex Verboon"
 image: "img/post-heroes/collecting-internet-explorer-add-on-information.png"
-tags:
-  - add-on
-  - collect
-  - compatibility
-  - internet-explorer
-  - inventory
-  - Windows
 categories:
-  - internet-explorer
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Add-On'
+  - 'Collect'
 ---
 The Windows 8 developer preview build installation media contains an executable called wicainventory.exe. Wicainventory tool collects application and device information. There is also a wica.ini file that contains 2 URLs. I assume that the Tool is used by Microsoft to collect telemetry data. 
 

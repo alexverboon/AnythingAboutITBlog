@@ -7,17 +7,11 @@ aliases:
   - "/2012/11/no-mbsa-for-windows-8-planned/"
 description: "Many companies and individuals use the Microsoft Baseline Security Analyzer ([MBSA](http://technet.microsoft.com/en-US/security/cc184924.aspx)) to ass..."
 author: "Alex Verboon"
-tags:
-  - baseline-analyzer
-  - mbsa
-  - patch-management-software
-  - patches
-  - security
-  - Windows
 categories:
-  - mbsa
-  - security
-  - Windows
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'Mbsa'
 ---
 Many companies and individuals use the Microsoft Baseline Security Analyzer ([MBSA](http://technet.microsoft.com/en-US/security/cc184924.aspx)) to assess the security state of their Windows Clients. But according to a statement from Microsoft in their [August 2012 Security Bulletin](http://blogs.technet.com/b/msrc/p/august-2012-security-bulletin-q-a.aspx), there are currently no plans to release an updated version for Windows 8. 
 

@@ -7,15 +7,11 @@ aliases:
   - "/2009/09/microsoft-silverlight-3-silent-installation/"
 description: "This morning I integrated Microsoft Silverlight 3 into our Windows 7 build. Since we use an automated image build process, i prepared the Silverlight ..."
 author: "Alex Verboon"
-tags:
-  - msi
-  - silent-installs
-  - silverlight
-  - Windows
 categories:
-  - deployment
-  - silverlight
-  - Windows
+  - 'Windows'
+tags:
+  - 'Silverlight'
+  - 'Silent-Installs'
 ---
 This morning I integrated Microsoft Silverlight 3 into our Windows 7 build. Since we use an automated image build process, i prepared the Silverlight package for a silent install.
 

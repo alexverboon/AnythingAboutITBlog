@@ -8,18 +8,11 @@ aliases:
 description: "As I wrote in my [earlier post](https://www.verboon.info/index.php/2009/10/vmware-workstation-7-rc-available/) this month, VMWare published a Release ..."
 author: "Alex Verboon"
 image: "img/post-heroes/vmware-workstation-7-new-pause-feature.png"
-tags:
-  - pause
-  - tips
-  - virtualization
-  - vm
-  - vmware-workstation-7
-  - Windows
 categories:
-  - tip
-  - virtualization
-  - vmware
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Vmware-Workstation-7'
+  - 'Pause'
 ---
 As I wrote in my [earlier post](https://www.verboon.info/index.php/2009/10/vmware-workstation-7-rc-available/) this month, VMWare published a Release Candidate for VMWare Workstation 7. One of the most interesting new features (to me) is the Pause feature that is described as following:
 

@@ -8,13 +8,11 @@ aliases:
 description: "How to investigate Microsoft Sentinel daily cap alerts and identify high-volume AADNonInteractiveUserSignInLogs contributors."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-analyze-microsoft-sentinel-daily-cap-alerts-aadnoninteractiveusersigninlogs.png"
-tags:
-  - daily cap
-  - KQL
-  - sentinel
-  - Windows
 categories:
-  - Microsoft Sentinel
+  - 'Windows'
+tags:
+  - 'Daily Cap'
+  - 'Microsoft Sentinel'
 ---
 To avoid unplanned costs for Microsoft Sentinel, it is recommended to set a daily cap and create an analytics rule that triggers an alert when the daily cap is reached. Microsoft has published general guidance for monitoring costs [here](https://learn.microsoft.com/azure/sentinel/billing-monitor-costs).
 

@@ -7,13 +7,11 @@ aliases:
   - "/2010/05/production-of-an-ssd-from-start-to-finish/"
 description: "I’ve been reading a bit about [SSD](http://en.wikipedia.org/wiki/Solid-state_drive) (Solid State Disks Today) and came across a video about the produc..."
 author: "Alex Verboon"
-tags:
-  - production
-  - solid-state-disks
-  - ssd
 categories:
-  - production
-  - ssd
+  - 'Security'
+tags:
+  - 'Production'
+  - 'Ssd'
 ---
 I’ve been reading a bit about [SSD](http://en.wikipedia.org/wiki/Solid-state_drive) (Solid State Disks Today) and came across a video about the production of an SSD from start to finish. Interesting!
 

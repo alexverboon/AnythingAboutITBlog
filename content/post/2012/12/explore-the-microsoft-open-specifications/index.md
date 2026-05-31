@@ -8,16 +8,11 @@ aliases:
 description: "If you’re interested in reading how things really work, the Microsoft Open Specifications are a great resource. Microsoft Open Specifications is prima..."
 author: "Alex Verboon"
 image: "img/post-heroes/explore-the-microsoft-open-specifications.png"
-tags:
-  - description
-  - developer
-  - microsoft
-  - msdn
-  - open-specifications
-  - products
 categories:
-  - microsoft
-  - open-specifications
+  - 'PowerShell'
+tags:
+  - 'Open-Specifications'
+  - 'Description'
 ---
 If you’re interested in reading how things really work, the Microsoft Open Specifications are a great resource. Microsoft Open Specifications is primarily intended for software developers but can also be of interest for anyone else who works with Microsoft products. The reason why these documents are little-known is because it isn’t easy to find them on MSDN where they are published. 
 

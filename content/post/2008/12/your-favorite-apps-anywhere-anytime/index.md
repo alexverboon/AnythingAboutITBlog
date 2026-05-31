@@ -7,12 +7,11 @@ aliases:
   - "/2008/12/your-favorite-apps-anywhere-anytime/"
 description: "Carrying your laptop with you sometimes can be a pain, and sometimes you don't even expect that you would need your laptop. Especially when you are at..."
 author: "Alex Verboon"
-tags:
-  - portable
-  - usb
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Portable'
+  - 'Usb'
 ---
 Carrying your laptop with you sometimes can be a pain, and sometimes you don't even expect that you would need your laptop. Especially when you are at some one's private place and they ask you if you would mind to take a look at their PC that isn't doing well anymore.
 

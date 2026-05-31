@@ -7,11 +7,11 @@ aliases:
   - "/2008/07/scripting-registry-permissions/"
 description: "Scripting Registry permissions"
 author: "Alex Verboon"
-tags:
-  - registry
-  - scripting
 categories:
-  - Tips
+  - 'PowerShell'
+tags:
+  - 'Registry'
+  - 'Scripting'
 ---
 Today some e-mails where exchanged on how to best script registry permissions.
 

@@ -7,20 +7,11 @@ aliases:
   - "/2009/02/windows-7-driverstore-size/"
 description: "When it comes to OS deployment the size of the image to some extend does matter. Windows by default comes with a large set of plug and play device dri..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - dism
-  - driverstore
-  - image
-  - imagex
-  - Windows
 categories:
-  - aik
-  - deployment
-  - drivers
-  - scripting
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Drivers'
+  - 'Driver Store'
 ---
 When it comes to OS deployment the size of the image to some extend does matter. Windows by default comes with a large set of plug and play device drivers that are included within the operating system installation sources.
 

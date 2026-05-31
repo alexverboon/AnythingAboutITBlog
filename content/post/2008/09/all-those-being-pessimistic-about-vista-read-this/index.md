@@ -8,11 +8,10 @@ aliases:
 description: "All those being pessimistic about Windows Vista, book some time and carefully read this....."
 author: "Alex Verboon"
 image: "img/post-heroes/all-those-being-pessimistic-about-vista-read-this.png"
-tags:
-  - Windows
-  - WindowsVista
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windowsvista'
 ---
 All those being pessimistic about Windows Vista, book some time and carefully read this:
 

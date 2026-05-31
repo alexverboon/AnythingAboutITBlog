@@ -8,14 +8,11 @@ aliases:
 description: After having browsed through the PowerShell code a bit, found some references
   as to how to configure PowerShell Core logging options through GPO or vi...
 author: Alex Verboon
-tags:
-- group-policy
-- logging
-- powershellcore
-- Windows
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Logging'
+  - 'Group Policy'
 ---
 After having browsed through the PowerShell code a bit, found some references as to how to configure PowerShell Core logging options through GPO or via a configuration file.
 

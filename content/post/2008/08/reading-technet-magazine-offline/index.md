@@ -8,11 +8,11 @@ aliases:
 description: "Reading Technet Magazine offline"
 author: "Alex Verboon"
 image: "img/post-heroes/reading-technet-magazine-offline.png"
-tags:
-  - reading
-  - Technet
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Reading'
+  - 'Technet'
 ---
 staying up to date is key when working in IT. As mentioned in an earlier post, i spend nearly 2 hours a day traveling to work and back home. Today i just noticed that [TechNet Magazine](http://technet.microsoft.com/en-us/magazine/default.aspx) is also made available as a HTML help file, so looks like i have another source for reading now.
 

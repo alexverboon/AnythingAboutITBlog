@@ -8,14 +8,11 @@ aliases:
 description: "Here’s a nice small and FREE utility from Citrix that allows you to test connectivity to a remote host on a specified port. In the example below I tes..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-citrix-port-check-ctxprtchk-exe.png"
-tags:
-  - citrix
-  - port
-  - tcpip
 categories:
-  - citrix
-  - network
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Citrix'
+  - 'Port'
 ---
 Here’s a nice small and FREE utility from Citrix that allows you to test connectivity to a remote host on a specified port. In the example below I test if port 5900 (used for VNC) is open and listening. 
 

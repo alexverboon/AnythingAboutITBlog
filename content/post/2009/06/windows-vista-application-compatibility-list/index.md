@@ -7,15 +7,11 @@ aliases:
   - "/2009/06/windows-vista-application-compatibility-list/"
 description: "Is your application vista compatible ? The [Windows Vista Application Compatibility List for IT professionals](http://www.microsoft.com/downloads/deta..."
 author: "Alex Verboon"
-tags:
-  - application-compatibility
-  - vista
-  - Windows
 categories:
-  - compatibility
-  - deployment
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Application-Compatibility'
+  - 'Vista'
 ---
 Is your application vista compatible ? The [Windows Vista Application Compatibility List for IT professionals](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9df23606-7276-4ce2-8993-143e101ddbcd) might give you the answer. The list contains all applications that have the status “[Certified for Windows Vista](https://winqual.microsoft.com/member/softwarelogo/certifiedlist.aspx)” or “[Works with Windows Vista](https://winqual.microsoft.com/member/softwarelogo/workswithlist.aspx)”. 
 

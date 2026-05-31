@@ -8,13 +8,11 @@ aliases:
 description: "During this week there have been various [reports](http://rcpmag.com/articles/2011/04/12/report-windows-7-passes-xp-in-us.aspx) about Windows 7 passin..."
 author: "Alex Verboon"
 image: "img/post-heroes/keep-track-of-global-and-regional-windows-7-deployment-status.png"
-tags:
-  - deployment
-  - statistics
-  - Windows
 categories:
-  - deployment
-  - Windows
+  - 'Windows'
+tags:
+  - 'Deployment'
+  - 'Statistics'
 ---
 During this week there have been various [reports](http://rcpmag.com/articles/2011/04/12/report-windows-7-passes-xp-in-us.aspx) about Windows 7 passing Windows XP in the U.S. The numbers used come from [StatCounter](http://gs.statcounter.com/) a web analytics service. While Windows 7 has passed Windows XP in the U.S, we’re not yet there globally. 
 

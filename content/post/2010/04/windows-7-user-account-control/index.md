@@ -8,14 +8,11 @@ aliases:
 description: "Today I spend a bit of time in refreshing my UAC knowledge, below a listing of the content I’ve been reading and watching. [ ![image](images/image_thu..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-user-account-control.png"
-tags:
-  - uac
-  - user-account-control
-  - Windows
 categories:
-  - knowledge
-  - uac
-  - Windows
+  - 'Windows'
+tags:
+  - 'User-Account-Control'
+  - 'Uac'
 ---
 Today I spend a bit of time in refreshing my UAC knowledge, below a listing of the content I’ve been reading and watching. 
 

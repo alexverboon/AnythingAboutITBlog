@@ -7,15 +7,11 @@ aliases:
   - "/2009/07/writing-e-mails-on-foreign-keyboards/"
 description: "Today we were invited with friends for a BBQ. One of the conversations we had was about writing e-mails on a foreign keyboard. Anyone who has travelle..."
 author: "Alex Verboon"
-tags:
-  - 399
-  - characters
-  - e-mail
-  - keyboard
-  - Windows
 categories:
-  - knowledge
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'E-Mail'
+  - 'Keyboard'
 ---
 Today we were invited with friends for a BBQ. One of the conversations we had was about writing e-mails on a foreign keyboard. 
 

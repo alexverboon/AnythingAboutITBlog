@@ -7,15 +7,11 @@ aliases:
   - "/2014/01/good-to-know-system-center-2012-configuration-pack-for-microsoft-user-experience-virtualization/"
 description: "Based on a conversation I had yesterday at the ConfigMgr Community event here , it appears that few people know about the existance of the ConfigMgr p..."
 author: "Alex Verboon"
-tags:
-  - compliance-settings
-  - configmgr
-  - ue-v
-  - Windows
 categories:
-  - configmgr
-  - ue-v
-  - Windows
+  - 'ConfigMgr'
+tags:
+  - 'Compliance-Settings'
+  - 'Windows'
 ---
 Based on a conversation I had yesterday at the ConfigMgr Community event here , it appears that few people know about the existance of the ConfigMgr pack for Microsoft UE-V. There’s one for UE-V version 1.0 and just a few weeks ago one for UE-V 2.0 was released. 
 

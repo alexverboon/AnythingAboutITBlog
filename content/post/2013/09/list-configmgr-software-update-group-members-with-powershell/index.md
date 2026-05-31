@@ -8,16 +8,11 @@ aliases:
 description: The below script allows you to select a Configuration Manager software
   update group and then lists the software updates that are assigned to it. ``` <...
 author: Alex Verboon
-tags:
-- configmgr
-- get-cmsoftwareupdate
-- get-cmsoftwareupdategroup
-- software-update-group
-- software-updates
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'PowerShell'
+  - 'Software-Update-Group'
 ---
 The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. 
 

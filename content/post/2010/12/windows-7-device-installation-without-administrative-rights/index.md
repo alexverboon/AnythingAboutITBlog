@@ -8,22 +8,11 @@ aliases:
 description: "This year I have had the opportunity to speak with many customers about Windows 7. One topic that came up in almost every discussion was about how mob..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-device-installation-without-administrative-rights.png"
-tags:
-  - administrative-rights
-  - dism
-  - driver-store
-  - driverstore
-  - gpo
-  - pnputil
-  - windows-update
-  - wsus
-  - Windows
 categories:
-  - driver-store
-  - drivers
-  - gpo
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Administrative-Rights'
+  - 'Driver Store'
 ---
 This year I have had the opportunity to speak with many customers about Windows 7. One topic that came up in almost every discussion was about how mobile users can install their local devices without having to grant them local administrator rights. With previous versions of Windows (NT 4, Windows 2000 and XP) many companies ended up in granting their mobile users local administrator or power user rights, just because they needed to have the flexibility of installing drivers for their local devices. While in the past the need for installing a local device was primarily for local printers, nowadays where people use multiple devices there is also a demand to support mobile phones, headsets and cameras. 
 

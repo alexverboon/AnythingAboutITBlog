@@ -8,12 +8,11 @@ aliases:
 description: "Feeding my hunger for information, I came across the “[RunAS Radio](http://runasradio.com/default.aspx)” site. RunAs Radio is a weekly internet Audio ..."
 author: "Alex Verboon"
 image: "img/post-heroes/runas-radio.png"
-tags:
-  - internet-radio
-  - knowledge
-  - runas-radio
 categories:
-  - knowledge
+  - 'Security'
+tags:
+  - 'Runas-Radio'
+  - 'Internet-Radio'
 ---
 Feeding my hunger for information, I came across the “[RunAS Radio](http://runasradio.com/default.aspx)” site. RunAs Radio is a weekly internet Audio Talk Show for IT Professionals working with Microsoft Products. 
 

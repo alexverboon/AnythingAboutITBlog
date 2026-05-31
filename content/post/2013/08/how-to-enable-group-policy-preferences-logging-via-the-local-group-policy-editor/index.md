@@ -8,18 +8,11 @@ aliases:
 description: "When opening the local Group Policy Editor (gpedit.msc) you will notice that on a default Windows 7 SP1 Enterprise client there is no logging and trac..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-enable-group-policy-preferences-logging-via-the-local-group-policy-editor.png"
-tags:
-  - admx
-  - central-store
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - logging
-  - trace
-  - Windows
 categories:
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Group-Policy-Preferences'
 ---
 When opening the local Group Policy Editor (gpedit.msc) you will notice that on a default Windows 7 SP1 Enterprise client there is no logging and tracing node for Group Policy Preferences logging underneath the Group Policy node. 
 

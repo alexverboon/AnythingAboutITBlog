@@ -8,19 +8,11 @@ aliases:
 description: "Today I received a project plan with the request to review it. Since I haven’t installed MS project yet on my new notebook that I just got last week, ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-amiprojectonline-ms-project-viewer.png"
-tags:
-  - microsoft-project
-  - mpp
-  - online
-  - planning
-  - project
-  - scheduling
-  - tasks
-  - viewer
 categories:
-  - microsoft-project
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Online'
+  - 'Project'
 ---
 Today I received a project plan with the request to review it. Since I haven’t installed MS project yet on my new notebook that I just got last week, I replied that I would look at it as soon as I have installed MS Project. I thought I had a good excuse…… well it just took a few minutes until another colleague pointed me to AmiProject, an online viewer for MS Project files. 
 

@@ -8,18 +8,11 @@ aliases:
 description: "One of the key hardware related prerequisites when using Virtualization software is RAM. To improve performance of my virtual environment that I have ..."
 author: "Alex Verboon"
 image: "img/post-heroes/vmware-workstation-memory-configuration.png"
-tags:
-  - memory
-  - performance
-  - ram
-  - swapping
-  - vmware
-  - Windows
 categories:
-  - tip
-  - virtualization
-  - vmware
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Memory'
+  - 'Vmware'
 ---
 One of the key hardware related prerequisites when using Virtualization software is RAM. To improve performance of my virtual environment that I have running on my notebook, I had ordered an additional memory module of 2 GB RAM. 
 

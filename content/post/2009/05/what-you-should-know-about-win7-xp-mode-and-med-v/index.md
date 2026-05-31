@@ -7,14 +7,11 @@ aliases:
   - "/2009/05/what-you-should-know-about-win7-xp-mode-and-med-v/"
 description: "Windows XP Mode on Windows7 with [Windows Virtual PC](http://www.microsoft.com/windows/virtual-pc/default.aspx) is designed for small business users, ..."
 author: "Alex Verboon"
-tags:
-  - med-v
-  - xp-mode
-  - Windows
 categories:
-  - med-v
-  - virtualization
-  - Windows
+  - 'Windows'
+tags:
+  - 'Xp-Mode'
+  - 'Med-V'
 ---
 Windows XP Mode on Windows7  with [Windows Virtual PC](http://www.microsoft.com/windows/virtual-pc/default.aspx) is designed for small business users, For Enterprise customers, [MED-V](http://www.microsoft.com/windows/enterprise/products/med-v.aspx) is the way to go. 
 

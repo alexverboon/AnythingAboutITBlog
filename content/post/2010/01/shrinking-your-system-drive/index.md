@@ -8,16 +8,11 @@ aliases:
 description: "I am currently doing some training on App-V and for the sequencing of Applications there is a requirement to have 2 Partitions running on the system o..."
 author: "Alex Verboon"
 image: "img/post-heroes/shrinking-your-system-drive.png"
-tags:
-  - disk
-  - format
-  - partition
-  - shrink
-  - Windows
 categories:
-  - tip
-  - vista
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Shrink'
+  - 'Format'
 ---
 I am currently doing some training on App-V and for the sequencing of Applications there is a requirement to have 2 Partitions running on the system on which you sequence the application. Unfortunately I had setup my Windows 7 lab PC with only one partition. A couple of years ago you would have ended up using some 3rd party tools to repartition your system but nowadays (actually since Windows Vista) this is something that takes no more than 10 minutes. 
 

@@ -7,10 +7,8 @@ aliases:
   - "/2017/02/untitled-draft-6973/"
 description: "Imported placeholder draft from the WordPress export."
 author: "Alex Verboon"
-tags:
-  - Uncategorized
 categories:
-  - Uncategorized
+  - 'Security'
+tags:
+  - 'Uncategorized'
 ---
-
-

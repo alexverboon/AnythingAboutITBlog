@@ -9,12 +9,11 @@ description: What technologies will we use in the near future, how will our work
   look like? Watch the video below or explore the [Microsoft Office Labs...
 author: Alex Verboon
 image: img/post-heroes/microsoft-office-labs.png
-tags:
-- future
-- office-labs
-- Office
 categories:
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Office-Labs'
 ---
 What technologies will we use in the near future, how will our work environment look like? Watch the video below or explore the [Microsoft Office Labs](http://www.officelabs.com/Pages/Default.aspx) web site and see how Microsoft thinks this is going to look like. 
 

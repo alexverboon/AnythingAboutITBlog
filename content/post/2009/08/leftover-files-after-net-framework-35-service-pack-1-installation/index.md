@@ -8,23 +8,11 @@ aliases:
 description: "Some of you might have noticed that after installing the .NET Framework 3.5 Service Pack 1, there can be a leftover folder in the root of the system a..."
 author: "Alex Verboon"
 image: "img/post-heroes/leftover-files-after-net-framework-35-service-pack-1-installation.png"
-tags:
-  - net
-  - amd64
-  - cleanup
-  - files
-  - i386
-  - installation
-  - leftover
-  - mxdwdrvdll
-  - xpsepsc
-  - Windows
 categories:
-  - net-framework
-  - automation
-  - scripting
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Installation'
+  - 'Leftover'
 ---
 Some of you might have noticed that after installing the .NET Framework 3.5 Service Pack 1, there can be a leftover folder in the root of the system as shown in the picture below.
 

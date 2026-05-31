@@ -8,18 +8,11 @@ aliases:
 description: "Assume you need to start a file transfer, a download or just execute a batch file once or on a regular basis in the middle of the night. What would yo..."
 author: "Alex Verboon"
 image: "img/post-heroes/wakeup-your-computer-and-do-something.png"
-tags:
-  - hibernate
-  - scheduling
-  - sleep
-  - tasks
-  - tools
-  - wakeup-power-state
-  - Windows
 categories:
-  - scheduling
-  - tools
-  - wakeup
+  - 'Tips-Tools'
+tags:
+  - 'Wakeup'
+  - 'Hibernate'
 ---
 Assume you need to start a file transfer, a download or just execute a batch file once or on a regular basis in the middle of the night. What would you do? Most people will probably use some scheduling software and leave the system on until the task is scheduled to start in addition change the power settings so that the system doesn’t go into sleep or standby as this will prevent the scheduled task from running then.  
 

@@ -8,13 +8,11 @@ aliases:
 description: "Refreshing my knowledge a bit on Time Synchronization, NTP etc. and came across this utility. It’s FREE and doesn’t require installation. The Domain T..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-domain-time-lmcheck.png"
-tags:
-  - time
-  - tools
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Windows'
+tags:
+  - 'Time'
+  - 'Tips-Tools'
 ---
 Refreshing my knowledge a bit on Time Synchronization, NTP etc. and came across this utility. It’s FREE and doesn’t require installation. 
 

@@ -7,13 +7,11 @@ aliases:
   - "/2008/10/what-happens-before-the-os-loads/"
 description: "Ever wondered what actually happens when you turn on your PC before it loads the operating system ? "
 author: "Alex Verboon"
-tags:
-  - bios
-  - boot
-  - uefi
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Bios'
+  - 'Boot'
 ---
 Ever wondered what actually happens when you turn on your PC before it loads the operating system ? Watch this video with Jamie Schwartz, Development Lead, Windows Kernel Dev team, and Andrew Ritz, Development Manager, Windows Kernel Dev team.
 

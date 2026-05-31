@@ -8,18 +8,11 @@ aliases:
 description: "I write most of my blog posts at home in the evenings. Usually when I find a new tool I install these first within a virtual machine, this to not mess..."
 author: "Alex Verboon"
 image: "img/post-heroes/using-intel-amt-power-management-home.png"
-tags:
-  - amt
-  - power-management
-  - remote-control
-  - vpro
-  - Windows
 categories:
-  - bios
-  - intel
-  - tip
-  - tools
-  - vpro
+  - 'Tips-Tools'
+tags:
+  - 'Power-Management'
+  - 'Amt'
 ---
 I write most of my blog posts at home in the evenings. Usually when I find a new tool I install these first within a virtual machine, this to not mess our family PC or my laptop I use for work. All Virtual Machines run on a HP dc7800 desktop which has Intel vPro support. This PC is installed down in the cellar. To avoid having to go down there to power on  the PC I have created two batch files that allow me to power up and power down the machine remotely using the Intel AMT power management feature. 
 

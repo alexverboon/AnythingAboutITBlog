@@ -8,14 +8,11 @@ aliases:
 description: "There many tools out there that can measure the network speed between 2 computers, but either you have to pay for them or you need to go through a len..."
 author: "Alex Verboon"
 image: "img/post-heroes/testing-network-speed.png"
-tags:
-  - bandwidth
-  - network
-  - speed
 categories:
-  - lan
-  - network
-  - speed
+  - 'Security'
+tags:
+  - 'Network'
+  - 'Speed'
 ---
 There many tools out there that can measure the network speed between 2 computers, but either you have to pay for them or you need to go through a lengthy installation or configuration process. I want something that is FREE and easy to use. Here’s what I end up with after 30 minutes of browsing the web and doing some test installs of the various tools I found. 
 

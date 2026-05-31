@@ -7,15 +7,11 @@ aliases:
   - "/2010/03/blogtip-group-policy-center/"
 description: "Being generally interested in Group Policy Management I was more than happy to stumble upon this blog today called the [Group Policy Center](http://ww..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - Windows
 categories:
-  - group-policy
-  - knowledge
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Group Policy'
+  - 'Group-Policy-Preferences'
 ---
 Being generally interested in Group Policy Management I was more than happy to stumble upon this blog today called the [Group Policy Center](http://www.grouppolicy.biz/) – A very nice blog with News, Tutorials, Tips and Tricks about Microsoft Windows Group Policy. 
 

@@ -8,16 +8,11 @@ aliases:
 description: The below script gathers the following system startup time information
   from a local or remote client. - Computername - Last Wakeup time (from Sleep, H...
 author: Alex Verboon
-tags:
-- boot-time
-- eventlog
-- last-wakeup
-- startup
-- timezone
-- Windows
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Startup'
+  - 'Boot-Time'
 ---
 The below script gathers the following system startup time information from a local or remote client. 
 

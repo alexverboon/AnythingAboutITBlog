@@ -7,13 +7,11 @@ aliases:
   - "/2011/11/new-defrag-options-in-windows-8/"
 description: "Looks like Windows 8 introduces some additional DEFRAG options. **Option** **Description** **Option Available** **Windows 7** **Windows 8** /A Perform..."
 author: "Alex Verboon"
-tags:
-  - defrag
-  - optimization
-  - Windows
 categories:
-  - defrag
-  - Windows
+  - 'Windows'
+tags:
+  - 'Defrag'
+  - 'Optimization'
 ---
 Looks like Windows 8 introduces some additional DEFRAG options. 
 

@@ -8,16 +8,11 @@ aliases:
 description: "I have seen many FREE Screen Capture tools, but this one beats them all. Screenpresso is a small FREE Screen Capture utility that comes with a lot of ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-screenpresso.png"
-tags:
-  - screen-capture
-  - screenshot
-  - tip
-  - tool
-  - Windows
 categories:
-  - screencapture
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Screen-Capture'
+  - 'Screenshot'
 ---
 I have seen many FREE Screen Capture tools, but this one beats them all. Screenpresso is a small FREE Screen Capture utility that comes with a lot of nice features and doesn’t require an install. 
 

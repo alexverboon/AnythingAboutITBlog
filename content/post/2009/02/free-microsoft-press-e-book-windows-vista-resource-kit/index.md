@@ -8,17 +8,11 @@ aliases:
 description: "Microsoft Press is celebrating their 25th anniversary and is therefore giving away the “Windows Vista Resource Kit, Second Edition” E-BOOK. [ ![vistar..."
 author: "Alex Verboon"
 image: "img/post-heroes/free-microsoft-press-e-book-windows-vista-resource-kit.png"
-tags:
-  - download
-  - e-book
-  - free
-  - resource-kit
-  - windows-vista
-  - Windows
 categories:
-  - reading
-  - tip
-  - vista
+  - 'Tips-Tools'
+tags:
+  - 'E-Book'
+  - 'Resource-Kit'
 ---
 Microsoft Press is celebrating their 25th anniversary and is therefore giving away the “Windows Vista Resource Kit, Second Edition” E-BOOK. 
 

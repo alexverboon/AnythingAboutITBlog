@@ -7,11 +7,10 @@ aliases:
   - "/2009/03/windows-7-walkthroughs-updated/"
 description: "Microsoft has published additional Windows7 Walkthroughs on Microsoft TechNet. The Walkthroughs provide you with a high-level overview on the various ..."
 author: "Alex Verboon"
-tags:
-  - Uncategorized
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Uncategorized'
 ---
 Microsoft has published additional Windows7 Walkthroughs on Microsoft TechNet. The Walkthroughs provide you with a high-level overview on the various features and enhancements that come with Windows7. 
 

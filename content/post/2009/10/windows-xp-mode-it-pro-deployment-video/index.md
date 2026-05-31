@@ -7,20 +7,11 @@ aliases:
   - "/2009/10/windows-xp-mode-it-pro-deployment-video/"
 description: "If you consider using XP Mode, then I recommend watching this video. This video contains a good tutorial on how to install and configure XP mode inclu..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - sysprep
-  - vhd
-  - windows-xp
-  - xp-mode
-  - Windows
 categories:
-  - automation
-  - deployment
-  - vhd
-  - virtualization
-  - xp-mode
-  - Windows
+  - 'Windows'
+tags:
+  - 'Deployment'
+  - 'Windows-Xp'
 ---
 If you consider using XP Mode, then I recommend watching this video. This video contains a good tutorial on how to install and configure XP mode including a lot of additional hints. Furthermore the video explains how to create a customized XP Mode VHD for deployment on multiple clients.
 

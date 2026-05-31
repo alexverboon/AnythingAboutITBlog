@@ -8,21 +8,11 @@ aliases:
 description: "The driver store is a trusted location of inbox and third-party driver packages. This means that before a driver can be installed it must first be inj..."
 author: "Alex Verboon"
 image: "img/post-heroes/inside-the-windows-7-driver-store.png"
-tags:
-  - compatibility
-  - dism
-  - driver-store
-  - driverstore
-  - in-box
-  - installation
-  - logo
-  - oem
-  - pnputil
-  - Windows
 categories:
-  - driver-store
-  - drivers
-  - Windows
+  - 'Windows'
+tags:
+  - 'Driver Store'
+  - 'Compatibility'
 ---
 The driver store is a trusted location of inbox and third-party driver packages. This means that before a driver can be installed it must first be injected into the driver store, this process is called staging. Today I want to take a closer look at what is inside the driver store specifically the drivers that are included within Windows 7. The driver store is located under C:\Windows\System32\Driverstore.
 

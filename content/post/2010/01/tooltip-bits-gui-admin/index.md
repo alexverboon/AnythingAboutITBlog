@@ -8,19 +8,11 @@ aliases:
 description: "In an earlier post [Using BITS for file downloads](Using BITS for file downloads) I wrote about how to use BITS for file transfers. Today I had a BITS..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-bits-gui-admin.png"
-tags:
-  - bits
-  - bitsadmin
-  - download
-  - file-transfer
-  - gui
-  - transfer
-  - Windows
 categories:
-  - bits
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Bits'
+  - 'Gui'
 ---
 In an earlier post [Using BITS for file downloads](Using BITS for file downloads) I wrote about how to use BITS for file transfers. Today I had a BITS related topic at work, so needed a brief refresher and found some additional interesting things. 
 

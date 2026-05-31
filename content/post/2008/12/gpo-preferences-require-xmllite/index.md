@@ -7,16 +7,11 @@ aliases:
   - "/2008/12/gpo-preferences-require-xmllite/"
 description: "Reading the [Group Policy Preferences Overview](http://www.gpoguy.com/Portals/0/Group%20Policy%20Preferences%20Overview.pdf) Whitepaper from SDM softw..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - Windows
 categories:
-  - active-directory
-  - deployment
-  - group-policy
-  - reading
-  - tip
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Tips-Tools'
 ---
 Reading the [Group Policy Preferences Overview](http://www.gpoguy.com/Portals/0/Group%20Policy%20Preferences%20Overview.pdf) Whitepaper from SDM software, I just notice an interesting prerequisite for using GPO Preferences - [XMLLite](http://msdn.microsoft.com/en-us/library/ms752838.aspx).
 

@@ -7,15 +7,11 @@ aliases:
   - "/2009/03/perform-multithreaded-file-copies-with-robocopy-in-windows-7/"
 description: "Read the TechNet article “[Perform Multithreaded File Copies with Robocopy in Windows](http://technet.microsoft.com/en-us/magazine/dd542631.aspx) 7”"
 author: "Alex Verboon"
-tags:
-  - multithread
-  - robocopy
-  - Windows
 categories:
-  - automation
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Multithread'
+  - 'Robocopy'
 ---
 Read the TechNet article “[Perform Multithreaded File Copies with Robocopy in Windows](http://technet.microsoft.com/en-us/magazine/dd542631.aspx) 7”
 

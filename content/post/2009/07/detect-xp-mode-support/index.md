@@ -8,18 +8,11 @@ aliases:
 description: "Does your hardware support the Windows7 [XP Mode](http://www.microsoft.com/windows/virtual-pc/get-started.aspx) feature ? Here’s a small and free util..."
 author: "Alex Verboon"
 image: "img/post-heroes/detect-xp-mode-support.png"
-tags:
-  - hardware
-  - vt
-  - windows-virtual-pc
-  - xp-mode
-  - Windows
 categories:
-  - bios
-  - compatibility
-  - tools
-  - virtualization
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Xp-Mode'
+  - 'Hardware'
 ---
 Does your hardware support the Windows7 [XP Mode](http://www.microsoft.com/windows/virtual-pc/get-started.aspx) feature ? Here’s a small and free utility that helps you to find out if your system provides [hardware virtualization](http://en.wikipedia.org/wiki/Hardware-assisted_virtualization) support. 
 

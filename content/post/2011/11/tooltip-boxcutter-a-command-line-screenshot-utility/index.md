@@ -7,19 +7,11 @@ aliases:
   - "/2011/11/tooltip-boxcutter-a-command-line-screenshot-utility/"
 description: "Boxcutter is a simple command line-driven screenshot program for Microsoft Windows. Below you find a short script I wrote that will take a screenshot ..."
 author: "Alex Verboon"
-tags:
-  - bmp
-  - boxcutter
-  - command-line
-  - png
-  - screen-capture
-  - screenshot
-  - script
-  - Windows
 categories:
-  - screencapture
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Boxcutter'
+  - 'Command-Line'
 ---
 Boxcutter is a simple command line-driven screenshot program for Microsoft Windows. Below you find a short script I wrote that will take a screenshot of the full screen every 20 seconds until 100 screenshots are saved. 
 

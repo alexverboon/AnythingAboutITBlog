@@ -8,17 +8,11 @@ aliases:
 description: Windows XP, Windows Vista, Windows 7 and Windows 8 include the shutdown.exe
   command-line tool that can be used for shutting down or rebooting a system...
 author: Alex Verboon
-tags:
-- command-line
-- reboot
-- shutdown
-- tips
-- Windows
-- WinPE
 categories:
-- tip
-- Windows
-- WinPE
+  - 'Tips-Tools'
+tags:
+  - 'Reboot'
+  - 'Shutdown'
 ---
 Windows XP, Windows Vista, Windows 7 and Windows 8 include the shutdown.exe command-line tool that can be used for shutting down or rebooting a system within a script or just from the command prompt. WinPE however is only a minimal operating system primarily designed to act as a preinstallation or recovery environment.
 

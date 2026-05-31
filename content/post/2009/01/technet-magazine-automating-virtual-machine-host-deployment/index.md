@@ -7,16 +7,11 @@ aliases:
   - "/2009/01/technet-magazine-automating-virtual-machine-host-deployment/"
 description: "Great article i just finished reading about [automating virtual machine host deployment](http://technet.microsoft.com/en-us/magazine/2009.02.hyperv.as..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - hyper-v
-  - Windows
 categories:
-  - aik
-  - automation
-  - deployment
-  - hyper-v
-  - windows-server-2008
+  - 'Windows'
+tags:
+  - 'Deployment'
+  - 'Hyper-V'
 ---
 Great article i just finished reading about [automating virtual machine host deployment](http://technet.microsoft.com/en-us/magazine/2009.02.hyperv.aspx?pr=blog) on Hyper-V.
 

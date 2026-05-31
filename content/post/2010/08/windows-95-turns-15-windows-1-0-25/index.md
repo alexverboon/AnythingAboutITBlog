@@ -8,13 +8,11 @@ aliases:
 description: "There’s a lot of talk about Windows 95 in these days as it’s 15 years ago when Windows 95 was launched. Well if all are so much in “Operating System B..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-95-turns-15-windows-1-0-25.png"
-tags:
-  - fun
-  - history
-  - windows
 categories:
-  - history
-  - microsoft
+  - 'Windows'
+tags:
+  - 'History'
+  - 'Fun'
 ---
 There’s a lot of talk about Windows 95 in these days as it’s 15 years ago when Windows 95 was launched. Well if all are so much in “Operating System Birthday” celebration mode, then let’s not forget that soon it will be 25 years ago since Microsoft released the very first version of [Windows 1.0](http://en.wikipedia.org/wiki/Windows_1.0). 
 

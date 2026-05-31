@@ -7,16 +7,11 @@ aliases:
   - "/2009/02/windows-7-theme-packs/"
 description: "Just found a nice article on Mike Swanson’s blog about Windows 7 Theme Packs. Windows 7 introduces [theme packs](http://msdn.microsoft.com/en-us/libra..."
 author: "Alex Verboon"
-tags:
-  - colors
-  - sound
-  - theme-pack
-  - themes
-  - wallpaper
-  - Windows
 categories:
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Theme-Pack'
+  - 'Tips-Tools'
 ---
 Just found a nice article on Mike Swanson’s blog about Windows 7 Theme Packs. Windows 7 introduces [theme packs](http://msdn.microsoft.com/en-us/library/bb773190(VS.85).aspx), which are .cab files that contain all of the necessary assets to implement a theme, including sound files and images.
 

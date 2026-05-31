@@ -8,11 +8,11 @@ aliases:
 description: "A GUI for Robocopy"
 author: "Alex Verboon"
 image: "img/post-heroes/a-gui-for-robocopy.png"
-tags:
-  - gui
-  - Tools
 categories:
-  - Various
+  - 'Tips-Tools'
+tags:
+  - 'Gui'
+  - 'Various'
 ---
 Some of you might now this already, I just came across this today :-) Although i prefer command lines, I must admit that i like this tool, as it allows you to either run the command immediately or save it as a script. And for some reasons I have always had a bit of a "typo" issue using robocoy. .
 

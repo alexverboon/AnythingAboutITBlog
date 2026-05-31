@@ -7,12 +7,11 @@ aliases:
   - "/2010/08/there-was-a-time-another-one/"
 description: "……. I’m in history mode again, here’s another nice Tech Commercial."
 author: "Alex Verboon"
-tags:
-  - history
-  - univac
 categories:
-  - fun
-  - history
+  - 'Security'
+tags:
+  - 'History'
+  - 'Univac'
 ---
 ……. I’m in history mode again, here’s another nice Tech Commercial.
 

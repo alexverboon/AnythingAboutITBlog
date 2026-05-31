@@ -7,14 +7,11 @@ aliases:
   - "/2010/02/citrix-xenclient-a-bare-metal-client-hypervisor/"
 description: "Today Hypervisors are classified into two types. Type 1 is the so-called native bare metal hypervisor and type 2 the hosted hypervisor. Within the ser..."
 author: "Alex Verboon"
-tags:
-  - hypervisor
-  - xenclient
-  - Windows
 categories:
-  - citrix
-  - hypervisor
-  - virtualization
+  - 'Windows'
+tags:
+  - 'Hypervisor'
+  - 'Xenclient'
 ---
 Today Hypervisors are classified into two types. Type 1 is the so-called native bare metal hypervisor and type 2 the hosted hypervisor. Within the server based computing world there are various products available based on Type 1 (VMWare ESX Server, Citrix XEN Server) or Type 2 (Microsoft Hyper-V, VMWare Server). 
 

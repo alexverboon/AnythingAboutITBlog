@@ -8,13 +8,11 @@ aliases:
 description: "There is an updated version of the less misérables utility a utility with a graphical user interface and a command line interface that can be used to ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-updated-version-of-lessmsi-view-extract-msi-content.png"
-tags:
-  - extract
-  - files
-  - msi
 categories:
-  - msi
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Extract'
+  - 'Msi'
 ---
 There is an updated version of the less misérables utility a utility with a graphical user interface and a command line interface that can be used to view and extract the contents of an MSI file. 
 

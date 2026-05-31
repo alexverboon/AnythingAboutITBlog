@@ -8,14 +8,11 @@ aliases:
 description: 'Windows 10 build 10.0.10130 brought a couple more new Group Policy settings,
   here they are: **Location** **Setting** **Description** Computer Configur...'
 author: Alex Verboon
-tags:
-- group-policy
-- Windows
-- PowerShell
 categories:
-- group-policy
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'PowerShell'
 ---
 Windows 10 build 10.0.10130 brought a couple more new Group Policy settings, here they are:
 

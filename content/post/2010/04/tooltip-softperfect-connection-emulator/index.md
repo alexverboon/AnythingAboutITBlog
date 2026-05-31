@@ -8,24 +8,11 @@ aliases:
 description: "Today’s ToolTip is about SoftPerfect Connection Emulator SCE. As the name says the software allows you to emulate different connection types. Unfortun..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-softperfect-connection-emulator.png"
-tags:
-  - emulator
-  - lan
-  - latency
-  - network
-  - packet-loss
-  - speed
-  - traffic
-  - transfer-rate
-  - wan
 categories:
-  - ipv6
-  - network
-  - performance
-  - protocols
-  - tcpip
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Emulator'
+  - 'Latency'
 ---
 Today’s ToolTip is about SoftPerfect Connection Emulator SCE. As the name says the software allows you to emulate different connection types. Unfortunately the tool is not for free, but I found the software nice enough to give it a try and eventually buy it especially since I haven’t been able to find a free alternative yet. 
 

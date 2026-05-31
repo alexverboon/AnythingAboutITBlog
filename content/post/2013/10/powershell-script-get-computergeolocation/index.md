@@ -9,21 +9,11 @@ description: '**28-OCT-2013 Update**: I have updated the script to retry when th
   status of the location provider is in initializing mode. The below script uses the...'
 author: Alex Verboon
 image: img/post-heroes/powershell-script-get-computergeolocation.png
-tags:
-- google-geocoding
-- gps
-- latitude
-- longitude
-- sensor
-- wi-fi
-- windows-location-platform
-- windows-location-provider
-- Windows
-- PowerShell
 categories:
-- windows-location-provider
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Google-Geocoding'
 ---
 **28-OCT-2013 Update**: I have updated the script to retry when the status of the location provider is in initializing mode. 
 

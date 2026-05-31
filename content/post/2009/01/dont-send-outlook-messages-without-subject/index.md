@@ -8,12 +8,11 @@ aliases:
 description: This probably has happened to each of us, writing an e-mail, then added
   the recipients and then clicked the send button, and as you clicked it, you no...
 author: Alex Verboon
-tags:
-- outlook
-- Office
 categories:
-- tip
-- Office
+  - 'M365'
+tags:
+  - 'Outlook'
+  - 'Office'
 ---
 This probably has happened to each of us, writing an e-mail, then added the recipients and then clicked the send button, and as you clicked it, you notice that you forgot to fill in the subject.
 

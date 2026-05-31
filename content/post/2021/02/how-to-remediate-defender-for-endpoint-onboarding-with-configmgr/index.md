@@ -9,16 +9,12 @@ description: Automate remediation of Microsoft Defender for Endpoint onboarding 
   using ConfigMgr compliance baselines.
 author: Alex Verboon
 image: img/post-heroes/how-to-remediate-defender-for-endpoint-onboarding-with-configmgr.png
-tags:
-- DefenderforEndpoint
-- MEMCM
-- Security
-- Windows
-- PowerShell
 categories:
-- Microsoft Defender XDR
+  - 'Security'
+tags:
+  - 'Defender for Endpoint'
+  - 'Microsoft Defender Xdr'
 ---
-
 During the past 5 years I have onboarded a couple of thousand devices into Microsoft Defender for Endpoint and can say that, provided that you done your homework with regards to network connectivity, onboarding devices into Defender for Endpoint usually just works. But as always in IT, there are exceptions.
 
 Should you ever run into an issue with onboarding devices, I recommend checking the guidance provided here: [Troubleshoot Microsoft Defender for Endpoint onboarding issues](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding). Now if you have just a couple of devices to manage you will most likely spot any missing device within the Defender for Endpoint management portal, but what if you have several hundred or even thousands of devices? How would you find out that that particular device Computer0073 in Building D1 on the 6th floor is not correctly onboarded?

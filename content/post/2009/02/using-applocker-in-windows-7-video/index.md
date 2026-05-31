@@ -7,19 +7,11 @@ aliases:
   - "/2009/02/using-applocker-in-windows-7-video/"
 description: "Watch the [Using AppLocker in Win7](http://edge.technet.com/Media/Using-AppLocker-in-Win7/) video on TechNet where Paul Cooke gives an insight on what..."
 author: "Alex Verboon"
-tags:
-  - applications
-  - applocker
-  - control
-  - security
-  - video
-  - Windows
 categories:
-  - applocker
-  - automation
-  - deployment
-  - security
-  - Windows
+  - 'Security'
+tags:
+  - 'Applocker'
+  - 'Windows'
 ---
 Watch the [Using AppLocker in Win7](http://edge.technet.com/Media/Using-AppLocker-in-Win7/) video on TechNet where Paul Cooke gives an insight on what Applocker is, how it works and how to deploy it.
 

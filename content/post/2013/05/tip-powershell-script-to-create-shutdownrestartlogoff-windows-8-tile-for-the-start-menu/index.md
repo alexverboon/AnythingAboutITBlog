@@ -9,17 +9,11 @@ aliases:
 description: A PowerShell script shows how to create a Shutdown, Restart or Logoff
   Windows 8 tile for the Start menu. ![](images/image011.png) ![](images/image015....
 author: Alex Verboon
-tags:
-- logoff
-- restart
-- shutdown
-- start-menu
-- tiles
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Logoff'
+  - 'PowerShell'
 ---
 A PowerShell script shows how to create a Shutdown, Restart or Logoff Windows 8 tile for the Start menu.
 

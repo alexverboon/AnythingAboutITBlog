@@ -7,12 +7,11 @@ aliases:
   - "/2008/10/gpo-logging-custom-adm/"
 description: "Last week we have been doing some GPO troubleshooting. Instead of setting all GPO logging options manually the custom GPO logging ADM(x) files found o..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - logging
 categories:
-  - GroupPolicy
+  - 'Windows'
+tags:
+  - 'Logging'
+  - 'Group Policy'
 ---
 Last week we have been doing some GPO troubleshooting. Instead of setting all GPO logging options manually the custom GPO logging ADM(x) files found on GPOGUY.COM appeared to be very handy.
 

@@ -7,12 +7,11 @@ aliases:
   - "/2009/04/windows-7-learning-portal/"
 description: "[https://www.microsoft.com/learning/windows-7/default.mspx](https://www.microsoft.com/learning/windows-7/default.mspx)"
 author: "Alex Verboon"
-tags:
-  - learning
-  - Windows
 categories:
-  - knowledge
-  - Windows
+  - 'Windows'
+tags:
+  - 'Learning'
+  - 'Knowledge'
 ---
 [https://www.microsoft.com/learning/windows-7/default.mspx](https://www.microsoft.com/learning/windows-7/default.mspx)
 

@@ -8,16 +8,11 @@ aliases:
 description: Below are the Windows 8 Consumer Preview support bulletins I was able
   to capture since the release of the Consumer Preview build. The BITS service cra...
 author: Alex Verboon
-tags:
-- bulletins
-- support
-- updates
-- windows-8-consumer-preview
-- Windows
-- Office
 categories:
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Bulletins'
+  - 'Support'
 ---
 Below are the Windows 8 Consumer Preview support bulletins I was able to capture since the release of the Consumer Preview build. 
 

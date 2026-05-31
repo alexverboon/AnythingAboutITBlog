@@ -7,12 +7,11 @@ aliases:
   - "/2009/05/windows-7-hd-and-ssd-performance-analyzed/"
 description: "Just found this article about [Windows7 HD and SSD performance](http://hothardware.com/Articles/Windows-7-Disk-Performance-Analyzed/)."
 author: "Alex Verboon"
-tags:
-  - hd
-  - ssd
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Hd'
+  - 'Ssd'
 ---
 Just found this article about [Windows7 HD and SSD performance](http://hothardware.com/Articles/Windows-7-Disk-Performance-Analyzed/).
 

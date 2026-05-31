@@ -8,14 +8,11 @@ aliases:
 description: "Just came across this very nice utility called the [Smart Power Plan Switcher for Windows](http://code.msdn.microsoft.com/SPPS). The utility allows yo..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-powerplan-switcher-for-windows.png"
-tags:
-  - power-management
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Power-Management'
+  - 'Tips-Tools'
 ---
 Just came across this very nice utility called the [Smart Power Plan Switcher for Windows](http://code.msdn.microsoft.com/SPPS). The utility allows you to configure the power scheme to be used based on the current power status. So once your system runs on battery it will automatically switch to the preferred power scheme. 
 

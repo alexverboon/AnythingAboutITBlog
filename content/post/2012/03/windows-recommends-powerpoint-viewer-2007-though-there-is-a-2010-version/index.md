@@ -9,16 +9,11 @@ description: While working on my Windows 8 test client, I downloaded a PowerPoin
   file and because I don’t have Office installed Windows prompts me how I would lik...
 author: Alex Verboon
 image: img/post-heroes/windows-recommends-powerpoint-viewer-2007-though-there-is-a-2010-version.png
-tags:
-- powerpoint-viewer
-- powerpoint-viewer-2010-2
-- pptx
-- Windows
-- Office
 categories:
-- powerpoint-viewer-2010
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Powerpoint-Viewer'
+  - 'Office'
 ---
 While working on my Windows 8 test client, I downloaded a PowerPoint file and because I don’t have Office installed Windows prompts me how I would like to open this file. Knowing that it will point me to the PowerPoint Viewer I choose to look for an app on the web. 
 

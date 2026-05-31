@@ -7,10 +7,10 @@ aliases:
   - "/2008/05/a-gui-for-windows-server-core/"
 description: "When i first read about Windows Server core, let's say at some time in 2006, I immediately thought of the days managing Novell 3.11 systems, although ..."
 author: "Alex Verboon"
-tags:
-  - Windows
 categories:
-  - tip
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
 ---
 When i first read about Windows Server core, let's say at some time in 2006, I immediately thought of the days managing Novell 3.11 systems, although there were a couple of NLMs (loadable modules) that provided a kind of GUI interface, most system configuration commands were typed at the console prompt. The command i will never forget is "get reply to get nearest server off" :-) this to prevent clients logging on to the wrong netware server.
 

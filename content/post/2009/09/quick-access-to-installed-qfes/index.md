@@ -8,15 +8,11 @@ aliases:
 description: "Instead of opening several windows, here’s an easy way to get a list of installed QFE’s. simply open a command prompt and type: **WMIC QFE ** or **WMI..."
 author: "Alex Verboon"
 image: "img/post-heroes/quick-access-to-installed-qfes.png"
-tags:
-  - qfe
-  - wmic
-  - Windows
 categories:
-  - automation
-  - knowledge
-  - security
-  - tip
+  - 'Security'
+tags:
+  - 'Qfe'
+  - 'Windows'
 ---
 Instead of opening several windows, here’s an easy way to get a list of installed QFE’s. simply open a command prompt and type:
 

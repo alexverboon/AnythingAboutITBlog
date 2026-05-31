@@ -7,13 +7,11 @@ aliases:
   - "/2009/05/create-empty-files-using-fsutilexe/"
 description: "I am currently busy with testing BranchCache in a real world environment. I will share more about these tests in another post. Testing BranchCache doe..."
 author: "Alex Verboon"
-tags:
-  - empty-files
-  - large-files
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Empty-Files'
+  - 'Large-Files'
 ---
 I am currently busy with testing BranchCache in a real world environment. I will share more about these tests in another post. Testing BranchCache does mainly consist of copying files over the WAN and monitor how the client cache is being populated and how other clients, that copy the same content from the remote BranchCache enabled server, utilize the distributed cache located on peer clients that reside within the same LAN segment.
 

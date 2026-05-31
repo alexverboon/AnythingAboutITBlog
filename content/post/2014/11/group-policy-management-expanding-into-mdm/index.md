@@ -7,13 +7,11 @@ aliases:
   - "/2014/11/group-policy-management-expanding-into-mdm/"
 description: "During the Channel 9 session “[Windows 10 Client Goodness with Joe Belfiore](http://channel9.msdn.com/Events/TechEd/Europe/2014/Ch9-03)” (at 12 minute..."
 author: "Alex Verboon"
-tags:
-  - group-policy
-  - mdm
-  - Windows
 categories:
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Mdm'
 ---
 During the Channel 9 session “[Windows 10 Client Goodness with Joe Belfiore](http://channel9.msdn.com/Events/TechEd/Europe/2014/Ch9-03)” (at 12 minutes 04 of the recorded session)  there was an interesting comment from Joe about Group Policy Management in Widows 10. If you’re dealing with Group Policy Management today, the following comments from Joe might be of interest. 
 

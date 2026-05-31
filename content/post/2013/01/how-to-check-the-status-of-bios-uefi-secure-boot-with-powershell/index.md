@@ -8,18 +8,11 @@ aliases:
 description: During the past weeks I spend a bit of time deploying Windows 8 to UEFI
   enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdl...
 author: Alex Verboon
-tags:
-- bios
-- csm
-- secure-boot
-- uefi
-- Windows
-- PowerShell
 categories:
-- secureboot
-- uefi
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Secure-Boot'
 ---
 During the past weeks I spend a bit of time deploying Windows 8 to UEFI enabled clients. With PowerShell 3.0 on Windows 8 you will find some [new cmdlets](http://technet.microsoft.com/en-us/library/jj603042.aspx) that provide information about the status of your system’s BIOS/UEFI/Secure boot configuration. 
 

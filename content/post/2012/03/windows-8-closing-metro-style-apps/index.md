@@ -8,16 +8,11 @@ aliases:
 description: "Back in September 2011 I wrote a blog post called [Windows 8–Why you don’t close a Metro Style application](https://www.verboon.info/index.php/2011/09..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-closing-metro-style-apps.png"
-tags:
-  - application
-  - close
-  - exit
-  - metro-style-apps
-  - process
-  - Windows
 categories:
-  - metro-style-app
-  - Windows
+  - 'Windows'
+tags:
+  - 'Metro-Style-App'
+  - 'Metro-Style-Apps'
 ---
 Back in September 2011 I wrote a blog post called [Windows 8–Why you don’t close a Metro Style application](https://www.verboon.info/index.php/2011/09/windows-8why-you-dont-close-a-metro-style-application/). Well with the Consumer preview things have changed because now you can directly close a running Metro Style app without going through the task manager. 
 

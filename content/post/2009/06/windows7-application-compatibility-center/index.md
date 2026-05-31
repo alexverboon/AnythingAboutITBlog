@@ -7,14 +7,11 @@ aliases:
   - "/2009/06/windows7-application-compatibility-center/"
 description: "Source: [ars technica](http://arstechnica.com/) Microsoft currently has a placeholder page for the Windows 7 Compatibility Center, which will be launc..."
 author: "Alex Verboon"
-tags:
-  - application-compatibility
-  - compatibility
-  - windws-7
-  - Windows
 categories:
-  - compatibility
-  - Windows
+  - 'Windows'
+tags:
+  - 'Application-Compatibility'
+  - 'Compatibility'
 ---
 Source: [ars technica](http://arstechnica.com/)
 

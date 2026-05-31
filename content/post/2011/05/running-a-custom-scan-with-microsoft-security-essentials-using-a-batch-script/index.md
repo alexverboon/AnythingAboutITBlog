@@ -8,18 +8,11 @@ aliases:
 description: "A batch script example to run a custom Microsoft Security Essentials antivirus scan."
 author: "Alex Verboon"
 image: "img/post-heroes/running-a-custom-scan-with-microsoft-security-essentials-using-a-batch-script.png"
-tags:
-  - antivirus
-  - batch
-  - custom-scan
-  - microsoft-security-essentials
-  - mpcmdrun
-  - scan
-  - threat
 categories:
-  - antivirus
-  - scripting
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Custom-Scan'
+  - 'Microsoft-Security-Essentials'
 ---
 Here’s a small script I just wrote to perform an antivirus scan against a specified file. 
 

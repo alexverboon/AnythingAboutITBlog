@@ -8,12 +8,11 @@ aliases:
 description: "When you are logged on to a Vista Client through a remote desktop connection, you don’t see the option to shutdown or reboot the system within the Sta..."
 author: "Alex Verboon"
 image: "img/post-heroes/shutting-down-or-reboot-vista-when-remotely-connected.png"
-tags:
-  - windows-vista
-  - Windows
 categories:
-  - tip
-  - vista
+  - 'Windows'
+tags:
+  - 'Vista'
+  - 'Tips-Tools'
 ---
 When you are logged on to a Vista Client through a remote desktop connection, you don’t see the option to shutdown or reboot the system within the Start Menu.
 

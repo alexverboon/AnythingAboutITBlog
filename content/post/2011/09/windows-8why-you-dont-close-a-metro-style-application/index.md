@@ -8,16 +8,11 @@ aliases:
 description: "One of the first things I noticed when playing with the Windows 8 preview build was that you can’t close metro style applications. Almost instinctivel..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8why-you-dont-close-a-metro-style-application.png"
-tags:
-  - close
-  - exist
-  - metro
-  - suspend
-  - Windows
 categories:
-  - applications
-  - metro
-  - Windows
+  - 'Windows'
+tags:
+  - 'Close'
+  - 'Metro'
 ---
 One of the first things I noticed when playing with the Windows 8 preview build was that you can’t close metro style applications. Almost instinctively I pressed the Alt+F4 keys when I wanted to close a running application but nothing happened, I then tried to find an option within the application to close it but couldn't find an exit button there neither. 
 

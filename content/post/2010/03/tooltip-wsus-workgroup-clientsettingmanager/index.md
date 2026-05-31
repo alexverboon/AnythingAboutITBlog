@@ -8,19 +8,11 @@ aliases:
 description: "I just found another nice FREE Utility that any Systems Engineer should have who deals with WSUS. The Tool allows you to configure a client’s WSUS set..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-wsus-workgroup-clientsettingmanager.png"
-tags:
-  - diagnostic
-  - patch-management-software
-  - troubleshooting
-  - windows-update-services
-  - wsus
-  - Windows
 categories:
-  - patch-manegement-software
-  - tip
-  - tools
-  - windows-update
-  - wsus
+  - 'Tips-Tools'
+tags:
+  - 'WSUS'
+  - 'Diagnostic'
 ---
 I just found another nice FREE Utility that any Systems Engineer should have who deals with WSUS. The Tool allows you to configure a client’s WSUS settings without having to manually apply any registry settings or you can use the Tool for Troubleshooting purposes. If your clients receive WSUS configuration through Group Policy Settings, you can use the tool to see if all settings are applied correctly. 
 

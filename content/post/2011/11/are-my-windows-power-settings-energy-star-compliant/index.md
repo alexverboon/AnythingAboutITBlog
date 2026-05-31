@@ -7,15 +7,11 @@ aliases:
   - "/2011/11/are-my-windows-power-settings-energy-star-compliant/"
 description: "I am often asked by customers whether their Windows 7 Power Settings are [Energy Star](http://www.energystar.gov/index.cfm?c=home.index) compliant. Th..."
 author: "Alex Verboon"
-tags:
-  - energy
-  - energy-star
-  - power-management
-  - power-settings
-  - Windows
 categories:
-  - energy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Energy'
+  - 'Energy-Star'
 ---
 I am often asked by customers whether their Windows 7 Power Settings are [Energy Star](http://www.energystar.gov/index.cfm?c=home.index) compliant. 
 

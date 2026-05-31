@@ -7,12 +7,11 @@ aliases:
   - "/2008/07/for-those-who-liked-norton-commander/"
 description: "Remember this one ? Yes it's the famous Norton Commander. I've been using it until we moved to Windows NT. A newer version was released that worked fo..."
 author: "Alex Verboon"
-tags:
-  - tools
-  - utilities
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
+  - 'Utilities'
 ---
 Remember this one ? Yes it's the famous Norton Commander. I've been using it until we moved to Windows NT. A newer version was released that worked for Win96 and NT, but it looked a bit like they've had just dumped the NC in a "Window"
 

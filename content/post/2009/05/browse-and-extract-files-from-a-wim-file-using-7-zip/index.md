@@ -8,16 +8,11 @@ aliases:
 description: "[7-Zip](http://www.7-zip.org/) is a free file archiver supporting many of today’s known archive formats such as ZIP, CAB, RAR and many more. Anyone wh..."
 author: "Alex Verboon"
 image: "img/post-heroes/browse-and-extract-files-from-a-wim-file-using-7-zip.png"
-tags:
-  - 7-zip
-  - dismexe
-  - imagexexe
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - '7-Zip'
+  - 'Dismexe'
 ---
 [7-Zip](http://www.7-zip.org/) is a free file archiver supporting many of today’s known archive formats such as ZIP, CAB, RAR and many more. Anyone who deals a lot with WIM files (Windows Image files) knows about the mount and un-mount commands and if you use imagex.exe and dism.exe on a regular basis you probably know the commands out of your head. 
 

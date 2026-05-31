@@ -7,14 +7,11 @@ aliases:
   - "/2009/01/comparing-vmware-esx-and-esxi/"
 description: "Today I wanted to find out a little bit more about the differences between VMWare ESX and ESXi. Since it doesn't make sense that i rewrite what others..."
 author: "Alex Verboon"
-tags:
-  - esx
-  - esxi
-  - hyper-v
-  - virtualization
-  - vmware
 categories:
-  - virtualization
+  - 'Security'
+tags:
+  - 'Vmware'
+  - 'Esx'
 ---
 Today I wanted to find out a little bit more about the differences between VMWare ESX and ESXi. Since it doesn't make sense that i rewrite what others have written already let me share the sources i have found.
 

@@ -7,19 +7,11 @@ aliases:
   - "/2009/01/expanded-control-with-group-policy-preferences-article-from-technet-magazine/"
 description: "For those interested in Group Policy Preferences I recommend reading the \"[Expanded Control with Group Policy Preferences](http://technet.microsoft.co..."
 author: "Alex Verboon"
-tags:
-  - active-directory
-  - gpp
-  - group-policy-preferences
-  - Windows
 categories:
-  - active-directory
-  - deployment
-  - group-policy
-  - vista
-  - windows-server-2008
-  - windows-xp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Group-Policy-Preferences'
 ---
 For those interested in Group Policy Preferences I recommend reading the "[Expanded Control with Group Policy Preferences](http://technet.microsoft.com/en-us/magazine/dd314380.aspx)" that is published in the January 2009 issue on [TechNet Magazine](http://technet.microsoft.com/en-us/magazine/default.aspx).
 

@@ -8,15 +8,11 @@ aliases:
 description: "Hey there, when i watched the last edition of “[The Defrag Show](http://channel9.msdn.com/Shows/The-Defrag-Show/Defrag-Migration-Documentation-Folder-..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-1-shutdown-and-shutdown.png"
-tags:
-  - charms-bar
-  - fast-boot
-  - hybrid
-  - shutdown
-  - x-menu
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Shutdown'
+  - 'Charms-Bar'
 ---
 Hey there, when i watched the last edition of “[The Defrag Show](http://channel9.msdn.com/Shows/The-Defrag-Show/Defrag-Migration-Documentation-Folder-Search-Mouse-Lag#time=06m16s)” this week-end Gov Maharaj gave an interesting explanation about the difference in behaviour when using the Shutdown option within the charms bar or the Widnows X-menu. 
 

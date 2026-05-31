@@ -8,13 +8,11 @@ aliases:
 description: "Today Microsoft released the Windows 7 Upgrade Advisor Beta. The tools scans your system and checks if its able to run Winodws7. Download [here](http:..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-upgrade-advisor-beta.png"
-tags:
-  - hardware
-  - upgrade-advisor
-  - Windows
 categories:
-  - Uncategorized
-  - Windows
+  - 'Windows'
+tags:
+  - 'Upgrade-Advisor'
+  - 'Hardware'
 ---
 Today Microsoft released the Windows 7 Upgrade Advisor Beta. The tools scans your system and checks if its able to run Winodws7. 
 

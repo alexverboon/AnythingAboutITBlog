@@ -8,21 +8,11 @@ aliases:
 description: "If you experience poor performance using a XenDesktop session, video and audio is not playing nicely, the Windows Event log is showing messages as sho..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-hdx-monitor-for-xendesktop.png"
-tags:
-  - citrix
-  - flash
-  - hdx
-  - latency
-  - mediastream
-  - network
-  - performance
-  - xendesktop
-  - Windows
 categories:
-  - citrix
-  - hdx
-  - network
-  - performance
+  - 'Windows'
+tags:
+  - 'Xendesktop'
+  - 'Hdx'
 ---
 If you experience poor performance using a XenDesktop session, video and audio is not playing nicely, the Windows Event log is showing messages as shown below, it’s time to take a closer look at what’s going on. 
 

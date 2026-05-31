@@ -7,13 +7,11 @@ aliases:
   - "/2012/03/tooltip-gpo-deny-finder/"
 description: "GPO Deny Finder is a **FREE** tool from sdmsoftware that helps you to find GPOs that have deny ACEs. The below video explains how to use the tool. Mor..."
 author: "Alex Verboon"
-tags:
-  - ace
-  - deny
-  - gpo
-  - group-policy
 categories:
-  - group-policy
+  - 'Windows'
+tags:
+  - 'Deny'
+  - 'Group Policy'
 ---
 GPO Deny Finder is a **FREE** tool from sdmsoftware that helps you to find GPOs that have deny ACEs. The below video explains how to use the tool. 
 

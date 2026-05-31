@@ -8,17 +8,11 @@ aliases:
 description: "With Windows 7 we can not only encrypt our local fixed drives but also USB devices. Considering that probably many of do carry around one or more memo..."
 author: "Alex Verboon"
 image: "img/post-heroes/encrypted-on-windows-7-and-use-on-vista-as-well.png"
-tags:
-  - bitlocker
-  - bitlockertogo
-  - encryption
-  - Windows
 categories:
-  - automation
-  - bitlocker
-  - security
-  - tip
-  - Windows
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'Bitlocker'
 ---
 With Windows 7 we can not only encrypt our local fixed drives but also USB devices. Considering that probably many of do carry around one or more memory sticks that could contain sensitive data or just data you don’t want anyone else to get access too. 
 

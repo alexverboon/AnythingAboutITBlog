@@ -8,16 +8,11 @@ aliases:
 description: "On April 14th mainstream support for Windows XP will end. for the next 5 years the operating system goes into extended support. The table below illust..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-xp-mainstream-support-ends-in-2-days.png"
-tags:
-  - extended-support
-  - mainstream-support
-  - windows-xp
-  - Windows
 categories:
-  - licensing
-  - reading
-  - security
-  - windows-xp
+  - 'Security'
+tags:
+  - 'Mainstream-Support'
+  - 'Windows'
 ---
 On April 14th mainstream support for Windows XP will end. for the next 5 years the operating system goes into extended support. The table below illustrates the differences between mainstream and extended support. 
 

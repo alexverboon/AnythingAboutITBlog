@@ -7,11 +7,10 @@ aliases:
   - "/2008/06/reducing-energy-consumption/"
 description: "Everybody can help a little bit, turn off your TV from standby, and why not shutdown your home computer completely ? On HPs latest client hardware, yo..."
 author: "Alex Verboon"
-tags:
-  - environment
-  - Tools
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Environment'
 ---
 Everybody can help a little bit, turn off your TV from standby, and why not shutdown your home computer completely ? 
 

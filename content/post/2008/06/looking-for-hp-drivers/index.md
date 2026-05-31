@@ -7,12 +7,11 @@ aliases:
   - "/2008/06/looking-for-hp-drivers/"
 description: "Usually when you would need a specific driver you go up to the vendors website and search for the driver download area. Since a while, HP provides a m..."
 author: "Alex Verboon"
-tags:
-  - devices
-  - drivers
-  - hp
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Drivers'
+  - 'Hp'
 ---
 Usually when you would need a specific driver you go up to the vendors website and search for the driver download area. 
 

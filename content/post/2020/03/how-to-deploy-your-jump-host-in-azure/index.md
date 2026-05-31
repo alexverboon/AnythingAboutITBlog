@@ -9,22 +9,11 @@ description: Due to the current COVID 19 pandemic, governments are urging their 
   to stay at home.
 author: Alex Verboon
 image: img/post-heroes/how-to-deploy-your-jump-host-in-azure.png
-tags:
-- azure
-- jump-host
-- rdp
-- remote-access
-- securitiy
-- virtual-machine
-- Windows
-- PowerShell
-- Office
 categories:
-- azure
-- remote-management
-- security
-- Windows
-- PowerShell
+  - 'Azure'
+tags:
+  - 'Jump-Host'
+  - 'Office'
 ---
 Due to the current CODV 19 pandemic, governments are urging their citizens to stay at home. For many people this means finding alternative ways to continue their work from home. This article is primarily aimed at IT administrators or IT consultants who do not have an existing solution in place and who are looking for a simple but secure solution to access their IT infrastructure remotely.
 

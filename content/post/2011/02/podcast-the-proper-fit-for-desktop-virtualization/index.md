@@ -7,14 +7,11 @@ aliases:
   - "/2011/02/podcast-the-proper-fit-for-desktop-virtualization/"
 description: "Last week I had a week off and went snowboarding with my family. Meanwhile my kids go too fast that I could follow them and my wife is a bit more fana..."
 author: "Alex Verboon"
-tags:
-  - desktop-virtualization
-  - podcast
-  - vdi
-  - virtualization
 categories:
-  - vdi
-  - virtualization
+  - 'Security'
+tags:
+  - 'Desktop-Virtualization'
+  - 'Podcast'
 ---
 Last week I had a week off and went snowboarding with my family. Meanwhile my kids go too fast that I could follow them and my wife is a bit more fanatic in skiing than I am with snowboarding, so this leaves me with some time where I can listen to all those podcasts one downloads but never finds the time to listen to. Since I am rather a newbie within the Citrix space, it happened that I ended up listening to a podcast that is already 2 years old. This podcast however did in so many ways confirm my personal thoughts about Desktop Virtualization that I think it’s worth mentioning it again for those that haven’t listened to it yet. 
 

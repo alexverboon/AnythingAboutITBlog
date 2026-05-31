@@ -8,13 +8,11 @@ aliases:
 description: "*Small changes can make a world of difference. With Power To Change, you can help make the world a greener place. Install the Power To Change widget a..."
 author: "Alex Verboon"
 image: "img/post-heroes/power-to-change.png"
-tags:
-  - green
 categories:
-  - green
-  - hp
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Green'
+  - 'Hp'
 ---
 *Small changes can make a world of difference. With Power To Change, you can help make the world a greener place. Install the Power To Change widget and start making a difference!*
 

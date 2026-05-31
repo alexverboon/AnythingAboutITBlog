@@ -8,11 +8,11 @@ aliases:
 description: 'Just came across these nice blog posts about the new Office 2007 Service
   Pack 2: [Office 2007 Service Pack 2 Kiosk](http://blogs.technet.com/gray_know...'
 author: Alex Verboon
-tags:
-- office-2007-sp2
-- Office
 categories:
-- office-2007
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Office-2007'
 ---
 Just came across these nice blog posts about the new Office 2007 Service Pack 2:
 

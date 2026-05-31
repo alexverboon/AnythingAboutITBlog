@@ -7,11 +7,11 @@ aliases:
   - "/2008/08/windows-vista-performance-and-tuning-guide/"
 description: "Microsoft has published a Windows Vista Performance and Tuning Guide"
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Vista'
+  - 'Tips-Tools'
 ---
 Microsoft has published a [Windows Vista Performance and Tuning Guide](http://www.microsoft.com/downloads/details.aspx?FamilyID=ab377598-a637-432c-a3c8-1607ab629201&DisplayLang=en) focusing on the following:
 

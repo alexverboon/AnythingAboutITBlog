@@ -7,19 +7,11 @@ aliases:
   - "/2009/08/virtual-hard-disk-getting-started-guide/"
 description: "Microsoft recently published the “Virtual Hard Disk Getting Started Guide”. This paper provides you with all the information you need around VHD. Down..."
 author: "Alex Verboon"
-tags:
-  - bcd
-  - boot
-  - disk
-  - vhd
-  - virtualization
-  - Windows
 categories:
-  - knowledge
-  - reading
-  - vhd
-  - virtualization
-  - Windows
+  - 'Windows'
+tags:
+  - 'Disk'
+  - 'Virtualization'
 ---
 Microsoft recently published the “Virtual Hard Disk Getting Started Guide”. This paper provides you with all the information you need around VHD. 
 

@@ -8,11 +8,11 @@ aliases:
 description: "It's here where HP started...."
 author: "Alex Verboon"
 image: "img/post-heroes/the-hp-garage.png"
-tags:
-  - hp
-  - history
 categories:
-  - HP
+  - 'Security'
+tags:
+  - 'Hp'
+  - 'History'
 ---
 It's here where HP started......
 

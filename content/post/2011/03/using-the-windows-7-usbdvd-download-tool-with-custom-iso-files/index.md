@@ -9,19 +9,11 @@ description: Most of you are probably familiar with the Microsoft [Windows 7 USB
   Download Tool](http://wudt.codeplex.com/) which allows you to create a copy of...
 author: Alex Verboon
 image: img/post-heroes/using-the-windows-7-usbdvd-download-tool-with-custom-iso-files.png
-tags:
-- bootsect-rxe
-- custom
-- dvd
-- tool
-- usb
-- Windows
-- WinPE
 categories:
-- tip
-- usb
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Custom'
+  - 'Dvd'
 ---
 Most of you are probably familiar with the Microsoft [Windows 7 USB/DVD Download Tool](http://wudt.codeplex.com/) which allows you to create a copy of your Windows 7 ISO file on a USB or a DVD. Now the Tool works great with the original Microsoft Windows 7 ISO files, but when you want to use the tool for your own customized Windows 7 installation ISO files you might get an error as shown below. 
 

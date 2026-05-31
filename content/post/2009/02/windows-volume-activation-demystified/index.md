@@ -7,15 +7,11 @@ aliases:
   - "/2009/02/windows-volume-activation-demystified/"
 description: "Read the “[Windows Volume Activation Demystified](http://edge.technet.com/Media/Volume-Activation-Demystified/)” article on TechNet Edge and get a com..."
 author: "Alex Verboon"
-tags:
-  - kms
-  - mak
-  - volume-licensing
-  - Windows
 categories:
-  - deployment
-  - knowledge
-  - vista
+  - 'Windows'
+tags:
+  - 'Volume-Licensing'
+  - 'Kms'
 ---
 Read the “[Windows Volume Activation Demystified](http://edge.technet.com/Media/Volume-Activation-Demystified/)” article on TechNet Edge and get a complete overview and insight into Windows Volume Activation.
 

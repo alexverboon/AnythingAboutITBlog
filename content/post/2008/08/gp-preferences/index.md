@@ -7,12 +7,11 @@ aliases:
   - "/2008/08/gp-preferences/"
 description: "In 2006 Microsoft acquired the company DesktopStandard"
 author: "Alex Verboon"
-tags:
-  - group-policy
-  - vista
-  - Windows
 categories:
-  - GroupPolicy
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Vista'
 ---
 In 2006 Microsoft acquired the company DesktopStandard known for its extending Group Policy products GPVault and PolicyMaker.
 

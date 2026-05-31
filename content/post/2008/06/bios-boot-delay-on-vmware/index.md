@@ -7,11 +7,11 @@ aliases:
   - "/2008/06/bios-boot-delay-on-vmware/"
 description: "Ever had that issue that you wanted to enter the VMWARE BIOS, but you simply don't made it because the VMWARE session boots too fast ? Add the followi..."
 author: "Alex Verboon"
-tags:
-  - bios
-  - virtualization
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Bios'
+  - 'Virtualization'
 ---
 Ever had that issue that you wanted to enter the VMWARE BIOS, but you simply don't made it because the VMWARE session boots too fast ?
 

@@ -8,16 +8,11 @@ aliases:
 description: "Here’s yet another FREE screen capture utility I’ve come across. LightScreen allows you to capture the entire screen, just a Window or an area of the ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-lightscreen-screen-capture-utility.png"
-tags:
-  - screen-capture
-  - screenshot
-  - tip
-  - tool
-  - utility
 categories:
-  - screencapture
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Screen-Capture'
+  - 'Utility'
 ---
 Here’s yet another FREE screen capture utility I’ve come across. LightScreen allows you to capture the entire screen, just a Window or an area of the screen. 
 

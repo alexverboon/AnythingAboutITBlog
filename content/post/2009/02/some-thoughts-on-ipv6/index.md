@@ -7,18 +7,11 @@ aliases:
   - "/2009/02/some-thoughts-on-ipv6/"
 description: "About 3 years ago when Windows Vista was on the horizon there has been a lot of talk around [IPv6](http://en.wikipedia.org/wiki/IPv6). But since then,..."
 author: "Alex Verboon"
-tags:
-  - address-exhaustion
-  - ipv4
-  - ipv6
-  - tcpip
-  - transition
-  - Windows
 categories:
-  - reading
-  - tcpip
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Ipv6'
+  - 'Address-Exhaustion'
 ---
 About 3 years ago when Windows Vista was on the horizon there has been a lot of talk around [IPv6](http://en.wikipedia.org/wiki/IPv6). But since then, at least in the environment I work in, it has become quiet around this topic. On Wikipedia we can read that based on a [study](http://rosie.ripe.net/ripe/meetings/ripe-57/presentations/uploads/Thursday/Plenary%2014:00/upl/Colitti-Global_IPv6_statistics_-_Measuring_the_current_state_of_IPv6_for_ordinary_users_.7gzD.pdf) from Google, penetration is still less than one percent of Internet traffic in any country 
 

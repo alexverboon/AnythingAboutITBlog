@@ -8,19 +8,11 @@ aliases:
 description: To obtain detailed information about a particular driver that is prestaged
   within the Windows 7 driver store, you can run the following command. `Dism...
 author: Alex Verboon
-tags:
-- dism
-- driver
-- driver-store
-- excel
-- export
-- Windows
-- PowerShell
 categories:
-- driver-store
-- excel
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Driver'
+  - 'Driver Store'
 ---
 To obtain detailed information about a particular driver that is prestaged within the Windows 7 driver store, you can run the following command.
 

@@ -7,12 +7,11 @@ aliases:
   - "/2008/09/appdeploy-repackager/"
 description: "Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager"
 author: "Alex Verboon"
-tags:
-  - msi
-  - Windows
-  - Application Packaging
 categories:
-  - Tools
+  - 'Windows'
+tags:
+  - 'Application Packaging'
+  - 'Tips-Tools'
 ---
 Bob Kelly has launched a free MSI Packaging tool called the [AppDeploy Repackager.](http://www.appdeploy.com/tools/repackager)
 

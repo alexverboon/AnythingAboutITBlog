@@ -7,10 +7,10 @@ aliases:
   - "/2008/06/blocking-live-mesh-within-corporate-networks/"
 description: "When i wrote about Live Mesh back in May, I asked myself what corporate security administrators would thnik about having their users starting meshing ..."
 author: "Alex Verboon"
-tags:
-  - live-mesh
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Live-Mesh'
 ---
 When i wrote about Live Mesh back in May, I asked myself what corporate security administrators would thnik about having their users starting meshing their private and business systenms. 
 

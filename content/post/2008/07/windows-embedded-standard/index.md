@@ -7,11 +7,10 @@ aliases:
   - "/2008/07/windows-embedded-standard/"
 description: "Windows Embedded"
 author: "Alex Verboon"
-tags:
-  - embedded
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Embedded'
 ---
 Today at work we talked about Windows XP embedded. It's a bout 2 years ago that i had a look at XP embedded.
 

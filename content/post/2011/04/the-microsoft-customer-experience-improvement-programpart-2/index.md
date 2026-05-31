@@ -9,20 +9,11 @@ description: In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-micros
   explained the history, benefits...
 author: Alex Verboon
 image: img/post-heroes/the-microsoft-customer-experience-improvement-programpart-2.png
-tags:
-- ceip
-- customer-experience-program
-- experience
-- feedback
-- gpo
-- improvement
-- sqm
-- telemetry
-- Windows
 categories:
-- ceip
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Experience'
+  - 'Improvement'
 ---
 In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/) explained the history, benefits and configuration of the CEIP. In part 2 we take a closer look at the SQM data processing and the involvement of the Windows Task Scheduler. 
 

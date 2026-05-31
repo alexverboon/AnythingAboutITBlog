@@ -8,15 +8,11 @@ aliases:
 description: "When opening the Windows Task Scheduler you might see a Task called “UpdateCheck_” located within the Games folder of the Task Scheduler Library. [ ![..."
 author: "Alex Verboon"
 image: "img/post-heroes/scheduled-tasks-for-windows-games.png"
-tags:
-  - games
-  - scheduled-task
-  - update
-  - Windows
 categories:
-  - games
-  - scheduling
-  - Windows
+  - 'Windows'
+tags:
+  - 'Scheduled-Task'
+  - 'Games'
 ---
 When opening the Windows Task Scheduler you might see a Task called “UpdateCheck_” located within the Games folder of the Task Scheduler Library. 
 

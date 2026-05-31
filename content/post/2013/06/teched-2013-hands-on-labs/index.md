@@ -8,19 +8,11 @@ aliases:
 description: "The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually s..."
 author: "Alex Verboon"
 image: "img/post-heroes/teched-2013-hands-on-labs.png"
-tags:
-  - app-v
-  - client
-  - configuration-manager
-  - hands-on-labs
-  - learning
-  - software-management
-  - teched-2013
-  - ue-v
-  - Windows
 categories:
-  - labs
-  - Windows
+  - 'Windows'
+tags:
+  - 'Hands-On-Labs'
+  - 'Teched-2013'
 ---
 The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually start testing out things. I was therefore very pleased to see that Microsoft has made the Hands-On labs from TechEd 2013 available online. 
 

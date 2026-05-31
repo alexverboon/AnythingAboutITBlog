@@ -9,14 +9,11 @@ description: Whenever I worked with Azure, first thing i usualy did was fire a w
   search to get the url for the Azure Management portal. I know I could bookmark i...
 author: Alex Verboon
 image: img/post-heroes/powershell-how-to-qukckly-access-the-azure-management-portal.png
-tags:
-- azure
-- cmdlet
-- management-portal
-- PowerShell
 categories:
-- azure
-- PowerShell
+  - 'Azure'
+tags:
+  - 'Management-Portal'
+  - 'PowerShell'
 ---
 Whenever I worked with Azure, first thing i usualy did was fire a web search to get the url for the Azure Management portal. I know I could bookmark it……..it’s just that I already have way too many bookmarks. But today I discovered a nice cmdlet in PowerShell called [**Show-AzurePortal**](http://msdn.microsoft.com/en-us/library/dn408543.aspx#feedback)** **which gets you automatically to the right place. 
 

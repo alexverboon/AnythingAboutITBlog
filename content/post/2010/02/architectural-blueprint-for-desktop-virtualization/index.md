@@ -7,16 +7,11 @@ aliases:
   - "/2010/02/architectural-blueprint-for-desktop-virtualization/"
 description: "In this video Daniel Feller shares some best practices on how to design a Desktop Virtualization solution. **Additional Resources **[Consulting Whitep..."
 author: "Alex Verboon"
-tags:
-  - architecture
-  - design
-  - desktop-virtualization
-  - vdi
 categories:
-  - citrix
-  - vdi
-  - virtualization
-  - xendesktop
+  - 'Security'
+tags:
+  - 'Desktop-Virtualization'
+  - 'Virtualization'
 ---
 In this video Daniel Feller shares some best practices on how to design a Desktop Virtualization solution. 
 

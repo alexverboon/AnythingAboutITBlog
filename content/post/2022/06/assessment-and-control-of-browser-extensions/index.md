@@ -6,16 +6,12 @@ author: "Alex Verboon"
 description: "How to assess, hunt, and control browser extensions with Microsoft Defender for Endpoint and policy controls."
 image: "img/post-heroes/assessment-and-control-of-browser-extensions.png"
 slug: "assessment-and-control-of-browser-extensions"
-tags:
-  - Browser
-  - DefenderforEndpoint
-  - extensions
-  - Security
-  - Vulnerability
 categories:
-  - Microsoft Defender XDR
+  - 'Security'
+tags:
+  - 'Browser'
+  - 'Extensions'
 ---
-
 In this blog post we take a look at browser extensions and how Microsoft Defender for Endpoint, Microsoft Defender Threat and Vulnerability Management and system configuration policies can help us to gain control over the use of browser extensions.
 
 - What is a Browser Extension?

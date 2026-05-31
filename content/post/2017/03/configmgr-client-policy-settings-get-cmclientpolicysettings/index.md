@@ -8,13 +8,11 @@ aliases:
 description: Here’s a function i wrote recently to retrieve the ConfigMgr Client Policy
   settings. To use the function you must have the [System Center Configuratio...
 author: Alex Verboon
-tags:
-- client-policy-settings
-- configmgr
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Client-Policy-Settings'
+  - 'PowerShell'
 ---
 Here’s a function i wrote recently to retrieve the ConfigMgr Client Policy settings. To use the function you must have the [System Center Configuration Manager Cmdlet library](https://www.microsoft.com/en-us/download/details.aspx?id=46681) installed.
 

@@ -8,17 +8,11 @@ aliases:
 description: "Yesterday evening I was reading [Justin Rodino’s](http://www.227volts.com/?page_id=2) blog post “[Dear Adobe, I Don’t Want Your Stupid Desktop Icon (n..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-foxit-pdf-reader.png"
-tags:
-  - adobe-reader
-  - pdf
-  - reader
-  - tip
-  - tool
-  - Windows
 categories:
-  - pdf
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Reader'
+  - 'Pdf'
 ---
 Yesterday evening I was reading [Justin Rodino’s](http://www.227volts.com/?page_id=2) blog post “[Dear Adobe, I Don’t Want Your Stupid Desktop Icon (nor your software anymore)](http://www.227volts.com/?p=1242)” where he mentions the Foxit Reader which is an alternative PDF Reader. 
 

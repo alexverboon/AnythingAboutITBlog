@@ -7,12 +7,10 @@ aliases:
   - "/2009/01/win7-gp-features/"
 description: "Jeremy Moskowitz from [GPanswers.com ](http://www.gpanswers.com/)just uploaded 2 videos on YouTube demonstrating some of the new GP features in Window..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - Windows
 categories:
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
 ---
 Jeremy Moskowitz from [GPanswers.com ](http://www.gpanswers.com/)just uploaded 2 videos on YouTube demonstrating some of the new GP features in Windows 7.
 

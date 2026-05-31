@@ -8,16 +8,11 @@ aliases:
 description: "Yesterday I’ve talked about the [Windows 8 Refresh Your PC feature](https://www.verboon.info/index.php/2012/01/the-windows-8-refresh-your-pc-feature/)..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-reset-windows-8-without-external-media.png"
-tags:
-  - image
-  - installation
-  - recagentc-exe
-  - reimage
-  - reset
-  - setosimage
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Reset'
+  - 'Installation'
 ---
 Yesterday I’ve talked about the [Windows 8 Refresh Your PC feature](https://www.verboon.info/index.php/2012/01/the-windows-8-refresh-your-pc-feature/), today I’d like to show how you can reset Windows 8 without using external media. When performing a Reset on a Windows 8 client, you are going to run a complete fresh installation of Windows 8 without preserving any user data or settings. You would use this option before you give back your system to anyone else and want to make sure that there is no personal data or settings left on the system. 
 

@@ -8,21 +8,11 @@ aliases:
 description: "This week I bought a HP MediaSmart Server EX490 which runs Windows Home Server. The primary reason for buying a Windows Home Server was to get an easy..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-home-server-a-must-have.png"
-tags:
-  - backup
-  - home-server
-  - hp-mediasmart
-  - sharing
-  - Windows
 categories:
-  - backup
-  - hp
-  - sharing
-  - streaming
-  - tip
-  - whs
-  - windows-home-server
-  - Windows
+  - 'Windows'
+tags:
+  - 'Home-Server'
+  - 'Tips-Tools'
 ---
 This week I bought a HP MediaSmart Server EX490 which runs Windows Home Server. The primary reason for buying a Windows Home Server was to get an easy to use solution in place that allows us to perform automated backups and share the data across the multiple devices. 
 

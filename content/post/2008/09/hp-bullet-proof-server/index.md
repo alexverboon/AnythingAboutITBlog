@@ -7,11 +7,11 @@ aliases:
   - "/2008/09/hp-bullet-proof-server/"
 description: "No comment, just a funny video."
 author: "Alex Verboon"
-tags:
-  - HP
-  - Fun
 categories:
-  - HP
+  - 'Windows'
+tags:
+  - 'HP'
+  - 'Fun'
 ---
 No comment, just a funny video. 
 

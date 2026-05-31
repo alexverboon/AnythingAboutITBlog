@@ -7,15 +7,11 @@ aliases:
   - "/2009/02/windows-7-it-pro-guides/"
 description: "Microsoft has published [Windows 7 IT Pro Guides](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=c14b8a69-db3b-4b7c-9203-689b..."
 author: "Alex Verboon"
-tags:
-  - it-pro-guides
-  - new-features
-  - reading
-  - Windows
 categories:
-  - knowledge
-  - reading
-  - Windows
+  - 'Windows'
+tags:
+  - 'It-Pro-Guides'
+  - 'New-Features'
 ---
 Microsoft has published [Windows 7 IT Pro Guides](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=c14b8a69-db3b-4b7c-9203-689b7719b8b6). 
 

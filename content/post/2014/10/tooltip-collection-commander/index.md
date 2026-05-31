@@ -10,17 +10,11 @@ description: '### Collection Commander Hey there, today I''d like to talk about 
   ...'
 author: Alex Verboon
 image: img/post-heroes/tooltip-collection-commander.png
-tags:
-- client-center
-- collection-commander
-- configmgr
-- configuration-manager
-- tools
-- Windows
-- PowerShell
 categories:
-- tools
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Collection-Commander'
+  - 'Client-Center'
 ---
 ### Collection Commander
 

@@ -8,15 +8,11 @@ aliases:
 description: If you have tried out the Office 2013 Preview you probably noticed the
   SkyDrive integration within the File Open and Save dialogs in Word, Excel and o...
 author: Alex Verboon
-tags:
-- gpo
-- group-policy
-- skydrive
-- Office
 categories:
-- group-policy
-- skydrive
-- Office
+  - 'M365'
+tags:
+  - 'Group Policy'
+  - 'Office'
 ---
 If you have tried out the Office 2013 Preview you probably noticed the SkyDrive integration within the File Open and Save dialogs in Word, Excel and other Office Applications. Personally have started using SkyDrive all the time, but I can imagine that some companies rather do not want to see their users storing sensitive data on SkyDrive. So I wondered if this option could be disabled.
 

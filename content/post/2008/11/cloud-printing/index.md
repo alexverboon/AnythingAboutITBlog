@@ -7,12 +7,11 @@ aliases:
   - "/2008/11/cloud-printing/"
 description: "We all have heard about Cloud Computing, now there is Cloud Printing "
 author: "Alex Verboon"
-tags:
-  - cloud
-  - printing
-  - HP
 categories:
-  - Cloud
+  - 'Security'
+tags:
+  - 'Printing'
+  - 'Cloud'
 ---
 We all have heard about Cloud Computing, now there is Cloud Printing ! Check out HPs [CloudPrint](http://www.cloudprint.net/). It's still in BETA but worth to take a look.
 

@@ -9,20 +9,11 @@ description: Today we once more ran into an issue caused by a corrupted file tra
   I mention “once more” because this is something I see happening all the time...
 author: Alex Verboon
 image: img/post-heroes/verifying-your-file-downloads.png
-tags:
-- checksum
-- crc
-- download
-- file-transfer
-- md5
-- quicksfv
-- Windows
-- WinPE
 categories:
-- knowledge
-- tip
-- tools
-- WinPE
+  - 'Windows'
+tags:
+  - 'Download'
+  - 'Checksum'
 ---
 Today we once more ran into an issue caused by a corrupted file transfer. I mention “once more” because this is something I see happening all the time. So let me drop a couple of words on this. 
 

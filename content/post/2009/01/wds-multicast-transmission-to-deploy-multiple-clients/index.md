@@ -7,18 +7,11 @@ aliases:
   - "/2009/01/wds-multicast-transmission-to-deploy-multiple-clients/"
 description: "The below video is from Technet where [Gordon Ryan ](http://www.longneckconsulting.com/)explains how to use multicast transmission to deploy multiple ..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - multicast
-  - pxe
-  - wds
-  - windows
 categories:
-  - aik
-  - automation
-  - deployment
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Multicast'
+  - 'Wds'
 ---
 The below video is from Technet where [Gordon Ryan ](http://www.longneckconsulting.com/)explains how to use multicast transmission to deploy multiple clients.
 

@@ -8,13 +8,11 @@ aliases:
 description: "Not too long ago Microsoft introduced a new look and feel of the TechNet forums. I am not going to comment here whether this was a good move, but do k..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-add-your-preferred-topics-to-your-technet-forums-profile.png"
-tags:
-  - categories
-  - profile
-  - search
-  - technet-forums
 categories:
-  - technet-2
+  - 'Security'
+tags:
+  - 'Profile'
+  - 'Technet-Forums'
 ---
 Not too long ago Microsoft introduced a new look and feel of the TechNet forums. I am not going to comment here whether this was a good move, but do know that lots of folks have challenges in getting to their preferred forums. While attending the [System Center Universe](http://www.systemcenteruniverse.ch/slide-deck-download.html) conference last week, someone again mentioned having trouble finding their content in the new TechNet forums. Reason enough to provide a brief explanation how things work. 
 

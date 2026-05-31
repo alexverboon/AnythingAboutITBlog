@@ -7,11 +7,10 @@ aliases:
   - "/2009/05/windows-7-vhd-boot-demonstration-video/"
 description: "This is an excellent video explaining how to prepare and configure your machine to boot from a VHD drive. [http://download.microsoft.com/download/7/0/..."
 author: "Alex Verboon"
-tags:
-  - vhd
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vhd'
 ---
 This is an excellent video explaining how to prepare and configure your machine to boot from a VHD drive. 
 

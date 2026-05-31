@@ -7,15 +7,11 @@ aliases:
   - "/2009/04/windows7-application-compatibility-act-55/"
 description: "Microsoft has released ACT 5.5 (Application Compatibility Toolkit). ACT 5.5 provides support for pre-RTM version of Windows7. To learn more about ACT ..."
 author: "Alex Verboon"
-tags:
-  - act-55
-  - application-compatibility
-  - Windows
 categories:
-  - compatibility
-  - packaging
-  - scripting
-  - Windows
+  - 'Windows'
+tags:
+  - 'Act-55'
+  - 'Application-Compatibility'
 ---
 Microsoft has released ACT 5.5 (Application Compatibility Toolkit). ACT 5.5 provides support for pre-RTM version of Windows7. 
 

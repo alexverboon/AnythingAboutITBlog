@@ -8,16 +8,11 @@ aliases:
 description: "I just read this very interesting article “[Why Win32_Product is Bad News](http://sdmsoftware.com/blog/2010/04/11/why-win32_product-is-bad-news/)!” an..."
 author: "Alex Verboon"
 image: "img/post-heroes/what-you-should-know-about-the-win32_product-class.png"
-tags:
-  - gpo
-  - msi
-  - wmi
-  - wmic
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - wmi
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Msi'
 ---
 I just read this very interesting article “[Why Win32_Product is Bad News](http://sdmsoftware.com/blog/2010/04/11/why-win32_product-is-bad-news/)!” and if you’re a Desktop Systems Administrator I strongly recommend to the read that article as well. To simulate what [Darren](http://sdmsoftware.com/blog/) is writing about, simply open an elevated command prompt (on a Test system) and type **WMIC**, once WMIC has started type **Product** and confirm with Enter. 
 

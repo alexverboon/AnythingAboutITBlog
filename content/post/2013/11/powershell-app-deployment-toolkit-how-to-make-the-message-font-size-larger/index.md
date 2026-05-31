@@ -10,13 +10,11 @@ description: I have had a request this week to make the font size of the Message
   displayed by the PowerShell App Deployment Tookit function **Show-Installatio...
 author: Alex Verboon
 image: img/post-heroes/powershell-app-deployment-toolkit-how-to-make-the-message-font-size-larger.png
-tags:
-- app-deployment-toolkit
-- fontsize
-- message
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'App-Deployment-Toolkit'
+  - 'Message'
 ---
 I have had a request this week to make the font size of the Message text displayed by the PowerShell App Deployment Tookit function **Show-InstallationPrompt **a bit larger. 
 

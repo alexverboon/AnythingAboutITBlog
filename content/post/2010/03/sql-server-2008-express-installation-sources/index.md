@@ -7,15 +7,11 @@ aliases:
   - "/2010/03/sql-server-2008-express-installation-sources/"
 description: "I got a bit confused by all the different [SQL Server 2008 Express](http://www.microsoft.com/sqlserver/2008/en/us/express.aspx) downloads that exist, ..."
 author: "Alex Verboon"
-tags:
-  - download
-  - edition
-  - express
-  - sql
-  - sql-server-2008-express
 categories:
-  - sql
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Express'
+  - 'Sql-Server-2008-Express'
 ---
 I got a bit confused by all the different [SQL Server 2008 Express](http://www.microsoft.com/sqlserver/2008/en/us/express.aspx) downloads that exist, so spend a little time in getting some insight. If you want to download SQL Server 2008 Express you have the following options:    
 

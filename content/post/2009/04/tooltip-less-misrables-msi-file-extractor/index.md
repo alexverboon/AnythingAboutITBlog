@@ -9,17 +9,11 @@ description: Today I found a nice utility that allows you to easily extract indi
   files from an MSI package. The tool is called “[less miséreables](http://blo...
 author: Alex Verboon
 image: img/post-heroes/tooltip-less-misrables-msi-file-extractor.png
-tags:
-- extract
-- files
-- msi
-- utilities
-- PowerShell
 categories:
-- automation
-- tip
-- tools
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Extract'
+  - 'Msi'
 ---
 Today I found a nice utility that allows you to easily extract individual files from an MSI package. The tool is called “[less miséreables](http://blogs.pingpoet.com/overflow/archive/2005/06/02/2449.aspx)”. it’s a kind of a funny name, but it does the job. 
 

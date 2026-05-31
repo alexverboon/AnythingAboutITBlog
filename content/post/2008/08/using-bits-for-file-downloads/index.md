@@ -8,12 +8,11 @@ aliases:
 description: "About BITS"
 author: "Alex Verboon"
 image: "img/post-heroes/using-bits-for-file-downloads.png"
-tags:
-  - script
-  - Windows
-  - BITS
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'BITS'
+  - 'Script'
 ---
 Today I have come across the topic BITS which stands for Binary Intelligent Transfer Service which is a file transfer technology that is included in Windows XP, Windows Server 2003 and Windows Vista.
 

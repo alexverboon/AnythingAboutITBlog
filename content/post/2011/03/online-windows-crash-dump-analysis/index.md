@@ -8,16 +8,11 @@ aliases:
 description: "if you ever need to analyze a Windows Dump file but don’t have the Windows Debugging Tools available here’s a handy way of doing an online analysis of..."
 author: "Alex Verboon"
 image: "img/post-heroes/online-windows-crash-dump-analysis.png"
-tags:
-  - analysis
-  - bluescreen
-  - bsod
-  - debugging
-  - dump
-  - Windows
 categories:
-  - bsod
-  - dump
+  - 'Windows'
+tags:
+  - 'Analysis'
+  - 'Dump'
 ---
 if you ever need to analyze a Windows Dump file but don’t have the Windows Debugging Tools available here’s a handy way of doing an online analysis of the dump file. 
 

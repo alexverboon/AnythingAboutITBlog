@@ -7,11 +7,11 @@ aliases:
   - "/2008/07/new-site-dedicated-to-microsoft-hyper-v/"
 description: "Steven Bink owner of the famous [Bink.nu](http://bink.nu/) web site has launched a new site dedicated to Microsoft Hyper-V"
 author: "Alex Verboon"
-tags:
-  - hyper-v
-  - virtualization
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Hyper-V'
+  - 'Virtualization'
 ---
 Steven Bink owner of the famous [Bink.nu](http://bink.nu/) web site has launched a new site dedicated to Microsoft Hyper-V and related technologies called [Hypervoria](http://hypervoria.com/)
 

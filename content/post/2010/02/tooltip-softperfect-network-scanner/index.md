@@ -8,19 +8,11 @@ aliases:
 description: "Just found another nice FREE Utility. As the name says [SoftPerfect](http://www.softperfect.com/) Network Scanner allows you to scan your network and ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-softperfect-network-scanner.png"
-tags:
-  - netbios
-  - network
-  - ports
-  - scan
-  - snmp
-  - tcpip
 categories:
-  - network
-  - protocols
-  - tcpip
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Network'
+  - 'Scan'
 ---
 Just found another nice FREE Utility. As the name says [SoftPerfect](http://www.softperfect.com/) Network Scanner allows you to scan your network and allows you to find any IP, NetBIOS or SNMP enabled devices. The tool also supports Remote WMI, Registry and Service access that can be customized to your own needs. 
 

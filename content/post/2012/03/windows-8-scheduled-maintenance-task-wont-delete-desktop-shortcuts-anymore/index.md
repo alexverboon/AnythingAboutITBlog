@@ -7,14 +7,11 @@ aliases:
   - "/2012/03/windows-8-scheduled-maintenance-task-wont-delete-desktop-shortcuts-anymore/"
 description: "On Windows 7 many users suffer from disappearing shortcuts on their desktop. I wrote about this in [Control Windows 7 Scheduled Maintenance Behavior T..."
 author: "Alex Verboon"
-tags:
-  - broken-shortcuts
-  - scheduled-task
-  - system-maintenance
-  - troubleshooting
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Broken-Shortcuts'
+  - 'Scheduled-Task'
 ---
 On Windows 7 many users suffer from disappearing shortcuts on their desktop. I wrote about this in [Control Windows 7 Scheduled Maintenance Behavior Through Group Policy](https://www.verboon.info/index.php/2010/11/control-windows-7-scheduled-maintenance-behavior-through-group-policy/). On Windows 8 this shouldn’t happen anymore, since Microsoft has removed the related scripts and Tasks from the Diagnosis troubleshooting pack (DiagPackage.diagpkg)
 

@@ -7,15 +7,11 @@ aliases:
   - "/2012/04/microsoft-ue-v-and-policypak-better-together/"
 description: "In this video Group Policy MVP Jeremy Moskowitz demonstrates why customers planning using Microsoft User Environment Virtualization (UE’V) might also ..."
 author: "Alex Verboon"
-tags:
-  - group-policy
-  - group-policy-preferences
-  - uefi
-  - user-virtualization
-  - virtualization
 categories:
-  - group-policy
-  - ue-v
+  - 'Security'
+tags:
+  - 'Group Policy'
+  - 'Group-Policy-Preferences'
 ---
 In this video Group Policy MVP Jeremy Moskowitz demonstrates why customers planning using Microsoft User Environment Virtualization (UE’V) might also want to consider using PolicyPak. 
 

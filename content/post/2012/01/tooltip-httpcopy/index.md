@@ -7,18 +7,11 @@ aliases:
   - "/2012/01/tooltip-httpcopy/"
 description: "HTTPCopy is a FREE standalone executable that allows you to directly copy a web file or web page locally. Rather than going to a website and download ..."
 author: "Alex Verboon"
-tags:
-  - automation
-  - command-line
-  - content
-  - copy
-  - download
-  - file
-  - http
-  - script
 categories:
-  - tools
-  - web
+  - 'Tips-Tools'
+tags:
+  - 'Copy'
+  - 'Http'
 ---
 HTTPCopy is a FREE standalone executable that allows you to directly copy a web file or web page locally. Rather than going to a website and download content manually, you can automate this using the HTTPCopy utility. Below you see an example I am personally using to download the Maxmind GeoLiteCity database I use for one of my blog plugins. 
 

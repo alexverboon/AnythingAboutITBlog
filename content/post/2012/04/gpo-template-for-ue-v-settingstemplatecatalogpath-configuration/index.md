@@ -8,15 +8,11 @@ aliases:
 description: "To simplify my testing activities with Microsoft’s User Experience Virtualization (UE-V( Beta, I created a Group Policy template that configures the U..."
 author: "Alex Verboon"
 image: "img/post-heroes/gpo-template-for-ue-v-settingstemplatecatalogpath-configuration.png"
-tags:
-  - gpo
-  - group-policy
-  - mdop
-  - settingstemplatecatalogpath
-  - ue-v
-  - Windows
 categories:
-  - ue-v
+  - 'Windows'
+tags:
+  - 'Settingstemplatecatalogpath'
+  - 'Group Policy'
 ---
 To simplify my testing activities with Microsoft’s User Experience Virtualization (UE-V( Beta, I created a Group Policy template that configures the User’s SettingsTemplateCatalogPath. The SettingsTemplateCatalogPath is the location where UE-V looks for new or updated templates once a day. 
 

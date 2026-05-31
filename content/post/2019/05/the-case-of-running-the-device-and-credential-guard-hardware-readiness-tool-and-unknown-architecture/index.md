@@ -10,11 +10,11 @@ description: My findings about running the Windows Device and Credential Guard H
   Readiness Tool and the unknown architecture error.
 author: Alex Verboon
 image: img/post-heroes/the-case-of-running-the-device-and-credential-guard-hardware-readiness-tool-and-unknown-architecture.png
-tags:
-- credentialguard
 categories:
-- Security
-- Windows
+  - 'Security'
+tags:
+  - 'Credentialguard'
+  - 'Windows'
 ---
 To close this week, let me share my findings with you about running the Windows Device and Credential Guard Hardware Readiness Tool and the unknown architecture error.
 

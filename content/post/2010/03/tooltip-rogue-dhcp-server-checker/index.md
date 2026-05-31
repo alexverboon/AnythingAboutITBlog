@@ -8,17 +8,11 @@ aliases:
 description: "If you ever experience an issue where clients don’t get correct IP addresses or your PXE Service might not work or respond, then before knocking on th..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-rogue-dhcp-server-checker.png"
-tags:
-  - detection
-  - dhcp
-  - dhcp-server
-  - ip-address
-  - Windows
 categories:
-  - dhcp
-  - network
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Dhcp-Server'
+  - 'Dhcp'
 ---
 If you ever experience an issue where clients don’t get correct IP addresses or your PXE Service might not work or respond, then before knocking on the Network guy’s door, you might want to run the RogueChecker utility. The RogueChecker utility is a nice little FREE tool that can help detecting rogue (misconfigured or unauthorized) DHCP servers in your network. 
 

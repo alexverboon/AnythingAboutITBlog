@@ -8,14 +8,11 @@ aliases:
 description: "I was doing some Antivirus stuff this afternoon now let me share with you how to test if your Antivirus program is working, e.g. alerts you in the eve..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-test-if-your-antivirus-program-is-working.png"
-tags:
-  - alert
-  - antivirus
-  - eicar
-  - security
-  - test
 categories:
-  - antivirus
+  - 'Security'
+tags:
+  - 'Antivirus'
+  - 'Test'
 ---
 I was doing some Antivirus stuff this afternoon now let me share with you how to test if your Antivirus program is working, e.g. alerts you in the event of a virus. Of course you can go to certain places on the internet where it won’t take long until you get a real virus, but that’s probably not what you want to do, so here’s a brief description how to use the “Test-Virus”. 
 

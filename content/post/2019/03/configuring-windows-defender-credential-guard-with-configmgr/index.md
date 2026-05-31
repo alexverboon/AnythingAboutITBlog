@@ -9,11 +9,11 @@ description: Currently engaged in multiple customer projects where Windows 10 is
   production but Windows Credential Guard has not been enabled yet.
 author: Alex Verboon
 image: img/post-heroes/configuring-windows-defender-credential-guard-with-configmgr.png
-tags:
-- ConfigMgr
-- CredentialGuard
 categories:
-- Windows
+  - 'Windows'
+tags:
+  - 'ConfigMgr'
+  - 'Credentialguard'
 ---
 I'm currently engaged in multiple customer projects where Windows 10 is already in production, but unfortunately without Windows Credential Guard enabled. For those who think "Credential ….what?"
 

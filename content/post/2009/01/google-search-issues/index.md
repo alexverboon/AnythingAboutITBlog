@@ -8,10 +8,11 @@ aliases:
 description: "Looks like Google has an issue, whatever word you enter in Google search, most results are being flagged with \"This site may harm your computer\". [ ![..."
 author: "Alex Verboon"
 image: "img/post-heroes/google-search-issues.png"
-tags:
-  - google
 categories:
-  - web
+  - 'Security'
+tags:
+  - 'Google'
+  - 'Web'
 ---
 Looks like Google has an issue, whatever word you enter in Google search, most results are being flagged with "This site may harm your computer".
 

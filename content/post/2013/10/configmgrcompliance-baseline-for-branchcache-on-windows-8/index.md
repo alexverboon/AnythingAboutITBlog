@@ -9,19 +9,11 @@ description: Here’s a ConfigMgr Compliance baseline that checks the BranchCach
   on Windows 8 clients. With the release of Windows 8 and Server 2012 M...
 author: Alex Verboon
 image: img/post-heroes/configmgrcompliance-baseline-for-branchcache-on-windows-8.png
-tags:
-- branchcache
-- compliance-baseline
-- configmgr
-- configuration-item
-- widnows-8
-- Windows
-- PowerShell
 categories:
-- branchcache
-- configmgr
-- Windows
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Branchcache'
+  - 'Compliance-Baseline'
 ---
 Here’s a ConfigMgr Compliance baseline that checks the BranchCache configuration on Windows 8 clients. With the release of Windows 8 and Server 2012 Microsoft also made available [PowerShell cmdlets for BranchCache](http://technet.microsoft.com/en-us/library/hh848392.aspx), so creating a script based configuration item in ConfigMgr becomes a pretty straight forward task. 
 

@@ -8,13 +8,11 @@ aliases:
 description: "When creating a Group Policy Preference you can configure it to only apply once. The exact wording is “Apply once and do not reapply”. But when you ar..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-reapply-a-group-policy-preference-that-is-configured-to-apply-once.png"
-tags:
-  - apply-once
-  - group-policy
-  - group-policy-preferences
-  - reapply
 categories:
-  - group-policy
+  - 'Windows'
+tags:
+  - 'Apply-Once'
+  - 'Group Policy'
 ---
 When creating a Group Policy Preference you can configure it to only apply once. The exact wording is “Apply once and do not reapply”. But when you are implementing such a GPP you most likely want to test the setting prior moving it into production. So here’s a brief explanation how to reapply a GPP when it’s configured to apply once. 
 

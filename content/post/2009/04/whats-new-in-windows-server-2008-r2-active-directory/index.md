@@ -7,14 +7,11 @@ aliases:
   - "/2009/04/whats-new-in-windows-server-2008-r2-active-directory/"
 description: "In the video below [Brian Desmond](http://briandesmond.com/blog/recording-of-my-active-directory-2008-r2-webcast-now-available/) and Laura talk about ..."
 author: "Alex Verboon"
-tags:
-  - 2008r2
-  - active-directory
-  - Windows
 categories:
-  - active-directory
-  - knowledge
-  - windows-server-2008
+  - 'Windows'
+tags:
+  - 'Active Directory'
+  - 'Windows-Server-2008'
 ---
 In the video below [Brian Desmond](http://briandesmond.com/blog/recording-of-my-active-directory-2008-r2-webcast-now-available/) and Laura talk about the new things that come with Windows Server 2008 R2 AD. 
 

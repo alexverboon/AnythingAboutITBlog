@@ -7,14 +7,11 @@ aliases:
   - "/2010/01/end-to-end-wan-optimization-with-branchcache-external/"
 description: "If you have an interest in Windows 7 BrachCache Technology I recommend reading the TechNet Magazine article “[End-to-End WAN Optimization with BranchC..."
 author: "Alex Verboon"
-tags:
-  - branchcache
-  - http
-  - wan
-  - Windows
 categories:
-  - branchcache
-  - Windows
+  - 'Windows'
+tags:
+  - 'Branchcache'
+  - 'Wan'
 ---
 If you have an interest in Windows 7 BrachCache Technology I recommend reading the TechNet Magazine article “[End-to-End WAN Optimization with BranchCache](http://technet.microsoft.com/en-us/magazine/ee914606.aspx)”. 
 

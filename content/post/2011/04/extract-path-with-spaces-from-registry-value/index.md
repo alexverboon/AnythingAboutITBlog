@@ -8,15 +8,11 @@ aliases:
 description: "I’ve been browsing through the Microsoft TechNet Forums to see whether I can learn something new or maybe give someone a helping hand. Now before I am..."
 author: "Alex Verboon"
 image: "img/post-heroes/extract-path-with-spaces-from-registry-value.png"
-tags:
-  - for
-  - path
-  - registry
-  - script
-  - tokens
 categories:
-  - scripting
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Registry'
+  - 'Path'
 ---
 I’ve been browsing through the Microsoft TechNet Forums to see whether I can learn something new or maybe give someone a helping hand. Now before I am going to show the solution I gave someone, let me first tell you this. 
 

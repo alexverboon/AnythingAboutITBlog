@@ -7,13 +7,11 @@ aliases:
   - "/2015/07/group-policy-settings-for-microsoft-edge-browser-in-windows-10-build-10-0-10240/"
 description: "Continuing exploring the Windows 10 preview builds for new Group Policy settings, I come across some new settings for the [Microsoft Edge browser](htt..."
 author: "Alex Verboon"
-tags:
-  - group-policy
-  - microsoft-edge
-  - spartan
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Microsoft-Edge'
 ---
 Continuing exploring the Windows 10 preview builds for new Group Policy settings, I come across some new settings for the [Microsoft Edge browser](https://msdn.microsoft.com/en-us/library/hh772401(v=vs.85).aspx).
 

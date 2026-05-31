@@ -9,14 +9,12 @@ description: Application Guard for Office in action - secure isolated container 
   Office documents.
 author: Alex Verboon
 image: img/post-heroes/preparing-my-application-guard-for-office-test-lab.png
-tags:
-- application-guard
-- Office
 categories:
-  - security
-  - Office
+  - 'Security'
+tags:
+  - 'Application-Guard'
+  - 'Office'
 ---
-
 Hello everyone, today I wanted to see application guard for office in action. If you are not familiar with application guard for office, I suggest you read the following articles / documentation.
 
 - [Microsoft Defender Application Guard for Office](#)

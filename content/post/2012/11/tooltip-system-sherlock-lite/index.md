@@ -8,22 +8,11 @@ aliases:
 description: "Came across a nice FREE standalone utility called System Sherlock developed.by [zetConsultants](http://zetconsultants.com/blog/) System Sherlock allow..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-system-sherlock-lite.png"
-tags:
-  - after
-  - before
-  - changes
-  - command-line
-  - compare
-  - differences
-  - file-system
-  - registry
-  - snapshot
-  - tip
-  - tools
-  - utility
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Before'
+  - 'Changes'
 ---
 Came across a nice FREE standalone utility called System Sherlock developed.by [zetConsultants](http://zetconsultants.com/blog/) System Sherlock allows you to take snapshot of the file system and registry and compare the changes. You can run the GUI or command line version. The command line version can come in handy when you want to integrate a before/after snapshot into a script. 
 

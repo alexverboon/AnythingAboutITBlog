@@ -10,19 +10,11 @@ description: Since I am going install the ADK on several clients and servers, I 
   to automate that process based on the information found in the MSDN article...
 author: Alex Verboon
 image: img/post-heroes/automated-download-and-installation-for-the-windows-assessment-and-deployment-kit-adk.png
-tags:
-- adk
-- automation
-- installation
-- script
-- windows-assessment-and-deployment-kit
-- winpe-4-0
-- Windows
-- WinPE
 categories:
-- adk
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Installation'
+  - 'Windows-Assessment-And-Deployment-Kit'
 ---
 Since I am going install the ADK on several clients and servers, I decided to automate that process based on the information found in the MSDN article [Installing the Windows ADK](http://msdn.microsoft.com/en-us/library/hh825494.aspx)
 

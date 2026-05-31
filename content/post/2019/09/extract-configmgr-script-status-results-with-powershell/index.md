@@ -9,17 +9,11 @@ description: During a recent customer engagement I had to collect the size of us
   profiles across a large number of devices using ConfigMgr Run Scripts.
 author: Alex Verboon
 image: img/post-heroes/extract-configmgr-script-status-results-with-powershell.png
-tags:
-- configmgr
-- extract
-- run-scripts
-- sms_scripts
-- sms_scriptsexecutionsummary
-- sms_scriptsexecutiontask
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Extract'
+  - 'PowerShell'
 ---
 ![Smile](images/wlEmoticon-smile.png)
 

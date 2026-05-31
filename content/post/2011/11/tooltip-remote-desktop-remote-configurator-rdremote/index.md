@@ -8,17 +8,11 @@ aliases:
 description: "I’ve found another useful utility called RDRemote. The RDRemote Utility allows to enable the Remote Desktop connections from a remote computer using W..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-remote-desktop-remote-configurator-rdremote.png"
-tags:
-  - connectivity
-  - rdp
-  - remote
-  - remote-desktop
-  - tool
-  - utility
 categories:
-  - rdp
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Remote'
+  - 'Remote-Desktop'
 ---
 I’ve found another useful utility called RDRemote. The RDRemote Utility allows to enable the Remote Desktop connections from a remote computer using WMI.
 

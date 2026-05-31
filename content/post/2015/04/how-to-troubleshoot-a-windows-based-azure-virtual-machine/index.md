@@ -8,13 +8,11 @@ aliases:
 description: "When a physical device running Windows has problems, you have all sorts of possibilities to fix it, when virtual machine hosted within your on-premise..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-troubleshoot-a-windows-based-azure-virtual-machine.png"
-tags:
-  - azure
-  - diagnostic
-  - virtual-machine
-  - Windows
 categories:
-  - azure
+  - 'Azure'
+tags:
+  - 'Virtual-Machine'
+  - 'Windows'
 ---
 When a physical device running Windows has problems, you have all sorts of possibilities to fix it, when virtual machine hosted within your on-premise virtualization infrastructure runs into issues, you still have all options to fix it. But the first time when a virtual machine hosted in Azure gets into trouble you might feel a little bit lost. But there’s hope. When I ran into an issue myself recently I found the following article “[Troubleshoot Remote Desktop connections to a Windows-based Azure Virtual Machine](http://azure.microsoft.com/en-us/documentation/articles/virtual-machines-troubleshoot-remote-desktop-connections/)” 
 

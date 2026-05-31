@@ -7,18 +7,11 @@ aliases:
   - "/2012/10/windows-8-where-mobile-broadband-will-just-work/"
 description: "Windows 8 comes with a number of enhancement for mobile broadband functionality. If you're interested in the details I recommend you read the content ..."
 author: "Alex Verboon"
-tags:
-  - apn
-  - broadband
-  - connection-manager
-  - internet
-  - mbcd
-  - mbim
-  - mobile
-  - Windows
 categories:
-  - broadband
-  - Windows
+  - 'Windows'
+tags:
+  - 'Broadband'
+  - 'Mobile'
 ---
 Windows 8 comes with a number of enhancement for mobile broadband functionality. If you're interested in the details I recommend you read the content I have referenced at the end of this blog post. But in short if your mobile broadband device meets the Mobile Broadband Interface (MBIM( specification then Windows 8 will load the inbox class driver (MBCD) so there is no need to install 3rd party drivers. If then the operator in a given country has submitted their connection information to Microsoft you can just establish a connection to the internet without the need of installing additional software or entering connection details. 
 

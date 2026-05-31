@@ -8,13 +8,11 @@ aliases:
 description: "Today I was writing an email that contained a couple of file name references, as i was writing the first 2 file names I remembered that in the past wh..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-clipname.png"
-tags:
-  - clipboard
-  - tool
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Windows'
+tags:
+  - 'Clipboard'
+  - 'Tips-Tools'
 ---
 Today I was writing an email that contained a couple of file name references, as i was writing the first 2 file names I remembered that in the past when I used WinBatch there was a nice explorer context menu enhancement that allowed copying file names and paths into the windows clipboard.
 

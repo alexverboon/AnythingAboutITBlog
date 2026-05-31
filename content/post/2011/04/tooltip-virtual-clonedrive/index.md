@@ -8,16 +8,11 @@ aliases:
 description: "Here’s another **FREE** virtual CD/DVD clone drive utility. Virtual CloneDrive can mount and unmount most common image formats such as ISO, BIN and CC..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-virtual-clonedrive.png"
-tags:
-  - drive
-  - dvd
-  - iso
-  - mount
-  - virtual
 categories:
-  - dvd
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Virtual'
+  - 'Drive'
 ---
 Here’s another **FREE** virtual CD/DVD clone drive utility. Virtual CloneDrive can mount and unmount most common image formats such as ISO, BIN and CCD. 
 

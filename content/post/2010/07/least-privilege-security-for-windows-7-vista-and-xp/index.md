@@ -8,16 +8,11 @@ aliases:
 description: "Yesterday I received a pre-release copy of Russel Smith’s book called [Least Privilege Security for Windows 7, Vista and XP](http://www.packtpub.com/l..."
 author: "Alex Verboon"
 image: "img/post-heroes/least-privilege-security-for-windows-7-vista-and-xp.png"
-tags:
-  - book
-  - security
-  - Windows
 categories:
-  - book
-  - security
-  - tip
-  - windows-xp
-  - Windows
+  - 'Security'
+tags:
+  - 'Windows'
+  - 'Book'
 ---
 Yesterday I received a pre-release copy of Russel Smith’s book called [Least Privilege Security for Windows 7, Vista and XP](http://www.packtpub.com/least-privilege-security-for-windows-7-vista-and-xp/book?utm_source=verboon.info&utm_medium=bookrev&utm_content=blog&utm_campaign=mdb_004025 ). The book is entirely dedicated to the subject of running Least Privilege Security (or standard user accounts) on Windows operating systems in the enterprise. 
 

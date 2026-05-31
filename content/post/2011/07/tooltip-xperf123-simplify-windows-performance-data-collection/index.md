@@ -9,20 +9,11 @@ description: Those of you who have been using the Windows Performance Analysis T
   know of the many command line options xperf provides. Xperf123 solves that c...
 author: Alex Verboon
 image: img/post-heroes/tooltip-xperf123-simplify-windows-performance-data-collection.png
-tags:
-- boot
-- etl
-- performance
-- xperf
-- xperf123
-- Windows
-- WinPE
 categories:
-- performance
-- tip
-- tools
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Performance'
+  - 'Xperf123'
 ---
 Those of you who have been using the Windows Performance Analysis Toolkit know of the many command line options xperf provides. Xperf123 solves that challenge by providing an intuitive user interface to configure and start a trace. 
 

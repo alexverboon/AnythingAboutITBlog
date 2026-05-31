@@ -9,21 +9,11 @@ description: I’ve been involved in Windows 7 deployments since the Beta came o
   2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and eve...
 author: Alex Verboon
 image: img/post-heroes/how-to-avoid-kms-becoming-a-challenge-in-your-windows-7-deployment-project.png
-tags:
-- dns
-- key-management-server
-- kms
-- mak
-- slmgr-vbs
-- volume-licensing
-- Windows
-- Office
 categories:
-- active-directory
-- dns
-- kms
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Kms'
+  - 'Active Directory'
 ---
 I’ve been involved in Windows 7 deployments since the Beta came out in 2009 and before Windows 7 there was Vista, XP, Windows 2000, Windows NT and even Windows 3.11 and although over time the technology has changed the basic challenges of every migration remained the same. 
 

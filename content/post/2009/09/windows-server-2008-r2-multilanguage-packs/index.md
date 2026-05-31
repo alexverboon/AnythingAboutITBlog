@@ -7,17 +7,11 @@ aliases:
   - "/2009/09/windows-server-2008-r2-multilanguage-packs/"
 description: "When I recently browsed through the [Windows Download Center](http://www.microsoft.com/downloads/en/default.aspx) I noticed that there is a download f..."
 author: "Alex Verboon"
-tags:
-  - mui
-  - multilanguage-pack
-  - server-2008
-  - server-2008-r2
-  - Windows
 categories:
-  - deployment
-  - mui
-  - windows-server-2008
-  - windows-server-2008r2
+  - 'Windows'
+tags:
+  - 'Multilanguage-Pack'
+  - 'Server-2008'
 ---
 When I recently browsed through the [Windows Download Center](http://www.microsoft.com/downloads/en/default.aspx) I noticed that there is a download for “[Windows Server 2008 R2 Multilingual User Interface Language Packs](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=03831393-eef7-48a5-a69f-0ce72b883df2)”. Having worked with Multilanguage Packs for the Windows **Client** operating system since these were introduced with Windows 2000, I was astonished to see these in the public download center, because for Windows Clients you must have a Software Assurance or other Enterprise Agreement with Microsoft to use Multilanguage Packs. So why are these made available for free for the **Server** operating system?
 

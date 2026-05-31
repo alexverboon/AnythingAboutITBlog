@@ -8,15 +8,11 @@ aliases:
 description: '**4/3/2017 - Update: here''s a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/
   To make ...'
 author: Alex Verboon
-tags:
-- client-settings
-- documentation
-- get-cmclientsetting
-- sccm-2012
-- PowerShell
 categories:
-- sccm-2012
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Client-Settings'
+  - 'Sccm-2012'
 ---
 **4/3/2017 - Update:  here's a better version:** https://www.verboon.info/2017/03/configmgr-client-policy-settings-get-cmclientpolicysettings/
 

@@ -8,15 +8,11 @@ aliases:
 description: "Suppose you have a need to deploy System Center 2012 Endpoint Protection to a number of clients that later run in standalone mode, meaning that they a..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-install-system-center-2012-endpoint-protection-on-a-standalone-client.png"
-tags:
-  - command-line
-  - endpoint-protection
-  - policy
-  - scepinstall-exe
-  - stand-alone
 categories:
-  - endpoint-protection
-  - sccm-2012
+  - 'ConfigMgr'
+tags:
+  - 'Endpoint-Protection'
+  - 'Command-Line'
 ---
 Suppose you have a need to deploy System Center 2012 Endpoint Protection to a number of clients that later run in standalone mode, meaning that they are not joined to a domain, can’t be managed by SCCM and operate in a network that is not connected to your corporate network. 
 

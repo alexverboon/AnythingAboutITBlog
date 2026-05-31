@@ -7,15 +7,11 @@ aliases:
   - "/2009/05/windows-logo-program/"
 description: "In the past days Microsoft has released additional information around the Windows Logo program for Windows7. For most users the logo on hardware and s..."
 author: "Alex Verboon"
-tags:
-  - hardware
-  - logo
-  - software
-  - windows7-logo
-  - Windows
 categories:
-  - compatibility
-  - Windows
+  - 'Windows'
+tags:
+  - 'Logo'
+  - 'Hardware'
 ---
 In the past days Microsoft has released additional information around the Windows Logo program for Windows7. For most users the logo on hardware and software is an important symbol indicating compatibility and reliability on Windows. 
 

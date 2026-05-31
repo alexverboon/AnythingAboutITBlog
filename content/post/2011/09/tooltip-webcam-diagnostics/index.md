@@ -8,18 +8,11 @@ aliases:
 description: "**Webcam Diagnostics** is a simple assistant which gathers many system and webcam-related information in a single place. It makes it easy to identify ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-webcam-diagnostics.png"
-tags:
-  - camera
-  - device
-  - driver
-  - tip
-  - tools
-  - usb
-  - webcam
 categories:
-  - tip
-  - tools
-  - webcam
+  - 'Tips-Tools'
+tags:
+  - 'Webcam'
+  - 'Camera'
 ---
 **Webcam Diagnostics** is a simple assistant which gathers many system and webcam-related information in a single place. It makes it easy to identify driver installation problems or USB issues: red circles will signal serious issues and yellow triangles will signal minor issues. Right-click a reported issue to access the context menu and click the Fix menu (if available) so that the program attempts to fix the issue or shows you a possible way to fix it.
 

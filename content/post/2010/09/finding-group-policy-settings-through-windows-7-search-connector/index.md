@@ -8,19 +8,11 @@ aliases:
 description: "Since the release of Windows 7 and Server 2008-R2 we have about 3000 Group Policy Settings available to centrally configure and manage Windows clients..."
 author: "Alex Verboon"
 image: "img/post-heroes/finding-group-policy-settings-through-windows-7-search-connector.png"
-tags:
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - search
-  - search-provider
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - search-provider
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Search'
 ---
 Since the release of Windows 7 and Server 2008-R2 we have about 3000 Group Policy Settings available to centrally configure and manage Windows clients and servers. Though some among us might have worked with GPO settings from the early days on, knowing about the existence of each and every available setting is nearly impossible. It still happens to me that while I am configuring a specific GPO setting, I do come across other GPOs I didn’t knew of yet. 
 

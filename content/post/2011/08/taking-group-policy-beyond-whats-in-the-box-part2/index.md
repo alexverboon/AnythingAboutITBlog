@@ -9,23 +9,11 @@ description: In my [previous post](https://www.verboon.info/index.php/2011/08/ta
   I provided a brief overview of ho...
 author: Alex Verboon
 image: img/post-heroes/taking-group-policy-beyond-whats-in-the-box-part2.png
-tags:
-- disable
-- enforece
-- gpo
-- group-policy
-- group-policy-preferences
-- lockdown
-- policypak
-- settings
-- Windows
-- Office
 categories:
-- gpo
-- group-policy
-- policypak
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Disable'
 ---
 In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-policy-beyond-whats-in-the-box-part1/) I provided a brief overview of how PolicyPak can take you beyond default Group Policy management. In today’s post I am going to show you how easy it is to get PolicyPak up and running in your test environment. 
 

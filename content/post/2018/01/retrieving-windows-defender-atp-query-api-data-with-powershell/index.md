@@ -8,16 +8,11 @@ aliases:
 description: I am currently working on some automation around Windows Defender, so
   started to look at the Windows Defender Advanced Threat Protection query API. No...
 author: Alex Verboon
-tags:
-- api
-- defender-atp
-- Windows
-- PowerShell
-- Office
 categories:
-- defender-atp
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Windows'
+  - 'API'
 ---
 I am currently working on some automation around Windows Defender, so started to look at the Windows Defender Advanced Threat Protection query API.
 

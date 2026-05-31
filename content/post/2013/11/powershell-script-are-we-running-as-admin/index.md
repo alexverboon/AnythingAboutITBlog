@@ -8,13 +8,11 @@ aliases:
 description: While exploring some of the new cmdlets that come with Windows 8.1 I
   came across [Test-NetConnection](http://technet.microsoft.com/en-us/library/dn372...
 author: Alex Verboon
-tags:
-- admin-credentials
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Admin-Credentials'
 ---
 While exploring some of the new cmdlets that come with Windows 8.1 I came across [Test-NetConnection](http://technet.microsoft.com/en-us/library/dn372891.aspx). and noticed that it has a property called IsAdmin. When running the cmdlet in an elevated PowerShell session the property returns True otherwise False. So I put together a very simple script to check whether we are running as admin or not. 
 

@@ -8,18 +8,11 @@ aliases:
 description: "Today I had a problem with copy pasting some content from a RDP session to my local client. I was quite surprised that this didn’t work since I have b..."
 author: "Alex Verboon"
 image: "img/post-heroes/rdp-copy-paste-ramblings.png"
-tags:
-  - copy
-  - rdp
-  - redirection
-  - remote-desktop
-  - transfer
-  - Windows
 categories:
-  - rdp
-  - tip
-  - windows-server-2003
-  - windows-server-2008
+  - 'Tips-Tools'
+tags:
+  - 'Copy'
+  - 'Rdp'
 ---
 Today I had a problem with copy pasting some content from a RDP session to my local client. I was quite surprised that this didn’t work since I have been using this quite often recently. But as so often, the answer to my problem was quickly found in Google. It appears that I have become so used to work with Windows Server 2008 and 2008-R2 that I had simply forgotten that if you want to use the copy paste functionality to copy **files** between a Server 2003 RDP session and a local client, you must configure a local drive redirection. 
 

@@ -8,15 +8,11 @@ aliases:
 description: "If you plan to use the Microsoft App-V Stand-Alone Mode some Registry Settings are required for the Application Virtualization Client as described in ..."
 author: "Alex Verboon"
 image: "img/post-heroes/configuring-app-v-standalone-mode-through-group-policy.png"
-tags:
-  - app-v
-  - gpo
-  - msi
-  - stand-alone
 categories:
-  - app-v
-  - deployment
-  - group-policy
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'App-V'
 ---
 If you plan to use the Microsoft App-V Stand-Alone Mode some Registry Settings are required for the Application Virtualization Client as described in detail on this App-V site [here](http://www.app-v.in/standalone.php). But instead of setting these registry keys manually or through a custom script, you can also manage these settings through Group Policy. 
 

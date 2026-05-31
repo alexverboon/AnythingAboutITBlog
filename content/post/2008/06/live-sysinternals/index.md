@@ -7,11 +7,10 @@ aliases:
   - "/2008/06/live-sysinternals/"
 description: "For those that need quick access to the famous sysinternals tools, direct access to the executables is now available through: [http://live.sysinternal..."
 author: "Alex Verboon"
-tags:
-  - tools
-  - sysinternals
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Sysinternals'
 ---
 For those that need quick access to the famous sysinternals tools, direct access to the executables is now available through:
 [http://live.sysinternals.com/](http://live.sysinternals.com/)

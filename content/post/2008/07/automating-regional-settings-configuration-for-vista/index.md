@@ -7,13 +7,11 @@ aliases:
   - "/2008/07/automating-regional-settings-configuration-for-vista/"
 description: "In my earlier post \"[Automating Regional Settings configuration](https://www.verboon.info/?p=8)\" I described how to script the Regional Options settin..."
 author: "Alex Verboon"
-tags:
-  - regionalsettings
-  - vista
-  - deployment
-  - Windows
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Vista'
+  - 'Deployment'
 ---
 In my earlier post "[Automating Regional Settings configuration](https://www.verboon.info/?p=8)" I described how to script the Regional Options settings for Windows XP using a rundll command. 
 

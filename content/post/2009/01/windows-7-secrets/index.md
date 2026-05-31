@@ -7,17 +7,11 @@ aliases:
   - "/2009/01/windows-7-secrets/"
 description: "Tim Sneath has written a must read article on his [blog ](http://blogs.msdn.com/tims/default.aspx)called \"[the bumper list of Windows 7 secrets](http:..."
 author: "Alex Verboon"
-tags:
-  - secrets
-  - tips
-  - Windows
 categories:
-  - knowledge
-  - reading
-  - tip
-  - tools
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Secrets'
+  - 'Tips-Tools'
 ---
 Tim Sneath has written a must read article on his [blog ](http://blogs.msdn.com/tims/default.aspx)called "[the bumper list of Windows 7 secrets](http://blogs.msdn.com/tims/archive/2009/01/12/the-bumper-list-of-windows-7-secrets.aspx)".  The article describes many new handy features included within Windows 7.
 

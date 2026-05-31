@@ -8,15 +8,11 @@ aliases:
 description: "Here’s another nice utility I found today called Hard Link Scanner. Hard Link scanner is a command line tool that scans directories for hard linked fi..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-hardlink-scanner.png"
-tags:
-  - hard-link
-  - ntfs
-  - tips
-  - tools
 categories:
-  - hard-links
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Hard-Link'
+  - 'Ntfs'
 ---
 Here’s another nice utility I found today called Hard Link Scanner. Hard Link scanner is a command line tool that scans directories for hard linked files. 
 

@@ -9,14 +9,11 @@ description: Yesterday I deployed a computer with ConfigMgr and then wondered wh
   it got certain software installed. And so another script was born. The Get-CMColl...
 author: Alex Verboon
 image: img/post-heroes/use-powershell-to-find-all-collections-where-the-specified-device-has-a-membership.png
-tags:
-- collections
-- computername
-- configmgr
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Collections'
+  - 'PowerShell'
 ---
 Yesterday I deployed a computer with ConfigMgr and then wondered why it got certain software installed. And so another script was born.
 

@@ -8,14 +8,11 @@ aliases:
 description: "The CrystalDMI utility allows you to read DMI (Desktop Management Interface) data. CrystalDMI is FREE and does not require installation. Download is a..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-crystaldmi.png"
-tags:
-  - bios
-  - distributed-management-taskforce
-  - dmi
-  - dmtf
 categories:
-  - bios
-  - dmi
+  - 'Tips-Tools'
+tags:
+  - 'Dmi'
+  - 'Distributed-Management-Taskforce'
 ---
 The CrystalDMI utility allows you to read DMI (Desktop Management Interface) data. CrystalDMI is FREE and does not require installation. Download is available [here](http://crystalmark.info/software/CrystalDMI/index-e.html)
 

@@ -9,17 +9,11 @@ description: Within the Azure Security Center, Security Policy node, you can sel
   a workspace and there define the data collection configuration for security eve...
 author: Alex Verboon
 image: img/post-heroes/data-collection-tier-in-azure-security-center.png
-tags:
-- azure
-- data-collection
-- eventid
-- security
-- security-center
-- Windows
-- PowerShell
 categories:
-- azure
-- PowerShell
+  - 'Azure'
+tags:
+  - 'Data-Collection'
+  - 'Security'
 ---
 Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security events.
 

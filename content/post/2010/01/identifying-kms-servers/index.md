@@ -8,21 +8,11 @@ aliases:
 description: "Assume you are at a client site and plan to deploy a Windows Server (2008 / 2008-R2) or Windows Clients (Windows Vista / Windows 7) and want to check ..."
 author: "Alex Verboon"
 image: "img/post-heroes/identifying-kms-servers.png"
-tags:
-  - activation
-  - kms
-  - vlmcs
-  - volume-licensing
-  - Windows
 categories:
-  - deployment
-  - knowledge
-  - licensing
-  - tip
-  - vista
-  - windows-server-2008
-  - windows-server-2008-r2
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Kms'
+  - 'Activation'
 ---
 Assume you are at a client site and plan to deploy a Windows Server (2008 / 2008-R2) or Windows Clients (Windows Vista / Windows 7) and want to check if they do already have KMS Services running on their network. 
 

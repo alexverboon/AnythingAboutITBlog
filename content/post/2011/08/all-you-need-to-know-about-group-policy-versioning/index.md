@@ -8,15 +8,11 @@ aliases:
 description: "Ever wondered how the Group Policy versioning works? Below you find a number of articles and resources that provide a good insight how GPO versioning ..."
 author: "Alex Verboon"
 image: "img/post-heroes/all-you-need-to-know-about-group-policy-versioning.png"
-tags:
-  - gpo
-  - group-policy
-  - version
-  - versioning
 categories:
-  - gpo
-  - group-policy
-  - knowledge
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Version'
 ---
 Ever wondered how the Group Policy versioning works? Below you find a number of articles and resources that provide a good insight how GPO versioning works. 
 

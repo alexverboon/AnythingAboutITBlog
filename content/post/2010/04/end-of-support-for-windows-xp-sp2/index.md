@@ -7,20 +7,11 @@ aliases:
   - "/2010/04/end-of-support-for-windows-xp-sp2/"
 description: "On July 12, 2010 Microsoft Windows XP Service Pack will reach end of support, for most companies this shouldn’t come as a surprise as this has been wi..."
 author: "Alex Verboon"
-tags:
-  - compatibility
-  - deployment
-  - product-lifecycle
-  - product-support
-  - service-pack-2
-  - windows-xp-service-pack-3
-  - Windows
 categories:
-  - compatibility
-  - deployment
-  - product-lifecycle
-  - tip
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Windows-Xp'
+  - 'Tips-Tools'
 ---
 On July 12, 2010 Microsoft Windows XP Service Pack will reach end of support, for most companies this shouldn’t come as a surprise as this has been widely [communicated](http://blogs.technet.com/lifecycle/archive/2008/04/25/what-s-happening-to-windows-xp-on-june-30th.aspx) when Microsoft released Windows XP Service Pack 3. however it appears that some companies didn’t took these message too serious then, but now suddenly realize that July 12, 2010 is just a few months ahead of them. 
 

@@ -9,15 +9,11 @@ description: On December 16th Joey announced the PowerShell 7.0 release candidat
   PowerShell 7 comes with Group Policy Settings and Eventlogs.
 author: Alex Verboon
 image: img/post-heroes/powershell-7-group-policy-settings-and-eventlogs.png
-tags:
-- group-policy
-- powershell-7
-- powershell-core
-- Windows
-- PowerShell
 categories:
-- group-policy
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Group Policy'
+  - 'Powershell-7'
 ---
 On December 16th
 [Joey](https://twitter.com/joeyaiello)

@@ -8,16 +8,11 @@ aliases:
 description: "Those of you who are familiar with desktop engineering know the pain of scripting Windows configuration settings. While in general many settings can b..."
 author: "Alex Verboon"
 image: "img/post-heroes/scripting-windows-explorer-details-view.png"
-tags:
-  - registry
-  - scripting
-  - Windows
 categories:
-  - automation
-  - deployment
-  - scripting
-  - tip
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Scripting'
+  - 'Tips-Tools'
 ---
 Those of you who are familiar with desktop engineering know the pain of scripting Windows configuration settings. While in general many settings can be configured by adding or changing a specific registry key value, there are still many things within the OS where Microsoft did not make our life as easy and provides a single registry key that can be tweaked.
 

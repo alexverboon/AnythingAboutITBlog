@@ -7,21 +7,11 @@ aliases:
   - "/2009/12/4-great-app-v-videos/"
 description: "I’m just about to expand my knowledge a bit around App-V. I haven’t done any hands-on yet, because I usually first focus on gathering all the useful r..."
 author: "Alex Verboon"
-tags:
-  - app-v
-  - application-virtualization
-  - sequencing
-  - softgrid
-  - streaming
-  - virtualization
 categories:
-  - active-directory
-  - app-v
-  - compatibility
-  - deployment
-  - microsoft
-  - packaging
-  - virtualization
+  - 'Security'
+tags:
+  - 'App-V'
+  - 'Application-Virtualization'
 ---
 I’m just about to expand my knowledge a bit around App-V. I haven’t done any hands-on yet, because I usually first focus on gathering all the useful resources available on the net, and then start reading these. By doing so, I found these fantastic videos on [The Blogcast Repository](http://blogcastrepository.com/).
 

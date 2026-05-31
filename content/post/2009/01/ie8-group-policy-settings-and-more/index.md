@@ -7,20 +7,11 @@ aliases:
   - "/2009/01/ie8-group-policy-settings-and-more/"
 description: "Yesterday Microsoft released the [Release Candidate](http://blogs.msdn.com/ie/archive/2009/01/26/internet-explorer-8-release-candidate-now-available.a..."
 author: "Alex Verboon"
-tags:
-  - blocker
-  - gpo
-  - ie8
-  - internet-explorer
-  - Windows
 categories:
-  - deployment
-  - group-policy
-  - knowledge
-  - packaging
-  - scripting
-  - vista
-  - windows-xp
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Ie8'
 ---
 Yesterday Microsoft released the [Release Candidate](http://blogs.msdn.com/ie/archive/2009/01/26/internet-explorer-8-release-candidate-now-available.aspx) for Internet Explorer 8 that of course contains a lot of new features that I am not going to rewrite here again, as others did so already.
 

@@ -7,12 +7,11 @@ aliases:
   - "/2009/04/the-internet-displayed-as-a-subway-map/"
 description: "The [Information Architects](http://informationarchitects.jp/web-trend-map-4-final-beta/) have published an updated trend map of today’s internet. [ !..."
 author: "Alex Verboon"
-tags:
-  - internet-map
 categories:
-  - fun
-  - knowledge
-  - reading
+  - 'Security'
+tags:
+  - 'Internet-Map'
+  - 'Knowledge'
 ---
 The [Information Architects](http://informationarchitects.jp/web-trend-map-4-final-beta/) have published an updated trend map of today’s internet. 
 

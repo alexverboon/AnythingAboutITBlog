@@ -7,16 +7,11 @@ aliases:
   - "/2009/10/vmware-workstation-7-rc-available/"
 description: "Finally, after a long waiting time, VMware has released a release candidate for VMware Workstation 7. - Aero support for Windows 7 and Vista Guests! -..."
 author: "Alex Verboon"
-tags:
-  - rc
-  - vmware
-  - vmware-workstation-7
-  - Windows
 categories:
-  - drivers
-  - virtualization
-  - vmware
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vmware'
+  - 'Vmware-Workstation-7'
 ---
 Finally, after a long waiting time, VMware has released a release candidate for VMware Workstation 7. 
 

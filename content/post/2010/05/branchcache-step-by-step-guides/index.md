@@ -7,13 +7,11 @@ aliases:
   - "/2010/05/branchcache-step-by-step-guides/"
 description: "These two BranchCache Step by Step guides provide practical guidance for setting up BranchCache in Distributed or Hosted Cache Mode within a test netw..."
 author: "Alex Verboon"
-tags:
-  - branchcache
-  - windows-2008-r2
-  - Windows
 categories:
-  - branchcache
-  - Windows
+  - 'Windows'
+tags:
+  - 'Branchcache'
+  - 'Windows-2008-R2'
 ---
 These two BranchCache Step by Step guides provide practical guidance for setting up BranchCache in Distributed or Hosted Cache Mode within a test network.  
 

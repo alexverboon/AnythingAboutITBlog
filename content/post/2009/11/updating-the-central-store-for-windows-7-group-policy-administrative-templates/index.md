@@ -8,20 +8,11 @@ aliases:
 description: "One of the things to consider when deploying Windows 7 clients is to update the Central Store on your domain controllers. If you haven’t created a Cen..."
 author: "Alex Verboon"
 image: "img/post-heroes/updating-the-central-store-for-windows-7-group-policy-administrative-templates.png"
-tags:
-  - admx
-  - central-store
-  - gpo
-  - group-policy
-  - templates
-  - Windows
 categories:
-  - active-directory
-  - group-policy
-  - tip
-  - windows-server-2008
-  - windows-server-2008-r2
-  - Windows
+  - 'Windows'
+tags:
+  - 'Central-Store'
+  - 'Group Policy'
 ---
 One of the things to consider when deploying Windows 7 clients is to update the Central Store on your domain controllers. If you haven’t created a Central Store yet, I recommend you watch the video or read the documentation I have listed at the end of this post.
 

@@ -8,16 +8,11 @@ aliases:
 description: "The Group Policy Settings Reference for Windows 8 and Windows Server 2012 now includes 3 additional columns providing additional information about eac..."
 author: "Alex Verboon"
 image: "img/post-heroes/group-policy-settings-behavior-related-to-reboots-logoffs-and-schema-extensions.png"
-tags:
-  - active-directory
-  - group-policy
-  - logoff
-  - reboot
-  - settings
-  - Windows
 categories:
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Logoff'
 ---
 The Group Policy Settings Reference for Windows 8 and Windows Server 2012 now includes 3 additional columns providing additional information about each policy setting's behavior related to reboots, logoffs, and schema extensions.
 

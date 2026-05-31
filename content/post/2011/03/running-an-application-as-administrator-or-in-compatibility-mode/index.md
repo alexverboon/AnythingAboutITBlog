@@ -8,16 +8,11 @@ aliases:
 description: "Today someone in a forum asked how to programmatically configure an application so that it runs in compatibility mode. Configuring this manually is ea..."
 author: "Alex Verboon"
 image: "img/post-heroes/running-an-application-as-administrator-or-in-compatibility-mode.png"
-tags:
-  - application-compatibility
-  - compatibility
-  - registry
-  - security
-  - Windows
 categories:
-  - compatibility
-  - security
-  - Windows
+  - 'Security'
+tags:
+  - 'Compatibility'
+  - 'Application-Compatibility'
 ---
 Today someone in a forum asked how to programmatically configure an application so that it runs in compatibility mode. Configuring this manually is easy, just open the file’s properties, select the Compatibility tab and apply the required settings. On Windows 7 this then looks as shown in the picture below. 
 

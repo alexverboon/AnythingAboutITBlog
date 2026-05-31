@@ -8,14 +8,11 @@ aliases:
 description: "Last night Citrix released Citrix Receiver 4.3 that includes ADMX templates to manage Citrix Receiver Group Policy settings. Microsoft introduced the ..."
 author: "Alex Verboon"
 image: "img/post-heroes/citrix-receiver-4-3-now-with-admx-support-for-receiver-group-policy-well-almost.png"
-tags:
-  - admx
-  - citrix
-  - group-policy
-  - templates
-  - Windows
 categories:
-  - citrix
+  - 'Windows'
+tags:
+  - 'Citrix'
+  - 'Group Policy'
 ---
 Last night Citrix released Citrix Receiver 4.3 that includes ADMX templates to manage Citrix Receiver Group Policy settings. Microsoft introduced the ADMX templates when Vista/Server 2008 was introduced in 2006, so it was about time for Citrix to come up with template files in that format instead of the old ADM based files. 
 

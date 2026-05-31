@@ -7,15 +7,11 @@ aliases:
   - "/2010/05/frequently-asked-questions-about-volume-license-keys/"
 description: "A good FAQ about Microsoft Volume licensing. Details [here](http://www.microsoft.com/licensing/existing-customers/product-activation-faq.aspx)"
 author: "Alex Verboon"
-tags:
-  - kms
-  - licensing
-  - microsoft
-  - volume-licensing
 categories:
-  - kms
-  - licensing
-  - microsoft
+  - 'Security'
+tags:
+  - 'Licensing'
+  - 'Volume-Licensing'
 ---
 A good FAQ about Microsoft Volume licensing. Details [here](http://www.microsoft.com/licensing/existing-customers/product-activation-faq.aspx)
 

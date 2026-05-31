@@ -7,12 +7,11 @@ aliases:
   - "/2008/12/altiris-related-information-sources/"
 description: "Today someone asked a question about importing computer accounts within the Altiris Console. I had created a script for that about 4 years ago, so I w..."
 author: "Alex Verboon"
-tags:
-  - altiris
 categories:
-  - automation
-  - deployment
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Altiris'
+  - 'Automation'
 ---
 Today someone asked a question about importing computer accounts within the Altiris Console. I had created a script for that about 4 years ago, so I wanted to check if the tools and methods i used would still be  valid today. In browsing the web for altiris related content I came across the sites listed below.
 

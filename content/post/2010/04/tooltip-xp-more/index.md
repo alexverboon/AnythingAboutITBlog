@@ -8,19 +8,11 @@ aliases:
 description: "XP-More is a tool that helps manage Windows 7 Virtual Machines (XP Mode and any other). Specifically, it makes duplication of VMs a no brainer - no mo..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-xp-more.png"
-tags:
-  - duplicate
-  - virtual-pc
-  - virtualization
-  - vm
-  - xp-mode
-  - Windows
 categories:
-  - tip
-  - tools
-  - virtualization
-  - windows-xp
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Duplicate'
+  - 'Virtual-Pc'
 ---
 XP-More is a tool that helps manage Windows 7 Virtual Machines (XP Mode and any other). Specifically, it makes duplication of VMs a no brainer - no more raw XML editing and manually duplicating files.
 

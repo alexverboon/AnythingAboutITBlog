@@ -8,20 +8,11 @@ aliases:
 description: "Many articles refer to the Sysinternals [Coreinfo](http://technet.microsoft.com/en-us/sysinternals/cc835722) utility to check whether your system can ..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-how-to-check-if-your-system-can-run-hyper-v.png"
-tags:
-  - bios
-  - coreinfo
-  - dep
-  - hyper-v
-  - requirements
-  - slat
-  - systeminfo
-  - virtualization
-  - Windows
 categories:
-  - hyper-v
-  - virtualization
-  - Windows
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Coreinfo'
 ---
 Many articles refer to the Sysinternals [Coreinfo](http://technet.microsoft.com/en-us/sysinternals/cc835722) utility to check whether your system can run Hyper-V on Windows 8 or not. But just this morning I found out that the **systeminfo** command that is included in Windows provides some additional Hyper-V related information. 
 

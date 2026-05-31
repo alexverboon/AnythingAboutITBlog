@@ -8,20 +8,11 @@ aliases:
 description: Below just a few resources I have collected related to Windows and Office
   license activation with XenDesktop. Licensing is not an exciting topic but w...
 author: Alex Verboon
-tags:
-- citrix
-- kms
-- licensing
-- mak
-- microsoft
-- vda
-- vdi
-- Windows
-- Office
 categories:
-- citrix
-- licensing
-- xendesktop
+  - 'Windows'
+tags:
+  - 'Office'
+  - 'Xendesktop'
 ---
 Below just a few resources I have collected related to Windows and Office license activation with XenDesktop. Licensing is not an exciting topic but we have to deal with it anyway. 
 

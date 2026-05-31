@@ -8,11 +8,11 @@ aliases:
 description: "Wireless Router"
 author: "Alex Verboon"
 image: "img/post-heroes/wireless-router-with-power-button.png"
-tags:
-  - energy
-  - wireless
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Wireless'
+  - 'Energy'
 ---
 This is what i have been looking for since a while, about 12 months ago i was actively searching for a Wireless router with a power on/off button, but with no luck.
 

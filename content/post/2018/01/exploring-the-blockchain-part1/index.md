@@ -7,16 +7,11 @@ aliases:
   - "/2018/01/exploring-the-blockchain-part1/"
 description: "A few days ago I decided that I wanted to learn more about the Blockchain. So I started reading various documentations, browsed through GitHub, watche..."
 author: "Alex Verboon"
-tags:
-  - blockchain
-  - blocks
-  - ethereum
-  - node
-  - transactions
-  - web3
-  - Windows
 categories:
-  - blockchain
+  - 'Windows'
+tags:
+  - 'Blockchain'
+  - 'Blocks'
 ---
 A few days ago I decided that I wanted to learn more about the Blockchain. So I started reading various documentations, browsed through GitHub, watched video’s online and finally took the online training at the Microsoft Virtual Academy “[Microsoft Blockchain as a Service](https://mva.microsoft.com/en-us/training-courses/microsoft-blockchain-as-a-service-17104?l=aZrQbG3SD_3206218965)”. I guess this is only the beginning as there is so much more to explore in this field. But today I want to share with you the first steps I took trying to understand how this all works. 
 

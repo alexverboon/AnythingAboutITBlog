@@ -8,17 +8,11 @@ aliases:
 description: If you are in the process of deciding whether to deploy Office 2010 32-bit
   or 64-bit, I recommend to read through the following content. Note that Mic...
 author: Alex Verboon
-tags:
-- 64-bit
-- compatibility
-- Windows
-- Office
 categories:
-- 64-bit
-- compatibility
-- reading
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - '64-Bit'
+  - 'Office'
 ---
 If you are in the process of deciding whether to deploy Office 2010 32-bit or 64-bit, I recommend to read through the following content. Note that Microsoft recommends installing Office 32 Bit even on Windows 7 64 bit. 
 

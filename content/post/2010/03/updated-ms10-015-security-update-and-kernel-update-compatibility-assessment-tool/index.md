@@ -7,16 +7,11 @@ aliases:
   - "/2010/03/updated-ms10-015-security-update-and-kernel-update-compatibility-assessment-tool/"
 description: "During the past weeks we have seen quite some messages about the [MS10-015](http://www.microsoft.com/technet/security/Bulletin/MS10-015.mspx) security..."
 author: "Alex Verboon"
-tags:
-  - compatibility
-  - kernel
-  - mpsyschk-exe
-  - ms10-015
-  - security
-  - virus
 categories:
-  - security
-  - tools
+  - 'Security'
+tags:
+  - 'Compatibility'
+  - 'Kernel'
 ---
 During the past weeks we have seen quite some messages about the [MS10-015](http://www.microsoft.com/technet/security/Bulletin/MS10-015.mspx) security update which can cause bluescreens after being installed. According to a recent [post](http://blogs.technet.com/msrc/archive/2010/03/02/update-ms10-015-security-update-re-released-with-new-detection-logic.aspx) on the Microsoft Security Response Center blog there is a revised installation package for MS10-015 that prevents the update from installing if abnormal conditions exist such as an infection of a computer virus as the Alureon rootkit. More details about the updated MS10-015 security update can be found [here](http://blogs.technet.com/msrc/archive/2010/03/02/update-ms10-015-security-update-re-released-with-new-detection-logic.aspx)
 

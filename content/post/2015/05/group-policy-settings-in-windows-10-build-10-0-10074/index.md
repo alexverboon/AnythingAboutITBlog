@@ -7,12 +7,10 @@ aliases:
   - "/2015/05/group-policy-settings-in-windows-10-build-10-0-10074/"
 description: "Like with every new version of the Windows operating system we can expect new Group Policy settings. Today I took a look at Windows 10 build 10.0.1007..."
 author: "Alex Verboon"
-tags:
-  - group-policy
-  - Windows
 categories:
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'Group Policy'
 ---
 Like with every new version of the Windows operating system we can expect new Group Policy settings. Today I took a look at Windows 10 build 10.0.10074 and found the follownig settings. 
 

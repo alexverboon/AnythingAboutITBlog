@@ -7,14 +7,11 @@ aliases:
   - "/2010/05/windows-7-search-part2/"
 description: "Well this isn’t really the Part2 I intended to write, but I just stumbled upon some interesting content that relates to Windows 7 Search, and wanted t..."
 author: "Alex Verboon"
-tags:
-  - federated-search
-  - search
-  - search-provider
-  - Windows
 categories:
-  - federated-search
-  - Windows
+  - 'Windows'
+tags:
+  - 'Search'
+  - 'Federated-Search'
 ---
 Well this isn’t really the Part2 I intended to write, but I just stumbled upon some interesting content that relates to Windows 7 Search, and wanted to share this. Part3 will follow in the near future. 
 

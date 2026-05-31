@@ -7,15 +7,11 @@ aliases:
   - "/2012/01/tooltip-simple-ipip-range-ping/"
 description: "I guess the name says it all, Simple IP/IP Range Ping is a small FREE standalone utility to scan an IP range. ![](images/30422516.png) Simple IP/IP Ra..."
 author: "Alex Verboon"
-tags:
-  - ping
-  - range
-  - scan
-  - tcpip
 categories:
-  - network
-  - tcpip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Ping'
+  - 'Range'
 ---
 I guess the name says it all, Simple IP/IP Range Ping is a small FREE standalone utility to scan an IP range. 
 

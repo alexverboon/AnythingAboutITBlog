@@ -8,13 +8,12 @@ aliases:
 description: "Review and monitor the Azure AD setting that allows users to create new tenants, with KQL detection queries."
 author: "Alex Verboon"
 image: "img/post-heroes/users-can-create-azuread-tenants.png"
-tags:
-  - EntraID
-  - KQL
 categories:
-  - EntraID
+  - 'Azure'
+tags:
+  - 'Entra ID'
+  - 'KQL'
 ---
-
 Hello there,
 
 In this blog post we look at a setting within the Azure AD portal: "Users can create Azure AD tenants". Unfortunately, this setting is enabled by default. Most organizations will probably want to turn this off. You can find it in the Azure AD portal under Settings > Users > User settings > Tenant creation.

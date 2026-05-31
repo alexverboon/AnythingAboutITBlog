@@ -8,16 +8,11 @@ aliases:
 description: "If you want to install Windows 7 from USB you can use Microsoft’s Windows 7 USB/DVD Download Tool which you can download from [here](http://wudt.codep..."
 author: "Alex Verboon"
 image: "img/post-heroes/prevent-the-windows-7-usbdvd-download-tool-from-formatting-the-usb-flash-drive.png"
-tags:
-  - installation
-  - registry
-  - usb
-  - Windows
 categories:
-  - tip
-  - tools
-  - usb
-  - Windows
+  - 'Windows'
+tags:
+  - 'Usb'
+  - 'Tips-Tools'
 ---
 If you want to install Windows 7 from USB you can use Microsoft’s Windows 7 USB/DVD Download Tool which you can download from [here](http://wudt.codeplex.com/). By default the tool requires that the USB disk is being erased before copying the Windows 7 installation media, hence you get the following messages. 
 

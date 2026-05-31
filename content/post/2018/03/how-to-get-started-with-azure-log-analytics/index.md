@@ -8,11 +8,10 @@ aliases:
 description: "If you're interested in getting your hands dirty with Azure Log Analytics, here's a few resources and tips on how to get started. **The Video's ** If ..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-get-started-with-azure-log-analytics.png"
-tags:
-  - azure
-  - log-analytics
 categories:
-  - azure
+  - 'Azure'
+tags:
+  - 'Log Analytics'
 ---
 If you're interested in getting your hands dirty with Azure Log Analytics, here's a few resources and tips on how to get started.
 

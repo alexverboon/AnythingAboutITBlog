@@ -8,16 +8,11 @@ aliases:
 description: "A great resource I am using for years already to proactively read through the Microsoft KB’s is [kbupdate.info](http://kbupdate.info/) a monitoring sy..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-find-latest-microsoft-knowledge-base-articles-for-windows-8-and-server-2012.png"
-tags:
-  - kb
-  - knowledge-base
-  - microsoft
-  - support
-  - Windows
 categories:
-  - knowledge
-  - microsoft
-  - Windows
+  - 'Windows'
+tags:
+  - 'Knowledge'
+  - 'Knowledge-Base'
 ---
 A great resource I am using for years already to proactively read through the Microsoft KB’s is [kbupdate.info](http://kbupdate.info/) a monitoring system that scans the entire Microsoft Knowledge Base every night. Now that Windows 8 and Server 2012 are out and Microsoft starts publishing KBs for it, you can track them easily via kbupdate.info
 

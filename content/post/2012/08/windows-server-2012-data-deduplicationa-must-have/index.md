@@ -7,15 +7,11 @@ aliases:
   - "/2012/08/windows-server-2012-data-deduplicationa-must-have/"
 description: "During my summer vacation I’ve watched several TechEd video’s and there were plenty of interesting things I have seen, but the Data Deduplication feat..."
 author: "Alex Verboon"
-tags:
-  - data-deduplication
-  - file-services
-  - space
-  - storage
-  - Windows
 categories:
-  - windows-server-2012
-  - Windows
+  - 'Windows'
+tags:
+  - 'Data-Deduplication'
+  - 'Windows-Server-2012'
 ---
 During my summer vacation I’ve watched several TechEd video’s and there were plenty of interesting things I have seen, but the Data Deduplication feature in Server 2012 definitely belongs to one of my favorite ones. There are plenty of use cases were the Data Deduplication feature can help you save storage space. To try out this feature I created a folder on my test server and created 4 folders. 
 

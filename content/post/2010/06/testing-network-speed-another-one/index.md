@@ -8,15 +8,11 @@ aliases:
 description: "Back in April i posted an article about [Testing Network Speed](https://www.verboon.info/index.php/2010/04/testing-network-speed/), here’s another nic..."
 author: "Alex Verboon"
 image: "img/post-heroes/testing-network-speed-another-one.png"
-tags:
-  - bandwidth
-  - lan
-  - network
-  - speed
 categories:
-  - bandwidth
-  - network
-  - speed
+  - 'Security'
+tags:
+  - 'Network'
+  - 'Speed'
 ---
 Back in April i posted an article about [Testing Network Speed](https://www.verboon.info/index.php/2010/04/testing-network-speed/), here’s another nice utility that allows testing your network speed, and even more. The Utility is called [DownTester](http://www.nirsoft.net/utils/download_speed_tester.html) and is part of the awesome tool collection from [NirSoft](http://www.nirsoft.net/). 
 

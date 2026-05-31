@@ -8,11 +8,11 @@ aliases:
 description: "Putting drive letters first"
 author: "Alex Verboon"
 image: "img/post-heroes/putting-drive-letters-first.png"
-tags:
-  - registry
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Registry'
+  - 'Tips-Tools'
 ---
 When launching Windows Explorer, by default the driver letters are being displayed behind the volume / share name.
 

@@ -8,16 +8,11 @@ aliases:
 description: While creating a new Group Policy object to enable WinRM (Windows Remote
   Management) on clients, I noticed some Group Policy changes that are introduc...
 author: Alex Verboon
-tags:
-- group-policy
-- windows-remote-management
-- winrm
-- Windows
-- PowerShell
 categories:
-- group-policy
-- winrm
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Group Policy'
+  - 'Windows'
 ---
 While creating a new Group Policy object to enable WinRM (Windows Remote Management) on clients, I noticed some Group Policy changes that are introduced with the Windows Management Framework 3.0. The Windows Management Framework 3.0 contains the following updates:
 

@@ -8,18 +8,11 @@ aliases:
 description: "Today I have spend some time in taking a look at MED-V. I reviewed MED-V already about a year ago, but had not touched it since then. Microsoft just r..."
 author: "Alex Verboon"
 image: "img/post-heroes/med-v-trim-transfer.png"
-tags:
-  - imagex
-  - med-v
-  - network
-  - transfer
-  - trim-transfer
-  - Windows
 categories:
-  - bits
-  - deployment
-  - med-v
-  - network
+  - 'Windows'
+tags:
+  - 'Transfer'
+  - 'Trim-Transfer'
 ---
 Today I have spend some time in taking a look at MED-V. I reviewed MED-V already about a year ago, but had not touched it since then. Microsoft just recently released an updated version of MED-V as part of the MDOP suite. While configuring a Workspace, my attention was caught by the “*Clients should use Trim Transfer when downloading images for this Workspace*” setting that is shown within the Virtual Machine Tab. 
 

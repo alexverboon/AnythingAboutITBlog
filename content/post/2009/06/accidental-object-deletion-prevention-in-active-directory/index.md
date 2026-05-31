@@ -8,12 +8,11 @@ aliases:
 description: "When creating objects in Active Directory you can set a flag that prevents accidental deletion of an object. While this setting is visible in the UI b..."
 author: "Alex Verboon"
 image: "img/post-heroes/accidental-object-deletion-prevention-in-active-directory.png"
-tags:
-  - accidental
-  - deletion
-  - objects
 categories:
-  - active-directory
+  - 'Security'
+tags:
+  - 'Accidental'
+  - 'Deletion'
 ---
 When creating objects in Active Directory you can set a flag that prevents accidental deletion of an object. 
 

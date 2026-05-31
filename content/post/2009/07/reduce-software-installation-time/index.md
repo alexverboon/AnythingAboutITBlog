@@ -8,18 +8,11 @@ aliases:
 description: "Windows7 comes with Windows Installer 5.0 that has a new installation property called MSIFASTINSTALL. Using the MSIFASTINSTALL property can help reduc..."
 author: "Alex Verboon"
 image: "img/post-heroes/reduce-software-installation-time.png"
-tags:
-  - installation
-  - msi
-  - msifastinstall
-  - packaging
-  - time
-  - Windows
 categories:
-  - automation
-  - deployment
-  - packaging
-  - Windows
+  - 'Windows'
+tags:
+  - 'Installation'
+  - 'Time'
 ---
 Windows7 comes with Windows Installer 5.0 that has a new installation property called MSIFASTINSTALL. Using the MSIFASTINSTALL property can help reduce time required to install a windows installer package. 
 

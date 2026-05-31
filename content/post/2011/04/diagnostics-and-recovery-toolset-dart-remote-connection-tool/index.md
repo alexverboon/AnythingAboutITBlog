@@ -9,21 +9,11 @@ description: Just a few weeks ago Microsoft released a public Beta version of th
   Diagnostics and Recovery Toolset (DART) 7. One of the new features of DART7 is th...
 author: Alex Verboon
 image: img/post-heroes/diagnostics-and-recovery-toolset-dart-remote-connection-tool.png
-tags:
-- dart
-- dart-7
-- diagnostics-and-recovery-toolset
-- mdop
-- pxe
-- remote-control
-- usb
-- windws-7
-- Windows
-- WinPE
 categories:
-- dart
-- Windows
-- WinPE
+  - 'Windows'
+tags:
+  - 'Diagnostics-And-Recovery-Toolset'
+  - 'Dart'
 ---
 Just a few weeks ago Microsoft released a public Beta version of the Diagnostics and Recovery Toolset (DART) 7. One of the new features of DART7 is the Remote Connection Tool. Okay, I agree this is not rocked science, actually I’ve written about this before [using a VNC client](https://www.verboon.info/index.php/2009/12/remote-management-of-amtvpro-machine-with-winpe-and-vnc/comment-page-1/#comment-249), but now that it is included within the tool suite, it’s just there and ready to use. 
 

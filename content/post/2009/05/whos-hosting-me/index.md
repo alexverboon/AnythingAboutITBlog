@@ -8,13 +8,11 @@ aliases:
 description: "This morning i had an issue with a fileserver that is running as a guest on a Hyper-V server, far away from my location, in fact I did not even know w..."
 author: "Alex Verboon"
 image: "img/post-heroes/whos-hosting-me.png"
-tags:
-  - guest
-  - hyper-v
-  - Windows
 categories:
-  - hyper-v
-  - virtualization
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Guest'
 ---
 This morning i had an issue with a fileserver that is running as a guest on a Hyper-V server, far away from my location, in fact I did not even know what Hyper-V system is hosting that Fileserver. I wanted to see within Hyper-V manager how the system is doing, but without knowing the Hyper-V server host name, you can’t connect (kind of logic) :-)
 

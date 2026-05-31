@@ -8,15 +8,11 @@ aliases:
 description: Nearly 3 years ago I wrote a blog post about the [Windows Services changes
   between Windows Vista and Windows 7](https://www.verboon.info/index.php/200...
 author: Alex Verboon
-tags:
-- service-triggers
-- services
-- startmode
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Services'
+  - 'PowerShell'
 ---
 Nearly 3 years ago I wrote a blog post about the [Windows Services changes between Windows Vista and Windows 7](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-vista-to-windows7-part1/). Assuming that we won’t see any big changes with regard to Services when Windows 8 will be released I repeated the exercise by looking at what has changed between Windows 7 Enterprise and the Windows 8 Consumer Preview Build. 
 

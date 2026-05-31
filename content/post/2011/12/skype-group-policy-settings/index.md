@@ -7,19 +7,11 @@ aliases:
   - "/2011/12/skype-group-policy-settings/"
 description: "Just recently one of our customers requested the Skype ([Business version](http://www.skype.com/intl/en-us/business/download/)) Application to be pack..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - enterprise
-  - gpo
-  - group-policy
-  - lockdown
-  - settings
-  - skype
-  - update
-  - Windows
 categories:
-  - group-policy
-  - skype
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Settings'
 ---
 Just recently one of our customers requested the Skype ([Business version](http://www.skype.com/intl/en-us/business/download/)) Application to be packaged for software distribution, so I wondered what the status is these days with regard to locking down Skype with Group Policy. Well the results are sobering. Despite the fact that Skype is [part of Microsoft](http://www.microsoft.com/en-us/skype/) since a while, there has not been much progress in making Skype more Group Policy aware. 
 

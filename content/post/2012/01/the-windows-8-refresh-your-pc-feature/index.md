@@ -8,17 +8,11 @@ aliases:
 description: "As recently illustrated on the Windows 8 Build blog Windows 8 comes with new features to [Reset or Refresh your PC](http://blogs.msdn.com/b/b8/archive..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-windows-8-refresh-your-pc-feature.png"
-tags:
-  - image
-  - reagentc-exe
-  - recimage-exe
-  - recovery
-  - refresh-your-pc
-  - reset
-  - user-data
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Refresh-Your-Pc'
+  - 'Reagentc-Exe'
 ---
 As recently illustrated on the Windows 8 Build blog Windows 8 comes with new features to [Reset or Refresh your PC](http://blogs.msdn.com/b/b8/archive/2012/01/04/refresh-and-reset-your-pc.aspx). The Reset Feature basically triggers a complete new installation of Windows 8 without taking care of any personal data hence this option should only be used when you have your data backed up already or when you intend to hand-out the system to someone else and you want to ensure that the system doesn’t have any personal data or settings stored. The Refresh option allows you to re-install Windows 8 but it will take care of your personal data, settings and Metro Style applications e.g. once the Windows 8 operating system installation has completed the user will still have access to his data and personalization settings. Furthermore the Refresh Your PC feature allows you not just to install a clean version of Windows 8 but one that does already include some of your self-installed applications so that you don’t have to install them all from scratch again. 
 

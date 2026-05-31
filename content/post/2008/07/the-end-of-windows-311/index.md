@@ -8,10 +8,10 @@ aliases:
 description: "Remember this boot screen ?"
 author: "Alex Verboon"
 image: "img/post-heroes/the-end-of-windows-311.png"
-tags:
-  - windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windows'
 ---
 Remember this boot screen ?
 

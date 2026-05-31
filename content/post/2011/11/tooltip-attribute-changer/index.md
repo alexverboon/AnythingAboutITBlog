@@ -8,21 +8,11 @@ aliases:
 description: "While writing a script that checks the number of days between now and when a particular folder is created I found this Windows Explorer extension call..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-attribute-changer.png"
-tags:
-  - attribute
-  - change
-  - date
-  - file
-  - folder
-  - properties
-  - timestamp
-  - tip
-  - tool
-  - Windows
 categories:
-  - explorer
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Attribute'
+  - 'Change'
 ---
 While writing a script that checks the number of days between now and when a particular folder is created I found this Windows Explorer extension called Attribute Changer. Very handy utility when you need to change the creation date of a file or folder to simulate an earlier or later date.  
 

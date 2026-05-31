@@ -9,17 +9,11 @@ description: Yesterday we looked at [How to access data from the local disk when
   a Windows To Go Workspace](https://www.verboon.info/index.php/2012/12/how-...
 author: Alex Verboon
 image: img/post-heroes/how-to-access-data-from-your-bitlocker-enabled-windows-to-go-workspace.png
-tags:
-- bitlocker
-- data
-- disk-manager
-- drive-letter
-- windows-8-to-go
-- Windows
-- Office
 categories:
-- windows-to-go-3
-- Windows
+  - 'Windows'
+tags:
+  - 'Bitlocker'
+  - 'Data'
 ---
 Yesterday we looked at [How to access data from the local disk when running a Windows To Go Workspace](https://www.verboon.info/index.php/2012/12/how-to-access-data-from-the-local-disk-when-running-a-windows-to-go-workspace/) today we’re going to do the opposite. So let’s assume you’ve been working in your Windows To Go Workspace at home and saved a document locally. Now you are back in the office but didn’t start your Windows To Go Workspace but are working on a corporate Windows 7 client and require access to that file. Now you can either boot your Windows To Go Workspace and save the file from there on a shared location or just copy the data directly from the Windows To Go drive right?
 

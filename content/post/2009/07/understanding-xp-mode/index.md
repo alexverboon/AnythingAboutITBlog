@@ -7,15 +7,11 @@ aliases:
   - "/2009/07/understanding-xp-mode/"
 description: "Here is an excellent post that explains Windows7 XP Mode. The article describes clearly who should use XP Mode standalone or MED-V which is the produc..."
 author: "Alex Verboon"
-tags:
-  - med-v
-  - xp-mode
-  - Windows
 categories:
-  - med-v
-  - virtualization
-  - xp-mode
-  - Windows
+  - 'Windows'
+tags:
+  - 'Xp-Mode'
+  - 'Med-V'
 ---
 Here is an excellent post that explains Windows7 XP Mode. The article describes clearly who should use XP Mode standalone or MED-V which is the product designed for enterprises. 
 

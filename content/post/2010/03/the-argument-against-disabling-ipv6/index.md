@@ -7,20 +7,11 @@ aliases:
   - "/2010/03/the-argument-against-disabling-ipv6/"
 description: "Last Friday I met with some friends I used to work with in the past and we had some talk about Windows 7 and IPv6. One had mentioned that they would e..."
 author: "Alex Verboon"
-tags:
-  - dhcp
-  - directaccess
-  - homegroup
-  - ipv6
-  - tcpip
-  - Windows
 categories:
-  - directaccess
-  - ipv6
-  - knowledge
-  - tcpip
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Ipv6'
+  - 'Directaccess'
 ---
 Last Friday I met with some friends I used to work with in the past and we had some talk about Windows 7 and IPv6. One had mentioned that they would explicitly disable the IPv6 on the client systems, this because they would not use it and they wanted to avoid unnecessary network traffic on their LAN/WAN. 
 

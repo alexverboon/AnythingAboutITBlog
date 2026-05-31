@@ -7,15 +7,11 @@ aliases:
   - "/2012/07/tooltip-net-version-detector/"
 description: "Curious about what .NET versions you have installed? Here’s a nice small **FREE** standalone utility that tells you what .NET versions are included by..."
 author: "Alex Verboon"
-tags:
-  - net
-  - net-framework
-  - detection
-  - version
-  - Windows
 categories:
-  - net-framework
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Version'
+  - 'Net'
 ---
 Curious about what .NET versions you have installed? Here’s a nice small **FREE** standalone utility that tells you what .NET versions are included by default within what Windows operating system version and what versions you have actually installed on your client / server.
 

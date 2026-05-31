@@ -8,18 +8,11 @@ aliases:
 description: "When taking a closer look at the Services in Windows 7 you will notice that many of them are configured to start manually but will be started when nee..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-service-triggers.png"
-tags:
-  - service-triggers
-  - services
-  - startmode
-  - windows-2008-r2
-  - Windows
 categories:
-  - performance
-  - protocols
-  - service-triggers
-  - windows-server-2008-r2
-  - Windows
+  - 'Windows'
+tags:
+  - 'Service-Triggers'
+  - 'Services'
 ---
 When taking a closer look at the Services in Windows 7 you will notice that many of them are configured to start manually but will be started when needed. For more details read my earlier posts [Windows Services, what changed from Vista to Windows7 Part1](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-vista-to-windows7-part1/) and [Windows Services, What changed from Vista to Windows7 – Part2](https://www.verboon.info/index.php/2009/04/windows-services-what-changed-from-vista-to-windows7-part2/). 
 

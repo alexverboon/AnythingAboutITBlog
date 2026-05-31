@@ -8,18 +8,11 @@ aliases:
 description: "Last night I came across this FREE utility called AD Photo Edit developed by [Chris Wright](http://cjwdev.wordpress.com/about-me/) which allows you to..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-ad-photo-edit.png"
-tags:
-  - active-directory
-  - attribute
-  - exchange-2010
-  - gal
-  - photo
-  - user-object
 categories:
-  - active-directory
-  - outlook-2010
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Photo'
+  - 'Active Directory'
 ---
 Last night I came across this FREE utility called AD Photo Edit developed by [Chris Wright](http://cjwdev.wordpress.com/about-me/)  which allows you to upload your picture into Active Directory. The result of doing that is that people who use Outlook 2010 can see your profile picture in the mail you send them. 
 

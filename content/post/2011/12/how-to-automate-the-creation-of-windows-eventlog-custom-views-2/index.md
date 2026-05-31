@@ -8,17 +8,11 @@ aliases:
 description: "In the past couple of days I have been working on measuring system boot performance and you are probably going to see some posts from me on that subje..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-automate-the-creation-of-windows-eventlog-custom-views-2.png"
-tags:
-  - boot
-  - boot-performance
-  - custom-view
-  - eventlog
-  - eventvwr-exe
-  - Windows
 categories:
-  - eventlog
-  - tip
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Custom-View'
+  - 'Eventlog'
 ---
 In the past couple of days I have been working on measuring system boot performance and you are probably going to see some posts from me on that subject soon. Today I want to share with you how you can automate the creation of a Windows Eventlog custom view.   
 

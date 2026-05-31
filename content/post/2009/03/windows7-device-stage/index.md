@@ -8,11 +8,10 @@ aliases:
 description: "Another great feature that will come with Windows7 is Device Stage. Watch the video below and read the “[Device Stage – A New Way of Interacting with ..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows7-device-stage.png"
-tags:
-  - device-stage
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Device-Stage'
 ---
 Another great feature that will come with Windows7 is Device Stage. 
 

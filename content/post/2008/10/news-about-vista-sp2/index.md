@@ -7,11 +7,10 @@ aliases:
   - "/2008/10/news-about-vista-sp2/"
 description: "Until last week we have just seen rumours around the Service Pack 2 for Windows Vista. "
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vista'
 ---
 Until last week we have just seen rumours around the Service Pack 2 for Windows Vista. The only visible thing from Microsoft was a placeholder [KB ](http://support.microsoft.com/default.aspx?scid=kb;en-us;948465)number on their Support page.
 

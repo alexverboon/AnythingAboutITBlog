@@ -8,15 +8,11 @@ aliases:
 description: A small PowerShell script that lists all users that have the specified
   Office 365 AccountSkuid enabled on their account. ``` ```
 author: Alex Verboon
-tags:
-- accountskuid
-- licensing
-- office-365-2
-- PowerShell
-- Office
 categories:
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Office'
+  - 'Accountskuid'
 ---
 A small PowerShell script that lists all users that have the specified Office 365 AccountSkuid enabled on their account. 
 

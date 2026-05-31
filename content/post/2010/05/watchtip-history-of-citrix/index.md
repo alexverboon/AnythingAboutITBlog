@@ -7,13 +7,11 @@ aliases:
   - "/2010/05/watchtip-history-of-citrix/"
 description: "Those who are following my blog on a regular basis know that I am also interested in the history of IT. Since in these days Citrix (especially XenDesk..."
 author: "Alex Verboon"
-tags:
-  - citrix
-  - history
 categories:
-  - citrix
-  - history
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Citrix'
+  - 'History'
 ---
 Those who are following my blog on a regular basis know that I am also interested in the history of IT. Since in these days Citrix (especially XenDesktop) has a high ranking on my personal list of interests, I spend some time today to find some information about the History of Citrix. So here we go: 
 

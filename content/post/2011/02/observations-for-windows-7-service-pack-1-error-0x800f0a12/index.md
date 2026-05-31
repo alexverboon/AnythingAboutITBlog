@@ -8,15 +8,11 @@ aliases:
 description: "During the past days I have been manually updating a few Windows 7 clients and on two of them I received the error **0x800fa12**. [ ![2011-02-24 11h26..."
 author: "Alex Verboon"
 image: "img/post-heroes/observations-for-windows-7-service-pack-1-error-0x800f0a12.png"
-tags:
-  - 0x800f0a12
-  - error
-  - service-pack-1
-  - windws-7
-  - Windows
 categories:
-  - servicepack
-  - Windows
+  - 'Windows'
+tags:
+  - 'Service-Pack-1'
+  - 'Error'
 ---
 During the past days I have been manually updating a few Windows 7 clients and on two of them I received the error **0x800fa12**. 
 

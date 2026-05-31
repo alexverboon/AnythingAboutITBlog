@@ -7,13 +7,11 @@ aliases:
   - "/2009/02/windows-7-hands-on-videos/"
 description: "Just came back from vacation and cleaning up my mailbox. One had send a link that contains a number of nice short hands-on videos about Windows 7. Don..."
 author: "Alex Verboon"
-tags:
-  - video
-  - Windows
 categories:
-  - knowledge
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Video'
+  - 'Tips-Tools'
 ---
 Just came back from vacation and cleaning up my mailbox. One had send a link that contains a number of nice short hands-on videos about Windows 7. Don’t expect any level 500 deep technical insight from these videos, but they are good enough to get a general overview on what’s new around the following topics:
 

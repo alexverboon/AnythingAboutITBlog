@@ -9,18 +9,11 @@ description: One of the objectives of deploying a new operating system within an
   is to provide end users with a state of the art Operating System that b...
 author: Alex Verboon
 image: img/post-heroes/windows-7-enterprise-training.png
-tags:
-- deployment
-- enduser
-- migration
-- training
-- Windows
-- Office
 categories:
-- deployment
-- knowledge
-- tip
-- Windows
+  - 'Windows'
+tags:
+  - 'Training'
+  - 'Deployment'
 ---
 One of the objectives of deploying a new operating system within an Enterprise is to provide end users with a state of the art Operating System that builds the foundation for adopting new technologies and to increase end user productivity. 
 

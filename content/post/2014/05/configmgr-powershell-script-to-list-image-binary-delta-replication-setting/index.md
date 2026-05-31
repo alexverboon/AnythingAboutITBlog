@@ -9,14 +9,11 @@ description: Here’s a script that lists all Boot and Operating system images s
   within Configuration Manager and shows whether the Binary Delta Replication Set...
 author: Alex Verboon
 image: img/post-heroes/configmgr-powershell-script-to-list-image-binary-delta-replication-setting.png
-tags:
-- binary-delta-replication
-- configmgr
-- pkgflags
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Binary-Delta-Replication'
+  - 'PowerShell'
 ---
 Here’s a script that lists all Boot and Operating system images stored within Configuration Manager and shows whether the Binary Delta Replication Setting is enabled or not. 
 

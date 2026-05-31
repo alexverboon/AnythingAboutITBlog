@@ -7,12 +7,11 @@ aliases:
   - "/2010/08/there-was-a-time/"
 description: "……..where you couldn’t just download forgotten or lost installation media from the internet or your company portal."
 author: "Alex Verboon"
-tags:
-  - dec
-  - history
 categories:
-  - fun
-  - history
+  - 'Security'
+tags:
+  - 'History'
+  - 'Dec'
 ---
 ……..where you couldn’t just download forgotten or lost installation media from the internet or your company portal.
 

@@ -9,16 +9,11 @@ description: This week one of my customers send me the Microsoft support article
   – Desktop Shortcuts disappear in Windows 7](http://support.microsoft.com...
 author: Alex Verboon
 image: img/post-heroes/control-windows-7-scheduled-maintenance-behavior-through-group-policy.png
-tags:
-- broken-shortcuts
-- system-maintenance
-- troubleshooting
-- Windows
-- PowerShell
 categories:
-- group-policy
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Broken-Shortcuts'
 ---
 This week one of my customers send me the Microsoft support article [KB978980 – Desktop Shortcuts disappear in Windows 7](http://support.microsoft.com/kb/978980) and the request to make sure this wouldn’t happen to his clients. In short, if a user creates a shortcut that points to a location that isn’t available at the time when the weekly scheduled system maintenance task is running, the shortcuts are considered as broken and therefore automatically deleted. 
 

@@ -7,14 +7,11 @@ aliases:
   - "/2009/01/windows-7-applocker-needs-a-2008-r2-dc/"
 description: "Yesterday evening I looked at some of the new features within Windows 7. So at some stage I wanted to see Applocker running. I spend about an hour rev..."
 author: "Alex Verboon"
-tags:
-  - 2008-r2
-  - applocker
-  - Windows
 categories:
-  - active-directory
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - '2008-R2'
+  - 'Applocker'
 ---
 Yesterday evening I looked at some of the new features within Windows 7. So at some stage I wanted to see Applocker running. I spend about an hour reviewing my settings, checking GPO processing until I went back to the documentation, just to find out that little sentence at the very bottom of that page..... "***At least one Windows Server 2008 R2 domain controller is required to host the Applocker rules***".
 

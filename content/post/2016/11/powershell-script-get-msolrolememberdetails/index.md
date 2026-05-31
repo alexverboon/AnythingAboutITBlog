@@ -9,15 +9,11 @@ description: To get a list of all users that belong to a given role, the Microso
   Azure Active Directory module has a cmdlet Get-MsolRoleMember, however to run th...
 author: Alex Verboon
 image: img/post-heroes/powershell-script-get-msolrolememberdetails.png
-tags:
-- office-365-2
-- roles
-- user-account-information
-- PowerShell
-- Office
 categories:
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Office'
+  - 'Office-365-2'
 ---
 To get a list of all users that belong to a given role, the Microsoft Azure Active Directory module has a cmdlet Get-MsolRoleMember, however to run the cmdlet you must use the RoleObjectId parameter and provide a value.  The possible values for RoleObjectId can be retrieved by running the Get-MsolRole cmdlet.
 

@@ -7,17 +7,11 @@ aliases:
   - "/2010/06/tooltip-checksum/"
 description: "Today’s ToolTip is about a utility called **checksum** and guess what, it can create and verify checksums. But beside all the other checksum utilities..."
 author: "Alex Verboon"
-tags:
-  - checksum
-  - md5
-  - sha1
-  - tip
-  - tool
-  - Windows
 categories:
-  - tip
-  - tools
-  - Windows
+  - 'Windows'
+tags:
+  - 'Checksum'
+  - 'Tips-Tools'
 ---
 Today’s ToolTip is about a utility called **checksum** and guess what, it can create and verify checksums. But beside all the other checksum utilities i came across so far this one has some nice features that make it worth mentioning it. 
 

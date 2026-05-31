@@ -8,18 +8,11 @@ aliases:
 description: "Plan to add more RAM to your PC? What memory module do you need? Here’s a nice FREE (for personal use) tool called RAMMon. [ ![image](images/image_thu..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-rammonretrieve-memory-module-information.png"
-tags:
-  - ddr
-  - memory
-  - ram
-  - spd
-  - tip
-  - tool
-  - Windows
 categories:
-  - memory
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Memory'
+  - 'Ram'
 ---
 Plan to add more RAM to your PC? What memory module do you need? Here’s a nice FREE (for personal use) tool called RAMMon. 
 

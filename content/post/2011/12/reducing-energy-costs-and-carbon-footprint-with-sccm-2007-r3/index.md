@@ -8,22 +8,11 @@ aliases:
 description: "Almost all companies I know do have some sort of a Green-IT policy in place but in my view this should go beyond just putting an e-mail footnote like ..."
 author: "Alex Verboon"
 image: "img/post-heroes/reducing-energy-costs-and-carbon-footprint-with-sccm-2007-r3.png"
-tags:
-  - carbon
-  - costs
-  - energy
-  - environment
-  - footprint
-  - power-management
-  - savings
-  - sccm-2007-r3
-  - sccm-agent
-  - Windows
 categories:
-  - energy
-  - power
-  - sccm-2007
-  - Windows
+  - 'Windows'
+tags:
+  - 'Carbon'
+  - 'Energy'
 ---
 Almost all companies I know do have some sort of a Green-IT policy in place but in my view this should go beyond just putting an e-mail footnote like “*Please consider the environment before printing this e-mail*”. Many companies use Microsoft System Center Configuration Manager 2007 R3, but don’t bail out its Power Management capabilities whereas it could help save energy costs and carbon footprint with just a few clicks. 
 

@@ -7,13 +7,11 @@ aliases:
   - "/2009/05/server-2008-r2-survival-guide/"
 description: "Microsoft has published the Sever 2008 R2 survival guide which is a useful collection of resource links related to Windows Server 2008 R2. You can dow..."
 author: "Alex Verboon"
-tags:
-  - 2008-r2
-  - guide
-  - Windows
 categories:
-  - tip
-  - windows-server-2008
+  - 'Tips-Tools'
+tags:
+  - '2008-R2'
+  - 'Guide'
 ---
 Microsoft has published the Sever 2008 R2 survival guide which is a useful collection of resource links related to Windows Server 2008 R2. 
 

@@ -8,11 +8,11 @@ aliases:
 description: "Note that once you have installed Windows Vista Service Pack 2 you can run the compcln.exe utility to make your installation permanent and remove any ..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-vista-service-pack-2-cleanup.png"
-tags:
-  - vista-sp2
-  - Windows
 categories:
-  - vista
+  - 'Windows'
+tags:
+  - 'Vista'
+  - 'Vista-Sp2'
 ---
 Note that once you have installed Windows Vista Service Pack 2 you can run the compcln.exe utility to make your installation permanent and remove any sources from the previous state. 
 

@@ -7,12 +7,11 @@ aliases:
 - /2008/11/conference-call-rules/
 description: "Conference Call rules"
 author: Alex Verboon
-tags:
-- conference-call
-- phone
-- Office
 categories:
-- Tips
+  - 'M365'
+tags:
+  - 'Conference-Call'
+  - 'Office'
 ---
 As part of my job i am joining conference calls quite frequently, although whenever i can I stay away from them as mostly they aren't productive, especially when there is more than 5 people in a call, as mostly you have 3 people having a dialogue and the rest stays quiet anyway even after the call ends :-)
 

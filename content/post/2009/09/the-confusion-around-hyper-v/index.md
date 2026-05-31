@@ -8,16 +8,11 @@ aliases:
 description: "When talking about Hyper-V with customers or colleagues, I notice that there is quite some confusion around the definition of Hyper-V Server and Windo..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-confusion-around-hyper-v.png"
-tags:
-  - 2008r2
-  - hyper-v
-  - virtualization
-  - windows-server-2008
-  - Windows
 categories:
-  - hyper-v
-  - virtualization
-  - windows-server-2008-r2
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - '2008r2'
 ---
 When talking about Hyper-V with customers or colleagues, I notice that there is quite some confusion around the definition of Hyper-V Server and Windows Server 2008 with Hyper-V. 
 

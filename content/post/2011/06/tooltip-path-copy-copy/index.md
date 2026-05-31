@@ -8,14 +8,11 @@ aliases:
 description: "During my bi-weekly CodePlex browsing session, I came across this nice little utility called Path Copy Copy which is an Explorer add-in for copying fi..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-path-copy-copy.png"
-tags:
-  - copy
-  - explorer
-  - path
-  - tool
 categories:
-  - explorer
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Copy'
+  - 'Path'
 ---
 During my bi-weekly CodePlex browsing session, I came across this nice little utility called Path Copy Copy which is an Explorer add-in for copying file or folder paths. 
 

@@ -8,22 +8,11 @@ aliases:
 description: "Along with Windows 8 Microsoft also provides a new tool for System Builders and IT Professionals called the Windows Assessment Toolkit. The Windows As..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-adk-assessments-os-support-overview.png"
-tags:
-  - adk
-  - arm
-  - assessment
-  - certification
-  - drivers
-  - logo
-  - metro
-  - performance
-  - winsat
-  - Windows
 categories:
-  - adk
-  - assessment
-  - performance
-  - Windows
+  - 'Windows'
+tags:
+  - 'Assessment'
+  - 'Adk'
 ---
 Along with Windows 8 Microsoft also provides a new tool for System Builders and IT Professionals called the Windows Assessment Toolkit. The Windows Assessment Toolkit allows to determine the quality of a running operating system or a set of components with regard to performance, reliability, and functionality. 
 

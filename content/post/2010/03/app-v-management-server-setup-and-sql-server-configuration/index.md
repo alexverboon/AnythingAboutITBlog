@@ -8,19 +8,11 @@ aliases:
 description: "During the Installation of the App-V Management Server on a Windows Server 2008 with SQL Server 2008 Express installed I ran into an problem specifyin..."
 author: "Alex Verboon"
 image: "img/post-heroes/app-v-management-server-setup-and-sql-server-configuration.png"
-tags:
-  - 1433
-  - app-v
-  - port
-  - setup
-  - sql-server-2008
-  - Windows
 categories:
-  - app-v
-  - protocols
-  - sql
-  - tcpip
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'App-V'
+  - 'Setup'
 ---
 During the Installation of the App-V Management Server on a Windows Server 2008 with SQL Server 2008 Express installed I ran into an problem specifying the database server and got an error as shown in the picture below. [
 ![image](images/image_thumb7.png)

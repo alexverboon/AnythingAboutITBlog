@@ -7,13 +7,11 @@ aliases:
   - "/2009/02/dust-can-bring-your-pc-down/"
 description: "Yesterday I helped out a friend to move into his new apartment. Once we had completed moving the heavy parts he asked me if I could connect his PC and..."
 author: "Alex Verboon"
-tags:
-  - dust
-  - fan
-  - pc
-  - Windows
 categories:
-  - fun
+  - 'Windows'
+tags:
+  - 'Dust'
+  - 'Pc'
 ---
 Yesterday I helped out a friend to move into his new apartment. Once we had completed moving the heavy parts he asked me if I could connect his PC and while i would do that maybe also do a quick system check. 
 

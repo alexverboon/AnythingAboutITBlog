@@ -7,21 +7,11 @@ aliases:
   - "/2009/02/converting-wim-to-vhd/"
 description: "Today I've tested the WIM2VHD script provided by [Mike Kolitz](http://blogs.msdn.com/mikekol/default.aspx) a Software Design Engineer from the Hyper-V..."
 author: "Alex Verboon"
-tags:
-  - aik
-  - convert
-  - hyper-v
-  - vhd
-  - wim
-  - Windows
 categories:
-  - aik
-  - automation
-  - deployment
-  - hyper-v
-  - virtualization
-  - windows-server-2008
-  - Windows
+  - 'Windows'
+tags:
+  - 'Convert'
+  - 'Vhd'
 ---
 Today I've tested the WIM2VHD script provided by [Mike Kolitz](http://blogs.msdn.com/mikekol/default.aspx) a Software Design Engineer from the Hyper-V Team at Microsoft.
 

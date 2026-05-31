@@ -8,17 +8,11 @@ aliases:
 description: BranchCache is a new feature available in Windows Server 2008 R2 and
   Windows 7 that reduces WAN bandwidth usage and improves application responsivenes...
 author: Alex Verboon
-tags:
-- branchcache
-- sccm-2007
-- windows-2008-r2
-- Windows
-- Office
 categories:
-- branchcache
-- deployment
-- windows-server-2008-r2
-- Windows
+  - 'Windows'
+tags:
+  - 'Branchcache'
+  - 'Deployment'
 ---
 BranchCache is a new feature available in Windows Server 2008 R2 and Windows 7 that reduces WAN bandwidth usage and improves application responsiveness when workstations in a remote location access content from the head office or data center by downloading and caching content on the local network as it is requested, making it immediately available to other clients that subsequently request the same content. 
 

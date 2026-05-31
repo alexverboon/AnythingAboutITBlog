@@ -8,11 +8,11 @@ aliases:
 description: "When remotely accessing the system BIOS of a HP Compaq dc7800 desktop machine using vPro, the BIOS appears in black and white"
 author: "Alex Verboon"
 image: "img/post-heroes/vpro-colors-in-bios.png"
-tags:
-  - bios
-  - vpro
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Bios'
+  - 'Vpro'
 ---
 When remotely accessing the system BIOS of a HP Compaq dc7800 desktop machine using vPro, the BIOS appears in black and white as shown in the picture below:
 

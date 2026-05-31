@@ -9,21 +9,11 @@ description: While preparing for an SCCM 2012 upgrade, I thought it might be a g
   idea to consider implementing some of the best practices that are around such a...
 author: Alex Verboon
 image: img/post-heroes/integrating-dart-8-0-sp1-remote-connection-into-the-sccm-2012-osd-process.png
-tags:
-- dart
-- os-deployment
-- remote-connection
-- remote-viewer
-- sccm-2012
-- software-assurance
-- task-sequence
-- Windows
-- WinPE
 categories:
-- dart
-- mdop
-- sccm-2012
-- WinPE
+  - 'Windows'
+tags:
+  - 'Remote-Connection'
+  - 'Sccm-2012'
 ---
 While preparing for an SCCM 2012 upgrade, I thought it might be a good idea to consider implementing some of the best practices that are around such as integrating the DaRT Remote Connection tool into the OSD deployment process. I’m sure it comes in handy when having to troubleshoot OSD related tings, as it allows us to access the client remotely without having to give lengthy instructions to an onsite engineer. 
 

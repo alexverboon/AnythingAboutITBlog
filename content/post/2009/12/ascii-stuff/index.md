@@ -8,20 +8,11 @@ aliases:
 description: "I recently got some scripts that were nicely written, meaning well formatted, documented and structured. What I liked most was the clearly visible sep..."
 author: "Alex Verboon"
 image: "img/post-heroes/ascii-stuff.png"
-tags:
-  - art
-  - ascii
-  - convert
-  - generator
-  - image
-  - picture
-  - text
-  - Windows
 categories:
-  - fun
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Ascii'
+  - 'Convert'
 ---
 I recently got some scripts that were nicely written, meaning well formatted, documented and structured. What I liked most was the clearly visible separation of the main code and the subroutines. The code blocks were separated by [ASCII](http://en.wikipedia.org/wiki/ASCII) Code based letters as shown on the picture below.
 

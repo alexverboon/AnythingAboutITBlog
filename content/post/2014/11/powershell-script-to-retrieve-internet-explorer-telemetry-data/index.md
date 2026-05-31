@@ -9,20 +9,11 @@ description: During the past days I have been busy deploying the [Internet Explo
   Site Discovery Toolkit](http://blogs.msdn.com/b/ie/archive/2014/10/24/announcin...
 author: Alex Verboon
 image: img/post-heroes/powershell-script-to-retrieve-internet-explorer-telemetry-data.png
-tags:
-- activex
-- browser
-- document-mode
-- enterprise-mode
-- internet-explorer
-- telemetry
-- Windows
-- PowerShell
-- Office
 categories:
-- internet-explorer
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Internet-Explorer'
+  - 'Telemetry'
 ---
 During the past days I have been busy deploying the [Internet Explorer Site Discovery Toolkit](http://blogs.msdn.com/b/ie/archive/2014/10/24/announcing-the-enterprise-site-discovery-toolkit-for-internet-explorer-11.aspx) to our Internet Explorer 11 test clients. I will write about the deployment of the Toolkit in a separate post. Today I would like to share with you a PowerShell script I put together that allows you to retrieve the collected Internet Explorer Telemetry data from local or remote computers.
 

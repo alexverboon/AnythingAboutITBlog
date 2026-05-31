@@ -8,15 +8,11 @@ aliases:
 description: "Out of the box [BGINFO](http://technet.microsoft.com/en-us/sysinternals/bb897557) includes a number of predefined fields that can be used to display i..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-use-vbscripts-in-bginfo.png"
-tags:
-  - bginfo
-  - desktop
-  - sysinternals
-  - template
-  - vbscript
-  - wallpaper
 categories:
-  - bginfo
+  - 'PowerShell'
+tags:
+  - 'Bginfo'
+  - 'Vbscript'
 ---
 Out of the box [BGINFO](http://technet.microsoft.com/en-us/sysinternals/bb897557) includes a number of predefined fields that can be used to display information on the desktop such as Computer name, IP Address etc. But if the standard fields aren’t enough,BGINFO allows creating custom fields that can pull data from various sources like WMI, Registry, File content, Environment variables or VBScript. 
 

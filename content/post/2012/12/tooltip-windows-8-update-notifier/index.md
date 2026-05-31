@@ -8,16 +8,11 @@ aliases:
 description: "With the introduction of Windows 7 Microsoft started to pay attention to remove unnecessary noise from the Windows Desktop meaning reducing the number..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-windows-8-update-notifier.png"
-tags:
-  - action-center
-  - maintenance
-  - notification
-  - taskbar
-  - windows-update
-  - Windows
 categories:
-  - windows-update
-  - Windows
+  - 'Windows'
+tags:
+  - 'Action-Center'
+  - 'Maintenance'
 ---
 With the introduction of Windows 7 Microsoft started to pay attention to remove unnecessary noise from the Windows Desktop meaning reducing the number of system notification balloons. For details read the [Action Center](http://blogs.msdn.com/b/e7/archive/2008/11/11/action-center.aspx) blog post on the Engineering Windows 7 blog. 
 

@@ -8,18 +8,11 @@ aliases:
 description: "During the past weeks I have spend a bit of time with Citrix XenDesktop 5 and while I was busy creating Desktop Groups, updating Master images, I thou..."
 author: "Alex Verboon"
 image: "img/post-heroes/bginfo-template-for-xendesktop-5.png"
-tags:
-  - bginfo
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - wallpaper
-  - xendesktop
-  - Windows
 categories:
-  - bginfo
-  - gpo
-  - xendesktop
+  - 'Windows'
+tags:
+  - 'Bginfo'
+  - 'Xendesktop'
 ---
 During the past weeks I have spend a bit of time with Citrix XenDesktop 5 and while I was busy creating Desktop Groups, updating Master images, I thought i t could be helpful to see some information directly on the desktop. Show things on the desktop?, okay that’s a no-brainer, [BGInfo](http://technet.microsoft.com/en-us/sysinternals/bb897557) from Sysinternals is what we need. 
 

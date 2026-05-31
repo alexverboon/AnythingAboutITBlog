@@ -7,10 +7,10 @@ aliases:
   - "/2008/08/identifying-the-wds-server/"
 description: "Identifying the WDS Server"
 author: "Alex Verboon"
-tags:
-  - wds
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Wds'
 ---
 When deploying an image from a WDS server it might be useful to know its computer name. [Johan Arwidmark](http://www.deployvista.com/Blog/tabid/70/BlogID/1/language/en-US/Default.aspx) has posted the details about the WDSServer variable on his blog here:
 

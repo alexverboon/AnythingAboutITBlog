@@ -8,19 +8,11 @@ aliases:
 description: "When opening the “Change Desktop Background” Control Panel Windows by default uses the “Windows Desktop Backgrounds” picture location which is the con..."
 author: "Alex Verboon"
 image: "img/post-heroes/extending-wallpaper-search-locations.png"
-tags:
-  - background
-  - configuration
-  - control-panel
-  - registry
-  - tweak
-  - wallpaper
-  - Windows
 categories:
-  - registry
-  - tip
-  - tweak
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Wallpaper'
+  - 'Background'
 ---
 When opening the “Change Desktop Background” Control Panel Windows by default uses the “Windows Desktop Backgrounds” picture location which is the content stored under C:\Windows\Web\Wallpaper
 

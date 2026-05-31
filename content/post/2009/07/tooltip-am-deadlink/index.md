@@ -8,15 +8,11 @@ aliases:
 description: "Within our daily life in IT we often find interesting sources of information on the internet or on our company intranet. So after a while, most of us ..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-am-deadlink.png"
-tags:
-  - bookmarks
-  - deadlinks
-  - favorites
 categories:
-  - internet
-  - internet-explorer
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Bookmarks'
+  - 'Deadlinks'
 ---
 Within our daily life in IT we often find interesting sources of information on the internet or on our company intranet. So after a while, most of us typically end up having a large number of Bookmarks. In my case these are 1168 items. 
 

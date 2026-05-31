@@ -8,14 +8,11 @@ aliases:
 description: When assigning an Office 365 license to a user, by default several service
   plans are enabled. When assigning an Office 365 **E3** license to a user, t...
 author: Alex Verboon
-tags:
-- license
-- serviceplan
-- PowerShell
-- Office
 categories:
-- PowerShell
-- Office
+  - 'PowerShell'
+tags:
+  - 'Office'
+  - 'License'
 ---
 When assigning an Office 365 license to a user, by default several service plans are enabled. When assigning an Office 365 **E3** license to a user, the following service plans are enabled by default:
 

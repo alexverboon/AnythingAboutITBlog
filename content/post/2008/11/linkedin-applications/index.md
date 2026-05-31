@@ -7,10 +7,11 @@ aliases:
   - "/2008/11/linkedin-applications/"
 description: "Those using Linkedin, check out [Linkedin Applications](http://www.linkedin.com/static?key=application_directory)."
 author: "Alex Verboon"
-tags:
-  - linkedin
 categories:
-  - Uncategorized
+  - 'Security'
+tags:
+  - 'Linkedin'
+  - 'Uncategorized'
 ---
 Those using Linkedin, check out [Linkedin Applications](http://www.linkedin.com/static?key=application_directory).
 

@@ -7,12 +7,11 @@ aliases:
   - "/2011/12/the-windows-skus-with-a-7/"
 description: "I was listening to a podcast from [RunAs Radio](http://www.runasradio.com/default.aspx) today and someone mentioned wondering about how many Windows S..."
 author: "Alex Verboon"
-tags:
-  - editions
-  - sku
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Sku'
+  - 'Editions'
 ---
 I was listening to a podcast from [RunAs Radio](http://www.runasradio.com/default.aspx) today and someone mentioned wondering about how many Windows SKU’s with a “7” there are. Well here we go. 
 

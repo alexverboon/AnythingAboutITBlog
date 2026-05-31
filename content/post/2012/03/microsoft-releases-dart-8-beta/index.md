@@ -8,16 +8,11 @@ aliases:
 description: Microsoft has released a Beta for DaRT 8. You find more details in the
   articles listed below. I’ve only been looking at it shortly, but here’s what I ...
 author: Alex Verboon
-tags:
-- dart
-- mdop
-- recovery
-- Windows
-- PowerShell
 categories:
-- mdop
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Dart'
+  - 'PowerShell'
 ---
 Microsoft has released a Beta for DaRT 8. You find more details in the articles listed below. I’ve only been looking at it shortly, but here’s what I liked most: 
 

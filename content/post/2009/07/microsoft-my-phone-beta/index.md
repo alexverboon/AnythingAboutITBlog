@@ -8,14 +8,11 @@ aliases:
 description: "Yesterday I received my new mobile phone. Everyone that has switched mobile phones once, knows the pain of getting all the data transferred to the new..."
 author: "Alex Verboon"
 image: "img/post-heroes/microsoft-my-phone-beta.png"
-tags:
-  - mobile
-  - myphone
-  - synchronize
-  - Windows
 categories:
-  - beta
-  - windows-mobile
+  - 'Windows'
+tags:
+  - 'Beta'
+  - 'Mobile'
 ---
 Yesterday I received my new mobile phone. Everyone that has switched mobile phones once, knows the pain of getting all the data transferred to the new device. 
 

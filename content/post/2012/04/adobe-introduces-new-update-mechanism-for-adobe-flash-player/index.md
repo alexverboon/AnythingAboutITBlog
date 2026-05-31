@@ -7,18 +7,11 @@ aliases:
   - "/2012/04/adobe-introduces-new-update-mechanism-for-adobe-flash-player/"
 description: "A few days ago Adobe released a [security update](http://www.adobe.com/support/security/bulletins/apsb12-07.html) for Adobe Flash player and with that..."
 author: "Alex Verboon"
-tags:
-  - adobe
-  - automatic-updates
-  - deployment
-  - flash-player
-  - mms-cfg
-  - security
-  - update
-  - Windows
 categories:
-  - adobe
-  - deployment
+  - 'Security'
+tags:
+  - 'Flash-Player'
+  - 'Update'
 ---
 A few days ago Adobe released a [security update](http://www.adobe.com/support/security/bulletins/apsb12-07.html) for Adobe Flash player and with that update Adobe also introduced a new mechanism for Flash Player updates. When deploying Adobe Flash player within a controlled corporate environment you most likely want to prevent the player from automatically updating itself or show notifications about a new version being available. 
 

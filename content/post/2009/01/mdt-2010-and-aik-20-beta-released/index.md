@@ -7,16 +7,11 @@ aliases:
   - "/2009/01/mdt-2010-and-aik-20-beta-released/"
 description: "Just found out that Microsoft has released MDT 2010 AND AIK 2.0 BETA on Microsoft Connect. So now we cannot only test Windows 7 BETA but we can also s..."
 author: "Alex Verboon"
-tags:
-  - aik
-  - mdt-2010
-  - Windows
 categories:
-  - automation
-  - beta
-  - scripting
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Mdt-2010'
+  - 'Aik'
 ---
 Just found out that Microsoft has released MDT 2010 AND AIK 2.0 BETA on Microsoft Connect. So now we cannot only test Windows 7 BETA but we can also start looking at it's deployment.
 

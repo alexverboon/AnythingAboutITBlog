@@ -7,11 +7,11 @@ aliases:
   - "/2008/09/volume-activation-documentation/"
 description: "Microsoft recently updated their volume activation 2.0 technical guidance documents."
 author: "Alex Verboon"
-tags:
-  - activation
-  - deployment
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Activation'
+  - 'Deployment'
 ---
 Microsoft recently updated their volume activation 2.0 technical guidance documents. Everything you need about volume activation when deploying Vista / Win2008 can be found here:
 

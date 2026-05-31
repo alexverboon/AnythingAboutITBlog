@@ -7,11 +7,11 @@ aliases:
   - "/2009/02/the-history-of-microsoft-on-channel-9/"
 description: "Interested in how it all started off at Microsoft ? On Channel 9 a new series call “History of Microsoft” has started. A new episode is being released..."
 author: "Alex Verboon"
-tags:
-  - history
-  - microsoft
 categories:
-  - fun
+  - 'Security'
+tags:
+  - 'History'
+  - 'Fun'
 ---
 Interested in how it all started off at Microsoft ? On Channel 9 a new series call “History of Microsoft” has started. A new episode is being released every Thursday. So far the following episodes have been published: 
 

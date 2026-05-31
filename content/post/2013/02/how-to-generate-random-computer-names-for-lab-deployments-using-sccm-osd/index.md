@@ -8,18 +8,11 @@ aliases:
 description: "For my **lab** environment I use the below described approach to generate random computernames for my clients. The script does the following: - Read t..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-generate-random-computer-names-for-lab-deployments-using-sccm-osd.png"
-tags:
-  - computername
-  - deployment
-  - lab-environment
-  - osd
-  - random
-  - sccm
-  - Windows
 categories:
-  - osd
-  - sccm-2012
-  - Windows
+  - 'Windows'
+tags:
+  - 'Deployment'
+  - 'ConfigMgr'
 ---
 For my **lab** environment I use the below described approach to generate random computernames for my clients. The script does the following:
 

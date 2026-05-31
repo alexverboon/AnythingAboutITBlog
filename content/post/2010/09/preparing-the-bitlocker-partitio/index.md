@@ -8,18 +8,11 @@ aliases:
 description: "For the use of Bitlocker two partitions are required, this because pre-startup authentication and system integrity verification must occur on a separa..."
 author: "Alex Verboon"
 image: "img/post-heroes/preparing-the-bitlocker-partitio.png"
-tags:
-  - bcd
-  - bitlocker
-  - partition
-  - shrink
-  - tip
-  - Windows
 categories:
-  - bitlocker
-  - deployment
-  - tip
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Bitlocker'
+  - 'Partition'
 ---
 For the use of Bitlocker two partitions are required, this because pre-startup authentication and system integrity verification must occur on a separate partition from the encrypted operating system drive. Now let’s assume you started deploying Windows 7 with just a single partition, but a few months later your company decides to use Bitlocker Disk Encryption. Now you need that second partition!
 

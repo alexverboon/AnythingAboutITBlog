@@ -9,17 +9,11 @@ description: When opening the Virtual Machine Settings Integration Services node
   Hyper-V running on Windows 8.1 Preview, you will notice that there is now an ad...
 author: Alex Verboon
 image: img/post-heroes/new-integration-service-guest-service-in-windows-8-1-hyper-v.png
-tags:
-- copy-vmfile
-- guest-services
-- hyper-v
-- integration-services
-- Windows
-- PowerShell
 categories:
-- hyper-v
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Copy-Vmfile'
 ---
 When opening the Virtual Machine Settings Integration Services node in Hyper-V running on Windows 8.1 Preview, you will notice that there is now an additional Integration Service listed called **Guest Services**. By default the service is not enabled, 
 

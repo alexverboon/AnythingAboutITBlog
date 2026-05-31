@@ -8,18 +8,11 @@ aliases:
 description: "This morning at the [GP Answers community forum](http://www.gpanswers.com/community/) someone asked how to configure the Start Menu option “Highlight ..."
 author: "Alex Verboon"
 image: "img/post-heroes/custom-gpo-template-for-start-menuhighlight-newly-installed-programs.png"
-tags:
-  - gpo
-  - group-policy
-  - highlight
-  - start-menu
-  - start_notifynewapps
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Highlight'
+  - 'Group Policy'
 ---
 This morning at the [GP Answers community forum](http://www.gpanswers.com/community/) someone asked how to configure the Start Menu option “Highlight newly installed programs” via GPO. As it turns out this setting is not included within the out of the box GPO templates. Since I have a few days off I thought let’s give a little help here. 
 

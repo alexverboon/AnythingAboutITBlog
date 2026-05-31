@@ -7,12 +7,11 @@ aliases:
   - "/2008/10/windows-azure-an-introduction/"
 description: "Curious about Windows Azure ?"
 author: "Alex Verboon"
-tags:
-  - azure
-  - cloud
-  - Windows
 categories:
-  - Cloud
+  - 'Azure'
+tags:
+  - 'Windows'
+  - 'Cloud'
 ---
 Curious about Windows Azure ?
 

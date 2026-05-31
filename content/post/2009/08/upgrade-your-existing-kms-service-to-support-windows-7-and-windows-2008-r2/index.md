@@ -7,16 +7,11 @@ aliases:
   - "/2009/08/upgrade-your-existing-kms-service-to-support-windows-7-and-windows-2008-r2/"
 description: "If you are already running an existing KMS Service within your environment, and you do not plan to install a new KMS Service, the following informatio..."
 author: "Alex Verboon"
-tags:
-  - activation
-  - kms
-  - server-2003
-  - Windows
 categories:
-  - licensing
-  - tip
-  - windows-server-2008r2
-  - Windows
+  - 'Windows'
+tags:
+  - 'Kms'
+  - 'Tips-Tools'
 ---
 If you are already running an existing KMS Service within your environment, and you do not plan to install a new KMS Service, the following information might be of interest if you have plans for deploying Windows 7 or Server 2008-R2 systems. 
 

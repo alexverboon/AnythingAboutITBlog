@@ -8,14 +8,11 @@ aliases:
 description: "First let me avoid confusion here, I'm not talking about \"dynamically expanding\" discs but about the disc type e.g. [Basic and Dynamic](http://www.pet..."
 author: "Alex Verboon"
 image: "img/post-heroes/hyper-v-and-dynamic-discs.png"
-tags:
-  - hyper-v
-  - Windows
 categories:
-  - hyper-v
-  - knowledge
-  - tip
-  - virtualization
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Tips-Tools'
 ---
 First let me avoid confusion here, I'm not talking about "dynamically expanding" discs but about the disc type e.g. [Basic and Dynamic](http://www.petri.co.il/difference_between_basic_and_dynamic_disks_in_windows_xp_2000_2003.htm).
 

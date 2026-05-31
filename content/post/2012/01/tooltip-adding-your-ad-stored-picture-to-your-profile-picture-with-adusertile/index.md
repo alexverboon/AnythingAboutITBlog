@@ -8,20 +8,11 @@ aliases:
 description: "Back in august 2011 I wrote about a utility called [AD Photo Edit](https://www.verboon.info/index.php/2011/08/tooltip-ad-photo-edit/) which allows you..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-adding-your-ad-stored-picture-to-your-profile-picture-with-adusertile.png"
-tags:
-  - active-directory
-  - ad-photo-edit
-  - adusertile
-  - logon-screen
-  - picture
-  - profile
-  - thumbnailphoto
-  - tool
-  - Windows
 categories:
-  - active-directory
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Adusertile'
+  - 'Picture'
 ---
 Back in august 2011 I wrote about a utility called [AD Photo Edit](https://www.verboon.info/index.php/2011/08/tooltip-ad-photo-edit/) which allows you to upload your personal picture into Active Directory. Today I want to share with you another utility I came across called ADUserTile. 
 

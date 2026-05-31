@@ -7,11 +7,11 @@ aliases:
   - "/2008/11/microsoft-autocolage-2008-and-hd-view/"
 description: "From time to time I visit the Microsoft Research site. It seems that there is much focus on photography and displaying pictures. [AutoCollage 2008](ht..."
 author: "Alex Verboon"
-tags:
-  - hd
-  - photo
 categories:
-  - fun
+  - 'Security'
+tags:
+  - 'Hd'
+  - 'Photo'
 ---
 From time to time I visit the Microsoft Research site. It seems that there is much focus on photography and displaying pictures. [AutoCollage 2008](http://research.microsoft.com/autocollage/Default.aspx) allows you to create a photo collage with little effort.
 

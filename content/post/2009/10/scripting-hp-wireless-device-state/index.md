@@ -8,20 +8,11 @@ aliases:
 description: "An old colleague called me up this week (well in fact it was my old boss who has left our company), and told me about an issue they had when deploying..."
 author: "Alex Verboon"
 image: "img/post-heroes/scripting-hp-wireless-device-state.png"
-tags:
-  - automate
-  - devices
-  - scripting
-  - wireless
-  - wireless-exe
 categories:
-  - automation
-  - deployment
-  - hp
-  - scripting
-  - tip
-  - tools
-  - wireless
+  - 'PowerShell'
+tags:
+  - 'Scripting'
+  - 'Wireless'
 ---
 An old colleague called me up this week (well in fact it was my old boss who has left our company), and told me about an issue they had when deploying an ISP specific Software Package that interacts with the Wireless Devices on their HP notebooks.
 

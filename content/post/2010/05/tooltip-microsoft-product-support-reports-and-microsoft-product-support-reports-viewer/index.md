@@ -8,23 +8,11 @@ aliases:
 description: "If you get tasked to do some system troubleshooting and you just want to get as many information possible from a client, then have a look at the Micro..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-microsoft-product-support-reports-and-microsoft-product-support-reports-viewer.png"
-tags:
-  - support
-  - troubleshooting
-  - Windows
 categories:
-  - active-directory
-  - drivers
-  - gpo
-  - knowledge
-  - microsoft
-  - network
-  - performance
-  - protocols
-  - sql
-  - tip
-  - tools
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Support'
+  - 'Troubleshooting'
 ---
 If you get tasked to do some system troubleshooting and you just want to get as many information possible from a client, then have a look at the Microsoft Product Support Report Tool and the Product Support Reports Viewer. 
 

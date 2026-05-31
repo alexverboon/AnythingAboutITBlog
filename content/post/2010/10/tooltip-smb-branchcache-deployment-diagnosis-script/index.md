@@ -8,20 +8,11 @@ aliases:
 description: Just found this SMB BranchCache deployment diagnosis script on MSDN Code
   Gallery. *The Test-SMBBranchCache script is used to find common SMB BranchCac...
 author: Alex Verboon
-tags:
-- branchcache
-- script
-- smb
-- tool
-- Windows
-- PowerShell
 categories:
-- branchcache
-- deployment
-- tip
-- windows-server-2008-r2
-- Windows
-- PowerShell
+  - 'Tips-Tools'
+tags:
+  - 'Branchcache'
+  - 'Deployment'
 ---
 Just found this SMB BranchCache deployment diagnosis script on MSDN Code Gallery. 
 

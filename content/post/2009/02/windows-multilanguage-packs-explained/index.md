@@ -7,21 +7,11 @@ aliases:
   - "/2009/02/windows-multilanguage-packs-explained/"
 description: "Speaking with various people I often notice that some do not understand in detail the concepts and benefits around the Windows Multilanguage Packs. Th..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - global
-  - mui
-  - multilanguage-pack
-  - user-interface
-  - Windows
 categories:
-  - automation
-  - deployment
-  - knowledge
-  - vista
-  - windows-server-2008
-  - windows-xp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Multilanguage-Pack'
+  - 'Deployment'
 ---
 Speaking with various people I often notice that some do not understand in detail the concepts and benefits around the Windows Multilanguage Packs. The video below provides an in depth overview around the concepts and use of Windows MUI Packs.  Hope it's usefull.
 

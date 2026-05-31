@@ -7,19 +7,11 @@ aliases:
   - "/2011/09/windows-8-new-gpo-stuff/"
 description: "A quick overview of new Group Policy settings discovered in the Windows 8 preview."
 author: "Alex Verboon"
-tags:
-  - appx
-  - gpo
-  - group-policy
-  - new
-  - profiles
-  - store
-  - windows-to-go
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - Windows
+  - 'Windows'
+tags:
+  - 'New'
+  - 'Group Policy'
 ---
 I have just compared the C:\Windows\PolicyDefinitions folder on the Widows 8 preview build with a Windows 7 Enterprise build. And unless I missed one, the below ADMX/ADML files are new. 
 

@@ -7,10 +7,10 @@ aliases:
   - "/2014/08/test/"
 description: "``` get-process ```"
 author: "Alex Verboon"
-tags:
-  - Uncategorized
 categories:
-  - Uncategorized
+  - 'Security'
+tags:
+  - 'Uncategorized'
 ---
 ```
 	get-process

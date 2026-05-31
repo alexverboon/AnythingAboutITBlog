@@ -7,14 +7,11 @@ aliases:
   - "/2009/10/windows-7-support-for-hp-desktops-notebooks-and-workstations/"
 description: "HP has started publishing device drivers and software for Windows 7 for their desktops, notebooks and workstations. A complete overview of Windows 7 e..."
 author: "Alex Verboon"
-tags:
-  - drivers
-  - hp
-  - Windows
 categories:
-  - drivers
-  - hp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Hp'
+  - 'Drivers'
 ---
 HP has started publishing device drivers and software for Windows 7 for their desktops, notebooks and workstations. A complete overview of Windows 7 eligible models can be found [here](http://www.hp.com/united-states/consumer/windows7-upgrade/eligmodels.html)
 

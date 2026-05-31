@@ -7,17 +7,11 @@ aliases:
   - "/2010/06/windows-mobile-6-1-hot-fix-for-sending-pop-and-imap-e-mail/"
 description: "Once again, there is always a solution for every problem, it’s just that it can take a while until you find the solution. Since months I have had issu..."
 author: "Alex Verboon"
-tags:
-  - dst
-  - imap
-  - pop
-  - update
-  - windows-mobile-6-1
-  - Windows
 categories:
-  - mobile
-  - tip
-  - windows-6-1
+  - 'Windows'
+tags:
+  - 'Windows-Mobile-6-1'
+  - 'Tips-Tools'
 ---
 Once again, there is always a solution for every problem, it’s just that it can take a while until you find the solution. 
 

@@ -8,17 +8,11 @@ aliases:
 description: "Windows To Go is another new feature introduced with Windows 8 but only available to users that run Windows 8 Enterprise. With Windows To Go users can..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-to-go-startup-options.png"
-tags:
-  - bootloader
-  - bootnxt
-  - boottgt
-  - startup-options
-  - usb
-  - windows-8-to-go
-  - workspace
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Startup-Options'
+  - 'Bootloader'
 ---
 Windows To Go is another new feature introduced with Windows 8 but only available to users that run Windows 8 Enterprise. With Windows To Go users can create a Windows 8 workspace that can be booted from a USB drive. So simply said with Windows To Go, there’s no need to carry around a laptop if you’re going somewhere. If you have your Windows To Go workspace stored on a compatible USB drive, you can just boot your Windows 8 from any device that meets the Windows 7/8 hardware requirements. 
 

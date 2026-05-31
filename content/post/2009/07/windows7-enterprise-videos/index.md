@@ -7,13 +7,11 @@ aliases:
   - "/2009/07/windows7-enterprise-videos/"
 description: "The Windows7 Enterprise videos provide a great high-level overview for the following features: - DirectAccess - BranchCache - Enterprise Search Scopes..."
 author: "Alex Verboon"
-tags:
-  - features
-  - video
-  - Windows
 categories:
-  - knowledge
-  - Windows
+  - 'Windows'
+tags:
+  - 'Video'
+  - 'Features'
 ---
 The Windows7 Enterprise videos provide a great high-level overview for the following features:
 

@@ -8,16 +8,11 @@ aliases:
 description: "This .NET Framework setup verification tool is designed to automatically perform a set of steps to verify the installation state of one or more versio..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-net-framework-setup-verification-tool.png"
-tags:
-  - net-framework
-  - installation
-  - setup
-  - tools
-  - verification
 categories:
-  - net-framework
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Net-Framework'
+  - 'Verification'
 ---
 This .NET Framework setup verification tool is designed to automatically perform a set of steps to verify the installation state of one or more versions of the .NET Framework on a computer.  It will verify the presence of files, directories, registry keys and values for the .NET Framework.  It will also verify that simple applications that use the .NET Framework can be run correctly.
 

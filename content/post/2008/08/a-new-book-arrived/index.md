@@ -7,10 +7,10 @@ aliases:
   - "/2008/08/a-new-book-arrived/"
 description: "New Book: Creating the Secure Managed Desktop: Using Group Policy, SoftGrid, and Microsoft Deployment and Management Tools "
 author: "Alex Verboon"
-tags:
-  - book
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'Book'
 ---
 Since yesterday this book joined my book collection.
 

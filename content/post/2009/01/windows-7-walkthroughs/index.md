@@ -7,16 +7,11 @@ aliases:
   - "/2009/01/windows-7-walkthroughs/"
 description: "Learn more about Windows 7, watch the Walkthroughs. [Windows 7 Walkthrough - AppLocker](https://www.microsoft.com/downloads/details.aspx?familyid=7A91..."
 author: "Alex Verboon"
-tags:
-  - applocker
-  - bitlocker
-  - usmt-40
-  - Windows
 categories:
-  - aik
-  - automation
-  - deployment
-  - Windows
+  - 'Windows'
+tags:
+  - 'Applocker'
+  - 'Bitlocker'
 ---
 Learn more about Windows 7, watch the Walkthroughs.
 

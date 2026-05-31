@@ -8,19 +8,11 @@ aliases:
 description: "If you are looking for some ideas how to secure your Windows 7 clients, have a look at the [USGCB](http://usgcb.nist.gov/) (The United States Governme..."
 author: "Alex Verboon"
 image: "img/post-heroes/a-security-baseline-resource-for-windows-7internet-explorer-and-windows-7-firewall.png"
-tags:
-  - firewall
-  - gpo
-  - group-policy
-  - ie8
-  - security
-  - Windows
 categories:
-  - gpo
-  - group-policy
-  - ie8
-  - security
-  - Windows
+  - 'Security'
+tags:
+  - 'Firewall'
+  - 'Windows'
 ---
 If you are looking for some ideas how to secure your Windows 7 clients, have a look at the [USGCB](http://usgcb.nist.gov/) (The United States Government Configuration Baseline). The USGCB has been developed by the Department of Defense (DoD) and the National Institute of Standards and Technology. The documentation looks impressive and even if you aren’t going to apply all of these 1-1, it might give you some ideas on how to make your clients more secure. 
 

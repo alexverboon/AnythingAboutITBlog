@@ -7,24 +7,11 @@ aliases:
   - "/2009/03/updated-group-policy-online-university/"
 description: "In January 2009 [Jeremy Moskovitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) launched the Online University for Group Policy Management. I wro..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - learning
-  - training
-  - university
-  - Windows
 categories:
-  - active-directory
-  - deployment
-  - group-policy
-  - reading
-  - scripting
-  - tip
-  - vista
-  - windows-xp
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Group Policy'
+  - 'University'
 ---
 In January 2009 [Jeremy Moskovitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) launched the Online University for Group Policy Management. I wrote about that earlier in my blog post “[Online Group Policy University](https://www.verboon.info/index.php/2009/01/online-group-policy-university/)”.
 

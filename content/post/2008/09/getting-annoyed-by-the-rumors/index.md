@@ -7,11 +7,10 @@ aliases:
   - "/2008/09/getting-annoyed-by-the-rumors/"
 description: "Rumors"
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vista'
 ---
 Instead of manually searching the web, i have created some [Google Alerts](http://www.google.com/alerts/). This is very useful as it does simply send me an e-mail every day with the found results.
 

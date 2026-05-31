@@ -8,11 +8,11 @@ aliases:
 description: "Watch this video performed by [Wes Borg](http://en.wikipedia.org/wiki/Wes_Borg). Enjoy ! [ ![](images/video16102353513f1.jpg) ](http://one.revver.com/..."
 author: "Alex Verboon"
 image: "img/post-heroes/fun-internet-helpdesk-comedy.png"
-tags:
-  - comedy
-  - helpdesk
 categories:
-  - fun
+  - 'Security'
+tags:
+  - 'Comedy'
+  - 'Helpdesk'
 ---
 Watch this video performed by [Wes Borg](http://en.wikipedia.org/wiki/Wes_Borg). Enjoy !
 

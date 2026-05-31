@@ -7,13 +7,11 @@ aliases:
   - "/2010/05/watchtip-video-demo-of-appdna-apptitude-from-mms-2010/"
 description: "Application Compatibility in these days is a hot topic. Watch this Demo and find out how AppTitude from AppDNA can help you to speed up your Applicati..."
 author: "Alex Verboon"
-tags:
-  - application-compatibility
-  - Windows
 categories:
-  - appdna
-  - compatibility
-  - Windows
+  - 'Windows'
+tags:
+  - 'Appdna'
+  - 'Application-Compatibility'
 ---
 Application Compatibility in these days is a hot topic. Watch this Demo and find out how AppTitude from AppDNA can help you to speed up your Application Compatibility analysis and remediation effort. 
 

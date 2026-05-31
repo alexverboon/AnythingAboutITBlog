@@ -8,18 +8,11 @@ aliases:
 description: "When manually downloading a Microsoft Security Update or hotfix for Windows 7 (Vista) you typically get a file with an MSU file extension. A file with..."
 author: "Alex Verboon"
 image: "img/post-heroes/extracting-cab-files-from-microsoft-update-standalone-package-msu.png"
-tags:
-  - deployment
-  - extract
-  - system-image-manager
-  - wusa
-  - Windows
 categories:
-  - automation
-  - deployment
-  - scripting
-  - update
-  - Windows
+  - 'Windows'
+tags:
+  - 'Extract'
+  - 'Update'
 ---
 When manually downloading a Microsoft Security Update or hotfix for Windows 7 (Vista) you typically get a file with an MSU file extension. A file with an MSU extension is a Microsoft Update Standalone package. 
 

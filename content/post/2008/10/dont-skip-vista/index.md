@@ -7,11 +7,10 @@ aliases:
   - "/2008/10/dont-skip-vista/"
 description: "Dont skip vista"
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vista'
 ---
 While most people again seem to get excited about Microsoft's next operating system and waste their time with rumours and guessing when it will be released, let me continue with promoting not to skip Vista :-)
 

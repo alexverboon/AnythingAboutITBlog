@@ -7,16 +7,11 @@ aliases:
   - "/2012/09/dont-forget-to-update-your-wsus-for-windows-8-and-server-2012/"
 description: "If you’re running a WSUS Server you might want to update it to support Windows 8 and Server 2012. There is Windows 8. Windows RT and Server 2012 [ ![2..."
 author: "Alex Verboon"
-tags:
-  - server-2012
-  - windows-update-services
-  - wsus
-  - Windows
 categories:
-  - windows-server-2012
-  - windows-update
-  - wsus
-  - Windows
+  - 'Windows'
+tags:
+  - 'Server-2012'
+  - 'WSUS'
 ---
 If you’re running a WSUS Server you might want to update it to support Windows 8 and Server 2012. There is Windows 8. Windows RT and Server 2012
 

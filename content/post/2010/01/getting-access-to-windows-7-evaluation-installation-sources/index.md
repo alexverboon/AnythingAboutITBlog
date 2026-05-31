@@ -7,21 +7,11 @@ aliases:
   - "/2010/01/getting-access-to-windows-7-evaluation-installation-sources/"
 description: "Most IT pro’s probably don’t have a problem in getting access to the Windows 7 operating system installation sources because they can access them thro..."
 author: "Alex Verboon"
-tags:
-  - 90-days
-  - deployment
-  - evaluation
-  - installation
-  - test
-  - vhd
-  - Windows
 categories:
-  - compatibility
-  - deployment
-  - licensing
-  - tip
-  - vhd
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Evaluation'
+  - 'Installation'
 ---
 Most IT pro’s probably don’t have a problem in getting access to the Windows 7 operating system installation sources because they can access them through their corporate volume license agreement and/or MSDN or TechNet subscription. But unfortunately there are still some out there who do not have such easy access to these sources. 
 

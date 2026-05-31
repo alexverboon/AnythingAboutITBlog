@@ -7,10 +7,10 @@ aliases:
   - "/2008/08/official-blog-on-windows-7/"
 description: "Looks like Microsoft has launched its first official blog that focuses on Windows 7."
 author: "Alex Verboon"
-tags:
-  - Windows7
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windows7'
 ---
 Looks like Microsoft has launched its first official blog that focuses on Windows 7. Read more here:
 

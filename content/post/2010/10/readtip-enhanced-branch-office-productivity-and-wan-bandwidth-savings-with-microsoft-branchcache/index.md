@@ -9,19 +9,11 @@ aliases:
 description: For those who are in the decision making process of using BranchCache,
   I strongly recommend to read the Enhanced Branch Office Productivity and WAN Ba...
 author: Alex Verboon
-tags:
-- bandwidth
-- branchcache
-- server-2008-r2
-- wan
-- Windows
-- Office
 categories:
-- branchcache
-- reading
-- windows-server-2008-r2
-- Windows
-- Office
+  - 'Windows'
+tags:
+  - 'Bandwidth'
+  - 'Branchcache'
 ---
 For those who are in the decision making process of using BranchCache, I strongly recommend to read the Enhanced Branch Office Productivity and WAN Bandwidth Savings with Microsoft BranchCache Report from [Edison](http://www.theedison.com/). 
 

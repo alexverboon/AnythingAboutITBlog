@@ -8,17 +8,11 @@ aliases:
 description: '**Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788)
   If you’re dealing with ConfigMgr and OS Deployment task sequences...'
 author: Alex Verboon
-tags:
-- configmgr
-- kb2894518
-- reboot
-- task-sequence
-- Windows
-- PowerShell
 categories:
-- configmgr
-- windows-update
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'PowerShell'
+  - 'Task-Sequence'
 ---
 **Update**: 15 Une 2014 - Added [KB2965788](http://support.microsoft.com/kb/2965788)
 

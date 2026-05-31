@@ -9,20 +9,11 @@ description: Today I want to share with you a small script I’ve put together f
   WinPE 4.0 that will ship with Windows 8. I’ve rewritten the script bas...
 author: Alex Verboon
 image: img/post-heroes/windows-8-script-for-customizing-winpe-4-0-part-1.png
-tags:
-- adk
-- copype-cmd
-- dism
-- makewinpemedia-cmd
-- optional-components
-- script
-- Windows
-- PowerShell
-- WinPE
 categories:
-- Windows
-- PowerShell
-- WinPE
+  - 'Windows'
+tags:
+  - 'Script'
+  - 'Winpe'
 ---
 Today I want to share with you a small script I’ve put together for customizing WinPE 4.0 that will ship with Windows 8. I’ve rewritten the script based on some existing script code we already use today, but wanted by purpose a small independent script that I can hook in between the standard scripts provided within the ADK sources, mainly for familiarizing myself with anything new within WinPE 4.0.
 

@@ -7,12 +7,11 @@ aliases:
   - "/2008/10/multilanguage-pack-update-for-xp-sp3/"
 description: "Those that deploy Windows XP Service Pack 3 English and use multilanguage packs should consider the following update that fixes some localization issues"
 author: "Alex Verboon"
-tags:
-  - mui
-  - Windows
-  - WindowsXP
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windowsxp'
+  - 'Mui'
 ---
 Those that deploy Windows XP Service Pack 3 English and use multilanguage packs should consider the following update that fixes some localization issues.
 

@@ -8,20 +8,11 @@ aliases:
 description: "Many companies nowadays take advantage of some sort of VDI type solutions. In some cases where all of the users applications are made available within..."
 author: "Alex Verboon"
 image: "img/post-heroes/repurpose-pcs-with-windows-thinpc-2.png"
-tags:
-  - deployment
-  - embedded
-  - kiosk
-  - repurpose
-  - thin-client
-  - thinpc
-  - unattended
-  - wintpc
-  - Windows
 categories:
-  - thinclient
-  - thinpc
-  - Windows
+  - 'Windows'
+tags:
+  - 'Repurpose'
+  - 'Thinpc'
 ---
 Many companies nowadays take advantage of some sort of VDI type solutions. In some cases where all of the users applications are made available within this environment, there is no need for providing them with a fully loaded desktop or notebook hence the reason why companies are considering the use of Thin Clients. In the long run the use of real thin clients definitely makes sense, not only are they usually cheaper than normal desktops but also do they consume less power and require less management. However a valid option for transitioning into thin client computing can be to repurpose existing desktops.
 

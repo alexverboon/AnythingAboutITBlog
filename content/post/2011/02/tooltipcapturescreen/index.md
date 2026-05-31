@@ -8,15 +8,11 @@ aliases:
 description: "Here’s another FREE Screen capture utility. Just download and run, no installation needed. Download and documentation can be found [here](http://patri..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltipcapturescreen.png"
-tags:
-  - screen-capture
-  - screenshot
-  - tip
-  - tool
 categories:
-  - screencapture
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Screen-Capture'
+  - 'Screenshot'
 ---
 Here’s another FREE Screen capture utility. Just download and run, no installation needed. Download and documentation can be found [here](http://patrice-zwenger.co.cc/my_programs.html#P1)
 

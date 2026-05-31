@@ -9,14 +9,11 @@ aliases:
 description: In preparation of the Internet [Explorer out of date ActiveX control
   blocking](http://technet.microsoft.com/en-us/ie/dn798785.aspx) activities I wrote...
 author: Alex Verboon
-tags:
-- activex
-- internet-explorer
-- Windows
-- PowerShell
 categories:
-- internet-explorer
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Activex'
+  - 'Internet-Explorer'
 ---
 In preparation of the Internet [Explorer out of date ActiveX control blocking](http://technet.microsoft.com/en-us/ie/dn798785.aspx) activities I wrote the below script that retrieves the content of the log stored under LOCALAPPDATA%\Microsoft\Internet Explorer\AuditMode\VersionAuditLog.csv
 

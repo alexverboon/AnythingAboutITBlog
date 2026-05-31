@@ -7,10 +7,10 @@ aliases:
   - "/2008/09/3-seconds-to-get-system-serial-number/"
 description: "get serial number"
 author: "Alex Verboon"
-tags:
-  - wmi
 categories:
-  - Tips
+  - 'Tips-Tools'
+tags:
+  - 'WMI'
 ---
 Okay, depends on how fast you can type. Start a command prompt and enter the following command:
 

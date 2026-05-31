@@ -9,11 +9,10 @@ description: If you need to troubleshoot the Local Administrator Password Soluti
   (LAPS) you can configure how much information is written into the Windows Event
   log.
 author: Alex Verboon
-tags:
-- LAPS
-- PowerShell
 categories:
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'LAPS'
 ---
 If you need to troubleshoot the Local Administrator Password Solution **LAPS **you can configure how much information is written into the Windows Event log. 
 

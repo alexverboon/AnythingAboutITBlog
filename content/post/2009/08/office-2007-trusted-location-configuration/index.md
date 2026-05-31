@@ -10,17 +10,11 @@ description: When opening an Excel file that contains macros, Microsoft Excel 20
   ...
 author: Alex Verboon
 image: img/post-heroes/office-2007-trusted-location-configuration.png
-tags:
-- excel-2007
-- macros
-- office-2007
-- security
-- trusted-location
-- Office
 categories:
-- excel-2007
-- office-2007
-- tip
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Office-2007'
 ---
 When opening an Excel file that contains macros, Microsoft Excel 2007 shows a security warning as shown in the picture below and disables the macros. 
 

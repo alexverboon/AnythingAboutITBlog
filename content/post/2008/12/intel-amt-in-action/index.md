@@ -8,19 +8,11 @@ aliases:
 description: "For those of you who do have vPro capable machines in their environment, but never had the chance to take a closer look at the AMT features, this blog..."
 author: "Alex Verboon"
 image: "img/post-heroes/intel-amt-in-action.png"
-tags:
-  - amt
-  - bios
-  - remote-control
-  - serial-over-lan
-  - vpro
-  - Windows
 categories:
-  - automation
-  - bios
-  - deployment
-  - tools
-  - vpro
+  - 'Tips-Tools'
+tags:
+  - 'Amt'
+  - 'Remote-Control'
 ---
 For those of you who do have vPro capable machines in their environment, but never had the chance to take a closer look at the AMT features, this blog post might be of interest.
 

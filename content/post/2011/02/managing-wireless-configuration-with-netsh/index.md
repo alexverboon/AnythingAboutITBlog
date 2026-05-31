@@ -8,16 +8,11 @@ aliases:
 description: "Today when I was using the netsh command to configure some firewall settings, I noticed that it also has options for WLAN. (Yes you never stop learnin..."
 author: "Alex Verboon"
 image: "img/post-heroes/managing-wireless-configuration-with-netsh.png"
-tags:
-  - configuration
-  - deployment
-  - netsh
-  - wireless
-  - wlan
-  - Windows
 categories:
-  - wireless
-  - Windows
+  - 'Windows'
+tags:
+  - 'Configuration'
+  - 'Wireless'
 ---
 Today when I was using the netsh command to configure some firewall settings, I noticed that it also has options for WLAN. (Yes you never stop learning). When opening a command prompt and executing **NETSH Wlan Help** you get the following options. 
 

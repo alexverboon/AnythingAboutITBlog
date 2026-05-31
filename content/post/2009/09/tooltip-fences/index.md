@@ -7,16 +7,11 @@ aliases:
   - "/2009/09/tooltip-fences/"
 description: "Do you remember the days where your desktop looked like on the picture below ? If you were using Windows in the late 80’s and early 90s you definitely..."
 author: "Alex Verboon"
-tags:
-  - desktop
-  - fences
-  - program-manager
-  - shell
-  - shortcuts
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Fences'
+  - 'Desktop'
 ---
 Do you remember the days where your desktop looked like on the picture below ? If you were using Windows in the late 80’s and early 90s you definitely will. The Windows Shell was called Program Manager. In Program Manager the various application shortcuts were organized in groups.
 

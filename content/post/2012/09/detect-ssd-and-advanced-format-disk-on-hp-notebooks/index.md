@@ -7,19 +7,11 @@ aliases:
   - "/2012/09/detect-ssd-and-advanced-format-disk-on-hp-notebooks/"
 description: "In case you’re looking for a command-line tool that detects the presence of an SSD (Solid State Drive) or whether the hard disk uses advanced disk for..."
 author: "Alex Verboon"
-tags:
-  - advanced-format-disk
-  - command-line
-  - detection
-  - hp
-  - notebook
-  - ssd
-  - tool
 categories:
-  - advanced-format-disk
-  - hp
-  - ssd
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Advanced-Format-Disk'
+  - 'Notebook'
 ---
 In case you’re looking for a command-line tool that detects the presence of an SSD (Solid State Drive) or whether the hard disk uses advanced disk format then here’s a nice utility from HP called the HP Advance Format Check tool. 
 

@@ -8,18 +8,11 @@ aliases:
 description: Today I took a closer look at the Windows Services running on Windows7.
   A lot of the performance improvements with Windows7 are related to the way how...
 author: Alex Verboon
-tags:
-- services
-- startmode
-- windows-vista
-- Windows
-- PowerShell
 categories:
-- hyper-v
-- knowledge
-- vista
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'Services'
+  - 'Vista'
 ---
 Today I took a closer look at the Windows Services running on Windows7. A lot of the performance improvements with Windows7 are related to the way how and when services are being loaded so i thought it’s worth to see what’s happening there. 
 

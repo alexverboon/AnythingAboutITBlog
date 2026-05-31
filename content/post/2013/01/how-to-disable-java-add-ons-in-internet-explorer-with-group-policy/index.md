@@ -8,16 +8,11 @@ aliases:
 description: "Follow the below steps to disable Java in Internet Explorer with Group Policy. Open Internet Explorer, then from the Tools menu select Manage Add-ons...."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-disable-java-add-ons-in-internet-explorer-with-group-policy.png"
-tags:
-  - add-ons
-  - disable
-  - group-policy
-  - internet-explorer
-  - java
-  - Windows
 categories:
-  - internet-explorer
-  - java
+  - 'Windows'
+tags:
+  - 'Add-Ons'
+  - 'Disable'
 ---
 Follow the below steps to disable Java in Internet Explorer with Group Policy. 
 

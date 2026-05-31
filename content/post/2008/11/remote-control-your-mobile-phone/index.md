@@ -8,15 +8,11 @@ aliases:
 description: "The task for this Saturday was to remote control my mobile phone. After a short search on the web I found [MyMobileR](http://www.mymobiler.com/) The f..."
 author: "Alex Verboon"
 image: "img/post-heroes/remote-control-your-mobile-phone.png"
-tags:
-  - mobile
-  - remote-control
-  - windows-mobile-6
-  - Windows
 categories:
-  - mobile
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Mobile'
+  - 'Remote-Control'
 ---
 The task for this Saturday was to remote control my mobile phone. After a short search on the web I found [MyMobileR](http://www.mymobiler.com/)
 

@@ -7,16 +7,11 @@ aliases:
   - "/2009/07/applocker-documentation/"
 description: "The AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2 provides technical guidance about understanding how AppLocker works and..."
 author: "Alex Verboon"
-tags:
-  - applocker
-  - Windows
 categories:
-  - active-directory
-  - reading
-  - security
-  - windows-server-2008
-  - windows-server-2008r2
-  - Windows
+  - 'Security'
+tags:
+  - 'Applocker'
+  - 'Windows'
 ---
 The AppLocker Technical Documentation for Windows 7 and Windows Server 2008 R2 provides technical guidance about understanding how AppLocker works and how to effectively plan and deploy AppLocker policies.
 

@@ -8,13 +8,11 @@ aliases:
 description: I have multiple Azure subscriptions linked to my account, so anytime
   I connect to Azure in PowerShell I have to make sure i am working in the right co...
 author: Alex Verboon
-tags:
-- azure
-- PowerShell
 categories:
-- azure
-- powerpoint-viewer-2010
-- PowerShell
+  - 'Azure'
+tags:
+  - 'Powerpoint-Viewer-2010'
+  - 'PowerShell'
 ---
 I have multiple Azure subscriptions linked to my account, so anytime I connect to Azure in PowerShell I have to make sure i am working in the right context. To simplify this I wrote a little helper function called Select-MyAzureRmSubscription.
 

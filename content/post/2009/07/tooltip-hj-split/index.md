@@ -8,14 +8,11 @@ aliases:
 description: "Having troubles with transferring large files? here’s a small and FREE utility called HJ-Split that helps you splitting and joining large files Althou..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-hj-split.png"
-tags:
-  - join
-  - large-files
-  - split
-  - transfer
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Split'
+  - 'Large-Files'
 ---
 Having troubles with transferring large files? here’s a small and FREE utility called HJ-Split that helps you splitting and joining large files 
 

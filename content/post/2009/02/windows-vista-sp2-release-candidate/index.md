@@ -7,15 +7,11 @@ aliases:
   - "/2009/02/windows-vista-sp2-release-candidate/"
 description: "It looks like the folks in Redmond have a busy time, after Internet Explorer 8, Microsoft now announces that the Windows Vista Service Pack 2 has reac..."
 author: "Alex Verboon"
-tags:
-  - rc
-  - sp2
-  - vista-sp2
-  - Windows
 categories:
-  - deployment
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Vista-Sp2'
+  - 'Sp2'
 ---
 It looks like the folks in Redmond have a busy time, after Internet Explorer 8, Microsoft now announces that the Windows Vista Service Pack 2 has reached RC status. I suggest they keep up the speed and bring us Windows 7 soon as well. 
 

@@ -8,16 +8,11 @@ aliases:
 description: "A small script to retrieve Windows boot time in milliseconds from event data."
 author: "Alex Verboon"
 image: "img/post-heroes/retrieve-windows-boot-time-script.png"
-tags:
-  - boot
-  - boot-time
-  - eventlog
-  - performance
-  - script
-  - Windows
 categories:
-  - scripting
-  - Windows
+  - 'Windows'
+tags:
+  - 'Boot-Time'
+  - 'Script'
 ---
 Here’s a small batch script to get the Windows 7 Boot time shown in milliseconds.
 

@@ -8,16 +8,11 @@ aliases:
 description: "Earlier this week I wrote about [using Hard Links](https://www.verboon.info/index.php/2010/04/using-hard-links-part-one/). By doing my research on thi..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-link-shell-extension.png"
-tags:
-  - hard-link
-  - hardlink
-  - shell-extension
-  - tips
-  - tools
 categories:
-  - hard-links
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Shell-Extension'
+  - 'Hard-Link'
 ---
 Earlier this week I wrote about [using Hard Links](https://www.verboon.info/index.php/2010/04/using-hard-links-part-one/). By doing my research on this subject I came across the Link Shell Extension utility. As the name says the utility extends the shell with additional options to create hard and symbolic links. So if you don’t want to type commands at the command prompt to create a hard link, this utility is just right for you. 
 

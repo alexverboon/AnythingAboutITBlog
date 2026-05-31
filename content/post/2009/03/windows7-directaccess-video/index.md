@@ -7,11 +7,10 @@ aliases:
   - "/2009/03/windows7-directaccess-video/"
 description: "For those who just can't get enough, there is a new vide on TechNet Edge where [Keith Combs ](http://blogs.technet.com/keithcombs/)demonstrates the Di..."
 author: "Alex Verboon"
-tags:
-  - directaccess
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Directaccess'
 ---
 For those who just can't get enough, there is a new vide on TechNet Edge where [Keith Combs ](http://blogs.technet.com/keithcombs/)demonstrates the DirectAccess.
 

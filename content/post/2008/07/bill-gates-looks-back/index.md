@@ -8,11 +8,11 @@ aliases:
 description: "Some rare [photos](http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html) from the Microsoft archives, [commented](http://..."
 author: "Alex Verboon"
 image: "img/post-heroes/bill-gates-looks-back.png"
-tags:
-  - microsoft
-  - Bill Gates
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Bill Gates'
+  - 'Various'
 ---
 Some rare [photos](http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html) from the Microsoft archives, [commented](http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html) by Bill Gates himself. 
 

@@ -8,15 +8,11 @@ aliases:
 description: "Bits Monitor is a small FREE utility that displays BITS (Background Intelligent Transfer Service) activity. [ ![2011-05-14 11h35_31](images/2011-05-14..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-bits-monitor.png"
-tags:
-  - bits
-  - bitsadmin
-  - download
-  - monitoring
-  - tools
 categories:
-  - bits
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Bits'
+  - 'Bitsadmin'
 ---
 Bits Monitor is a small FREE utility that displays BITS (Background Intelligent Transfer Service) activity. 
 

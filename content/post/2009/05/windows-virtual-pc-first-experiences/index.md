@@ -8,14 +8,11 @@ aliases:
 description: "With the release of the Windows7 RC0 build, Microsoft also published a first Beta for Windows Virtual PC that provides the underlying technology for X..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-virtual-pc-first-experiences.png"
-tags:
-  - windows-virtual-pc
-  - Windows
 categories:
-  - virtualization
-  - vista
-  - windows-xp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windows-Virtual-Pc'
+  - 'Virtualization'
 ---
 With the release of the Windows7 RC0 build, Microsoft also published a first Beta for Windows Virtual PC that provides the underlying technology for XP Mode feature. Windows Virtual PC cannot only run Windows XP but does also allow running virtualized Windows Vista and Windows 7 clients. 
 

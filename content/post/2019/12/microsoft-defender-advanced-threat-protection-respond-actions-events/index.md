@@ -8,16 +8,11 @@ aliases:
 description: "Response Actions Events in Microsoft Defender Advanced Threat Protection and how to work with them."
 author: "Alex Verboon"
 image: "img/post-heroes/microsoft-defender-advanced-threat-protection-respond-actions-events.png"
-tags:
-  - defender-atp
-  - eventlog
-  - mdatp
-  - responseactions
-  - Windows
 categories:
-  - defender-atp
-  - eventlog
-  - mdatp
+  - 'Windows'
+tags:
+  - 'Defender for Endpoint'
+  - 'Eventlog'
 ---
 Hey there, to be honest I had some difficulties to find the right title for todays blog post, so if you are still wondering here's what this is all about. I had a customer asking me "*how can we see what MDATP Respond actions were taken on a particular machine both from a Console and client perspective?*". At the time of writing this blog post we have the following machine response actions that trigger a remote action available for MDATP managed devices.
 

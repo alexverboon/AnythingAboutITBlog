@@ -9,16 +9,11 @@ description: During the past weeks I have been reading and listening about Power
   Desired State Configuration a new feature introduced with PowerShell 4.0 whic...
 author: Alex Verboon
 image: img/post-heroes/powershell-desire-state-configuration-my-first-experiences.png
-tags:
-- applyandautocorrect
-- desired-state-configuration
-- dsc
-- mof
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Applyandautocorrect'
 ---
 During the past weeks I have been reading and listening about PowerShell Desired State Configuration a new feature introduced with PowerShell 4.0 which ships with Windows 8.1 and Server 2012R2 but is also available for Windows 7 SP1 and Server 2008 R2 as part of the [Windows Management Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=40855)
 

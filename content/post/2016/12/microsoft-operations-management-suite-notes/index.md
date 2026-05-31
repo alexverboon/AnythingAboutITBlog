@@ -7,10 +7,10 @@ aliases:
   - "/2016/12/microsoft-operations-management-suite-notes/"
 description: "Below are a number of resources TechNet Inside the Microsoft Operations Management Suite [e-book] #"
 author: "Alex Verboon"
-tags:
-  - Uncategorized
 categories:
-  - Uncategorized
+  - 'Security'
+tags:
+  - 'Uncategorized'
 ---
 Below are a number of resources
 

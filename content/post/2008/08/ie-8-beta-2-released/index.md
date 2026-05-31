@@ -7,11 +7,11 @@ aliases:
   - "/2008/08/ie-8-beta-2-released/"
 description: "Earlier as planned, Microsoft has released Internet Explorer 8 Beta 2."
 author: "Alex Verboon"
-tags:
-  - Internet Explorer
-  - Windows
 categories:
-  - Browser
+  - 'Windows'
+tags:
+  - 'Browser'
+  - 'Internet Explorer'
 ---
 Earlier as planned, Microsoft has released Internet Explorer 8 Beta 2. A final release date has not been communicated yet.
 [http://www.microsoft.com/windows/internet-explorer/beta/](http://www.microsoft.com/windows/internet-explorer/beta/)

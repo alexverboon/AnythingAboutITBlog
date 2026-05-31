@@ -7,11 +7,10 @@ aliases:
   - "/2009/05/whats-new-in-windows-7-release-candidate-rc-video/"
 description: "This video walks you through some of the new and updated features in the Windows 7 Release Candidate. [http://download.microsoft.com/download/2/9/3/29..."
 author: "Alex Verboon"
-tags:
-  - Uncategorized
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Uncategorized'
 ---
 This video walks you through some of the new and updated features in the Windows 7 Release Candidate.
 

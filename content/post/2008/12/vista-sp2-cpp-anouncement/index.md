@@ -7,16 +7,11 @@ aliases:
   - "/2008/12/vista-sp2-cpp-anouncement/"
 description: "According to a blog post on the Windows Blog from Mike Nash, Windows Vista SP2 will be made available on TechNet Thursday December 4th. [Windows Serve..."
 author: "Alex Verboon"
-tags:
-  - cpp
-  - sp2
-  - vista
-  - Windows
 categories:
-  - automation
-  - beta
-  - deployment
-  - vista
+  - 'Windows'
+tags:
+  - 'Cpp'
+  - 'Sp2'
 ---
 According to a blog post on the Windows Blog from Mike Nash, Windows Vista SP2 will be made available on TechNet Thursday December 4th.
 

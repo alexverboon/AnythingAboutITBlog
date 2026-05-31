@@ -8,11 +8,11 @@ aliases:
 description: "Just came across this video where people are being asked to explain what a Browser is. Its funny most people use it every day, but obviously don’t pay..."
 author: "Alex Verboon"
 image: "img/post-heroes/video-what-is-a-browser.png"
-tags:
-  - Uncategorized
 categories:
-  - fun
-  - google
+  - 'Security'
+tags:
+  - 'Google'
+  - 'Uncategorized'
 ---
 Just came across this video where people are being asked to explain what a Browser is. Its funny most people use it every day, but obviously don’t pay much attention how they get on to the internet. It’s just a matter of clicking that blue E. 
 

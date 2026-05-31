@@ -8,16 +8,12 @@ aliases:
 description: "How to use advanced hunting to detect audit policy modifications using Microsoft Defender 365"
 author: "Alex Verboon"
 image: "img/post-heroes/detect-audit-policy-modifications-with-microsoft-365-defender.png"
-tags:
-  - advancedhunting
-  - audit
-  - defender365
-  - grouppolicy
-  - kql
 categories:
-  - Microsoft Defender XDR
+  - 'Security'
+tags:
+  - 'Audit'
+  - 'Advancedhunting'
 ---
-
 Hello there,
 
 In today's blog post I want to share with you an advanced hunting query to detect audit policy modifications using Microsoft Defender 365 advanced hunting. Following the MITRE ATT&CK framework this would be [T1484.001 Domain Policy Modification: Group Policy Modification](https://attack.mitre.org/techniques/T1484/001/).

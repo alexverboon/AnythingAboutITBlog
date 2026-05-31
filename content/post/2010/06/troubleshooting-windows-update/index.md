@@ -8,21 +8,11 @@ aliases:
 description: "Issues with installing Windows Updates? Then have a look at the following Microsoft Support Articles: [KB971058](http://support.microsoft.com/kb/97105..."
 author: "Alex Verboon"
 image: "img/post-heroes/troubleshooting-windows-update.png"
-tags:
-  - support
-  - tips
-  - tools
-  - vista
-  - windows-2008-r2
-  - windows-server-2008
-  - windows-update
-  - Windows
 categories:
-  - tip
-  - tools
-  - update
-  - windows-server-2008
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windows-Update'
+  - 'Tips-Tools'
 ---
 Issues with installing Windows Updates? Then have a look at the following Microsoft Support Articles:
 

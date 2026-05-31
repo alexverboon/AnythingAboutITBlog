@@ -8,12 +8,11 @@ aliases:
 description: …….That’s the message i got yesterday when I wanted to start Outlook
   2007. I solved the problem after having found the solution on [MSOutlook.info](ht...
 author: Alex Verboon
-tags:
-- command-line
-- Office
-- outlook-2007
 categories:
-- office-2007
+  - 'M365'
+tags:
+  - 'Command-Line'
+  - 'Office'
 ---
 …….That’s the message i got yesterday when I wanted to start Outlook 2007. I solved the problem after having found the solution on [MSOutlook.info](http://www.msoutlook.info/question/268) Running the following command fixed the issue. 
 

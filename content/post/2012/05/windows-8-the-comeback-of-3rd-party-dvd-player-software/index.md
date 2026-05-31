@@ -8,17 +8,11 @@ aliases:
 description: "Microsoft recently confirmed that Windows Media Center will not be included by default within Windows 8 but will be available as an economical “media ..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-the-comeback-of-3rd-party-dvd-player-software.png"
-tags:
-  - dvd
-  - dvd-playback
-  - media-center
-  - media-player
-  - movies
-  - Windows
 categories:
-  - dvd-playback
-  - media-player
-  - Windows
+  - 'Windows'
+tags:
+  - 'Dvd'
+  - 'Dvd-Playback'
 ---
 Microsoft recently confirmed that Windows Media Center will not be included by default within Windows 8 but will be available as an economical “media pack” add-on to Windows 8 Pro. One of the reasons for not including it anymore as a build-in feature is because according to the data Microsoft has collected via it’s [Customer Experience Improvement Program](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-experience-improvement-programpart-1/) (CEIP) only a small percentage of users are actively using Media Center on Windows 7. Another reason is that nowadays more users are streaming video content over the internet instead of playing a local DVD. And finally, I guess that in just a few years the same will happen with DVD players as happened with the floppy drives, they will disappear. 
 

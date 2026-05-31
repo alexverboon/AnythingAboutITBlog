@@ -7,11 +7,11 @@ aliases:
   - "/2008/10/dont-wait-for-windows-7/"
 description: "I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7." 
 author: "Alex Verboon"
-tags:
-  - windows-vista
-  - Windows7
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Windows-Vista'
+  - 'Windows7'
 ---
 I just recevied an updated paper from Microsoft regarding Windows Vista and some statements why not to wait for Windows7.
 

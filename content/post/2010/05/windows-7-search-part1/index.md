@@ -8,15 +8,11 @@ aliases:
 description: "Federated Search is one of the new features introduced with Windows 7. A few weeks ago I wrote another post about the [Windows 7 Search Provider](http..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-search-part1.png"
-tags:
-  - federated-search
-  - libraries
-  - search-provider
-  - Windows
 categories:
-  - library
-  - search-provider
-  - Windows
+  - 'Windows'
+tags:
+  - 'Federated-Search'
+  - 'Libraries'
 ---
 Federated Search is one of the new features introduced with Windows 7. A few weeks ago I wrote another post about the [Windows 7 Search Provider](https://www.verboon.info/index.php/2010/04/windows-7-search-provider/) and demonstrated how to use a search connector that allows searching web content from within the Windows Explorer. Today I want to demonstrate how to extend Windows Search to find content on a remote network location. 
 

@@ -7,11 +7,11 @@ aliases:
   - "/2009/04/vmware-vsphere/"
 description: "ESX was yesterday, tomorrow is vSphere. VMWare today announced vSphere. For more information watch the video below or go to: [http://www.vmware.com/pr..."
 author: "Alex Verboon"
-tags:
-  - Uncategorized
 categories:
-  - virtualization
-  - vmware
+  - 'Security'
+tags:
+  - 'Vmware'
+  - 'Uncategorized'
 ---
 ESX was yesterday, tomorrow is vSphere. VMWare today announced vSphere. For more information watch the video below or go to: [http://www.vmware.com/products/vsphere/index.html](http://www.vmware.com/products/vsphere/index.html)
 

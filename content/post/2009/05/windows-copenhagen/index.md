@@ -8,12 +8,11 @@ aliases:
 description: "Interesting concept from Cullen Dudas. An Interview with Cullen can be found [here](http://www.bluescreenofdeath.org/?p=85) [ ![](images/video01e19bc6..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-copenhagen.png"
-tags:
-  - concept
-  - copenhagen
-  - Windows
 categories:
-  - fun
+  - 'Windows'
+tags:
+  - 'Copenhagen'
+  - 'Concept'
 ---
 Interesting concept from Cullen Dudas. An Interview with Cullen can be found [here](http://www.bluescreenofdeath.org/?p=85)
 

@@ -8,14 +8,11 @@ aliases:
 description: "If you haven’t been able to attend MMS2012, here’s how to access the recorded content. **Step 1** Go to [Digital MMS](https://vts.inxpo.com/scripts/Se..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-access-microsoft-management-summit-2012-content.png"
-tags:
-  - digital-mms
-  - keynotes
-  - mms2012
-  - recorded
-  - sessions
 categories:
-  - mms2012
+  - 'Security'
+tags:
+  - 'Digital-Mms'
+  - 'Keynotes'
 ---
 If you haven’t been able to attend MMS2012, here’s how to access the recorded content. 
 

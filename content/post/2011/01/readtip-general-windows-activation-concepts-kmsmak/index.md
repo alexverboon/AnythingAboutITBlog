@@ -7,18 +7,11 @@ aliases:
   - "/2011/01/readtip-general-windows-activation-concepts-kmsmak/"
 description: "A great article from Kevin Ledman - Microsoft Platforms Support, covering the following topics around Windows activation: - What is KMS? - What is MAK..."
 author: "Alex Verboon"
-tags:
-  - activation
-  - kms
-  - licensing
-  - mak
-  - slmgr
-  - Windows
 categories:
-  - deployment
-  - kms
-  - licensing
-  - Windows
+  - 'Windows'
+tags:
+  - 'Activation'
+  - 'Kms'
 ---
 A great article from Kevin Ledman - Microsoft Platforms Support, covering the following topics around Windows activation: 
 

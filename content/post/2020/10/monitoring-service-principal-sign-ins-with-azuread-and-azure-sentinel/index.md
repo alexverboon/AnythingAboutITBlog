@@ -8,16 +8,11 @@ aliases:
 description: "Monitor service principal sign-ins using Azure AD and Azure Sentinel."
 author: "Alex Verboon"
 image: "img/post-heroes/monitoring-service-principal-sign-ins-with-azuread-and-azure-sentinel.png"
-tags:
-  - azuread
-  - azuresentinel
-  - log-analytics
-  - security
-  - service-principals
 categories:
-  - azure-active-directory
-  - log-analytics
-  - Microsoft Sentinel
+  - 'Security'
+tags:
+  - 'Azure AD'
+  - 'Azuresentinel'
 ---
 Here is a conversation between Jeffrey (Developer) and Marc (IT Admin) working for ECorp Ltd.
 

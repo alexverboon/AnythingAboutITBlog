@@ -7,15 +7,11 @@ aliases:
   - "/2011/09/group-policy-settings-for-microsoft-lync-2010-client/"
 description: "Just in case you missed this one, Microsoft [released documentation and an ADM template for the Microsoft Lync 2010 client](http://www.microsoft.com/d..."
 author: "Alex Verboon"
-tags:
-  - gpo
-  - group-policy
-  - lync-2010
-  - prevent-first-run
 categories:
-  - gpo
-  - group-policy
-  - lync-2010
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Lync-2010'
 ---
 Just in case you missed this one, Microsoft [released documentation and an ADM template for the Microsoft Lync 2010 client](http://www.microsoft.com/download/en/details.aspx?id=27217). The following settings can be configured. 
 

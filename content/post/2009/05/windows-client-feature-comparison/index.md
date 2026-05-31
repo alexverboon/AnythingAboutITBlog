@@ -7,11 +7,10 @@ aliases:
   - "/2009/05/windows-client-feature-comparison/"
 description: "Source Microsoft: *This chart compares features of interest to IT professionals across three versions of the Windows client operating system: Windows ..."
 author: "Alex Verboon"
-tags:
-  - feature-comparison
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Feature-Comparison'
 ---
 Source Microsoft: *This chart compares features of interest to IT professionals across three versions of the Windows client operating system: Windows XP SP3, Windows Vista SP1, and Windows 7*
 

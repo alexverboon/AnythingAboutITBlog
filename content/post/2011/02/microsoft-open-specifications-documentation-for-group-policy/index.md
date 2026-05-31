@@ -7,16 +7,11 @@ aliases:
   - "/2011/02/microsoft-open-specifications-documentation-for-group-policy/"
 description: "If you want to learn more about Group Policies then I suggest that you download and read the following documents: MS-GPSOD]: Group Policy System Overv..."
 author: "Alex Verboon"
-tags:
-  - documentation
-  - gpo
-  - group-policy
-  - group-policy-preferences
-  - msdn
 categories:
-  - gpo
-  - group-policy
-  - protocols
+  - 'Windows'
+tags:
+  - 'Documentation'
+  - 'Group Policy'
 ---
 If you want to learn more about Group Policies then I suggest that you download and read the following documents: 
 

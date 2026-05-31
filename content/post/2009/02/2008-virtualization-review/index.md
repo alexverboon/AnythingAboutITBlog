@@ -7,14 +7,11 @@ aliases:
   - "/2009/02/2008-virtualization-review/"
 description: "Brian and Gabe review the big events, trends, and themes of the desktop and application virtualization space from 2008. Watch [Brian Madden TV Episode..."
 author: "Alex Verboon"
-tags:
-  - brian-madden-tv
-  - trends
-  - virtualization
 categories:
-  - hyper-v
-  - virtualization
-  - vmware
+  - 'Security'
+tags:
+  - 'Virtualization'
+  - 'Brian-Madden-Tv'
 ---
 Brian and Gabe review the big events, trends, and themes of the desktop and application virtualization space from 2008.
 

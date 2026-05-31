@@ -8,11 +8,11 @@ aliases:
 description: "When google was born"
 author: "Alex Verboon"
 image: "img/post-heroes/when-google-was-born.png"
-tags:
-  - google
-  - history
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Google'
+  - 'History'
 ---
 Using the the waybackmachine on [archive.org](http://www.archive.org/) allows you to see content of archived pages from the Internet.
 

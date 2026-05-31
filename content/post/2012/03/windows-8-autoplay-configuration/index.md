@@ -8,14 +8,11 @@ aliases:
 description: "While continuing my journey through Windows 8 I noticed some changes in the AutoPlay configuration. Compared to Windows 7, the AutoPlay configuration ..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-autoplay-configuration.png"
-tags:
-  - autoplay
-  - configuration
-  - devices
-  - media
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Autoplay'
+  - 'Configuration'
 ---
 While continuing my journey through Windows 8 I noticed some changes in the AutoPlay configuration. Compared to Windows 7, the AutoPlay configuration in Windows 8 is now clearly categorized by device / media type. A separate configuration option is now available for Camera storage and an additional option was added for blank blue-ray discs. 
 

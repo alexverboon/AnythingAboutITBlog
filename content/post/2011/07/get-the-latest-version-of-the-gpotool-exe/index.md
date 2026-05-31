@@ -8,17 +8,11 @@ aliases:
 description: "The latest version of the GPOtool is the one that is included within the Microsoft Windows 2003 Resource kit. That’s what we all used to know. BUT hey..."
 author: "Alex Verboon"
 image: "img/post-heroes/get-the-latest-version-of-the-gpotool-exe.png"
-tags:
-  - gpo
-  - gpotool-exe
-  - group-policy
-  - Windows
 categories:
-  - active-directory
-  - gpo
-  - group-policy
-  - tip
-  - tools
+  - 'Windows'
+tags:
+  - 'Gpotool-Exe'
+  - 'Group Policy'
 ---
 The latest version of the GPOtool is the one that is included within the Microsoft Windows 2003 Resource kit. That’s what we all used to know. BUT hey I just figured out a few days ago that there is actually an official newer version around it’s included within the [Microsoft Product Reports Utility](http://www.microsoft.com/download/en/details.aspx?id=24745). 
 

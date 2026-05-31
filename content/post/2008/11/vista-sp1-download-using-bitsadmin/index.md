@@ -7,15 +7,11 @@ aliases:
   - "/2008/11/vista-sp1-download-using-bitsadmin/"
 description: "I wrote about [BITSADMIN ](https://www.verboon.info/?p=78)earlier, use the below command line to directly download Vista SP1. Note that you have to cr..."
 author: "Alex Verboon"
-tags:
-  - service-pack-1
-  - vista
-  - windows-vista
-  - Windows
 categories:
-  - automation
-  - tip
-  - vista
+  - 'Tips-Tools'
+tags:
+  - 'Vista'
+  - 'Service-Pack-1'
 ---
 I wrote about [BITSADMIN ](https://www.verboon.info/?p=78)earlier, use the below command line to directly download Vista SP1. Note that you have to create the c;\download folder yourself or define an other path.
 

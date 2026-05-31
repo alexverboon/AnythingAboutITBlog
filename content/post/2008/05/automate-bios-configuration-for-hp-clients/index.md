@@ -7,11 +7,11 @@ aliases:
   - "/2008/05/automate-bios-configuration-for-hp-clients/"
 description: "Today the following options exist to automate BIOS configuration for HP clients:The Client Management Interface allows you to use WSH to retrieve and ..."
 author: "Alex Verboon"
-tags:
-  - bios
-  - hp
 categories:
-  - BIOS
+  - 'Security'
+tags:
+  - 'Bios'
+  - 'Hp'
 ---
 Today the following options exist to automate BIOS configuration for HP clients:The Client Management Interface allows you to use WSH to retrieve and set BIOS settings like in the example below which changes the Ownership Tag.
  

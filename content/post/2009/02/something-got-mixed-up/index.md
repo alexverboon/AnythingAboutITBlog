@@ -8,11 +8,11 @@ aliases:
 description: "I just checked the Microsoft download site to see if there is anything new. On the top of the list (sorted by release date) I found the Windows 2000 S..."
 author: "Alex Verboon"
 image: "img/post-heroes/something-got-mixed-up.png"
-tags:
-  - windows-2000
-  - Windows
 categories:
-  - fun
+  - 'Windows'
+tags:
+  - 'Windows-2000'
+  - 'Fun'
 ---
 I just checked the Microsoft download site to see if there is anything new. On the top of the list (sorted by release date) I found the Windows 2000 Service Pack 4. Something must have got mixed up there. 
 

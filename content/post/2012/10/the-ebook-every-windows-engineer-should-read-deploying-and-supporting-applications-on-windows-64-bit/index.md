@@ -8,19 +8,11 @@ aliases:
 description: "While only a few years ago the 64-bit version of the Windows client would only be installed on special purpose systems, nowadays it has become the de ..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-ebook-every-windows-engineer-should-read-deploying-and-supporting-applications-on-windows-64-bit.png"
-tags:
-  - 64-bit
-  - application-engineering
-  - compatibility
-  - msi
-  - packaging
-  - provisioning
-  - registry
-  - Windows
 categories:
-  - 64-bit
-  - packaging
-  - Windows
+  - 'Windows'
+tags:
+  - '64-Bit'
+  - 'Application-Engineering'
 ---
 While only a few years ago the 64-bit version of the Windows client would only be installed on special purpose systems, nowadays it has become the de facto standard for most OEM’s and Enterprises. In 2010 Microsoft [published](http://windowsteamblog.com/windows/b/bloggingwindows/archive/2010/07/08/64-bit-momentum-surges-with-windows-7.aspx) some numbers on their Windows blog indicating that in June 46% of the clients running Windows 7 and use Windows Update were running Windows 7 64-Bit. At the same time Gartner published a report saying that by 2014 75% of all business PCs will be running a 64-Bit edition of Windows. Despite doing some searches on the web, I wasn’t able to get some actual figures, but if I just take into account the various customers I have worked with in the past 3 years supporting them moving to Windows 7, I can say that nearly all of them made their decision in favor of the 64-Bit edition of Windows. 
 

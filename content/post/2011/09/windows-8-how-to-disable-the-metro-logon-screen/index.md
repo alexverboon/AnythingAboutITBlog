@@ -8,17 +8,11 @@ aliases:
 description: "When starting Windows 8 you’ll see the Metro logon screen as shown in the picture below. [ ![2011-09-15 21h03_55](images/2011-09-15-21h03_55_thumb.png..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-8-how-to-disable-the-metro-logon-screen.png"
-tags:
-  - classic
-  - disable
-  - logon-screen
-  - metro
-  - start-menu
-  - ui
-  - Windows
 categories:
-  - metro
-  - Windows
+  - 'Windows'
+tags:
+  - 'Disable'
+  - 'Logon-Screen'
 ---
 When starting Windows 8 you’ll see the Metro logon screen as shown in the picture below. 
 

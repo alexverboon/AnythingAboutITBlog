@@ -8,14 +8,11 @@ aliases:
 description: '**Update: 22. August 2014**: I have posted an updated version of the
   script [here](http://gallery.technet.microsoft.com/Get-GPEventByCorrelationID-979...'
 author: Alex Verboon
-tags:
-- correlationid
-- eventlog
-- group-policy
-- PowerShell
 categories:
-- group-policy
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Correlationid'
+  - 'Group Policy'
 ---
 **Update: 22. August 2014**: I have posted an updated version of the script [here](http://gallery.technet.microsoft.com/Get-GPEventByCorrelationID-97944972). 
 

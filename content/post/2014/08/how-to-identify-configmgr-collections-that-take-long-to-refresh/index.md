@@ -8,15 +8,11 @@ aliases:
 description: I’ve put together the below PowerShell script this week to identify collections
   in ConfigMgr that require the longest time to refresh. If you ever exp...
 author: Alex Verboon
-tags:
-- collections
-- duration
-- performance
-- refresh
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Collections'
+  - 'Refresh'
 ---
 I’ve put together the below PowerShell script this week to identify collections in ConfigMgr that require the longest time to refresh. If you ever experience a decrease in ConfigMgr collection update performance, you might want to run this script to find potential collections that have a long refresh duration. 
 

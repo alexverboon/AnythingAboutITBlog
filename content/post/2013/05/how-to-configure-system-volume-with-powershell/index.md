@@ -8,15 +8,11 @@ aliases:
 description: Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/)
   progra...
 author: Alex Verboon
-tags:
-- mute
-- script
-- volume
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Volume'
 ---
 Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://www.verboon.info/index.php/2011/01/mute-windows-system-volume/) programmatically.  This week I found another approach on GitHub using PowerShell. 
 

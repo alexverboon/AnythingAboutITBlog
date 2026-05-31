@@ -8,18 +8,11 @@ aliases:
 description: "Since Microsoft introduced WSL (Windows Subsystem for Linux), many security professionals have started using Kali Linux on Windows."
 author: "Alex Verboon"
 image: "img/post-heroes/setting-up-kali-in-windows-10-wsl-2-0.png"
-tags:
-  - kali
-  - linux
-  - nmap
-  - windows-insider
-  - windows-subsystem-for-linux
-  - wsl
-  - Windows
 categories:
-  - kali
-  - wsl
-  - Windows
+  - 'Windows'
+tags:
+  - 'Kali'
+  - 'Wsl'
 ---
 Since Microsoft introduced WSL ([Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/)) I've been playing with it occasionally, in the beginning however some of the tools I wanted to use like nmap and hping3 would not work due to issues with networking in WSL 1.0, however with WSL 2.0 these issues seem to be resolved so gave it another try earlier this year in June and all worked as expected.
 

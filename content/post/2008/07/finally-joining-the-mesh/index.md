@@ -8,10 +8,11 @@ aliases:
 description: "Microsoft has opened live mesh to more testers, although only to users located in the U.S. Well, after changing the regional settings, you get to the ..."
 author: "Alex Verboon"
 image: "img/post-heroes/finally-joining-the-mesh.png"
-tags:
-  - live-mesh
 categories:
-  - Cloud
+  - 'Security'
+tags:
+  - 'Live-Mesh'
+  - 'Cloud'
 ---
 Microsoft has opened live mesh to more testers, although only to users located in the U.S.
 

@@ -8,17 +8,11 @@ aliases:
 description: "How long does it take to copy 1 GB over a slow network connection? How fast does my virtual application start? Today I came across a nice FREE utility..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-network-delay-simulator.png"
-tags:
-  - bandwidth
-  - network
-  - speed
-  - tip
-  - tool
 categories:
-  - network
-  - protocols
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Network'
+  - 'Bandwidth'
 ---
 How long does it take to copy 1 GB over a slow network connection? How fast does my virtual application start? Today I came across a nice FREE utility called Network Delay Simulator. 
 

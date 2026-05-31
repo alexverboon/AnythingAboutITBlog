@@ -8,14 +8,11 @@ aliases:
 description: "Based on a statement made by Microsoft in the August 2012 security bulletin, I wrote a short blog post back in November 2012 that there would be [no M..."
 author: "Alex Verboon"
 image: "img/post-heroes/mbsa-2-3-preview-release-available.png"
-tags:
-  - mbsa
-  - scan
-  - security
-  - Windows
 categories:
-  - mbsa
-  - Windows
+  - 'Windows'
+tags:
+  - 'Mbsa'
+  - 'Security'
 ---
 Based on a statement made by Microsoft in the August 2012 security bulletin, I wrote a short blog post back in November 2012 that there would be [no MBSA version available for Windows 8](https://www.verboon.info/index.php/2012/11/no-mbsa-for-windows-8-planned/). But it looks like plans have changed as Microsoft has now released a preview version of MBSA 2.3 that does provide support for Windows 8, Windows 8.1 as well as the new server editions. 
 

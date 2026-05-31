@@ -7,10 +7,10 @@ aliases:
   - "/2008/08/microsoft-shared-view-software/"
 description: "Shared View Software"
 author: "Alex Verboon"
-tags:
-  - sharing
 categories:
-  - Tools
+  - 'Tips-Tools'
+tags:
+  - 'Sharing'
 ---
 Those that often work with other people in different locations and don't have access to a corporate managed solution where they can share their screen or documents, have a look at Shared View from Microsoft.
 

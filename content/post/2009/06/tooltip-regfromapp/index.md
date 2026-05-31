@@ -8,16 +8,11 @@ aliases:
 description: "Most Windows Operating System and Application settings are stored within the Windows Registry, so if you want to create a script that automates custom..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-regfromapp.png"
-tags:
-  - changes
-  - registry
-  - tools
-  - utility
-  - Windows
 categories:
-  - automation
-  - deployment
-  - Windows
+  - 'Windows'
+tags:
+  - 'Changes'
+  - 'Registry'
 ---
 Most Windows Operating System and Application settings are stored within the Windows Registry, so if you want to create a script that automates customized settings, but don’t know the exact registry key location or value, you usually end up creating a so-called registry snapshot that records the changes made to the Windows registry when applying a system or application change. 
 

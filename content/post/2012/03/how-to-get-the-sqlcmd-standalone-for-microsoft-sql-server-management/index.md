@@ -8,17 +8,11 @@ aliases:
 description: "In the days that I was an Oracle database admin (long long time ago) the two most important applications I used to manage a database were [SQLNet](htt..."
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-get-the-sqlcmd-standalone-for-microsoft-sql-server-management.png"
-tags:
-  - command-line
-  - feature-pack
-  - microsoft-sql-server
-  - sql
-  - sqlcmd
-  - Windows
 categories:
-  - sql
-  - sql-server
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Microsoft-Sql-Server'
+  - 'Sqlcmd'
 ---
 In the days that I was an Oracle database admin (long long time ago) the two most important applications I used to manage a database were [SQLNet](http://www.orafaq.com/wiki/SQL*Net) and [SQL Plus](http://www.orafaq.com/wiki/Sqlplus). SQL-Net for providing database connectivity and SQL Plus as the command line interface. For Microsoft SQL Server the kind of equivalent to Oracle’s SQL Plus is [SQLCMD](http://msdn.microsoft.com/en-us/library/ms162773.aspx). But for a long time this utility was only available with a full SQL Server installation or as part of the SQL Server Admin Studio install. 
 

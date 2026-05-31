@@ -7,16 +7,11 @@ aliases:
   - "/2010/07/readtip-best-practice-active-directory-structure-guidelines/"
 description: "Alan Burchill author of the [Group Policy Center blog](http://www.grouppolicy.biz/) has posted 2 great articles on Best Practices for Active Directory..."
 author: "Alex Verboon"
-tags:
-  - active-directory
-  - design
-  - gpo
-  - group-policy
 categories:
-  - active-directory
-  - gpo
-  - knowledge
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Active Directory'
+  - 'Design'
 ---
 Alan Burchill author of the [Group Policy Center blog](http://www.grouppolicy.biz/) has posted 2 great articles on Best Practices for Active Directory Structures. 
 

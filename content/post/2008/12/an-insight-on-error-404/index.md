@@ -7,11 +7,11 @@ aliases:
   - "/2008/12/an-insight-on-error-404/"
 description: "Today we were at my oldest son football club year end party where someone told me a story about the meaning of the number 404, when you try to connect..."
 author: "Alex Verboon"
-tags:
-  - 404
-  - history
 categories:
-  - reading
+  - 'Security'
+tags:
+  - '404'
+  - 'History'
 ---
 Today we were at my oldest son football club year end party where someone told me a story about the meaning of the number 404,  when you try to connect to a web site page that does not exist, you usually get an error 404 message. The number 404 is related to a room number at the [CERN](http://public.web.cern.ch/public/) this person told me.
 

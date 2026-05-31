@@ -8,17 +8,11 @@ aliases:
 description: "If you haven’t heard of this yet, I recommend taking a look at recently launched **Microsoft Fixit Center Pro (Beta).** This is an online service deve..."
 author: "Alex Verboon"
 image: "img/post-heroes/microsoft-fixit-center-pro-beta.png"
-tags:
-  - diagnostic
-  - fixit
-  - microsoft
-  - online-services
-  - problem-solving
-  - troubleshooting
 categories:
-  - fixit
-  - microsoft
-  - support-2
+  - 'Security'
+tags:
+  - 'Fixit'
+  - 'Diagnostic'
 ---
 If you haven’t heard of this yet, I recommend taking a look at recently launched **Microsoft Fixit Center Pro (Beta).** This is an online service developed by the Microsoft Customer Service and Support organization that can help you with troubleshooting problems. 
 

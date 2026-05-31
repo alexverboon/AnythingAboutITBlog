@@ -8,14 +8,11 @@ aliases:
 description: "The first time I became familiar with the term **Bring Your Own** was when I traveled through Australia with my wife and oldest son back in the year 2..."
 author: "Alex Verboon"
 image: "img/post-heroes/bring-your-own-computer-part-1.png"
-tags:
-  - bring-your-own-computer
-  - trends
-  - virtualization
 categories:
-  - byoc
-  - citrix
-  - trend
+  - 'Security'
+tags:
+  - 'Bring-Your-Own-Computer'
+  - 'Trends'
 ---
 The first time I became familiar with the term **Bring Your Own** was when I traveled through Australia with my wife and oldest son back in the year 2000. It basically means that you are allowed to bring your own bottle of wine to a restaurant and just pay a corkage fee. 
 

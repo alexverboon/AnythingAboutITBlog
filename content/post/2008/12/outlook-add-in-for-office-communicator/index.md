@@ -9,14 +9,11 @@ description: Those of you who work with Microsoft Outlook 2007 and Office Commun
   2007 might be interested in this one. On the [MSDN code Gallery](http://code...
 author: Alex Verboon
 image: img/post-heroes/outlook-add-in-for-office-communicator.png
-tags:
-- add-in
-- office-communicator
-- outlook-2007
-- Office
 categories:
-- tip
-- tools
+  - 'M365'
+tags:
+  - 'Add-In'
+  - 'Office'
 ---
 Those of you who work with Microsoft Outlook 2007 and Office Communicator 2007 might be interested in this one.
 

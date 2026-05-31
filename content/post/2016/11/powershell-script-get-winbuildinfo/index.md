@@ -9,15 +9,11 @@ description: Here’s a script I wrote that retrieves all the Windows 10 build i
   including Insider level when enabled. [ ![ss1](images/ss1_thumb.png) ](ht...
 author: Alex Verboon
 image: img/post-heroes/powershell-script-get-winbuildinfo.png
-tags:
-- branches
-- builds
-- insider
-- Windows
-- PowerShell
 categories:
-- Windows
-- PowerShell
+  - 'Windows'
+tags:
+  - 'PowerShell'
+  - 'Branches'
 ---
 Here’s a script I wrote that retrieves all the Windows 10 build information, including Insider level when enabled. 
 

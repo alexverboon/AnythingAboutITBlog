@@ -7,17 +7,11 @@ aliases:
   - "/2009/08/adding-games-on-windows-7-enterprise/"
 description: "When you run a default Windows 7 Enterprise installation, you will notice that by default no games are being installed. System administrators using th..."
 author: "Alex Verboon"
-tags:
-  - configuration
-  - dism
-  - features
-  - games
-  - Windows
 categories:
-  - deployment
-  - tip
-  - tools
-  - Windows
+  - 'Windows'
+tags:
+  - 'Games'
+  - 'Tips-Tools'
 ---
 When you run a default Windows 7 Enterprise installation, you will notice that by default no games are being installed. System administrators using the Windows Automated Installation Toolkit can use the image manager to enable games within their customized Windows 7 Enterprise installation, but here’s another trick how you can get the games enabled. 
 

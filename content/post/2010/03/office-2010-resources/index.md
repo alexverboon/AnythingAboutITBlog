@@ -8,16 +8,11 @@ aliases:
 description: On march 4th Microsoft communicated on their [Office 2010 Engineering
   blog](http://blogs.technet.com/office2010/archive/2010/03/04/get-office-today-or...
 author: Alex Verboon
-tags:
-- compatibility
-- deployment
-- migration
-- onramp
-- planning
-- Office
 categories:
-- knowledge
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Compatibility'
 ---
 On march 4th Microsoft communicated on their [Office 2010 Engineering blog](http://blogs.technet.com/office2010/archive/2010/03/04/get-office-today-or-tomorrow.aspx) that they are on Schedule with Office 2010 and will release it to manufacturing next month. For Enterprise customers Office 2010 will be available as of May 12th, consumers will get Office 2010 in June. 
 

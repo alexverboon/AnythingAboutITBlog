@@ -7,14 +7,11 @@ aliases:
   - "/2008/11/vista-sp1-cleanup-tool-vsp1clnexe/"
 description: "If you have installed Windows Vista SP1 on top of your first Vista installation and have no plans to uninstall it, you might want to give the followin..."
 author: "Alex Verboon"
-tags:
-  - diskusage
-  - windows-vista
-  - Windows
 categories:
-  - tip
-  - tools
-  - vista
+  - 'Tips-Tools'
+tags:
+  - 'Vista'
+  - 'Diskusage'
 ---
 If you have installed Windows Vista SP1 on top of your first Vista installation and have no plans to uninstall it, you might want to give the following command a try "VSP1CLN.exe".
 

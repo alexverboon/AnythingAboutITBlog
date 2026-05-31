@@ -8,18 +8,11 @@ aliases:
 description: "If you’re looking for a simple to use Download Manager, have a look at the Microsoft Download Manager. It does not have that many specialized features..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-microsoft-download-manager.png"
-tags:
-  - download
-  - download-manager
-  - suspend
-  - tool
-  - url
-  - utility
 categories:
-  - download
-  - internet
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Download'
+  - 'Download-Manager'
 ---
 If you’re looking for a simple to use Download Manager, have a look at the Microsoft Download Manager. It does not have that many specialized features as many other download managers out there, but it’s a nice FREE and simple to use tool. You must install the software, but it only uses about 1.3 MB. 
 

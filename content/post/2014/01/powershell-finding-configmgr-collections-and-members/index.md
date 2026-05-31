@@ -9,15 +9,11 @@ description: The below script provides a simple and quick method to find ConfigM
   Collections and its members. The script has a -Name parameter that accepts the e...
 author: Alex Verboon
 image: img/post-heroes/powershell-finding-configmgr-collections-and-members.png
-tags:
-- collections
-- configmgr
-- memberclassname
-- members
-- PowerShell
 categories:
-- configmgr
-- PowerShell
+  - 'ConfigMgr'
+tags:
+  - 'Collections'
+  - 'Members'
 ---
 The below script provides a simple and quick method to find ConfigMgr Collections and its members. The script has a -Name parameter that accepts the exact or part of the collection name. Next all collections that match the name are listed. After selecting a collection, its members are listed. 
 

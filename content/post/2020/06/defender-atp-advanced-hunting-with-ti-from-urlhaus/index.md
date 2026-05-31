@@ -9,13 +9,11 @@ description: How to use Threat Intelligence (TI) data from URLhaus with Microsof
   Defender ATP.
 author: Alex Verboon
 image: img/post-heroes/defender-atp-advanced-hunting-with-ti-from-urlhaus.png
-tags:
-- KQL
-- Security
-- PowerShell
 categories:
-- Microsoft Defender XDR
-- Security
+  - 'Security'
+tags:
+  - 'Microsoft Defender Xdr'
+  - 'PowerShell'
 ---
 Hello everyone, in today's article we are going to take look at how we can use Threat Intelligence (TI) data from URLhaus with Microsoft Defender ATP advanced hunting.
 

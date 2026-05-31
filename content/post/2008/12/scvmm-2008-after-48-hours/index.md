@@ -7,13 +7,11 @@ aliases:
   - "/2008/12/scvmm-2008-after-48-hours/"
 description: "It's about 48 hours ago , that i started with setting up a System Center Virtual Machine Manager environment, No worries, i have been doinng otherthin..."
 author: "Alex Verboon"
-tags:
-  - hyper-v
-  - virtualization
-  - Windows
 categories:
-  - hyper-v
-  - virtualization
+  - 'Windows'
+tags:
+  - 'Hyper-V'
+  - 'Virtualization'
 ---
 It's about 48 hours ago , that i started with setting up a System Center Virtual Machine Manager environment, No worries, i have been doinng otherthings in between, although today , uhm yesterday I spend most of the time with it. Also the hardware I have available , isn't realy that powerfull, so it all takes a bit time, but that's okay, while waiting I've just continued reading.
 

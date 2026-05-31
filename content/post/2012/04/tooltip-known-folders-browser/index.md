@@ -8,12 +8,11 @@ aliases:
 description: "Are you finding all the “special folders” in Windows Vista/7/8 a bit overwhelming? Which are real folders and which are virtualized? Which are profile..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-known-folders-browser.png"
-tags:
-  - known-folders
-  - special-folders
-  - Windows
 categories:
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Known-Folders'
+  - 'Special-Folders'
 ---
 Are you finding all the “special folders” in Windows Vista/7/8 a bit overwhelming? Which are real folders and which are virtualized? Which are profile-specific and which are common to all users? Which are rooted and which are relative? The Known Folders Browser can help. 
 

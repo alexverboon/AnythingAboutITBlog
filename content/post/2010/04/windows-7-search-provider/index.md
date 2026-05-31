@@ -8,16 +8,11 @@ aliases:
 description: "Inspired by the [Windows 7 Federated Search](http://windowsteamblog.com/blogs/developers/archive/2010/04/18/windows-7-federated-search.aspx) blog post..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-search-provider.png"
-tags:
-  - federated-search
-  - search-engine
-  - search-provider
-  - Windows
 categories:
-  - federated-search
-  - search-provider
-  - tip
-  - Windows
+  - 'Windows'
+tags:
+  - 'Search-Provider'
+  - 'Tips-Tools'
 ---
 Inspired by the [Windows 7 Federated Search](http://windowsteamblog.com/blogs/developers/archive/2010/04/18/windows-7-federated-search.aspx) blog post I created a Search Extender for my Anything about IT blog. You can download the Anything About IT Search Provider from [here](https://www.verboon.info/fun/aait_search_extender.zip)
 

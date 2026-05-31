@@ -7,11 +7,10 @@ aliases:
   - "/2008/09/tooltip-shadowexplorer/"
 description: "This week i found a nice little tool called ShadowExplorer"
 author: "Alex Verboon"
-tags:
-  - tools
-  - Windows
 categories:
-  - Tips
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
 ---
 This week i found a nice little tool called [ShadowExplorer](http://www.shadowexplorer.com/).
 

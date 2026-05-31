@@ -8,11 +8,10 @@ aliases:
 description: "Today I ran into an issue where Windows 7 would not hybrid join as expected."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-7-hybrid-join-and-mfa-ramblings.png"
-tags:
-  - EntraID
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Entra ID'
 ---
 Today I ran into an issue where Windows 7 would not hybrid join as expected. Before going into the details, for those who might not be aware like Windows 10 and Server 2016, you can also hybrid join down-level devices. The functionality is of course not built into Windows so you need to install the "[Microsoft Workplace Join for non-Windows 10 computers](https://www.microsoft.com/en-us/download/details.aspx?id=53554)" software.
 

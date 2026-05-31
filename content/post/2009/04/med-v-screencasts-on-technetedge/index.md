@@ -7,20 +7,11 @@ aliases:
   - "/2009/04/med-v-screencasts-on-technetedge/"
 description: "The first out of four screen casts about MED-V has been published today on TechnetEdge. - [Part 1, Concept and Architecture](http://edge.technet.com/M..."
 author: "Alex Verboon"
-tags:
-  - med-v
-  - migrate
-  - virtual-pc
-  - virtualization
-  - Windows
 categories:
-  - automation
-  - deployment
-  - knowledge
-  - virtualization
-  - vista
-  - windows-xp
-  - Windows
+  - 'Windows'
+tags:
+  - 'Med-V'
+  - 'Migrate'
 ---
 The first out of four  screen casts about MED-V has been published today on TechnetEdge. 
 

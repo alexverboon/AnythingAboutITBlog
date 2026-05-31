@@ -7,11 +7,10 @@ aliases:
   - "/2008/05/automating-regional-settings-configuration/"
 description: "For Windows XP, regional settings can be applied by using the following method: - Create an answer file that contains the [**RegionalSettings**] secti..."
 author: "Alex Verboon"
-tags:
-  - deployment
-  - Windows
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Deployment'
 ---
 For Windows XP, regional settings can be applied by using the following method:
 

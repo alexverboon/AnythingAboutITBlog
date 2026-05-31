@@ -7,13 +7,11 @@ aliases:
   - "/2009/04/walkthrough-to-get-your-applications-ready-for-windows-7/"
 description: "[http://blogs.msdn.com/usisvde/archive/2009/04/25/walkthrough-to-get-your-applications-ready-for-windows-7.aspx](http://blogs.msdn.com/usisvde/archive..."
 author: "Alex Verboon"
-tags:
-  - application-compatibility
-  - isv
-  - Windows
 categories:
-  - compatibility
-  - Windows
+  - 'Windows'
+tags:
+  - 'Application-Compatibility'
+  - 'Isv'
 ---
 [http://blogs.msdn.com/usisvde/archive/2009/04/25/walkthrough-to-get-your-applications-ready-for-windows-7.aspx](http://blogs.msdn.com/usisvde/archive/2009/04/25/walkthrough-to-get-your-applications-ready-for-windows-7.aspx)
 

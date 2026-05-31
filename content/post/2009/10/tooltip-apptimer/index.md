@@ -8,15 +8,11 @@ aliases:
 description: "Just found this nice little FREE Utility. AppTimer from [PassMark Software](http://www.passmark.com/index.html) will run an executable a number of tim..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-apptimer.png"
-tags:
-  - application
-  - apptimer
-  - startup
-  - utilities
 categories:
-  - performance
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Apptimer'
+  - 'Application'
 ---
 Just found this nice little FREE Utility. AppTimer from [PassMark Software](http://www.passmark.com/index.html) will run an executable a number of times and time how long it takes for the application to reach a state where user input is being accepted before exiting the application.
 

@@ -8,19 +8,11 @@ aliases:
 description: The countdown has started in less than 1000 days Windows XP will definitely
   go [end of life](http://windowsteamblog.com/windows/b/springboard/archive/...
 author: Alex Verboon
-tags:
-- '2014'
-- end-of-life
-- extended-support
-- lifecycle
-- support
-- windows
-- windows-xp
-- Office
 categories:
-- lifecycle
-- microsoft
-- Windows
+  - 'Windows'
+tags:
+  - 'Lifecycle'
+  - '2014'
 ---
 The countdown has started in less than 1000 days Windows XP will definitely go [end of life](http://windowsteamblog.com/windows/b/springboard/archive/2011/07/11/with-only-1000-days-left-of-extended-support-don-t-you-think-it-s-time-to-retire-windows-xp.aspx). However note that not only Windows XP reaches its end soon, Office 2003, Windows Server 2003, Exchange 2003, SCCM 2003 and some other products are about to reach their end of life within the same timeframe. 
 

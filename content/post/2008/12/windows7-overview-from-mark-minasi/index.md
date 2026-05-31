@@ -7,14 +7,11 @@ aliases:
   - "/2008/12/windows7-overview-from-mark-minasi/"
 description: "[Mark Minasi ](http://www.minasi.com/)has put together a nice overview on Windows7. \"[the next Windows: Lucky7?\"](http://www.minasi.com/win7ppt.pdf)"
 author: "Alex Verboon"
-tags:
-  - vista
-  - Windows
 categories:
-  - reading
-  - tip
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
+  - 'Vista'
 ---
 [Mark Minasi ](http://www.minasi.com/)has put together a nice overview on Windows7. "[the next Windows: Lucky7?"](http://www.minasi.com/win7ppt.pdf)
 

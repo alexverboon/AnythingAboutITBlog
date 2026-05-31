@@ -7,18 +7,11 @@ aliases:
   - "/2009/12/readtip-branchcache-design-guide/"
 description: "Source: *Microsoft* This design guide provides information about BranchCache in both distributed cache mode and hosted cache mode that assists you in ..."
 author: "Alex Verboon"
-tags:
-  - branchcache
-  - design-guide
-  - reading
-  - tip
-  - Windows
 categories:
-  - branchcache
-  - reading
-  - tip
-  - windows-server-2008-r2
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Branchcache'
+  - 'Design-Guide'
 ---
 Source: *Microsoft*
 

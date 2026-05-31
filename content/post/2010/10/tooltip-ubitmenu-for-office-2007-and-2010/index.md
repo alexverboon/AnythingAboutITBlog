@@ -9,15 +9,11 @@ description: For those that do still struggle with the Office Ribbon here’s a 
   add-on from [Ubit Software](http://www.ubit.ch/software/ubitmenu-languages/) tha...
 author: Alex Verboon
 image: img/post-heroes/tooltip-ubitmenu-for-office-2007-and-2010.png
-tags:
-- classic
-- menu
-- ribbon
-- Office
 categories:
-- tip
-- tools
-- Office
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Menu'
 ---
 For those that do still struggle with the Office Ribbon here’s a nice add-on from [Ubit Software](http://www.ubit.ch/software/ubitmenu-languages/) that brings back the classic menu for Office 2007 and Office 2010. 
 

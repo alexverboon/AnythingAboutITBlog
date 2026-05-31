@@ -8,17 +8,11 @@ aliases:
 description: "I came across a forum post where someone asked how to programmatically mute the Windows System volume. So this is what I have found: [ ![image](images..."
 author: "Alex Verboon"
 image: "img/post-heroes/mute-windows-system-volume.png"
-tags:
-  - mute
-  - script
-  - unmute
-  - volume
-  - Windows
 categories:
-  - scripting
-  - tip
-  - tools
-  - volume
+  - 'Windows'
+tags:
+  - 'Volume'
+  - 'Tips-Tools'
 ---
 I came across a forum post where someone asked how to programmatically mute the Windows System volume. So this is what I have found: 
 

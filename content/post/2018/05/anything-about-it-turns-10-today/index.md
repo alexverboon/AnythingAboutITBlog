@@ -8,10 +8,10 @@ aliases:
 description: "On the 10th of May 2008, I wrote my first blog post here \"[Growing WIM files](https://www.verboon.info/2008/05/growing-wim-files/)\". I recently read t..."
 author: "Alex Verboon"
 image: "img/post-heroes/anything-about-it-turns-10-today.png"
-tags:
-  - Uncategorized
 categories:
-  - blog
+  - 'Security'
+tags:
+  - 'Uncategorized'
 ---
 On the 10th of May 2008, I wrote my first blog post here "[Growing WIM files](https://www.verboon.info/2008/05/growing-wim-files/)". I recently read through the archive and thought of all those moments where sometimes I spend just a few minutes, hours and sometimes even days preparing for a new blog post.
 

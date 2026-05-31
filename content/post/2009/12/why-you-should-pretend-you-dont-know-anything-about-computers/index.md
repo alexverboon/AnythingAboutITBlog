@@ -7,14 +7,11 @@ aliases:
   - "/2009/12/why-you-should-pretend-you-dont-know-anything-about-computers/"
 description: "The inspiration for this post came from a tweet which had the link below included which is a nice comic explaining why you should pretend you don’t kn..."
 author: "Alex Verboon"
-tags:
-  - explain
-  - it
-  - job
 categories:
-  - fun
-  - job
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Explain'
+  - 'It'
 ---
 The inspiration for this post came from a tweet which had the link below included which is a nice comic explaining why you should pretend you don’t know anything about computers. 
 

@@ -8,22 +8,11 @@ aliases:
 description: "Managing ActiveX Components within an enterprise sometimes can be a pain. Users with standard user privileges by default can’t install ActiveX compone..."
 author: "Alex Verboon"
 image: "img/post-heroes/windows-activex-installer-service.png"
-tags:
-  - activex
-  - activex-installer-service
-  - codebase
-  - gpo
-  - sites
-  - vista
-  - Windows
 categories:
-  - active-directory
-  - automation
-  - deployment
-  - gpo
-  - group-policy
-  - vista
-  - Windows
+  - 'Windows'
+tags:
+  - 'Activex'
+  - 'Activex-Installer-Service'
 ---
 Managing ActiveX Components within an enterprise sometimes can be a pain. Users with standard user privileges by default can’t install ActiveX components, hence whenever a larger group of users require an ActiveX component you usually end up creating a software package and distribute it via Software Distribution or you provide them with temporary Administrative rights. But if the clients are running Windows Vista or Windows 7 there is another solution available I noticed many people aren’t aware of, hence that’s why I am writing this article. 
 

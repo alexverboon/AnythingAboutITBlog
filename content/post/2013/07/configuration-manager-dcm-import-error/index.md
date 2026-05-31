@@ -8,14 +8,11 @@ aliases:
 description: "While importing a Configuration Manager Configuration Baseline within our lab infrastructure that I had previously exported from our production enviro..."
 author: "Alex Verboon"
 image: "img/post-heroes/configuration-manager-dcm-import-error.png"
-tags:
-  - configuration-baseline
-  - configuration-item
-  - configuration-manager
-  - export
-  - import
 categories:
-  - sccm-2012
+  - 'ConfigMgr'
+tags:
+  - 'Configuration-Manager'
+  - 'Import'
 ---
 While importing a Configuration Manager Configuration Baseline within our lab infrastructure  that I had previously exported from our production environment I received the following error:
 

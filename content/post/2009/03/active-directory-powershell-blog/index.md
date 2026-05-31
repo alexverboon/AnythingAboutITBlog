@@ -8,13 +8,11 @@ aliases:
 description: Those interested in managing Active Directory with PowerShell, have a
   look at the [Active Directory Power Shell Blog](http://blogs.msdn.com/adpowershe...
 author: Alex Verboon
-tags:
-- active-directory
-- PowerShell
 categories:
-- active-directory
-- automation
-- PowerShell
+  - 'PowerShell'
+tags:
+  - 'Active Directory'
+  - 'Automation'
 ---
 Those interested in managing Active Directory with PowerShell, have a look at the [Active Directory Power Shell Blog](http://blogs.msdn.com/adpowershell/default.aspx). 
 

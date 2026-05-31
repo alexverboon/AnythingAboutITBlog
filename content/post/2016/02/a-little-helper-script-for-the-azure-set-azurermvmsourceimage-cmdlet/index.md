@@ -8,18 +8,11 @@ aliases:
 description: To keep a long story short, today i started looking into Azure PowerShell
   and Azure Resource Manager and quickly found out that if I wanted to make us...
 author: Alex Verboon
-tags:
-- azure
-- get-azurermvmimageoffer
-- get-azurermvmimagepublisher
-- get-azurermvmimagesku
-- set-azurermvmsourceimage
-- Windows
-- PowerShell
 categories:
-- azure
-- Windows
-- PowerShell
+  - 'Azure'
+tags:
+  - 'Set-Azurermvmsourceimage'
+  - 'Get-Azurermvmimageoffer'
 ---
 To keep a long story short, today i started looking into Azure PowerShell and Azure Resource Manager and quickly found out that if I wanted to make use of ARM, i have to change some scripts I have used so far to deploy my Azure VMs. More on that in a later post.
 

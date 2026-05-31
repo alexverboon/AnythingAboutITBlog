@@ -7,10 +7,11 @@ aliases:
   - "/2008/10/microsoft-chemical-team-blog/"
 description: "For those who do work within or are working with the chemical industry this site might be of interest. [http://blogs.msdn.com/chemicals/default.aspx](..."
 author: "Alex Verboon"
-tags:
-  - industry
 categories:
-  - Various
+  - 'Security'
+tags:
+  - 'Industry'
+  - 'Various'
 ---
 For those who do work within or are working with the chemical industry this site might be of interest.
 [http://blogs.msdn.com/chemicals/default.aspx](http://blogs.msdn.com/chemicals/default.aspx)

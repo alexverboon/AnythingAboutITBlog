@@ -7,20 +7,11 @@ aliases:
   - "/2010/01/tooltip-power-plan-assistant-for-windows-7/"
 description: "Microsoft has spend a great effort on optimizing the [power consumption](http://blogs.msdn.com/e7/archive/2009/01/06/windows-7-energy-efficiency.aspx)..."
 author: "Alex Verboon"
-tags:
-  - balance
-  - display
-  - energy
-  - high-performance
-  - power-management
-  - power-plan
-  - power-saver
-  - Windows
 categories:
-  - energy
-  - tip
-  - tools
-  - Windows
+  - 'Windows'
+tags:
+  - 'Power-Plan'
+  - 'Tips-Tools'
 ---
 Microsoft has spend a great effort on optimizing the [power consumption](http://blogs.msdn.com/e7/archive/2009/01/06/windows-7-energy-efficiency.aspx) for Windows 7, But here’s another FREE tool that I consider as a nice enhancement over the build in features in Windows 7. Power Plan Assistant for Windows 7 can be downloaded from [here](http://www.powerplan7.com/index.htm). For a brief feature overview read [this](http://www.powerplan7.com/features.htm). 
 

@@ -7,14 +7,11 @@ aliases:
   - "/2010/03/app-v-visio-stencil/"
 description: "Just found a nice Visio Stencil for App-V on Kirx.org. Well done ! Get the stencil from [kirx.org](http://www.kirx.org/app-v/use/use-en.html#a1019) ![..."
 author: "Alex Verboon"
-tags:
-  - app-v
-  - stencil
-  - visio
 categories:
-  - app-v
-  - tip
-  - virtualization
+  - 'Tips-Tools'
+tags:
+  - 'Stencil'
+  - 'App-V'
 ---
 Just found a nice Visio Stencil for App-V on Kirx.org. Well done ! Get the stencil from [kirx.org](http://www.kirx.org/app-v/use/use-en.html#a1019)
 

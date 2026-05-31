@@ -8,13 +8,11 @@ aliases:
 description: "To find out the Java version you have installed, simply open a command prompt and type java –version [ ![2011-07-01 18h39_27](images/2011-07-01-18h39_..."
 author: "Alex Verboon"
 image: "img/post-heroes/tip-quickest-way-to-find-out-the-installed-java-version.png"
-tags:
-  - java
-  - tips
-  - version
 categories:
-  - java
-  - tip
+  - 'Tips-Tools'
+tags:
+  - 'Version'
+  - 'Java'
 ---
 To find out the Java version you have installed, simply open a command prompt and type
 

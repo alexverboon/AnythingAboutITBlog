@@ -9,13 +9,11 @@ description: With the release of the Office 2007 suite, Microsoft made some radi
   changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon*...
 author: Alex Verboon
 image: img/post-heroes/classic-menu-in-microsoft-word-2007.png
-tags:
-- ribbon
-- winword
-- Office
 categories:
-- Office
-- reading
+  - 'M365'
+tags:
+  - 'Office'
+  - 'Reading'
 ---
 With the release of the Office 2007 suite, Microsoft made some radical changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon**”
 

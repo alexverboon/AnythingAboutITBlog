@@ -7,19 +7,11 @@ aliases:
   - "/2010/02/viewtip-vista-to-win7-transition-bug/"
 description: "This week [Jeremy Moskowitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) wrote about a Vista/Win7 GPO bug in his weekly newsletter you should kn..."
 author: "Alex Verboon"
-tags:
-  - admx
-  - bug
-  - central-store
-  - gpo
-  - templates
-  - windows-vista
-  - Windows
 categories:
-  - group-policy
-  - tip
-  - vista
-  - Windows
+  - 'Tips-Tools'
+tags:
+  - 'Bug'
+  - 'Central-Store'
 ---
 This week [Jeremy Moskowitz](http://www.GPanswers.com/1.html?p=cpqalve&w=HOME) wrote about a Vista/Win7 GPO bug in his weekly newsletter you should know about if you are transitioning to Windows 7. 
 

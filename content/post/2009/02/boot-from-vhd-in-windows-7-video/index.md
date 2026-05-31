@@ -7,19 +7,11 @@ aliases:
   - "/2009/02/boot-from-vhd-in-windows-7-video/"
 description: "In this video Jeremy Chapman senior product manager from the Microsoft enterprise product management team talks about booting from VHD as well as some..."
 author: "Alex Verboon"
-tags:
-  - boot
-  - dism
-  - image
-  - mount
-  - native
-  - vhd
-  - Windows
 categories:
-  - aik
-  - automation
-  - deployment
-  - Windows
+  - 'Windows'
+tags:
+  - 'Boot'
+  - 'Vhd'
 ---
 In this video Jeremy Chapman senior product manager from the Microsoft enterprise product management team talks about booting from VHD as well as some of the new imaging features. 
 

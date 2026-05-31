@@ -7,16 +7,11 @@ aliases:
   - "/2009/03/group-policy-how-to-configure-the-central-admx-store/"
 description: "Well as you might notice Group Policy management currently is my favorite topic. I’ve been doing GPOs since the year 2000, then for a long while due t..."
 author: "Alex Verboon"
-tags:
-  - admx
-  - central-store
-  - gpo
-  - group-policy
-  - Windows
 categories:
-  - active-directory
-  - group-policy
-  - knowledge
+  - 'Windows'
+tags:
+  - 'Group Policy'
+  - 'Admx'
 ---
 Well as you might notice Group Policy management currently is my favorite topic. I’ve been doing GPOs since the year 2000, then for a long while due to my job role I haven’t been doing a lot with GPOs, but that didn’t matter since there wasn’t too much changing in that space except that with each OS release the number of GPO settings has been growing. 
 

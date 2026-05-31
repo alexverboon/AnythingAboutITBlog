@@ -8,17 +8,11 @@ aliases:
 description: "When using WLAN on a day to day basis we can see the WLAN signal strength via the Windows User Interface as shown in the screenshot below. [ ![2011-03..."
 author: "Alex Verboon"
 image: "img/post-heroes/using-the-windows-7-event-log-to-check-wlan-link-quality.png"
-tags:
-  - eventlog
-  - link
-  - quality
-  - wireless
-  - wlan
-  - Windows
 categories:
-  - eventlog
-  - wlan
-  - Windows
+  - 'Windows'
+tags:
+  - 'Quality'
+  - 'Link'
 ---
 When using WLAN on a day to day basis we can see the WLAN signal strength via the Windows User Interface as shown in the screenshot below. 
 

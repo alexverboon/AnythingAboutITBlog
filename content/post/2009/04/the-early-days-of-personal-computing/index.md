@@ -8,13 +8,11 @@ aliases:
 description: "While usually we focus on what is happening today and what might come tomorrow, it’s quite interesting to look back in a while and learn how we actual..."
 author: "Alex Verboon"
 image: "img/post-heroes/the-early-days-of-personal-computing.png"
-tags:
-  - alan-kay
-  - history
-  - personal-computing
 categories:
-  - computer-science
-  - knowledge
+  - 'Security'
+tags:
+  - 'Personal-Computing'
+  - 'Alan-Kay'
 ---
 While usually we focus on what is happening today and what might come tomorrow, it’s quite interesting to look back in a while and learn how we actually got there.  
 

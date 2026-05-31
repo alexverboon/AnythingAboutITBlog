@@ -7,11 +7,10 @@ aliases:
   - "/2008/11/another-great-site-around-virtualization/"
 description: "In continuing my journey in Virtualization, I've come across another great site called [VirtualizationAdmin.com](http://www.virtualizationadmin.com/) ..."
 author: "Alex Verboon"
-tags:
-  - virtualization
 categories:
-  - tip
-  - virtualization
+  - 'Tips-Tools'
+tags:
+  - 'Virtualization'
 ---
 In continuing my journey in Virtualization, I've come across another great site called [VirtualizationAdmin.com](http://www.virtualizationadmin.com/)
 

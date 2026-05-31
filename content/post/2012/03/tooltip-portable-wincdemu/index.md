@@ -8,16 +8,11 @@ aliases:
 description: "One of the first things I usually do when setting up a new system that I plan to use for longer is to install an ISO mount tool. My favorite FREE tool..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-portable-wincdemu.png"
-tags:
-  - dvd
-  - iso
-  - mount
-  - virtual
-  - Windows
 categories:
-  - dvd
-  - tools
-  - Windows
+  - 'Windows'
+tags:
+  - 'Tips-Tools'
+  - 'Virtual'
 ---
 One of the first things I usually do when setting up a new system that I plan to use for longer is to install an ISO mount tool. My favorite FREE tool for that is still [Virtual CloneDrive](http://www.slysoft.com/en/virtual-clonedrive.html). Today I came across another utility that does the same thing, but is portable, meaning there is no need to really install the software, this might come in handy when you can’t or don’t feel like you want to leave behind a system with all of your tools installed. 
 

@@ -8,12 +8,11 @@ aliases:
 description: "Windows xp activation"
 author: "Alex Verboon"
 image: "img/post-heroes/windows-xp-reports-pending-activation.png"
-tags:
-  - activation
-  - Windows
-  - WindowsXP
 categories:
-  - Windows
+  - 'Windows'
+tags:
+  - 'Activation'
+  - 'Windowsxp'
 ---
 Within at least every second implementation project I work on, people get nervous about Windows XP reporting that the system is not yet activated, although their Windows XP client image was build using an enterprise volume license key.
 

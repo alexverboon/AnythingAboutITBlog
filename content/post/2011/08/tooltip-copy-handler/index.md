@@ -8,16 +8,11 @@ aliases:
 description: "You probably know that problem, you’ve started copying a bunch of files or folders from A to B and BANG at some stage you get an error or maybe you ju..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-copy-handler.png"
-tags:
-  - copy
-  - copy-handler
-  - copying-data
-  - tip
-  - tools
-  - Windows
 categories:
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Copy-Handler'
+  - 'Copy'
 ---
 You probably know that problem, you’ve started copying a bunch of files or folders from A to B and BANG at some stage you get an error or maybe you just have to move to another place and don’t have network connectivity for a short while. Copy Handler can help here. 
 

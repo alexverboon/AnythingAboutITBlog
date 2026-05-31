@@ -8,17 +8,11 @@ aliases:
 description: "Network Lights developed by Igor Tolmachev is a Windows program, which blinks keyboard LEDs (Light Emitting Diode) indicating outgoing and incoming ne..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-network-lights.png"
-tags:
-  - keyboard
-  - led
-  - lights
-  - numlock
-  - scrolllock
-  - traffice
-  - Windows
 categories:
-  - network
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Lights'
+  - 'Network'
 ---
 Network Lights developed by Igor Tolmachev is a Windows program, which blinks keyboard LEDs (Light Emitting Diode) indicating outgoing and incoming network packets on network interface. 
 

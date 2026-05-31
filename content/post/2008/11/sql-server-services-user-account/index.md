@@ -7,13 +7,10 @@ aliases:
   - "/2008/11/sql-server-services-user-account/"
 description: "When you install SQL Server 2000 / 2005 / 2008 you can configure under what user account the services are running. In the past i've often seen people ..."
 author: "Alex Verboon"
-tags:
-  - security
-  - sql
 categories:
-  - security
-  - sql
-  - tip
+  - 'Security'
+tags:
+  - 'Sql'
 ---
 When you install SQL Server 2000 / 2005 / 2008 you can configure under what user account the services are running. In the past i've often seen people selecting "local system", I also selected that....not thinking too much about security then and it was the easiest to do with no need to create an additional user account and as long as you don't need to access any other domain resources that worked fine.
 

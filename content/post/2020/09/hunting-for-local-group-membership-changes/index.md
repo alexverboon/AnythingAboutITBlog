@@ -8,13 +8,11 @@ aliases:
 description: "Detect changes to the local administrator group using Microsoft Defender ATP advanced hunting."
 author: "Alex Verboon"
 image: "img/post-heroes/hunting-for-local-group-membership-changes.png"
-tags:
-  - advanced-hunting
-  - security
-  - Windows
 categories:
-  - Microsoft Defender XDR
-  - Security
+  - 'Security'
+tags:
+  - 'Advanced-Hunting'
+  - 'Windows'
 ---
 Hello there,
 

@@ -8,16 +8,11 @@ aliases:
 description: "Today’s ToolTip is about [HWiNFO32](http://www.hwinfo.com/index.html) which is a hardware information and diagnostic tool. I have seen many tools that..."
 author: "Alex Verboon"
 image: "img/post-heroes/tooltip-hwinfo32.png"
-tags:
-  - benchmark
-  - bios
-  - hardware
-  - ram
-  - report
 categories:
-  - bios
-  - tip
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Benchmark'
+  - 'Hardware'
 ---
 Today’s ToolTip is about [HWiNFO32](http://www.hwinfo.com/index.html) which is a hardware information and diagnostic tool. I have seen many tools that can collect hardware information but this one gives me an impression of being a well organized utility and most important it’s FREE. 
 

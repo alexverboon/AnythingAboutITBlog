@@ -7,11 +7,11 @@ aliases:
   - "/2009/01/tooltip-imagemaster-for-iso-files/"
 description: "[ImageMaster](http://www.codeplex.com/ImageMaster) is a .NET based application for reading, extract content and writing ISO files. There are many tool..."
 author: "Alex Verboon"
-tags:
-  - burn-iso
-  - iso
 categories:
-  - tools
+  - 'Tips-Tools'
+tags:
+  - 'Iso'
+  - 'Burn-Iso'
 ---
 [ImageMaster](http://www.codeplex.com/ImageMaster) is a .NET based application for reading, extract content and writing ISO files.  There are many tools and products available that can do this but what i like about this one is that it's only 1.2 MB and FREE !
 

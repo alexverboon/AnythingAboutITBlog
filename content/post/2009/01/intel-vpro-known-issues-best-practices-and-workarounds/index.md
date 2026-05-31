@@ -7,14 +7,11 @@ aliases:
   - "/2009/01/intel-vpro-known-issues-best-practices-and-workarounds/"
 description: "Today when working on a vPro related issue, we came across the Intel vPro - [Known Issues, Best Practices and Workarounds page](http://communities.int..."
 author: "Alex Verboon"
-tags:
-  - amt
-  - vpro
 categories:
-  - knowledge
-  - reading
-  - tip
-  - vpro
+  - 'Tips-Tools'
+tags:
+  - 'Vpro'
+  - 'Amt'
 ---
 Today when working on a vPro related issue, we came across the Intel vPro - [Known Issues, Best Practices and Workarounds page](http://communities.intel.com/docs/DOC-1247#Changing_Terminal_Emulation_Type). For those who deal with vPro it's definitely worth reading that content.
 
