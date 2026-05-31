@@ -22,43 +22,43 @@ When a physical device running Windows has problems, you have all sorts of possi
 
   [
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image.png)
+](images/image_thumb.png)
 
   Next Enter a Tracking ID (optional), then select “**Create**” 
 
   [
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image1.png)
+](images/image_thumb1.png)
 
   Next select “**Download**” 
 
   [
 ![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image2.png)
+](images/image_thumb2.png)
 
   Save the file and then select “**Run**”
 
   [
 ![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image3.png)
+](images/image_thumb3.png)
 
   Select “**Run now on this PC**”
 
         [
 ![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image4.png)
+      ](images/image_thumb4.png)
 
   Select “**Accept**”
 
   [
 ![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image5.png)
+](images/image_thumb5.png)
 
   Select “**Start**” and confirm the UAC prompt
 
   [
 ![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image6.png)
+](images/image_thumb6.png)
 
     A folder c:\WindowsAzure is created on the local client. 
 
@@ -66,61 +66,61 @@ When a physical device running Windows has problems, you have all sorts of possi
 
   [
 ![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image7.png)
+](images/image_thumb7.png)
 
   Next sign-in with your Azure Account. 
 
   [
 ![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image8.png)
+](images/image_thumb8.png)
 
   Select the Azure Subscription (in case you have multiple)
 
   [
 ![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image9.png)
+](images/image_thumb9.png)
 
   Next Accept to collect diagnostic data from Azure VMs. 
 
   [
 ![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image10.png)
+](images/image_thumb10.png)
 
   Select the Azure Storage Account (in case you have multiple)
 
   [
 ![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image11.png)
+](images/image_thumb11.png)
 
   Next select the issue you are experiencing. 
 
   [
 ![image](images/image_thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image12.png)
+](images/image_thumb12.png)
 
   Next select the VM that experiences an issue. 
 
   [
 ![image](images/image_thumb13.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image13.png)
+](images/image_thumb13.png)
 
   When the test / diagnosis is completed, you have the option to view the log files. 
 
   [
 ![image](images/image_thumb14.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image14.png)
+](images/image_thumb14.png)
 
     Optionally the log files can be saved locally. 
 
   [
 ![image](images/image_thumb15.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image15.png)
+](images/image_thumb15.png)
 
    
 
   [
 ![image](images/image_thumb16.png)
-](https://www.verboon.info/wp-content/uploads/2015/04/image16.png)
+](images/image_thumb16.png)
 
   In addition to the saved CAB file, the tool also saves an additional file locally. In my case the file name was:
 
