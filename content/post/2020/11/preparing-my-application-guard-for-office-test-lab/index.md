@@ -11,16 +11,10 @@ author: Alex Verboon
 image: img/post-heroes/preparing-my-application-guard-for-office-test-lab.png
 tags:
 - application-guard
-- defender-atp
-- security
-- Windows
 - Office
 categories:
-  - application-guard
   - security
-  - Windows
   - Office
-  - Microsoft Defender XDR
 ---
 
 Hello everyone, today I wanted to see application guard for office in action. If you are not familiar with application guard for office, I suggest you read the following articles / documentation.

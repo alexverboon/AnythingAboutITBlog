@@ -10,8 +10,6 @@ author: "Alex Verboon"
 image: "img/post-heroes/windows-7-hybrid-join-and-mfa-ramblings.png"
 tags:
   - EntraID
-  - hybridjoin
-  - mfa
   - Windows
 categories:
   - Windows

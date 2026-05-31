@@ -12,16 +12,10 @@ author: Alex Verboon
 image: img/post-heroes/use-microsoft-endpoint-configuration-manager-to-stop-the-windows-print-spooler-service.png
 tags:
 - CVE-2021-34527
-- DefenderforEndpoint
-- MEMCM
-- Security
+- ConfigMgr
 - Vulnerability
-- Windows
-- PowerShell
 categories:
-  - Security
-  - PowerShell
-  - Microsoft Defender XDR
+  - ConfigMgr
 ---
 
 Hello there,

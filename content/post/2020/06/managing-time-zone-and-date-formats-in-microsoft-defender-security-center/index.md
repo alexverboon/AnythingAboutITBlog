@@ -9,15 +9,9 @@ description: "When you receive security alerts or investigate security events, t
 author: "Alex Verboon"
 image: "img/post-heroes/managing-time-zone-and-date-formats-in-microsoft-defender-security-center.png"
 tags:
-  - advanced-hunting
-  - datetime
-  - defender-atp
-  - mdatp
-  - utc
-  - Windows
+  - TimeZone
 categories:
-  - defender-atp
-  - security
+- Microsoft Defender XDR
 ---
 When you receive security alerts or are investigating security related events , the aspect of time is important element. By default, date and time is displayed in Coordinated Universal Time (UTC) within the Microsoft Defender security center portal.
 

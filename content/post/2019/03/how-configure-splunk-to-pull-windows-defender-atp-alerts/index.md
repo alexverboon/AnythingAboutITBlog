@@ -10,13 +10,9 @@ author: "Alex Verboon"
 image: "img/post-heroes/how-configure-splunk-to-pull-windows-defender-atp-alerts.png"
 tags:
   - defender-atp
-  - restapi
   - splunk
-  - wdatp
-  - Windows
 categories:
-  - Microsoft Defender
-  - Windows
+  - SIEM
 ---
 Windows Defender ATP provides SIEM integration, allowing you to pull alerts from Windows Defender ATP Security Center into Splunk. The SIEM integration uses the Windows Defender ATP Alerts Rest API. Since I have an actual customer demand for such an integration, I thought it's about time to get a feel for how this works.
 

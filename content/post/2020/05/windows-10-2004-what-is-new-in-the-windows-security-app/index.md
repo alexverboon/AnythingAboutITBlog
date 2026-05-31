@@ -10,14 +10,9 @@ description: When all goes well, Microsoft will soon release the next version of
 author: Alex Verboon
 image: img/post-heroes/windows-10-2004-what-is-new-in-the-windows-security-app.png
 tags:
-- pua
-- security
-- security-app
-- windowsinsider
 - Windows
-- PowerShell
 categories:
-- security
+- Security
 - Windows
 - PowerShell
 ---

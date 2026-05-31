@@ -10,9 +10,7 @@ description: Collect Azure AD user authentication methods using Microsoft Graph 
 author: Alex Verboon
 image: img/post-heroes/collecting-azuread-user-authentication-method-information.png
 tags:
-- authenticationmethod
 - Entra
-- MFA
 - PowerShell
 categories:
 - EntraID

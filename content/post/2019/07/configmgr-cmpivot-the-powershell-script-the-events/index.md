@@ -10,15 +10,9 @@ description: While working with CMPivot, I wanted to find out how locally on the
 author: Alex Verboon
 image: img/post-heroes/configmgr-cmpivot-the-powershell-script-the-events.png
 tags:
-- cmpivot
-- configmgr
-- scriptstore
-- Windows
-- PowerShell
+- CMPIVOT
 categories:
-- cmpivot
-- configmgr
-- PowerShell
+- ConfigMgr
 ---
 While working with CMPivot this week, I wanted to find out how locally on the client the data is collected, I already knew that when you execute a CMPivot query from the ConfigMgr console, it will run the query on the target device and returns the result back to ConfigMgr. While investigating I also came across this blog post [CM Pivot Internals](https://www.ephingadmin.com/CMPivotInternals/) that describes how things work, nevertheless I wanted to dig a bit deeper. So here we go.
 

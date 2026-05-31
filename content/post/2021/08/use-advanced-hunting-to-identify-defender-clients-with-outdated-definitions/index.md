@@ -11,7 +11,6 @@ image: "img/post-heroes/use-advanced-hunting-to-identify-defender-clients-with-o
 tags:
   - Advanced Hunting
   - Defender Antivirus
-  - definition updates
   - KQL
 categories:
   - Microsoft Defender XDR

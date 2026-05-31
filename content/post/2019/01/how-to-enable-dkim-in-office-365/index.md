@@ -10,15 +10,11 @@ description: DKIM (DomainKeys Identified Mail) configuration in Office 365 to va
 author: Alex Verboon
 image: img/post-heroes/how-to-enable-dkim-in-office-365.png
 tags:
-- dkim
-- validate-dkimconfig
-- Windows
+- DKIM
 - PowerShell
-- Office
 categories:
-- Microsoft 365
-- PowerShell
-- Office
+- Defender for Office 365
+- Security
 ---
 Just in case you are not familiar with what DKIM is all about but still interested, I suggest you first read [Use DKIM to validate outbound email sent from your custom domain in Office 365](https://docs.microsoft.com/en-us/office365/securitycompliance/use-dkim-to-validate-outbound-email) If you're looking for detailed instructions how to enable DKIM in Office 365 continue reading.
 

@@ -10,9 +10,7 @@ description: How to deploy Windows 11 quickly in Hyper-V using the AutomatedLab 
 author: Alex Verboon
 image: img/post-heroes/deploying-windows-11-in-minutes-with-automatedlab.png
 tags:
-- automatedlab
 - deployment
-- windowsinsider
 - Windows
 - PowerShell
 categories:

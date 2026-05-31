@@ -10,15 +10,11 @@ author: "Alex Verboon"
 image: "img/post-heroes/hunting-for-local-group-membership-changes.png"
 tags:
   - advanced-hunting
-  - defender-atp
-  - local-groups
-  - mtp
   - security
   - Windows
 categories:
-  - defender-atp
-  - mtp
-  - security
+  - Microsoft Defender XDR
+  - Security
 ---
 Hello there,
 

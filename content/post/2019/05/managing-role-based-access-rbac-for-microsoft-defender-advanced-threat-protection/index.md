@@ -9,13 +9,9 @@ description: "How to manage Role Based Access Control (RBAC) for Microsoft Defen
 author: "Alex Verboon"
 image: "img/post-heroes/managing-role-based-access-rbac-for-microsoft-defender-advanced-threat-protection.png"
 tags:
-  - defender-atp
-  - mdatp
-  - rbac
-  - Windows
+  - RBAC
 categories:
-  - defender-atp
-  - mdatp
+  - Defender ATP
 ---
 I spend quite some time during the week travelling to and from customers, to make the best use of travel time, I usually read blogs and tweets or take online trainings to keep myself up to date about whatever interests me. Yesterday I noticed a tweet from someone regarding MDATP Portal access  "*Security Administrator can't be assigned to staff in my org. It's too powerful*." Maybe not everyone is aware of the RBAC capabilities in MDATP so I through it might be worth a blog post. Here we go. 
 

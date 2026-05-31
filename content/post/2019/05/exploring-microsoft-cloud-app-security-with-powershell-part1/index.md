@@ -10,13 +10,9 @@ description: Last Friday I presented at the Configuration Manager Community Even
 author: Alex Verboon
 image: img/post-heroes/exploring-microsoft-cloud-app-security-with-powershell-part1.png
 tags:
-- cloud-app-security
-- mcas
 - PowerShell
 categories:
-- cloud-app-security
-- mcas
-- PowerShell
+- Microsoft Defender XDR
 ---
 Last Friday I was given the opportunity to present at the Configuration Manager Community Event (CMCE1905) in Bern, Switzerland. Although Microsoft Cloud App Security is not really related to ConfigMgr, many of the attendees are dealing with managing classic and modern workplaces and security is almost on everyone's list of interest. During my session "Unleash the power of Microsoft Cloud App Security" I also demonstrated how one can explore information within Microsoft Cloud App Security through PowerShell. So, for all those interested how to do that, here we go.
 

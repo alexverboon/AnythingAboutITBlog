@@ -9,16 +9,12 @@ description: "Walk you through the process of creating an admin audit log dashbo
 author: "Alex Verboon"
 image: "img/post-heroes/how-to-create-your-defender-atp-admin-audit-log-dashboard.png"
 tags:
-  - api
   - audit
   - azure-logic-app
-  - defender-atp
   - log-analytics
   - Windows
 categories:
-  - azure-logic-app
-  - defender-atp
-  - log-analytics
+  - Security
 ---
 Hello everyone,
 

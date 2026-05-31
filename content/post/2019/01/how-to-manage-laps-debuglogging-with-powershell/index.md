@@ -10,11 +10,7 @@ description: If you need to troubleshoot the Local Administrator Password Soluti
   log.
 author: Alex Verboon
 tags:
-- laps
-- logging
-- verbose
-- winrm
-- Windows
+- LAPS
 - PowerShell
 categories:
 - PowerShell
