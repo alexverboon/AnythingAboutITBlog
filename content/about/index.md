@@ -3,8 +3,6 @@ layout: page
 multilingual: false
 ---
 
-## About Me
-
 # About Me
 
 My journey into technology started around 1987 during a computer training class at school. The systems were IBM PS/2 computers running MS-DOS, and one of the first things I learned was how to navigate the command line and use basic DOS commands. While the lessons were simple by today's standards, they sparked a curiosity about technology and how computers worked behind the scenes.
