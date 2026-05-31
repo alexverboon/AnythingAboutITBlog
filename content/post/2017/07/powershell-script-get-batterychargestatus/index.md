@@ -21,7 +21,7 @@ tags:
 
 A little script i wrote to retrieve the Battery Charge status. The script makes use of the [BatteryReport class](https://docs.microsoft.com/en-us/uwp/api/windows.devices.power.batteryreport) that agregates the information should the device have more than one battery like the Surface Book.
 
-```
+```powershell
 function Get-BatteryChargeStatus
 {
 <#
