@@ -1,4 +1,4 @@
-baseURL = "https://alexverboon.github.io/AnythingAboutITBlog/"
+baseURL = "https://www.verboon.info"
 title = "Anything About IT"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
