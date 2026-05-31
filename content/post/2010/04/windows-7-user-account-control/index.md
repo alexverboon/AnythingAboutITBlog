@@ -16,9 +16,7 @@ tags:
 ---
 Today I spend a bit of time in refreshing my UAC knowledge, below a listing of the content I’ve been reading and watching. 
 
-  [
-![image](images/image_thumb23.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image23.png) 
+  ![image](images/image_thumb23.png) 
 
   **Reading (Blogs & TechNet)**     
 [User Account Control in Windows 7 Best Practices](http://technet.microsoft.com/en-us/library/ee679793(WS.10).aspx)     

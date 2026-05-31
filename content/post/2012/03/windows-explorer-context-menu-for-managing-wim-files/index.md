@@ -21,25 +21,17 @@ Mounting and un-mounting Windows Images (wim files) is a simple task using dism.
   **Here’s how it works     
 **When you have completed the setup you will see the context menu option called “MountImage-WIM” when selecting a file with the extension .WIM. 
 
-  [
-![image](images/image_thumb26.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image26.png)
+  ![image](images/image_thumb26.png)
 
   You then select the folder in which you want to mount the file. 
 
-  [
-![image](images/image_thumb27.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image27.png)
+  ![image](images/image_thumb27.png)
 
-  [
-![image](images/image_thumb28.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image28.png)
+  ![image](images/image_thumb28.png)
 
   When you have completed whatever you needed to do with the mounted content, simply right click on the folder that holds the mounted image and select the appropriate option to dismount the image. 
 
-  [
-![image](images/image_thumb29.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image29.png)
+  ![image](images/image_thumb29.png)
 
   **How to install this on your system**
 

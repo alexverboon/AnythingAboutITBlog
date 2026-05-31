@@ -20,9 +20,7 @@ I blogged earlier about [Image resizer utilities](https://www.verboon.info/index
 
 Once installed the utility adds an entry into the file context menu "Resize Pictures".
 
-[
 ![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2009/01/image6.png)
 
 Enjoy
 

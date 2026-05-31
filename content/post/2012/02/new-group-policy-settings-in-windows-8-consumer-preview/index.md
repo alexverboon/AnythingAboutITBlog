@@ -16,9 +16,7 @@ tags:
 ---
 Today, oh that was yesterday already, Microsoft released the Windows 8 Consumer Preview, so I did what I always do when there is a new Windows Operating system and that is looking for any new Group Policy settings. I do that by simply opening the group policy editor (gpedit.msc) select the Administrative Templates node and then go to All Settings, sort them alphabetically by Setting name and just go down the list and look for any policies where the requirement is defined to “At least Windows 8”. And this is what I have been doing for the last 3 hours. The task might look boring but I can tell you this is a good way to learn about new things. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image.png)
+  ![image](images/image_thumb.png)
 
   Below you find a list of new settings I have found, well possible that I missed one or the other setting, but in any case there are quite some interesting new things to explore. 
 

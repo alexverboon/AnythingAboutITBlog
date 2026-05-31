@@ -20,7 +20,5 @@ IEDigest is collecting all relevant Internet Explorer settings and generates a w
 
  IEDigest can be downloaded from the Microsoft download center [here](https://www.microsoft.com/en-us/download/details.aspx?id=51694). Although not fully up to date, documentation can be downloaded from [here](http://www.regente.de/IEDigest/download/docs/iedigest.pdf)
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/07/image.png)
+ ![image](images/image_thumb.png)
 

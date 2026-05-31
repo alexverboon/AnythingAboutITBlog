@@ -32,7 +32,7 @@ To implement this do the following:
 	
 - Add the script to the TS by adding a Run Command Line task *after* Partition Disk and *before* Apply Operating System[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2013/02/image1.png)
+](images/image1.png)
 
  
 

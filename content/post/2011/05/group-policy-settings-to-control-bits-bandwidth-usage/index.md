@@ -28,23 +28,15 @@ I just read the article [BITS – More Flexible Bandwidth Limit Policies](http:/
 
   With no GPO configured the tasks starts with 1.16 MB/S and an estimated duration of 13 minutes. 
 
-  [
-![2011-05-12 00h37_57](images/2011-05-12-00h37_57_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-12-00h37_57.png)
+  ![2011-05-12 00h37_57](images/2011-05-12-00h37_57_thumb.png)
 
-  [
-![2011-05-12 00h40_24](images/2011-05-12-00h40_24_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-12-00h40_24.png)
+  ![2011-05-12 00h40_24](images/2011-05-12-00h40_24_thumb.png)
 
   After having applied the GPO setting, we can clearly see that the transfer rate has dropped.
 
-  [
-![2011-05-12 00h39_30](images/2011-05-12-00h39_30_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-12-00h39_30.png)
+  ![2011-05-12 00h39_30](images/2011-05-12-00h39_30_thumb.png)
 
   Setting up a custom Event Log view with the following properties allows you see what’s happening when the GPO is being applied. 
 
-  [
-![2011-05-12 01h22_36](images/2011-05-12-01h22_36_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-12-01h22_36.png)
+  ![2011-05-12 01h22_36](images/2011-05-12-01h22_36_thumb.png)
 

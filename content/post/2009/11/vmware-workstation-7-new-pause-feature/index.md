@@ -18,9 +18,7 @@ As I wrote in my [earlier post](https://www.verboon.info/index.php/2009/10/vmwar
 
   *The pause feature causes a virtual machine to cease operation temporarily, without powering off or suspending. Use the pause feature when a virtual machine is engaged in an lengthy, **processor-intensive** activity that prevents you from using your computer to do a more immediate task.* 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image1.png)
+  ![image](images/image_thumb1.png)
 
   *VMWare Guest in Pause Mode*
 
@@ -30,7 +28,5 @@ As I wrote in my [earlier post](https://www.verboon.info/index.php/2009/10/vmwar
 
   To simulate CPU load within the Guest OS , i simply executed a dir c:\*.* /s command and I then “paused” and “re-enabled” the VM twice after a few seconds. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image2.png)
+  ![image](images/image_thumb2.png)
 

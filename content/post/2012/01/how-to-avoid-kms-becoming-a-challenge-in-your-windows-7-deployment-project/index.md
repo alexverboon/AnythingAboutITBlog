@@ -76,9 +76,7 @@ I’ve been involved in Windows 7 deployments since the Beta came out in 2009 an
 
   At the command prompt or start menu just type SLUI.EXE and the Windows Activation window will open and show the activation status. 
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/01/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   **Hint #4 – What does that error code mean?**
 
@@ -88,9 +86,7 @@ I’ve been involved in Windows 7 deployments since the Beta came out in 2009 an
 
   More details [here](http://technet.microsoft.com/de-ch/library/ff793399(en-us).aspx)
 
-  [
-![clip_image004](images/clip_image004_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/01/clip_image004.jpg)
+  ![clip_image004](images/clip_image004_thumb.jpg)
 
   **Hint #5 – for those who like WMI**
 

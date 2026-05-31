@@ -18,13 +18,9 @@ tags:
 ---
 Kind of a long title for a blog post, but I could not come up with something shorter to describe the content of this blog post. The below script shows the status of the “**Allow this Application / program to be installed from the Application / program install task sequence action without being deployed”** setting. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/image.png)
+ ![image](images/image_thumb.png)
 
- [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/image1.png)
+ ![image](images/image_thumb1.png)
 
   
 

@@ -20,31 +20,21 @@ If you’re interested in reading how things really work, the Microsoft Open Spe
 
   [http://msdn.microsoft.com/en-us/openspecifications/dd569930.aspx](http://msdn.microsoft.com/en-us/openspecifications/dd569930.aspx)
 
-  [
-![clip_image002](images/clip_image002_thumb2.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0022.jpg)
+  ![clip_image002](images/clip_image002_thumb2.jpg)
 
   When opening the Interactive Pivot view, we can search for open specifications using key word search, product family or Product versions. 
 
-  [
-![clip_image004](images/clip_image004_thumb2.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0042.jpg)
+  ![clip_image004](images/clip_image004_thumb2.jpg)
 
   When selecting a specification, we get a brief description of the specification document. 
 
-  [
-![clip_image006](images/clip_image006_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0062.jpg)
+  ![clip_image006](images/clip_image006_thumb1.jpg)
 
   And directly open the selected specification in MSDN
 
-  [
-![clip_image007](images/clip_image007_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image007.png)
+  ![clip_image007](images/clip_image007_thumb.png)
 
   From here, the appropriate specification document can be directly downloaded. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/12/image.png)
+  ![image](images/image_thumb.png)
 

@@ -15,9 +15,9 @@ tags:
 ---
 If you’re running a WSUS Server you might want to update it to support Windows 8 and Server 2012. There is Windows 8. Windows RT and Server 2012
 
-  ![2012-09-24_12h50_15](https://www.verboon.info/wp-content/uploads/2012/10/2012-09-24_12h50_15.png)
+  ![2012-09-24_12h50_15](images/2012-09-24_12h50_15.png)
 
-  ![2012-09-24_12h50_37](https://www.verboon.info/wp-content/uploads/2012/10/2012-09-24_12h50_375.png)
+  ![2012-09-24_12h50_37](images/2012-09-24_12h50_375.png)
 
   Additional Reading: 
 

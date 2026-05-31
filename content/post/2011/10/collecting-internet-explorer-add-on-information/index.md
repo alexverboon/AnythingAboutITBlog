@@ -27,13 +27,9 @@ The Windows 8 developer preview build installation media contains an executable 
 
   wicainventory.exe /IEADDONS /output IEAddons.xml
 
-  [
-![2011-10-30 14h01_07](images/2011-10-30-14h01_07_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/10/2011-10-30-14h01_07.png)
+  ![2011-10-30 14h01_07](images/2011-10-30-14h01_07_thumb.png)
 
   With a few clicks the output xml can be easily imported into Microsoft Excel where then you get a clear view of the installed Internet Explorer Add-on’s. 
 
-  [
-![2011-10-30 14h05_44](images/2011-10-30-14h05_44_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/10/2011-10-30-14h05_44.png)
+  ![2011-10-30 14h05_44](images/2011-10-30-14h05_44_thumb.png)
 

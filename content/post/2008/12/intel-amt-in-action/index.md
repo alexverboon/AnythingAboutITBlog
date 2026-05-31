@@ -44,29 +44,21 @@ To start with the first AMT experience you need the following:
 	
 - Launch the Manageability Commander Tool and add your vPro client to the console as shown in the picture below.
 
-[
-![](images/image-thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb9.png) 
+![](images/image-thumb9.png) 
 	
 - Connect to the device by clicking on the Connect button.
 	
 - Once connected you can start using some AMT functionality that is provided through the console.
 
-[
-![](images/image-thumb10-300x168.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb10.png)  
+![](images/image-thumb10-300x168.png)  
 	
 - Go to the "Remote Control" tab and select take control. The Manageability Terminal tool window will open as shown in the picture below
 
-[
-![](images/image-thumb11-300x190.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb11.png) 
+![](images/image-thumb11-300x190.png) 
 	
 - Then click for example on Remote Reboot to BIOS setup, then after a while you should see the system BIOS configuration screen appearing.
 
-[
-![](images/image-thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb12.png) 
+![](images/image-thumb12.png) 
 
 For the rest I suggest, just navigate through the tool and try out the other features yourself, For more demos do a search on Youtube, there are plenty of feature demo videos around vPro and AMT there such as the video below.
 

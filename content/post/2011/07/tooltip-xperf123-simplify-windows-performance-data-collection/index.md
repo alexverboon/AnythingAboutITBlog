@@ -33,9 +33,7 @@ Those of you who have been using the Windows Performance Analysis Toolkit know o
 - Startup    
 - Hibernation 
 
-  [
-![2011-07-18 21h24_47](images/2011-07-18-21h24_47_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-18-21h24_47.png)
+  ![2011-07-18 21h24_47](images/2011-07-18-21h24_47_thumb.png)
 
   Note that the Xperf123 download package has the 64 bit version included of the following tools. XPerf.exe, perfctrl.dll, xbootmgr.exe,    
 xbootmgrSleep.exe and xperf.exe. If you are running a 32 bit version of Windows 7 you must download the appropriate binaries from [here](http://www.microsoft.com/download/en/details.aspx?id=8279)

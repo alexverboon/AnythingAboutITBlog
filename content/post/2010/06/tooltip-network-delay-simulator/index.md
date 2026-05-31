@@ -20,11 +20,7 @@ How long does it take to copy 1 GB over a slow network connection? How fast does
 
   More information and download links can be found [here](http://www.akmalabs.com/netsim.php)
 
-  [
-![2010-06-30 19h50_42](images/2010063019h50_42_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/06/2010063019h50_42.png) Here I simulate a slow connection to a remote server. 
+  ![2010-06-30 19h50_42](images/2010063019h50_42_thumb.png) Here I simulate a slow connection to a remote server. 
 
-  [
-![2010-06-30 19h57_44](images/2010063019h57_44_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/06/2010063019h57_44.png) Here I simulate a slow connection to the internet
+  ![2010-06-30 19h57_44](images/2010063019h57_44_thumb.png) Here I simulate a slow connection to the internet
 

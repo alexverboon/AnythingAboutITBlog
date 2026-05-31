@@ -18,15 +18,11 @@ One of the first things I usually do when setting up a new system that I plan to
 
   The tool is called Portable WinCDEmu. I must admit however that the term “does not require installation” is not 100% correct, since when you launch the tool, it does prompt you with the following message. 
 
-  [
-![image](images/image_thumb19.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image19.png)
+  ![image](images/image_thumb19.png)
 
   Once the driver is installed and loaded you’re ready to mount an ISO file. 
 
-  [
-![image](images/image_thumb20.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image20.png)
+  ![image](images/image_thumb20.png)
 
   To permanently remove the driver simply click on the Uninstall driver option, the driver is then marked for deletion next time the system is rebooted. WinCDEmu can be downloaded from [here](http://wincdemu.sysprogs.org/portable/). 
 

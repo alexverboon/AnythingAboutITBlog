@@ -22,13 +22,9 @@ This week I bought a HP MediaSmart Server EX490 which runs Windows Home Server. 
 
   As you can see from the picture below the device is quite small which is good because you are most likely going to place it somewhere under a desk. 
 
-  [
-![hpmedia3](images/hpmedia3_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/hpmedia3.png) Note that the Home Server is designed to be a headless system, which means that you cannot attach any keyboard, mouse  or monitor to it. All Administration is done via the remote Home Server Console. 
+  ![hpmedia3](images/hpmedia3_thumb.png) Note that the Home Server is designed to be a headless system, which means that you cannot attach any keyboard, mouse  or monitor to it. All Administration is done via the remote Home Server Console. 
 
-  [
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image8.png)
+  ![image](images/image_thumb7.png)
 
   If you are interested to learn more about the Windows Home Server, then I recommend that you look at the links I have listed below under Additional Sources. Especially the [Review of the HP MediaSmart Server](http://www.mediasmartserver.net/2009/09/14/review-hp-mediasmart-server-ex490-and-ex495/) from MediaSmart.net provides a very detailed overview of what you can all do with this device. 
 
@@ -45,13 +41,9 @@ This week I bought a HP MediaSmart Server EX490 which runs Windows Home Server. 
 
   Once logged on you will notice that it looks like if you would log on to a normal Windows Server, there are just fewer things there. 
 
-  [
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image9.png) We could say that basically the Windows Home Server is a customized, stripped down “Server 2003 SP2 for Small Business Server” system. 
+  ![image](images/image_thumb8.png) We could say that basically the Windows Home Server is a customized, stripped down “Server 2003 SP2 for Small Business Server” system. 
 
-  [
-![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image10.png)As you can see from the screenshot above, it has the Internet Information Services (IIS) installed as this is used to remotely access the shared content through the internet. I haven’t been able to find a confirmation yet, but would assume that in fact you can install everything that works on Server 2003 SBS. I wonder when Windows Home Server will be made available with the Server 2008 codebase as the Small Business Edition is already available on that platform. 
+  ![image](images/image_thumb9.png)As you can see from the screenshot above, it has the Internet Information Services (IIS) installed as this is used to remotely access the shared content through the internet. I haven’t been able to find a confirmation yet, but would assume that in fact you can install everything that works on Server 2003 SBS. I wonder when Windows Home Server will be made available with the Server 2008 codebase as the Small Business Edition is already available on that platform. 
 
   Windows Home Server, definitely a Must Have !
 

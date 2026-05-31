@@ -23,7 +23,7 @@ Do you remember the days where your desktop looked like on the picture below ? I
 
   The concept is quite simple. With Fences you can organize your desktop shortcuts into individual groups (fences). 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2009/09/image12.png) 
+  ![image](images/image12.png) 
 
   Using Fences is easy. If you are looking for a utility to organize your desktop, then Fences is definitely a tool you should evaluate. 
 

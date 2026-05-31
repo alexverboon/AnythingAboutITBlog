@@ -16,9 +16,7 @@ tags:
 ---
 As you probably know by know, Microsoft Edge is now the default Browser on Windows 10, but IE11 can still be used.  While using the Microsoft Edge browser I’ve noticed that now and then when opening a website, the following message is displayed. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/09/image.png)
+ ![image](images/image_thumb.png)
 
    
 

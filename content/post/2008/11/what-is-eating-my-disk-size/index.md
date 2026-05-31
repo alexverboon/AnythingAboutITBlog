@@ -14,7 +14,7 @@ tags:
   - 'Space'
 ---
 Today I was testing some OS image within various Virtual Machines and at some stage noticed my available space on the disk became lower and lower. Although after each test i had deleted the VM entirely somehow i must have overlooked one or the other. So where are those **BIG** files on your local disk that are eating your disk size ?
-![](https://www.verboon.info/wp-content/uploads/2008/11/pac-man1.jpg)![](https://www.verboon.info/wp-content/uploads/2008/11/diskdrive1.jpg)
+![](images/pac-man1.jpg)![](images/diskdrive1.jpg)
 
 Well I launched WinDirStat that one had recommended me once, and is really a great tool. WinDirStat provides a graphical overview of your disk, allowing you to quickly identify where the BIG files are that can be deleted to gain space again.
 

@@ -18,9 +18,7 @@ Just learned about these SuperFlows, although some of them were already released
 
   The SuperFlow interactive content model provides a structured and interactive interface for viewing documentation. Read more (SCCM) [here](http://blogs.technet.com/configurationmgr/archive/2010/02/11/announcing-the-release-of-configuration-manager-2007-superflows.aspx) and (App-V) [here](http://blogs.technet.com/appv/archive/2010/04/29/the-application-virtualization-sequencing-superflow-has-been-released.aspx)
 
-  [
-![image](images/image_thumb24.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image24.png) [](https://www.verboon.info/wp-content/uploads/2010/04/image25.png)    
+  ![image](images/image_thumb24.png) [](images/image25.png)    
 
    **Available SuperFlows     
 **[System Center Configuration Manager 2007 Software Updates Synchronization SuperFlow](http://www.microsoft.com/downloads/details.aspx?familyid=D509A9F4-E397-4D0A-89BB-FA3D68B9E8BE&displaylang=en)    

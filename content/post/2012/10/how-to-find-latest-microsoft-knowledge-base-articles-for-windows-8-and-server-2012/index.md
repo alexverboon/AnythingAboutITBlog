@@ -16,9 +16,7 @@ tags:
 ---
 A great resource I am using for years already to proactively read through the Microsoft KB’s is [kbupdate.info](http://kbupdate.info/) a monitoring system that scans the entire Microsoft Knowledge Base every night. Now that Windows 8 and Server 2012 are out and Microsoft starts publishing KBs for it, you can track them easily via kbupdate.info
 
-  [
-![image](images/image4_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/10/image41.png)
+  ![image](images/image4_thumb1.png)
 
   Below just some random KB’s I found interesting to know about. 
 

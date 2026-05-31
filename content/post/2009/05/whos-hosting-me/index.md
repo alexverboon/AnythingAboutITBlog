@@ -20,7 +20,5 @@ This morning i had an issue with a fileserver that is running as a guest on a Hy
 
   To my surprise this information is stored within the guest windows registry under HKLM\Software\Microsoft\Virtual Machine\Guest\Parameters as shown in the picture below. 
 
-  [
-![vhost](images/vhost-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/vhost.png)
+  ![vhost](images/vhost-thumb.png)
 

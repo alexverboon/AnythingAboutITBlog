@@ -194,7 +194,5 @@ End{
 
 When you run the script, you get a list of all URLs or IP Ranges and the related Service.
 
-[
 ![office365](images/office365_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/02/office365.png)
 

@@ -22,7 +22,5 @@ One of the key hardware related prerequisites when using Virtualization software
 
   To keep the story short, what seemed to have happened is that VMWare Workstation did not take notice of the increased amount of RAM, and therefore the Memory configuration within VMWare Workstation was still configured based on the previously available amount of memory. After having adjusted the Memory configuration, performance was greatly improving. 
 
-  [
-![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/03/image.png)
+  ![image](images/image-thumb.png)
 

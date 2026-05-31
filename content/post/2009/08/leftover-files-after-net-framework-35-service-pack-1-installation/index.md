@@ -16,9 +16,7 @@ tags:
 ---
 Some of you might have noticed that after installing the .NET Framework 3.5 Service Pack 1, there can be a leftover folder in the root of the system as shown in the picture below.
 
-[
 ![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image.png)
 
 We identified this issue right after .NET 3.5 SP1 was installed,  and found out soon that we were not the only ones having this issue. Microsoft describes this behavior in [KB951847](http://support.microsoft.com/default.aspx/kb/951847/en-us) and confirms the folder can be deleted.
 
@@ -36,9 +34,7 @@ Xpssvcs.dll*
 
 But deleting that folder doesn’t appear to be so easy. When trying to delete the folder, you get the following error message:
 
-[
 ![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image1.png)
 
 When taking a closer look, you will notice that the folder as special permissions set, so the only way to get rid of this folder is to first take ownership of the content and then delete the folder. When working in an enterprise environment where we are used to automate things, manual steps are not an option, things must run in an automated way.
 

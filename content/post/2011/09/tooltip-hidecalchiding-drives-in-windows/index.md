@@ -23,9 +23,7 @@ Want to make a drive disappear in Windows or prevent users from accessing it? th
 - Kix Script    
 - PowerShell Script 
 
-  [
-![2011-09-02 18h59_20](images/2011-09-02-18h59_20_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/09/2011-09-02-18h59_20.png)
+  ![2011-09-02 18h59_20](images/2011-09-02-18h59_20_thumb.png)
 
   So here’s how this works. 
 
@@ -36,21 +34,15 @@ Want to make a drive disappear in Windows or prevent users from accessing it? th
 
   **Before**
 
-  [
-![2011-09-02 19h51_47](images/2011-09-02-19h51_47_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/09/2011-09-02-19h51_47.png)
+  ![2011-09-02 19h51_47](images/2011-09-02-19h51_47_thumb.png)
 
   **After hiding the Drive**
 
-  [
-![2011-09-02 19h54_14](images/2011-09-02-19h54_14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/09/2011-09-02-19h54_14.png)
+  ![2011-09-02 19h54_14](images/2011-09-02-19h54_14_thumb.png)
 
   **After just preventing access to the Drive**
 
-  [
-![2011-09-02 19h04_59](images/2011-09-02-19h04_59_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/09/2011-09-02-19h04_59.png)
+  ![2011-09-02 19h04_59](images/2011-09-02-19h04_59_thumb.png)
 
   HIDECALC is **FREE** and can be downloaded from [here](http://www.hidecalc.co.uk/)
 

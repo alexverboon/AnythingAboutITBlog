@@ -106,9 +106,7 @@ A few weeks ago I came across a blog [post from Brandon](http://netitude.bc3tech
 
   To add the shortcut, open an elevated prompt and run gotodesktop.vbs /add
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   Note that I added the shortcut to the “AllUsers” folder, so the configuration applies to any user that logs on to the system. 
 

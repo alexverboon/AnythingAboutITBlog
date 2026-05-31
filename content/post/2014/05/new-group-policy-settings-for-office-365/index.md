@@ -17,9 +17,7 @@ tags:
 ---
 On April 28th 2014 Microsoft finally released an [fix for the Office 2013 SP1 Office customization tool](http://blogs.technet.com/b/odsupport/archive/2014/03/14/lync-2013-and-onedrive-for-business-are-not-installed-when-installing-office-2013-with-service-pack-1.aspx) as the version released with SP1 caused some issues with Lync 2013 and OneDrive for Business. But there’s more in this update.A few new Group Policy settings for Office 365 are included as well. 
 
- [
-![SNAGHTML7561b1](images/SNAGHTML7561b1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/05/SNAGHTML7561b1.png)
+ ![SNAGHTML7561b1](images/SNAGHTML7561b1_thumb.png)
 
  **Important**. These new Group Policy settings only apply to Office 365 (click to run installations) and not to Office 2013 MSI based installations. The reason for this is because the settings relate to the update mechanism that’s build in to the Office 365 product. 
 

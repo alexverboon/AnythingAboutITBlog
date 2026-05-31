@@ -23,9 +23,7 @@ One of the objectives of deploying a new operating system within an Enterprise i
 
   To help Enterprises preparing their end users and IT support staff in creating the awareness and becoming familiar with the new features and functionality of Windows 7 and Office, Microsoft has put in place the Enterprise Learning Framework. 
 
-  [
-![image](images/image_thumb18.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image18.png) 
+  ![image](images/image_thumb18.png) 
 
    The Enterprise Learning Framework helps with:
 
@@ -44,9 +42,7 @@ One of the objectives of deploying a new operating system within an Enterprise i
 
   When completed the tool can automatically generate an e-mail message or Word Document that contains all the required training content. To avoid overloading end users with too much information at once, the tool allows to define the actual timeframe. 
 
-  [
-![image](images/image_thumb19.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image19.png) 
+  ![image](images/image_thumb19.png) 
 
   For more information or start preparing the end user training content visit the [Enterprise Learning Framework](http://www.microsoft.com/technet/desktopdeployment/bdd/ELF/Welcome.aspx) portal.
 

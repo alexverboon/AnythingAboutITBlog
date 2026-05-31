@@ -23,9 +23,7 @@ In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-po
 
   The following picture shows the test environment we will use for setting up PolicyPak in just a few simple steps. 
 
-  [
-![clip_image001](images/clip_image001_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image0011.png)
+  ![clip_image001](images/clip_image001_thumb1.png)
 
   **Preparation**
 
@@ -54,43 +52,31 @@ In my [previous post](https://www.verboon.info/index.php/2011/08/taking-group-po
 
   When storing the PolicyPak extension DLL locally you must copy them to the following location: C:\Program Files\PolicyPak\Extensions.
 
-  [
-![clip_image002](images/clip_image002_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image0022.png)
+  ![clip_image002](images/clip_image002_thumb1.png)
 
   If you decide to store them within the central store you must first create a folder called PolicyPak within the central store and then copy the extension DLL into that folder. 
 
-  [
-![clip_image003](images/clip_image003_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image0031.png)
+  ![clip_image003](images/clip_image003_thumb1.png)
 
   **Step 4 – Create a PolicyPak enabled GPO**
 
   In this step, we will create the first PolicyPak enabled Group Policy Object. Launch the Group Policy Management console and create a new GPO. Then open the PolicyPak branch and select New – Application – PolicyPak for Adobe Reader X. 
 
-  [
-![clip_image004](images/clip_image004_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image0041.png)
+  ![clip_image004](images/clip_image004_thumb1.png)
 
   When the PolicyPak is added, select Properties to open the PolicyPak configuration panel. 
 
-  [
-![clip_image005](images/clip_image005_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image005.png)
+  ![clip_image005](images/clip_image005_thumb.png)
 
   The Adobe PolicyPak configuration settings panel opens and you will notice that the UI almost looks identical to the one within the Adobe Reader application. Select the Updater (1) Tab and select “Do not download or install updates….” then select the right context menu and select “Always reapply this setting” (2) and “Disable corresponding control in target application” (3). Then click OK to confirm the setting. 
 
-  [
-![clip_image006](images/clip_image006_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image0062.png)
+  ![clip_image006](images/clip_image006_thumb1.png)
 
   **Step 5 – See the PolicyPak in Action**
 
   Finally logon with a test user account that will get the new created GPO applied. If all goes well, just fire up Acrobat Reader X on your client computer, and you’ll immediately see PolicyPak at work.
 
-  [
-![clip_image007](images/clip_image0071.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image003.png)
+  ![clip_image007](images/clip_image0071.png)
 
   In Part 3 I will show you how easy it is to create your own PolicyPak using the PolicyPak design studio.
 

@@ -32,29 +32,21 @@ If you are using Windows Intune, this little FREE utility from [Impeltec](http:/
 
  The setup is really simple. Open the ImpelLaunch Configuration utility and enter the necessary information 
 
- [
-![image](images/image_thumb20.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/image20.png)
+ ![image](images/image_thumb20.png)
 
  In the above example I defined to execute the launchme.cmd batch file that is located on a network share that resides within the local network. Because the System management agent runs in the system context a username and password is provided to access the content. 
 
  I have enabled the checkbox just below the Save button so that when the configuration file is saved the ImpelLaunch executable is automatically extracted within the same folder where the configuration file is stored. 
 
- [
-![image](images/image_thumb21.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/image21.png)
+ ![image](images/image_thumb21.png)
 
- [
-![image](images/image_thumb22.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/image22.png)
+ ![image](images/image_thumb22.png)
 
  Because I am to lazy now to use Windows Intune or Configuration manager, i use psexec.exe from Sysinternals to simulate the Agent that runs in the system context. 
 
  psexec.exe -s -i c:\data\impeltec_launch\impelLaunch.exe  c:\data\impeltec_launch\ilnp.ilc
 
- [
-![image](images/image_thumb23.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/image23.png)
+ ![image](images/image_thumb23.png)
 
  ImpelLaunch stores all actions into the following log file. “C:\Windows\Logs\impelLaunch.log" The results of the previously launched action look as following. 
 

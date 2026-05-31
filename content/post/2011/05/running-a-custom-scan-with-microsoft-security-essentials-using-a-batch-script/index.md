@@ -32,15 +32,11 @@ pause
 
   If all is OK you get the following result
 
-  [
-![2011-05-07 13h46_17](images/2011-05-07-13h46_17_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-07-13h46_17.png)
+  ![2011-05-07 13h46_17](images/2011-05-07-13h46_17_thumb.png)
 
   If a virus was found you get the following result. 
 
-  [
-![2011-05-07 13h46_47](images/2011-05-07-13h46_47_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-07-13h46_47.png)
+  ![2011-05-07 13h46_47](images/2011-05-07-13h46_47_thumb.png)
 
   I used a test virus file which can be found [here](http://eicar.org/anti_virus_test_file.htm)
 

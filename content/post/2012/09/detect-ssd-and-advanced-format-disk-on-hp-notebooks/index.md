@@ -53,5 +53,5 @@ X X X X X X 0 1 = 01 hex
 
    
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/10/image2.png)
+  ![image](images/image2.png)
 

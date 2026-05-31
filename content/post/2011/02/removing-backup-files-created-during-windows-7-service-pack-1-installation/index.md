@@ -20,9 +20,7 @@ To remove the backup files created during the Windows 7 Service Pack 1 installat
 
 dism.exe /online /cleanup-image /spsuperseded
 
-[
 ![2011-02-19 18h37_59](images/2011-02-19-18h37_59_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-19-18h37_59.png)
 
 After successful completion you should get some disk space back.
 

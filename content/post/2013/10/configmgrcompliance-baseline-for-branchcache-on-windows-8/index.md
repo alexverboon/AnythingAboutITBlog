@@ -24,9 +24,7 @@ Here’s a ConfigMgr Compliance baseline that checks the BranchCache configurati
 - Is the Service Running     
 - Is BranchCache operating in Distributed Cache mode  
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image.png)
+  ![image](images/image_thumb.png)
 
   The following PowerShell commands are included within the configuration items. 
 
@@ -50,15 +48,11 @@ The result is as following (when all is compliant.
 
  
 
-[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image1.png)
 
 Or as following when things are NOT Compliant.  
 
-[
 ![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image2.png)
 
 You can download the exported Win8-BranchCache.cab fie from here: [http://sdrv.ms/GKMDyE](http://sdrv.ms/GKMDyE)
 

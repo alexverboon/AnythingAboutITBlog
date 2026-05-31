@@ -18,13 +18,9 @@ Today’s ToolTip is about [HWiNFO32](http://www.hwinfo.com/index.html) which is
 
   I recommend that you [download](http://www.hwinfo.com/download32.html) the portable ZIP file as that doesn’t require an install. 
 
-  [
-![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image12.png) Beside collecting detailed hardware information, HWiNFO32 also includes a Benchmark feature that compares the current system components against other components. The below screenshot shows the ranking of one of our home notebooks. 
+  ![image](images/image_thumb10.png) Beside collecting detailed hardware information, HWiNFO32 also includes a Benchmark feature that compares the current system components against other components. The below screenshot shows the ranking of one of our home notebooks. 
 
-  [
-![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image13.png)
+  ![image](images/image_thumb11.png)
 
   All collected information can be exported in various formats like XML, HTML, CSV, MHTML, Text log file or as short report. HWiNFO32 can be downloaded from [here](http://www.hwinfo.com/download32.html)
 

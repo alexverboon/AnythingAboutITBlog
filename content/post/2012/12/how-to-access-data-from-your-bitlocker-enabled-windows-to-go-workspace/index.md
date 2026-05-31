@@ -21,17 +21,11 @@ Yesterday we looked at [How to access data from the local disk when running a Wi
 
   This can be done using the Disk Management console. 
 
-  [
-![clip_image002](images/clip_image002_thumb5.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0025.jpg)
+  ![clip_image002](images/clip_image002_thumb5.jpg)
 
   But because we have  the Workspace protected with Bitlocker, we must first enter the password before we can access the content. 
 
-  [
-![clip_image003](images/clip_image003_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image003.png)
+  ![clip_image003](images/clip_image003_thumb.png)
 
-  [
-![clip_image005](images/clip_image005_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image005.jpg)
+  ![clip_image005](images/clip_image005_thumb.jpg)
 

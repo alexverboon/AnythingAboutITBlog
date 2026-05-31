@@ -30,19 +30,13 @@ Intel vPro/AMT enabled systems allow you to remotely reboot a system from a redi
 
   First install the Intel Manageability toolkit on the Administration Console client, which contains the Manageability Commander Tool and allows us to connect to the AMT enabled device, configure IDE-R and power on and off the machine remotely.  Register the client within the console through File, Add, Add Intel AMT Computer. 
 
-  [
-![image](images/image_thumb16.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image19.png) Once the client is registered click on the “Connect” button. 
+  ![image](images/image_thumb16.png) Once the client is registered click on the “Connect” button. 
 
-  [
-![image](images/image_thumb17.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image20.png) When the connection is established, select the Remote Control Tab and click on the “Take Control” button. 
+  ![image](images/image_thumb17.png) When the connection is established, select the Remote Control Tab and click on the “Take Control” button. 
 
-  [
-![image](images/image8_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image81.png) Now let’s move to the VNC Installation and configuration. Install UltraVNC Server and Viewer on the Administrator Console client.  When installed, start the VNC Server and configure it.  [
+  ![image](images/image8_thumb.png) Now let’s move to the VNC Installation and configuration. Install UltraVNC Server and Viewer on the Administrator Console client.  When installed, start the VNC Server and configure it.  [
 ![image](images/image14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image141.png) There are a lot of configuration settings available, configure at least the following ones: *Authentication* – set a password for full and view only access. *Misc* – To avoid graphics related issues, i proactively disabled Aero and Wallpapers. *Query on incoming connection* – Default Action set to Accept. 
+](images/image141.png) There are a lot of configuration settings available, configure at least the following ones: *Authentication* – set a password for full and view only access. *Misc* – To avoid graphics related issues, i proactively disabled Aero and Wallpapers. *Query on incoming connection* – Default Action set to Accept. 
 
   Now copy the following files located under C:\Program Files\UltraVNC\ into a new separate folder like C:\PE_VNC. These are the files that we will integrate into WinPE. 
 
@@ -67,13 +61,9 @@ ultravnc.ini
   if you are familiar with WinPE, I also recommend that you look at the [Walkthrough: Create an Optimized Windows PE Image](http://technet.microsoft.com/en-us/library/dd744554(WS.10).aspx). Optimizing your WinPE image can help you to reduce the size of your WinPE image, which helps reducing network traffic and boot time. By optimizing my WinPE image I managed to reduce its size from 152 MB down to 98 MB. 
 
   Now that we have our WinPE ISO file, let’s go back to the Intel Manageability Commander Tool. Select Disk Redirect menu, Change Target CD-ROM, Redirect to Image File and point to the previously created ISO file. Then select the Disk Redirect menu again and select Redirect Active.    
-[
-![image](images/image_thumb20.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image23.png) Finally we can now boot the remote client from the redirected CD-ROM. Select Remote Command, Remote Reboot to Redirect CD. 
+![image](images/image_thumb20.png) Finally we can now boot the remote client from the redirected CD-ROM. Select Remote Command, Remote Reboot to Redirect CD. 
 
-  [
-![image](images/image_thumb21.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image24.png) Because now the whole ISO file content is being transferred over the wire, you will have to be patient, booting from a redirected CD-ROM can easily take a few minutes.  Remember that we removed the bootfix.bin file form WinPE, so if all goes well, the client will immediately boot into WinPE. 
+  ![image](images/image_thumb21.png) Because now the whole ISO file content is being transferred over the wire, you will have to be patient, booting from a redirected CD-ROM can easily take a few minutes.  Remember that we removed the bootfix.bin file form WinPE, so if all goes well, the client will immediately boot into WinPE. 
 
   There is one thing which i have not yet figured out, and that is a convenient way how to find out the assigned IP address of the remote client, but maybe that is just an issue related to my test environment. So for the my own convenience I added some code to the startnet.cmd batch file, which displays the assigned IP Address. 
 
@@ -108,13 +98,9 @@ echo The current IP address is "%IP%"
 
   So let’s assume you know the IP address (the user was kind enough to read it for you) you can now initiate a remote desktop session through the VNC Viewer. I personally had an issue where the VNC viewer crashed right after establishing the connection with the remote client. I managed to get rid of that by setting the Connection Options to only use 256 Colors instead of Full Colors. 
 
-  [
-![image](images/image_thumb22.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image25.png) If all went well you should now be able to remote control your client. 
+  ![image](images/image_thumb22.png) If all went well you should now be able to remote control your client. 
 
-  [
-![image](images/image23_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image231.png)
+  ![image](images/image23_thumb.png)
 
   
 

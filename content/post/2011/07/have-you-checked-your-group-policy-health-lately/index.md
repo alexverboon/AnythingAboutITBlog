@@ -41,9 +41,7 @@ There are a number of tools and scripts available that can help with the health 
 
 Before starting your GPO health assessment where most likely you end up deleting GPOs, I recommend that you create a backup of your current GPO state. You can create a backup by using the Group Policy Management Console or the PowerShell Backup-GPO cmdlet. When using the GPMC select the Group Policy Objects branch and select *Backup Up All* from the right context menu, you will then be asked to define the path where the backup will be saved and a description, then click Backup and wait for the process to complete.
 
-[
 ![2011-07-23 16h58_03](images/2011-07-23-16h58_03_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-16h58_03.png)
 
 When using PowerShell simply open a PowerShell command prompt and enter the below command. Note that you must create the target backup folder before running the command.
 
@@ -174,9 +172,7 @@ Remove-GPO –GUID <GUID OF GPO>
 
 Good now that we got rid of some corrupt old GPOs let have a look at those that aren’t linked, and therefore in most cases aren’t needed anymore. Again you can either use the Group Policy Management Console or use the script FindUnlinkedGPOs.wsf that comes with the GPMC sample scripts.
 
-[
 ![2011-07-23 20h55_14](images/2011-07-23-20h55_14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-20h55_14.png)
 
 again, using the GPMC is ok if you just have a few of them, if you have many GPOs I recommend running the FindUnlinkedGPOs.wsf script.
 
@@ -244,9 +240,7 @@ IMPORTANT NOTE ! BE VERY CAREFULL WHEN USING ADSI EDIT, doing the wrong thing ca
 
 When opening ADSI Edit and navigating to the Policies branch, we see the two damaged GPO objects.
 
-[
 ![2011-07-23 21h38_37](images/2011-07-23-21h38_37_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-21h38_37.png)
 
 after deleting the GPOTool didn’t report the errors anymore.
 

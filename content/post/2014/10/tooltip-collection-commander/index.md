@@ -26,37 +26,29 @@ tags:
 
  As mentioned previously, Collection Commander runs perfectly without ConfigMgr, but can be integrated as a right-click tool for the ConfigMgr Console. To register Collection Commander as a right-click tool, open Collection Commander, go to Settings and then press the "Add Console extension" button.  [
 ![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/image2.png) Next time you right click on a collection, you'll see the Collection Commander option.  [
+](images/image2.png) Next time you right click on a collection, you'll see the Collection Commander option.  [
 ![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/image3.png) When selecting a ConfigMgr collection, and then launching Collection Commander, then all computers in the collection are added to the Collection Commander Computer list.  
+](images/image3.png) When selecting a ConfigMgr collection, and then launching Collection Commander, then all computers in the collection are added to the Collection Commander Computer list.  
 ### The Basics
 
  When launching the Collection commander either via the ConfigMgr Console or directly Collection commander first starts checking the client status. If you launched Collection Commander manually you have to enter the computer name manually or if you have an Excel sheet or text file with computer names, you can just copy paste them into the tool.  [
 ![SNAGHTML114f87c0](images/SNAGHTML114f87c0_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114f87c0.png) Collection commander first pings the client and then starts collecting some basic health information.  **Online states:**
-[
-![clip_image008](images/clip_image008_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image008.gif)= Machine is online, no error occured
-[
-![clip_image010](images/clip_image010_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image010.gif)= Machine is online, but an error occured (like: unable to connect by using WinRM)
-[
-![clip_image012](images/clip_image012_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image012.gif)= Machine is offline (no response from ping)
+](images/SNAGHTML114f87c0.png) Collection commander first pings the client and then starts collecting some basic health information.  **Online states:**
+![clip_image008](images/clip_image008_thumb.gif)= Machine is online, no error occured
+![clip_image010](images/clip_image010_thumb.gif)= Machine is online, but an error occured (like: unable to connect by using WinRM)
+![clip_image012](images/clip_image012_thumb.gif)= Machine is offline (no response from ping)
 
 **The health state on the main form:**
-[
-![clip_image014](images/clip_image014_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image014.gif)Reboot pending = There are pending File-rename operations, or SCCM requires a reboot.
+![clip_image014](images/clip_image014_thumb.gif)Reboot pending = There are pending File-rename operations, or SCCM requires a reboot.
 [
 ![clip_image014[1]](images/clip_image0141_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image0141.gif)Updates missing = ConfigMgr. approved updates are missing.
+](images/clip_image0141.gif)Updates missing = ConfigMgr. approved updates are missing.
 [
 ![clip_image014[2]](images/clip_image0142_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image0142.gif)Install running = ConfigMgr Agent is installing updates.
+](images/clip_image0142.gif)Install running = ConfigMgr Agent is installing updates.
 [
 ![clip_image014[3]](images/clip_image0143_thumb.gif)
-](https://www.verboon.info/wp-content/uploads/2014/10/clip_image0143.gif)Users online = one or more users are logged on interactively. 
+](images/clip_image0143.gif)Users online = one or more users are logged on interactively. 
 ### Client Requirements
 
  To take full advantage of Collection Commander WinRM must be enabled on the remote clients. For more information about enabling WinRM I suggest you read [Enable Windows Remote Management through Group Policy](https://www.verboon.info/2011/11/enable-windows-remote-management-through-group-policy/).  
@@ -64,14 +56,14 @@ tags:
 
  Opening the right-click context menu shows some basic ConfigMgr tasks that you can initiate on one or multiple computers. I believe they are quite self-explaining so I won't go further into this.  [
 ![SNAGHTML114f505b](images/SNAGHTML114f505b_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114f505b.png) Next are the "Run PowerShell Code" and the "Client Center" options. Before looking at the "Run PowerShell code", let me explain what he Client Center option does and share a little trick with you.  When selecting the Client Center option, Collection Commander launches another Tool called [Client Center](https://sccmclictr.codeplex.com/). I won't go into the details here, as I assume that you are familiar with it already, and if not I strongly recommend you check it out, at least if you are using ConfigMgr.  By default Collection Commander launches the web based installer for Client Center, but if you have Client Center already installed, you probably want Collection commander to launch your locally installed version. To change this behavior you have to make a small modification to the "C:\Program Files (x86)\Collection Commander for Configuration Manager\CMCollCtr.exe.config" file.  Change the entry <value>http://sccmclictr.codeplex.com/releases/clickonce/SCCMCliCtrWPF.application?{0}</value> With  <value>C:\Program Files\Client Center for Configuration Manager 2012\SCCMCliCtrWPF.exe</value> You have to restart Collection Commander for the change to take effect.  
+](images/SNAGHTML114f505b.png) Next are the "Run PowerShell Code" and the "Client Center" options. Before looking at the "Run PowerShell code", let me explain what he Client Center option does and share a little trick with you.  When selecting the Client Center option, Collection Commander launches another Tool called [Client Center](https://sccmclictr.codeplex.com/). I won't go into the details here, as I assume that you are familiar with it already, and if not I strongly recommend you check it out, at least if you are using ConfigMgr.  By default Collection Commander launches the web based installer for Client Center, but if you have Client Center already installed, you probably want Collection commander to launch your locally installed version. To change this behavior you have to make a small modification to the "C:\Program Files (x86)\Collection Commander for Configuration Manager\CMCollCtr.exe.config" file.  Change the entry <value>http://sccmclictr.codeplex.com/releases/clickonce/SCCMCliCtrWPF.application?{0}</value> With  <value>C:\Program Files\Client Center for Configuration Manager 2012\SCCMCliCtrWPF.exe</value> You have to restart Collection Commander for the change to take effect.  
 ### PowerShell, PowerShell
 
  Roger describes Collection Commander as following "The tool is designed for IT Professionals to trigger PowerShell Scripts on a list of devices".  When selecting the "Run PowerShell Code…" menu option, we get the following Window appears.  [
 ![SNAGHTML114f15ac](images/SNAGHTML114f15ac_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114f15ac.png) Within each of the folders you find some useful commands that can be executed against the targeted computers.  [
+](images/SNAGHTML114f15ac.png) Within each of the folders you find some useful commands that can be executed against the targeted computers.  [
 ![SNAGHTML114ed7f1](images/SNAGHTML114ed7f1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114ed7f1.png) Out of the box, the following scripts are included:   
+](images/SNAGHTML114ed7f1.png) Out of the box, the following scripts are included:   
 -  · Agent Service Restart 
 -  · Agent Service Start 
 -  · Agent Service Stop 
@@ -127,12 +119,12 @@ tags:
 
  Extending Collection Commander with your own scripts is straight forward. Just go to the Collection Commander Scripts folder "C:\Program Files (x86)\Collection Commander for Configuration Manager\PSScripts" and there create a new Directory and copy your scripts into that folder.  Example: To add a script that checks the total disk space on drive C: create a script called Total DiskSize Drive C.ps1 with the following PowerShell code (([wmi]"root\cimv2:Win32_logicalDisk.DeviceID='C:'").Size/1GB).ToString("N2")+"GB"  Next copy the file into the PSScripts folder.  "C:\Program Files (x86)\Collection Commander for Configuration Manager\PSScripts\Alex\System\Total DiskSize Drive C.ps1" And there you go, the script is now included within Collection Commander.  [
 ![SNAGHTML114e96fc](images/SNAGHTML114e96fc_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114e96fc.png) The results of the scripts are displayed in the Status Message column.  [
+](images/SNAGHTML114e96fc.png) The results of the scripts are displayed in the Status Message column.  [
 ![SNAGHTML114e54de](images/SNAGHTML114e54de_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114e54de.png) 
+](images/SNAGHTML114e54de.png) 
 ### Running PowerShell Commands
 
  If you have to run the same commands frequently, it makes sense to store them in a script, but you can also run PowerShell commands instantly. Just add the command directly into the PowerShell code Window and then click the Run button.  [
 ![SNAGHTML114e1c8f](images/SNAGHTML114e1c8f_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTML114e1c8f.png) For more information about Collection Commander visit the page on CodePlex: [https://cmcollctr.codeplex.com/](https://cmcollctr.codeplex.com/) If you have any questions or feature requests post them on the Discussions page. [https://cmcollctr.codeplex.com/discussions](https://cmcollctr.codeplex.com/discussions) Cheers Alex
+](images/SNAGHTML114e1c8f.png) For more information about Collection Commander visit the page on CodePlex: [https://cmcollctr.codeplex.com/](https://cmcollctr.codeplex.com/) If you have any questions or feature requests post them on the Discussions page. [https://cmcollctr.codeplex.com/discussions](https://cmcollctr.codeplex.com/discussions) Cheers Alex
 

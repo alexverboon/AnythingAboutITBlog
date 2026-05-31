@@ -16,7 +16,7 @@ tags:
 ---
 If you have tried out the Office 2013 Preview you probably noticed the SkyDrive integration within the File Open and Save dialogs in Word, Excel and other Office Applications. Personally have started using SkyDrive all the time, but I can imagine that some companies rather do not want to see their users storing sensitive data on SkyDrive. So I wondered if this option could be disabled.
 
-  ![1image_thumb](https://www.verboon.info/wp-content/uploads/2012/10/1image_thumb.png)
+  ![1image_thumb](images/1image_thumb.png)
 
    
 
@@ -24,15 +24,15 @@ If you have tried out the Office 2013 Preview you probably noticed the SkyDrive 
 
   Well apparently there is a Group Policy setting for this called “Show SkyDrive Sign in” located under User Configuration / Policies / Administrative Templates / Microsoft Office 2013 / Miscellaneous
 
-  ![2image_thumb1](https://www.verboon.info/wp-content/uploads/2012/10/2image_thumb1.png)
+  ![2image_thumb1](images/2image_thumb1.png)
 
   When setting this to Disabled, the result is as following.
 
-  ![3image_thumb2](https://www.verboon.info/wp-content/uploads/2012/10/3image_thumb2.png)
+  ![3image_thumb2](images/3image_thumb2.png)
 
   But…if we select Add a place, we still get the SkyDrive option and I ‘m allowed to sign up and store my document.
 
-  ![4image_thumb3](https://www.verboon.info/wp-content/uploads/2012/10/4image_thumb3.png)
+  ![4image_thumb3](images/4image_thumb3.png)
 
   So it looks like the option can only be partially disabled, at least within the Microsoft Office 2013 Preview version.
 

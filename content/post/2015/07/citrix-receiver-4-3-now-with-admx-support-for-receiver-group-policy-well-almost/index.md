@@ -38,15 +38,11 @@ Last night Citrix released Citrix Receiver 4.3 that includes ADMX templates to m
 
  But okay, those familiar with Group Policy templates will know where to place which files.  Now comes the next surprise, when opening the Group Policy editor there are multiple nodes for Citrix Components. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image.png)
+ ![image](images/image_thumb.png)
 
  When opening any setting, the supported on description is as following: *ADMX Migrator encountered a policy that does not have a supportedOn value*.
 
- [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image1.png)
+ ![image](images/image_thumb1.png)
 
   
 

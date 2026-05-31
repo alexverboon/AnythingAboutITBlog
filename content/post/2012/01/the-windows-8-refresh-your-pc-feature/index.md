@@ -18,13 +18,9 @@ As recently illustrated on the Windows 8 Build blog Windows 8 comes with new fea
 
   The Refresh Feature can be accessed in two ways, either from a running Windows by selecting the Recovery options or from the Recovery Environment. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/image.png)
+  ![image](images/image_thumb.png)
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/image1.png)
+  ![image](images/image_thumb1.png)
 
   But before you can actually use he Refresh My PC feature, you must first create a custom image that serves as the baseline when refreshing your PC. For Home Computers it’s probably best to to this right after you have completed installing your applications and customized your system to your needs. I am not sure if the Refresh Your PC feature will also be suitable for Enterprise environments where usually computers are joined to a domain and I could imagine that there might be an issue with domain authentication e.g. the computer might have to be re-joined to the domain after the system has been refreshed. (I’ll add this to my “to look at list” and might come back with this in a later post). 
 
@@ -36,9 +32,7 @@ As recently illustrated on the Windows 8 Build blog Windows 8 comes with new fea
 
   Depending on the size of your OS, installed features and applications, this process can take a while. 
 
-  [
-![2012-01-08 13h28_12](images/2012-01-08-13h28_12_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-08-13h28_12.png)
+  ![2012-01-08 13h28_12](images/2012-01-08-13h28_12_thumb.png)
 
   As mentioned in the Windows 8 build blog, recimg.exe creates an image and then registers the image so it can be used by the Refresh Your PC feature. Since the image will be stored on the local drive make sure that you have enough disk space available. So what does **registering** mean? Those of you already familiar with the Windows recovery environment probably know the reagentc.exe tool that ships with the Windows operating system. When executing reagentc.exe /info on a clean machine the output is as following: 
 
@@ -84,21 +78,15 @@ REAGENTC.EXE: Operation successful
 
   When launching the Refresh Your PC option the system will reboot into the Recovery Environment and apply the image you’ve previously created. 
 
-  [
-![2012-01-08 15h40_09](images/2012-01-08-15h40_09_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-08-15h40_09.png)
+  ![2012-01-08 15h40_09](images/2012-01-08-15h40_09_thumb.png)
 
   Once the system is re-installed, you’ll notice a shortcut on the Desktop called “**Removed Apps**”. 
 
-  [
-![2012-01-08 17h02_46](images/2012-01-08-17h02_46_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-08-17h02_46.png)
+  ![2012-01-08 17h02_46](images/2012-01-08-17h02_46_thumb.png)
 
   The shortcut points to a HTML file that lists all the applications that you will need to re-install, this because as mentioned above and explained in detail within the Windows 8 Build blog [article](http://blogs.msdn.com/b/b8/archive/2012/01/04/refresh-and-reset-your-pc.aspx) traditional applications, so non-Metro Style applications are not preserved when refreshing the system. 
 
-  [
-![2012-01-08 17h05_12](images/2012-01-08-17h05_12_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-08-17h05_12.png)
+  ![2012-01-08 17h05_12](images/2012-01-08-17h05_12_thumb.png)
 
   When looking at the root of the system drive you’ll notice that (if you enable showing the hidden items) that there is a folder called $SysReset and a folder called Widnows.old. The Windows.old folder can be removed manually using the Disk Cleanup utility. The $SysReset folder is not removed but I would consider that being the case with the final release of Windows 8.  
 

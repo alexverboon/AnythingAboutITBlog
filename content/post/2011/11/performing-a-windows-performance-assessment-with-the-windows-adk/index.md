@@ -25,43 +25,29 @@ By now most of you have probably looked at the Windows 8 client or server previe
 
   First select the Windows 7 Performance Job and the click on the “Configure” button
 
-  [
-![2011-11-25 00h21_32](images/2011-11-25-00h21_32_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-00h21_32.png)
+  ![2011-11-25 00h21_32](images/2011-11-25-00h21_32_thumb.png)
 
   A second tab is opened where the details of the Job are displayed. As you can see the Windows 7 Performance analysis consists of several assessments that can be further configured, but for now we’ll leave everything default. Since we want to run the performance assessment on another machine click on the “Package” button. 
 
-  [
-![2011-11-25 00h23_44](images/2011-11-25-00h23_44_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-00h23_44.png)
+  ![2011-11-25 00h23_44](images/2011-11-25-00h23_44_thumb.png)
 
   Specify the Results path
 
-  [
-![2011-11-25 00h28_01](images/2011-11-25-00h28_01_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-00h28_01.png)
+  ![2011-11-25 00h28_01](images/2011-11-25-00h28_01_thumb.png)
 
   and where the package content is to be stored. 
 
-  [
-![2011-11-25 00h28_41](images/2011-11-25-00h28_41_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-00h28_41.png)
+  ![2011-11-25 00h28_41](images/2011-11-25-00h28_41_thumb.png)
 
   Then copy the content to a USB disk or directly over to the machine’s local disk that will be used to run the assessment. Because during the assessment the system will reboot several times it’s recommended to enable auto logon on the client. if you don’t want to enable that manually via the registry, use the [Sysinternals Autologon utility](http://technet.microsoft.com/en-us/sysinternals/bb963905) to enable (and later disable) autologon. To start the performance assessment just start the “Run Job.cmd” that is stored within the root of the assessment package folder. Note that by default this job can take up to 3 hours to run. (if you customize the job you can reduce the number of passes etc.). 
 
-  [
-![2011-11-24 19h43_48](images/2011-11-24-19h43_48_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-24-19h43_48.png)
+  ![2011-11-24 19h43_48](images/2011-11-24-19h43_48_thumb.png)
 
   after a while………..the Windows Assessment Console will open on the client and you can start reviewing the results. 
 
-  [
-![2011-11-24 23h41_08](images/2011-11-24-23h41_08_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-24-23h41_08.png)
+  ![2011-11-24 23h41_08](images/2011-11-24-23h41_08_thumb.png)
 
-  [
-![2011-11-24 23h45_11](images/2011-11-24-23h45_11_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-24-23h45_11.png)
+  ![2011-11-24 23h45_11](images/2011-11-24-23h45_11_thumb.png)
 
   There is more, much more we can do with the Assessment Console, but let’s leave that for another time. 
 

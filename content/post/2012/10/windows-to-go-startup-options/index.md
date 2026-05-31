@@ -22,56 +22,38 @@ Windows To Go is another new feature introduced with Windows 8 but only availabl
 
   The startup options can be accessed by just entering the word “startup” on the Windows Start Menu
 
-  [
-![clip_image002](images/clip_image002_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0021.jpg)
+  ![clip_image002](images/clip_image002_thumb1.jpg)
 
   Or for those who intend to create a desktop shortcut use   
  C:\Windows\system32\rundll32.exe pwlauncher.dll,ShowPortableWorkspaceLauncherConfigurationUX
 
-  [
-![clip_image004](images/clip_image004_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0041.jpg)
+  ![clip_image004](images/clip_image004_thumb1.jpg)
 
   And of course there’s also a command-line version pwlauncher.exe
 
   With pwlauncher.exe we can check and configure the startup options. 
 
-  [
-![clip_image006](images/clip_image006_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0061.jpg)
+  ![clip_image006](images/clip_image006_thumb1.jpg)
 
   On a default Windows 8 client, startup options are not configured. 
 
-  [
-![clip_image008](images/clip_image008_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0081.jpg)
+  ![clip_image008](images/clip_image008_thumb1.jpg)
 
   To configure the startup option run pwlauncher.exe /enable
 
-  [
-![clip_image010](images/clip_image010_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0101.jpg)
+  ![clip_image010](images/clip_image010_thumb1.jpg)
 
   I wanted to understand how and where Windows actually stores the configuration so configured [Sysinternal’s Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) and configured it to watch pwlauncher.exe. 
 
-  [
-![clip_image012](images/clip_image012_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0121.jpg)
+  ![clip_image012](images/clip_image012_thumb1.jpg)
 
   When executing pwlauncher /enable process monitor captures a lot of registry and file system actions. The registry actions however are just limited to query actions e.g. reading information, but no write actions. The file system actions however showed some file writing actions. 
 
-  [
-![clip_image014](images/clip_image014_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0141.jpg)
+  ![clip_image014](images/clip_image014_thumb1.jpg)
 
-  [
-![clip_image016](images/clip_image016_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image0161.jpg)
+  ![clip_image016](images/clip_image016_thumb1.jpg)
 
-  [
-![clip_image018](images/clip_image018_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image018.jpg)
+  ![clip_image018](images/clip_image018_thumb.jpg)
 
   When enabling the startup options, Windows updates the file BOOTNXT and creates a new file BOOTTGT. 
 

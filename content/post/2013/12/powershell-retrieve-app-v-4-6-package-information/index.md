@@ -19,9 +19,7 @@ Today we’ve been looking at App-V 4.6 package settings before and after migrat
 
  The below Get-Appv4PkgInfo.ps1 script retrieves information from the App-V Package WMI class. You can run the script against one or more computers and the optional –View parameter lets you define what information you want to see. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/image.png)
+ ![image](images/image_thumb.png)
 
   
 

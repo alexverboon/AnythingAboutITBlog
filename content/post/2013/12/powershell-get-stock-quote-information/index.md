@@ -60,7 +60,5 @@ End{}
 
 ```
 
-[
 ![2013-12-15_14h28_47](images/2013-12-15_14h28_47_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/2013-12-15_14h28_47.png)
 

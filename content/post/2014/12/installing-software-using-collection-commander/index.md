@@ -33,16 +33,12 @@ In the past days I had to provision a number of clients for testing purposes. A 
 
  The important parameters to specify the application are the ID and Revision for the other parameters we can set static values. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/12/image.png)
+ ![image](images/image_thumb.png)
 
  Get-CimInstance -Namespace root/ccm/ClientSDK -ClassName CCM_Application | 
 Where-Object {$_.Name -eq "Enterprise Mode Site List Manager"} | Select-Object id, Revision | fl
 
- [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2014/12/image1.png)
+ ![image](images/image_thumb1.png)
 
  The command to install the software would be as following: 
 
@@ -70,19 +66,13 @@ Else
 
   
 
- [
-![SNAGHTMLb4528ee](images/SNAGHTMLb4528ee_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/12/SNAGHTMLb4528ee.png)
+ ![SNAGHTMLb4528ee](images/SNAGHTMLb4528ee_thumb.png)
 
- [
-![SNAGHTMLb45883d](images/SNAGHTMLb45883d_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/12/SNAGHTMLb45883d.png)
+ ![SNAGHTMLb45883d](images/SNAGHTMLb45883d_thumb.png)
 
  When all software is installed, we can do a final check by running the following command via Collection Commander: 
 
  (Get-CimInstance -Namespace root/ccm/ClientSDK -ClassName CCM_Application | Where-Object {$_.Name -eq "Enterprise Mode Site List Manager"}).InstallState
 
- [
-![SNAGHTMLb476abe](images/SNAGHTMLb476abe_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/12/SNAGHTMLb476abe.png)
+ ![SNAGHTMLb476abe](images/SNAGHTMLb476abe_thumb.png)
 

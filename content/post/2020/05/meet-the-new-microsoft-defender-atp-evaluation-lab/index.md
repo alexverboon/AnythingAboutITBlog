@@ -34,12 +34,12 @@ One way to evaluate Microsoft Defender ATP's ability to monitor and detect malic
 
 At the time of writing this blog post, the attack simulations included within the Microsoft Defender ATP evaluation lab, include the following MITRE ATT&CK techniques.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM1.png)
+![](images/052420_1420_MeetthenewM1.png)
 # Initial Setup
 
 When accessing the evaluation lab for the first time within the Microsoft Defender ATP portal, you will see the following welcome message:
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM2.png)
+![](images/052420_1420_MeetthenewM2.png)
 
 Click on the **Setup Lab** button to start setting up the lab. Now you will need to setup your lab configuration. Now do not rush through this by just clicking next because it is important that you think of how you plan to run your evaluation or testing.
 
@@ -56,60 +56,60 @@ The evaluation lab provides you with three options.
 
 Select the number of devices and then click on the **Next** button.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM3.png)
+![](images/052420_1420_MeetthenewM3.png)
 
 Next you must confirm the Terms from Microsoft, AttackIQ and SafeBreach
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM4.png)![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM5.png)![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM6.png)
+![](images/052420_1420_MeetthenewM4.png)![](images/052420_1420_MeetthenewM5.png)![](images/052420_1420_MeetthenewM6.png)
 
 Click on **Setup lab** to complete the initial setup process
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM7.png)
+![](images/052420_1420_MeetthenewM7.png)
 
 Now that are lab is setup, let's proceed with provisioning a device and run our first simulation.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM8.png)
+![](images/052420_1420_MeetthenewM8.png)
 
 Click on the **Add device** button, and select Windows 10 or Windows Server 2019.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM9.png)**Important**: Copy the password and save it so that you can access the password later, it won't be displayed here again, so if you forget the password, you must reset the password, which is a bit of a lengthy process.
+![](images/052420_1420_MeetthenewM9.png)**Important**: Copy the password and save it so that you can access the password later, it won't be displayed here again, so if you forget the password, you must reset the password, which is a bit of a lengthy process.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM10.png)
+![](images/052420_1420_MeetthenewM10.png)
 
 When providing a device, the following happens:
 
 - A new Windows 10 or Windows Server device is added to the lab, this device is provisioned within Azure in a dedicated network that is NOT connected to your network, so you can run anything on it and make a lot of noise and let the MDATP console shine with detections and alerts.
 - Once the VM is provisioned the attack simulators are deployed, note that this can take a little while, hover over the simulator status column, to see the progress.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM11.png)
+![](images/052420_1420_MeetthenewM11.png)
 
 Here we see, the installation of the simulators is completed, now were' good to go and start running a simulation.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM12.png)
+![](images/052420_1420_MeetthenewM12.png)
 
-Select the Simulations tab, and click on **Create simulation**![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM13.png)![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM14.png)
+Select the Simulations tab, and click on **Create simulation**![](images/052420_1420_MeetthenewM13.png)![](images/052420_1420_MeetthenewM14.png)
 
-Select a **Simulator**, the **simulation**, and the **device, **then click on **Create simulation**![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM15.png)
+Select a **Simulator**, the **simulation**, and the **device, **then click on **Create simulation**![](images/052420_1420_MeetthenewM15.png)
 
 Within the evaluation lab dashboard we now see the progress of the simulation.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM16.png)
+![](images/052420_1420_MeetthenewM16.png)
 
 By selecting the simulation, we get a detailed description of the simulation, including references to the MITRE ATT&CK techniques
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM17.png)
+![](images/052420_1420_MeetthenewM17.png)
 
-Now let us look at the device Alerts and timeline. We have an alert **for Suspicious change to file association setting, **that corresponds to [**T1042**](#)![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM18.png)
+Now let us look at the device Alerts and timeline. We have an alert **for Suspicious change to file association setting, **that corresponds to [**T1042**](#)![](images/052420_1420_MeetthenewM18.png)
 
-Within the timeline we select the alert and the select **Hunt for related events**![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM19.png)
+Within the timeline we select the alert and the select **Hunt for related events**![](images/052420_1420_MeetthenewM19.png)
 
 This opens the Advanced hunting page and shows us all events around this alert, search for selected events and then select the row, this opens the inspect record window where we get more information.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM20.png)
+![](images/052420_1420_MeetthenewM20.png)
 
 We now get more details about the script (from the simulator) that made the change and what was changed.
 
-![](https://www.verboon.info/wp-content/uploads/2020/05/052420_1420_MeetthenewM21.png)
+![](images/052420_1420_MeetthenewM21.png)
 
 Well that is it for today, hope you enjoyed this blog post, if you have not tried out the Microsoft Defender ATP Eval lab, give it a try
 

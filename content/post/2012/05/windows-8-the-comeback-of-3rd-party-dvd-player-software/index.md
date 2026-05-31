@@ -20,27 +20,19 @@ Microsoft recently confirmed that Windows Media Center will not be included by d
 
   In Windows 7 Windows Media Player is the default media player and will in most cases allow playback of DVDs. 
 
-  [
-![2012-05-03_11h52_39](images/2012-05-03_11h52_39_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/2012-05-03_11h52_39.png)
+  ![2012-05-03_11h52_39](images/2012-05-03_11h52_39_thumb.png)
 
   and within Windows Media Player we have options for DVD playback.
 
-  [
-![2012-05-03_14h19_20](images/2012-05-03_14h19_20_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/2012-05-03_14h19_20.png)
+  ![2012-05-03_14h19_20](images/2012-05-03_14h19_20_thumb.png)
 
      In Windows 8, Windows Media player is not listed anymore for DVD playback 
 
-  [
-![2012-05-03_12h01_04](images/2012-05-03_12h01_04_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/2012-05-03_12h01_04.png)
+  ![2012-05-03_12h01_04](images/2012-05-03_12h01_04_thumb.png)
 
   and the DVD playback tab in Media Player options has disappeared. 
 
-  [
-![2012-05-03_14h20_48](images/2012-05-03_14h20_48_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/2012-05-03_14h20_48.png)
+  ![2012-05-03_14h20_48](images/2012-05-03_14h20_48_thumb.png)
 
   Bottom line, when inserting a movie DVD into a system running Windows 8, you won’t be able to play the movie unless you are using Media Center (that is still included in the Windows 8 Consumer Preview) or a 3rd party DVD playback software. 
 

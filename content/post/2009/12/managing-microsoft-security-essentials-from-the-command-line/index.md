@@ -44,13 +44,9 @@ Collects support information
 
   When I booted my Windows 7 client this afternoon, the virus and spyware definition status was set as shown in the picture below. 
 
-  [
-![image](images/image_thumb24.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image27.png) After running mpcmdrun –SignatureUpdate the definition files were updated. 
+  ![image](images/image_thumb24.png) After running mpcmdrun –SignatureUpdate the definition files were updated. 
 
-  [
-![image](images/image_thumb25.png)
-](https://www.verboon.info/wp-content/uploads/2009/12/image28.png)
+  ![image](images/image_thumb25.png)
 
   When using the –scan option you can define whether you want to run a default, quick or full system scan. To run a quick scan simply type MpCmdRun –scan –1 at the command prompt. 
 

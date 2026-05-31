@@ -17,7 +17,7 @@ tags:
 ---
 Today I received an e-mail from a customer explaining to me that at times they have false positives with e-mail Impersonation. Depending on your configuration the e-mail will end up being moved to the user's junk folder or into quarantine. When releasing such a message and have safety tips turned on, you might see the following message at the top of the message.
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced1.png)
+![](images/092220_2151_MTPAdvanced1.png)
 
 Reading Tip: [Protect yourself from phishing schemes and other forms of online fraud](#)
 
@@ -54,11 +54,11 @@ EmailEvents
 
 What we get is a list of all the e-mail received from the defined e-mail domains.
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced2.png)
+![](images/092220_2151_MTPAdvanced2.png)
 
 By adding | render piechart at the end of query we get a nice graph.
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced3.png)
+![](images/092220_2151_MTPAdvanced3.png)
 
 Now let's turn things around and take a look at how much e-mail is **send** to free e-mail service domains.
 ```
@@ -89,7 +89,7 @@ EmailEvents
 
 What we get is a list of all the e-mail send **to** the defined e-mail domains.
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced4.png)
+![](images/092220_2151_MTPAdvanced4.png)
 
 Next, let's take a look at emails where user impersonation was detected.
 ```
@@ -123,11 +123,11 @@ For privacy reasons, I can't show you the output of the above query, but I sugge
 
 Office ATP has several Phish detection methods, so simply change the query as shown below to get a list of possible methods detected.
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced5.png)
+![](images/092220_2151_MTPAdvanced5.png)
 
 Change the query as following to identify the users affected
 
-![](https://www.verboon.info/wp-content/uploads/2020/09/092220_2151_MTPAdvanced6.png)
+![](images/092220_2151_MTPAdvanced6.png)
 
 As always, I hope you enjoyed reading this blog post, comments, suggestions are always welcome
 

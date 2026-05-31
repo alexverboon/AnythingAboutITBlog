@@ -16,9 +16,7 @@ tags:
 ---
 While importing a Configuration Manager Configuration Baseline within our lab infrastructure  that I had previously exported from our production environment I received the following error:
 
- [
-![dcm_error](images/dcm_error_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/07/dcm_error.png)
+ ![dcm_error](images/dcm_error_thumb.png)
 
  ***“The following files could not be imported because they contain incorrect or missing configuration data:***
 
@@ -28,9 +26,7 @@ While importing a Configuration Manager Configuration Baseline within our lab in
 
  As a next step I started looking within the **smsprov.log** file on the CM server and noticed a log entry written at the same time of starting the import. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/07/image.png)
+ ![image](images/image_thumb.png)
 
  Execute WQL =select CI_ID from SMS_SoftwareUpdate where CI_UniqueID='011f4bc8-e312-48df-8656-073be2ab9ee0'~ \$\$<SMS Provider><07-04-2013 09:38:06.559-120><thread=1212 (0x4BC)>
 Execute SQL =select all SMS_SoftwareUpdate.CI_ID from fn_ListUpdateCIs(1033) AS SMS_SoftwareUpdate where SMS_SoftwareUpdate.CI_UniqueID = N'**011f4bc8-e312-48df-8656-073be2ab9ee0'**~ \$\$<SMS Provider><07-04-2013 09:38:06.561-120><thread=1212 (0x4BC)>
@@ -66,9 +62,7 @@ Results returned : 0 of 1~ \$\$<SMS Provider><07-04-2013 09:38:06.615-120><threa
 
  When I then opened the Configuration Baseline I noticed that I have one Software Update Configuration Item included within the Configuration Baseline.  
 
- [
-![dcm_patch](images/dcm_patch_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/07/dcm_patch.png)
+ ![dcm_patch](images/dcm_patch_thumb.png)
 
  The reason why the import process ended up in an error is because no reference to the software update item could be made. So once I removed the software update item, exported the baseline again, the new generated CAB file could be successfully imported.
 

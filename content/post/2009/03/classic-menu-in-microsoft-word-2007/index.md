@@ -26,15 +26,11 @@ With the release of the Office 2007 suite, Microsoft made some radical changes t
 
   Although I encourage everyone to get used with the Ribbon, sometimes things just need to go quick, and here the [Word Menu utility](http://indelibleink.com/WordMenu.html) can be really a life and time saver. 
 
-  [
-![image](images/image-thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/03/image3.png) 
+  ![image](images/image-thumb3.png) 
 
   Talking about WinWord, did you know that Word has a history of nearly 28 years?. 
 
-  [
-![image](images/image-thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/03/image4.png) 
+  ![image](images/image-thumb4.png) 
 
   I wanted to go back in history a bit and found a couple of interesting links:
 

@@ -16,9 +16,7 @@ tags:
 ---
 You probably know that problem, you’ve started copying a bunch of files or folders from A to B and BANG at some stage you get an error or maybe you just have to move to another place and don’t have network connectivity for a short while. Copy Handler can help here. 
 
-  [
-![2011-08-02 20h14_21](images/2011-08-02-20h14_21_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/08/2011-08-02-20h14_21.png)
+  ![2011-08-02 20h14_21](images/2011-08-02-20h14_21_thumb.png)
 
   Although Copy Handler also supports “moving” data, I do personally actually never move data, but rather first copy and then delete. Well possible that I am a bit conservative here, but I rather know something got copied properly before deleting something, if a move operation fails you might find yourself in an unpleasant situation. 
 

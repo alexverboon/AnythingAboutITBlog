@@ -79,11 +79,7 @@ Example:
 
 Get-CMColContent -Name “All”
 
-[
 ![SNAGHTMLa17ffb](images/SNAGHTMLa17ffb_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/01/SNAGHTMLa17ffb.png)
 
-[
 ![SNAGHTMLa30678](images/SNAGHTMLa30678_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/01/SNAGHTMLa30678.png)
 

@@ -31,7 +31,5 @@ As a response to the European Antitrust Commission, Microsoft will strip the Int
 
   5) Double-click *anything.hta* and go get your browser of choice
 
-  [
-![image](images/image-thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image10.png) Credits for this solution go to my friend Claude Henchoz
+  ![image](images/image-thumb10.png) Credits for this solution go to my friend Claude Henchoz
 

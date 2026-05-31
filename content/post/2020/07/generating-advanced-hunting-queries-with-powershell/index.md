@@ -34,11 +34,11 @@ Or
 
 Below are a few examples how to use the script **New-KQPSModuleFunctions** (sorry I could not come up with a better name for the function )
 
-![](https://www.verboon.info/wp-content/uploads/2020/07/071020_2310_GeneratingA1.png)And there we have our advanced hunting queries, automatically generated with PowerShell including all the functions included in the **NetSecurity** PowerShell module
+![](images/071020_2310_GeneratingA1.png)And there we have our advanced hunting queries, automatically generated with PowerShell including all the functions included in the **NetSecurity** PowerShell module
 
-![](https://www.verboon.info/wp-content/uploads/2020/07/071020_2310_GeneratingA2.png)And here the advanced hunting query with all the functions included in the **Powersploit** module
+![](images/071020_2310_GeneratingA2.png)And here the advanced hunting query with all the functions included in the **Powersploit** module
 
-![](https://www.verboon.info/wp-content/uploads/2020/07/071020_2310_GeneratingA3.png)The code can be found here: [https://gist.github.com/alexverboon/9ccf8af7569103397da2b8ba4079529d](#)
+![](images/071020_2310_GeneratingA3.png)The code can be found here: [https://gist.github.com/alexverboon/9ccf8af7569103397da2b8ba4079529d](#)
 
 That's it, have a great day
 

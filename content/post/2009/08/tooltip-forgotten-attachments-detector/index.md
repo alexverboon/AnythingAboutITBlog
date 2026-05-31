@@ -22,9 +22,7 @@ You probably all know this one. You write an e-mail that mentions an attachment 
 
   This FREE add-on will give you a warning message if you have pushed the Send Button in case you have mentioned an attached document, but the mail doesn’t contain any attachments. 
 
-  [
-![image](images/image-thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image3.png)
+  ![image](images/image-thumb3.png)
 
   The Add-in can be downloaded from [here](http://www.officelabs.com/projects/forgottenattachmentdetector/Pages/default.aspx)
 

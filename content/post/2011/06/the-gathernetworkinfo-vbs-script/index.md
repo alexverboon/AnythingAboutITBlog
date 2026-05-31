@@ -20,21 +20,15 @@ I recently read the whitepaper“[Using Windows Script Host and COM to Hack Wind
 
   On a system where the script hasn’t been executed yet the Config folder looks as following:
 
-  [
-![2011-06-20 21h42_17](images/2011-06-20-21h42_17_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/06/2011-06-20-21h42_17.png)
+  ![2011-06-20 21h42_17](images/2011-06-20-21h42_17_thumb.png)
 
   Now open a command prompt with elevated rights and run cscript c:\windows\system32\gathernetworkinfo.vbs When the script has completed you will see that additional files have been added to the Config folder. 
 
-  [
-![2011-06-20 21h47_28](images/2011-06-20-21h47_28_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/06/2011-06-20-21h47_28.png)
+  ![2011-06-20 21h47_28](images/2011-06-20-21h47_28_thumb.png)
 
   The structure of the script is quite easy to understand. Within the first part of the script all functions are defined, the second part defines the output file names and the last part actually calls the individual data collection functions including the output file parameter. 
 
   The script is also defined within a scheduled task called Nettrace which is not scheduled to run automatically. 
 
-  [
-![2011-06-20 21h57_23](images/2011-06-20-21h57_23_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/06/2011-06-20-21h57_23.png)
+  ![2011-06-20 21h57_23](images/2011-06-20-21h57_23_thumb.png)
 

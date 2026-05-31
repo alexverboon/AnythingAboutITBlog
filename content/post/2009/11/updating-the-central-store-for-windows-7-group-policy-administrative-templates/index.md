@@ -20,9 +20,7 @@ If you do have a Central Store already, updating it with the Windows 7 Group Pol
 
 A good alternative for copying the files manually is the [Vista Central Store Creator Utility](http://www.gpoguy.com/FreeTools/FreeToolsLibrary/tabid/67/agentType/View/PropertyID/88/Default.aspx) from Darren Mar-Elia which automates the whole process of creating and updating the Central Store.
 
-[
-![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image10.png) **Related Content
+![image](images/image_thumb10.png) **Related Content
 **[Screencast: How-To Configure the Central ADMX Store](http://edge.technet.com/Media/Screencast-How-To-Configure-the-Central-ADMX-Store/)
 [How to create a Central Store for Group Policy Administrative Templates in Window Vista](http://support.microsoft.com/kb/929841)
 [Group Policy Settings References for Windows and Windows Server](http://www.microsoft.com/downloads/details.aspx?FamilyID=18c90c80-8b0a-4906-a4f5-ff24cc2030fb&displaylang=en)

@@ -16,9 +16,7 @@ tags:
 ---
 During the past days I have been manually updating a few Windows 7 clients and on two of them I received the error **0x800fa12**. 
 
-  [
-![2011-02-24 11h26_01](images/2011-02-24-11h26_01_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h26_01.png)
+  ![2011-02-24 11h26_01](images/2011-02-24-11h26_01_thumb.png)
 
   When clicking on the Go online [link](http://windows.microsoft.com/en-US/windows7/windows-7-windows-server-2008-r2-service-pack-1-sp1-installation-error-0x800F0A12) Microsoft mentions the several reasons that could lead to this error. 
 
@@ -38,33 +36,23 @@ During the past days I have been manually updating a few Windows 7 clients and o
 
   Knowing my systems I could immediately exclude cause 2,3 and 4, so took a closer look at cause 1. Running the command MOUNTVOL /L showed the following result: 
 
-  [
-![2011-02-24 11h26_19](images/2011-02-24-11h26_19_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h26_19.png)
+  ![2011-02-24 11h26_19](images/2011-02-24-11h26_19_thumb.png)
 
   I than ran DISKPART and got the following result. In fact the 100MB sized System Partition was Offline. 
 
-  [
-![2011-02-24 11h26_10](images/2011-02-24-11h26_10_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h26_10.png)
+  ![2011-02-24 11h26_10](images/2011-02-24-11h26_10_thumb.png)
 
   as per Microsoft’s recommendation I then executed MOUNTVOL /E which re-enables automatic mounting of new volumes and then rebooted the system. Once rebooted I executed MOUNTVOL again and got the following result. 
 
-  [
-![2011-02-24 11h31_31](images/2011-02-24-11h31_31_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h31_31.png)
+  ![2011-02-24 11h31_31](images/2011-02-24-11h31_31_thumb.png)
 
   When executing DISKPART the results were as following: 
 
-  [
-![2011-02-24 11h32_06](images/2011-02-24-11h32_06_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h32_06.png)
+  ![2011-02-24 11h32_06](images/2011-02-24-11h32_06_thumb.png)
 
   When Launching the Service Pack 1 installer again no issues were detected and installation could continue. 
 
-  [
-![2011-02-24 11h33_53](images/2011-02-24-11h33_53_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-24-11h33_53.png)
+  ![2011-02-24 11h33_53](images/2011-02-24-11h33_53_thumb.png)
 
   Why this actually happened I don’t know. Windows 7 by default has the automount feature enabled. The current status of automount can be checked by looking at the following registry key. 
 

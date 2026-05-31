@@ -18,9 +18,7 @@ Today I received a project plan with the request to review it. Since I haven’t
 
   AmiProject supports MS Project 2002, 2003, 2007 and 2010 formats and runs in IE7+, Firefox, Chrome, Safari and Opera browsers. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/09/image1.png)
+  ![image](images/image_thumb1.png)
 
   Just go to [http://www.amiproject.com/app.aspx](http://www.amiproject.com/app.aspx) and open the project file. 
 

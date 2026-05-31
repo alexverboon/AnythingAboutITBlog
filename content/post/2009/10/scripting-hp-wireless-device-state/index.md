@@ -22,9 +22,7 @@ What many don’t know is that there is a command line  utility that allows you
 
 Launching wireless.exe without providing any command line options will show a dialog box describing all available command line parameters.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/10/image.png)
 
 So if you want to enable all Wireless Devices automatically on a HP notebook system, then simply run the following command:
 
@@ -36,7 +34,5 @@ C:\Program Files\Hewlett-Packard\HP Wireless Assistant\Wireless.exe WirelessLAN 
 
 You can see the state of the individual Wireless Devices within the HP Wireless Assistant Application.
 
-[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/10/image1.png)
 

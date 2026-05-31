@@ -20,29 +20,19 @@ When I checked my Twitter messages today, I came across a message about [LiveAnd
 
   Now you can continue setting up a Virtual Machine. Android is based on the Linux kernel 2.6 so that is what I selected during the Virtual Machine Setup. As a hard disk type i used IDE and assigned 256 MB RAM. I tried with less memory before, but got strange results like not having a mouse pointer etc. 
 
-  [
-![image](images/image-thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image2.png)
+  ![image](images/image-thumb2.png)
 
   Once you have completed the virtual machine configuration, you simply boot the guest OS from the liveandroidv0.2.iso file. 
 
-  [
-![image](images/image-thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image3.png) *Boot Screen*
+  ![image](images/image-thumb3.png) *Boot Screen*
 
-  [
-![image](images/image-thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image4.png)
+  ![image](images/image-thumb4.png)
 
   *Desktop (or whatever it’s called)*
 
-  [
-![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image5.png) *Menu*
+  ![image](images/image-thumb5.png) *Menu*
 
-  [
-![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image6.png) *Anything about IT mobile page (launched in Android embedded browser)*
+  ![image](images/image-thumb6.png) *Anything about IT mobile page (launched in Android embedded browser)*
 
   You can always return to the main desktop by pressing the ESC key.
 

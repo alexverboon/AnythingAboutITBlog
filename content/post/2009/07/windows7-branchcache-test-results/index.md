@@ -26,9 +26,7 @@ Back in April I was [playing with BranchCache](https://www.verboon.info/index.ph
 
   Looking at the first row, copying a file of 84 MB to the first system took 6 minutes and 51 seconds, copying the same file to the second system took only 2 minutes and 30 seconds. That does make a difference!
 
-  [
-![image](images/image-thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image11.png) 
+  ![image](images/image-thumb11.png) 
 
   Throughout testing BranchCache I had to learn that BranchCache for SMB is dependant on offline files (transparent cache). 
 

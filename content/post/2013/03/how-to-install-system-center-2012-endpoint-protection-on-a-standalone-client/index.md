@@ -22,21 +22,15 @@ Suppose you have a need to deploy System Center 2012 Endpoint Protection to a nu
 
   Configure the various settings as per your requirements. 
 
-  [
-![2013-03-24_14h58_38](images/2013-03-24_14h58_38_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/03/2013-03-24_14h58_38.png)
+  ![2013-03-24_14h58_38](images/2013-03-24_14h58_38_thumb.png)
 
   One very important setting is the Definition Updates Source configuration which by default points to the Configuration Manager. For our standalone scenario we will enable Microsoft Update and Microsoft Malware Protection Center only. If your clients do not have direct connectivity to the internet the use of a UNC share could also be an alternative, but then requires that you periodically update the share with latest definition updates packages.  
 
-  [
-![2013-03-24_14h59_12](images/2013-03-24_14h59_12_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/03/2013-03-24_14h59_12.png)
+  ![2013-03-24_14h59_12](images/2013-03-24_14h59_12_thumb.png)
 
   Finally we export the settings and save them as standalone.xml
 
-  [
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2013/03/image6.png)
+  ![image](images/image_thumb6.png)
 
   To install the System Center Endpoint Protection client run the following command (both the installer and policy file are stored in C:\Sources).
 
@@ -48,7 +42,5 @@ Suppose you have a need to deploy System Center 2012 Endpoint Protection to a nu
 
   C:\Program Files\Microsoft Security Client\**ConfigSecurityPolicy.exe** c:\Sources\standalone2.xml
 
-  [
-![2013-03-24_15h44_12](images/2013-03-24_15h44_12_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/03/2013-03-24_15h44_12.png)
+  ![2013-03-24_15h44_12](images/2013-03-24_15h44_12_thumb.png)
 

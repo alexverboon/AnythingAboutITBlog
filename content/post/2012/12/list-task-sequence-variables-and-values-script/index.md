@@ -34,9 +34,7 @@ cscript ts_var.vbs P
 - If you write the first letters of a variable only those environment variables and task sequence variables matching these letters are listed.      
 cscript ts_var.vbs Processor 
 
-  [
-![clip_image002](images/clip_image002_thumb6.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0026.jpg)
+  ![clip_image002](images/clip_image002_thumb6.jpg)
 
   Copy the below script into a file and save it as TS_var.vbs, then store the file into a location where you can access it while running an MDT or SCCM Task Sequence such as the <DeploymentShare>\Scripts folder. 
 

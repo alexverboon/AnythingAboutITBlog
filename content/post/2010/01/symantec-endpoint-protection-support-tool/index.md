@@ -18,17 +18,11 @@ I’m currently busy with integrating the Symantec Endpoint Protection software 
 
 For those that have a SEP 11 version prior RU5 the tool can be downloaded from [here](http://service1.symantec.com/SUPPORT/ent-security.nsf/docid/2008071709480648) and as of RU5 (11.0.5002.333) the tool can also be downloaded from within the Symantec Endpoint Protection client by opening the Client user interface and selecting *Help & Support* > *Download Support Tool*.
 
-[
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image6.png) when completed all results are listed in categories.
+![image](images/image_thumb6.png) when completed all results are listed in categories.
 
-[
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image7.png) and for my case, answering my question whether I am using the latest and greatest version.
+![image](images/image_thumb7.png) and for my case, answering my question whether I am using the latest and greatest version.
 
-[
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image8.png)The tool provides much more information than just the current version, so if you are a Security Professional (then you probably know this tool already) or an IT Pro this is a must have for SEP troubleshooting or information gathering.
+![image](images/image_thumb8.png)The tool provides much more information than just the current version, so if you are a Security Professional (then you probably know this tool already) or an IT Pro this is a must have for SEP troubleshooting or information gathering.
 
 Additional Information: (thanks to Grant Hall)
 [About the Symantec Endpoint Protection Support Tool](http://service1.symantec.com/SUPPORT/ent-security.nsf/docid/2008120810393048)

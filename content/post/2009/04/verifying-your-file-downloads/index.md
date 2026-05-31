@@ -25,9 +25,7 @@ Today we once more ran into an issue caused by a corrupted file transfer. I ment
 
   Mark the file or folder for which you wan to create a checksum file, then select “Create SFV file” from the Explorer context menu. 
 
-  [
-![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/04/image.png) 
+  ![image](images/image-thumb.png) 
 
   Note that by default an SFV file is being created, next to the filename you can toggle between SFV and MD5. 
 
@@ -37,9 +35,7 @@ Today we once more ran into an issue caused by a corrupted file transfer. I ment
 
   If your content was checked successfully, you should see a status window as shown below. 
 
-  [
-![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/04/image1.png) 
+  ![image](images/image-thumb1.png) 
 
   **ZIP – RAR your content**
 

@@ -18,9 +18,7 @@ CBS Package Inspector (Package Inspector) is a GUI tool that allows you to open 
 
   This tool becomes handy when you need to take a closer look what files or registry settings an update applies.   
 
-  [
-![2011-11-19 13h26_42](images/2011-11-19-13h26_42_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-19-13h26_42.png)
+  ![2011-11-19 13h26_42](images/2011-11-19-13h26_42_thumb.png)
 
   The CBS Package Inspector can be downloaded from [here](http://archive.msdn.microsoft.com/packageinspector/Release/ProjectReleases.aspx?ReleaseId=5309)
 

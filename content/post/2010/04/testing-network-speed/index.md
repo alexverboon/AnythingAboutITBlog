@@ -52,7 +52,5 @@ numCalls: 3061; msec/call: 0.48; calls/sec: 2131.62
 
   The other utility I found is called LAN Speed Test provided by [Simple Software Solutions](http://www.totusoft.com/). LAN Speed Test performs the speed test by writing and reading  a file on a remote client. The remote client and file size of the test file can be specified within the UI when starting the test. 
 
-  [
-![image](images/image_thumb22.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image22.png) LAN Speed Test can be downloaded from [here](http://www.totusoft.com/downloads)
+  ![image](images/image_thumb22.png) LAN Speed Test can be downloaded from [here](http://www.totusoft.com/downloads)
 

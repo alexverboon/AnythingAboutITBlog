@@ -59,9 +59,7 @@ ClientConfig -MachineName "localhost" -OutPutPath "c:\Data\DSC\ClientConfig"
 
 The result of running the above script is the **localhost.mof** file
 
-[
 ![2013-11-16_18h04_29](images/2013-11-16_18h04_29_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_18h04_29.png)
 
 The content of the MOF file looks as following (*Get-Content localhost.mof*)
 
@@ -116,27 +114,19 @@ Start-DscConfiguration -Path "c:\Data\DSC\ClientConfig" -wait -Verbose
 
 ```
 
-[
 ![2013-11-16_18h18_01](images/2013-11-16_18h18_01_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_18h18_01.png)
 
 The result is that we have now the file and the content that was expected
-[
 ![2013-11-16_18h21_08](images/2013-11-16_18h21_08_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_18h21_08.png)
 
 as well as the registry key and expected value
-[
 ![2013-11-16_18h22_36](images/2013-11-16_18h22_36_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_18h22_36.png)
 
 But there is more, the configuration not only got applied but also stored on the system. I spend a bit of time figuring out where it actually stores the data. With the help of the Event log i found out that the configuration gets stored into **C:\Windows\System32\Configuration\Current.MOF**
 
 Speaking about the Event log, if you open the Event log viewer, you will find a dedicated log for Desired State Configuration events. 
 
-[
 ![2013-11-16_19h48_56](images/2013-11-16_19h48_56_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_19h48_56.png)
 
 To see what configuration is stored on the system, we can simply run the following command
 
@@ -145,9 +135,7 @@ Get-DSCConfiguration
 
 ```
 
-[
 ![2013-11-16_19h54_40](images/2013-11-16_19h54_40_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_19h54_40.png)
 
 To check whether our system is still compliant we run the following command
 
@@ -156,15 +144,11 @@ Test-DscConfiguration -Verbose
 
 ```
 
-[
 ![2013-11-16_19h57_31](images/2013-11-16_19h57_31_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_19h57_31.png)
 
 Now let’s change things on our system. We remove the registry key and change the content of the file and then run the Test-DSCConfiguration command again. 
 
-[
 ![2013-11-16_20h02_21](images/2013-11-16_20h02_21_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_20h02_21.png)
 
 What is interesting is that as soon as it detected that the registry setting is not compliant the test returns false, but also does not continue checking the other configuration. I assume this is by design. 
 
@@ -175,9 +159,7 @@ Get-DscLocalConfigurationManager
 
 ```
 
-[
 ![2013-11-16_20h18_20](images/2013-11-16_20h18_20_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_20h18_20.png)
 
 It took me a bit to find this one out, but after putting together the following command
 
@@ -190,9 +172,7 @@ we know that there are three Configuration Modes. ApplyOnly, ApplyAndMonitor, Ap
 
 During my DSC discovery journey I also found out that there is a Scheduled Task for DSC. 
 
-[
 ![2013-11-16_20h41_30](images/2013-11-16_20h41_30_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_20h41_30.png)
 
 To find out what actions these tasks perform, we can use the following command. 
 
@@ -203,9 +183,7 @@ $DSCTasks | Select-Object TaskName, Execute, Arguments | Where-Object {$_.Argume
 
 ```
 
-[
 ![2013-11-16_20h44_24](images/2013-11-16_20h44_24_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_20h44_24.png)
 
 Both commands are nearly the same except for the Flags set for [PerformRequiredConfigurationChecks](http://msdn.microsoft.com/en-us/library/dn469248(v=vs.85).aspx) . The first command has 1 specified, the scond 2. Unfortunately Microsoft hasn’t completed its documented yet, so its unclear to me what the meaning is of these flags. 
 
@@ -213,7 +191,7 @@ Now that we know that DSC is triggered through a Scheduled Task let’s change o
 
 **[
 ![2013-11-16_20h50_05](images/2013-11-16_20h50_05_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_20h50_05.png)**
+](images/2013-11-16_20h50_05.png)**
 
 Run the Scheduled Task and and then check the event log
 
@@ -227,15 +205,11 @@ Get-WinEvent -ProviderName "Microsoft-Windows-DSC" -MaxEvents 10  | Select-Objec
 
 ```
 
-[
 ![2013-11-16_21h02_01](images/2013-11-16_21h02_01_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h02_01.png)
 
 ****So now the registry key should be back right? unfortunatelyit is not. Although DSC did detect that the system is not in its desired configuration state, no action was taken. 
 
-[
 ![2013-11-16_21h02_55](images/2013-11-16_21h02_55_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h02_55.png)
 
 Remember that we spoke about the Configuration Modes earlier. By default the local configuration manager is configured to ApplyAndMonitor, so if we want to change this behaviour to ApplyAndAutoCorrect we must change the configuration of the Local Configuration Manager. 
 
@@ -262,9 +236,7 @@ LocalCfgMgr -MachineName localhost -OutPutPath "c:\Data\DSC\LocalCfgMgr"
 ```
 
 This time the MOF file created is called localhost.**meta**.mof
-[
 ![2013-11-16_21h13_27](images/2013-11-16_21h13_27_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h13_27.png)
 
 ****To change the Local Configuration Manager configuration, we run the following command
 
@@ -275,14 +247,10 @@ Set-DscLocalConfigurationManager -Path "C:\Data\DSC\LocalCfgMgr" -Verbose
 ```
 
 Running the Get-DscLocalConfigurationManager now shows the new configured Configuration Mode. 
-[
 ![2013-11-16_21h22_06](images/2013-11-16_21h22_06_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h22_06.png)
 
 If you change the ConfigurationModeFrequencyMins value, the Scheduled Task gets automatically updated as well. Just like the configuration, the Local Configuration Manager MOF data gets stored into C:\Windows\System32|configuration into the file **Metaconfig.mof
-[
-![2013-11-16_21h33_37](images/2013-11-16_21h33_37_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h33_37.png)**
+![2013-11-16_21h33_37](images/2013-11-16_21h33_37_thumb.png)**
 
 Now let’s run the Scheduled Task again and see what happens. 
 
@@ -291,9 +259,7 @@ start-ScheduledTask -TaskName "Consistency" -TaskPath "\Microsoft\Windows\Desire
 
 ```
 
-[
 ![2013-11-16_21h29_18](images/2013-11-16_21h29_18_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/11/2013-11-16_21h29_18.png)
 
 After running the Scheduled Task the missing registry got automatically re-created. Nice. That’s what i have found out about DSC so far, I hope you enjoyed the post and as always, any feedback is welcome. 
 

@@ -54,21 +54,13 @@ Echo sComputer
 
   Then we open BGINFO and follow the steps as illustrated below. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image.png)
+  ![image](images/image_thumb.png)
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image1.png)
+  ![image](images/image_thumb1.png)
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image2.png)
+  ![image](images/image_thumb2.png)
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image3.png)
+  ![image](images/image_thumb3.png)
 
   When done we’re saving the configuration, in this case to bginfo.bgi. And finally we launch BGINFO using the following command line. 
 
@@ -76,9 +68,7 @@ Echo sComputer
 
   and get the following result. 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image4.png)
+  ![image](images/image_thumb4.png)
 
   If you’re looking for more ideas I recommend you have a look at the BgInfo VBScript Add-On scripts created by Moral Volcano [here](http://www.vsubhash.com/article.asp?MV-RFM-IE=on&id=96&info=Moral_Volcanoâ€™s_VBScript_Add_Ons_for_Microsoft_BgInfo).
 

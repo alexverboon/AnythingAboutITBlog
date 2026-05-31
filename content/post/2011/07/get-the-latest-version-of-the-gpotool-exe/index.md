@@ -18,21 +18,15 @@ The latest version of the GPOtool is the one that is included within the Microso
 
   Here’s how to get it. When launching the mpsreports_x86.exe or mpsreports_x64.exe the utility extracts the files into the temp folder. 
 
-  [
-![2011-07-23 22h36_39](images/2011-07-23-22h36_39_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-22h36_39.png)
+  ![2011-07-23 22h36_39](images/2011-07-23-22h36_39_thumb.png)
 
   when completed, head over to you temp folder and look for the folder with the most recent Modify time. 
 
-  [
-![2011-07-23 22h39_48](images/2011-07-23-22h39_48_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-22h39_48.png)
+  ![2011-07-23 22h39_48](images/2011-07-23-22h39_48_thumb.png)
 
   Then navigate down to the bin folder folder located under C:\Users\Alex\AppData\Local\Temp\<your folder>\MPSReports\tools\bin and get the latest version of the GPOTool.exe
 
-  [
-![2011-07-23 22h43_04](images/2011-07-23-22h43_04_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/07/2011-07-23-22h43_04.png)
+  ![2011-07-23 22h43_04](images/2011-07-23-22h43_04_thumb.png)
 
               **Source**        **File Version**                  Windows Server 2003 Resource Kit        6.0.4000.0                  Microsoft Product Support Reports Utility        6.0.5468.0          If you’re an Enterprise Admin dealing with GPOs I recommend downloading this latest version, it just happened to me that the newer version provided more details on a particular issue than the old one.
 

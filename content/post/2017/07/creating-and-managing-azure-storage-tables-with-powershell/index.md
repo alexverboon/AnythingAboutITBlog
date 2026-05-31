@@ -77,9 +77,7 @@ $result
 
  
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2017/07/image.png)
 
 Next let’s add some more data to it, the below code creates some random computer inventory data.
 
@@ -123,9 +121,7 @@ $result | Group-Object Location
 
 We now have 100 records in the table, with “**11**” computers located in Amsterdam
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2017/07/image-1.png)
 
 Now let’s look at Computer000001
 
@@ -135,9 +131,7 @@ $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $Comput
 $result
 ```
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2017/07/image-2.png)
 
 It’s located in Amsterdam. Now let’s have a look at how to update a record, let’s say we want to change it to “Rotterdam”
 
@@ -165,9 +159,7 @@ $result
 
 and there we go, it's now registered in Rotterdam.
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2017/07/image-3.png)
 
 Let’s query the entire database again.
 
@@ -178,9 +170,7 @@ $result.Count
 $result | Group-Object Location
 ```
 
-[
 ![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2017/07/image-4.png)
 
 and finally, let’s remove the Computer000001
 

@@ -16,9 +16,7 @@ tags:
 ---
 One of the new features in Windows 8 is that we can configure WLAN and WWAN cost settings. In the Windows UI this is called a metered connection. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2012/10/image6.png)
+  ![image](images/image_thumb3.png)
 
   Why are these settings important? Well, when a Network is configured to be a Metered Connection, Windows will make several changes to the way that it uses the network to reduce overall network traffic through that connection, including the following:
 
@@ -85,41 +83,29 @@ One of the new features in Windows 8 is that we can configure WLAN and WWAN cost
 
   When we start an elevated command prompt and launching **netsh** and then type **help** we see the list of possible commands at this level. 
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   The 2 commands of interest here are **mbn** which changes into the mobile broadband network context and **wlan** which changes into the Wireless Lan context. 
 
   So if now we type **netsh wlan show all** we also get information about the current cost settings. 
 
-  [
-![clip_image004](images/clip_image004_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image004.jpg)
+  ![clip_image004](images/clip_image004_thumb.jpg)
 
   If nothing is configured, the Cost is set to **Unrestricted** and the Cost Source is **Default**. 
 
   Home users or enterprise users where their administrator have not applied settings via Group Policy can configure cost settings via the Windows UI by selecting “Set as metered application”. 
 
-  [
-![clip_image006](images/clip_image006_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image006.jpg)
+  ![clip_image006](images/clip_image006_thumb.jpg)
 
   If now we run netsh wlan show all again, we see how the **Cost** setting changed from **Unrestricted** to Fixed and that the **Cost Source** is set as **User**.
 
-  [
-![clip_image008](images/clip_image008_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image008.jpg)
+  ![clip_image008](images/clip_image008_thumb.jpg)
 
   Now let’s have a look at the Group Policy settings. Within the Group Policy Management Console under Computer Configuration \ Administrative Templates \ Network we find two nodes. **WLAN Service** and **WWAN Service.** 
 
-  [
-![clip_image010](images/clip_image010_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image010.jpg)
+  ![clip_image010](images/clip_image010_thumb.jpg)
 
-  [
-![clip_image012](images/clip_image012_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image012.jpg)
+  ![clip_image012](images/clip_image012_thumb.jpg)
 
   When enabling the setting we have 3 options:
 
@@ -130,23 +116,17 @@ One of the new features in Windows 8 is that we can configure WLAN and WWAN cost
 
   So if we enable the Setting to **Variable** we get the following result when executing **netsh wlan show all**
 
-  [
-![clip_image014](images/clip_image014_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image014.jpg)
+  ![clip_image014](images/clip_image014_thumb.jpg)
 
   Note that when cost settings are configured via Group Policy, the user cannot change the cost settings themselves. 
 
-  [
-![clip_image016](images/clip_image016_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/10/clip_image016.jpg)
+  ![clip_image016](images/clip_image016_thumb.jpg)
 
   And finally if for some reason you cannot use the Group Policy based method, but want to automate the WLAN/WWAN cost setting configuration, you can use the following netsh command
 
   Netsh wlan set profileparameter name=<profilename> cost=cost=default|unrestricted|fixed|variable
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2012/10/image8.png)
+  ![image](images/image_thumb4.png)
 
   Recommended reading:
 

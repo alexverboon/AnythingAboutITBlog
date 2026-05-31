@@ -22,9 +22,7 @@ Show-AzurePortal
 
 ```
 
-[
 ![2013-12-10_00h38_30](images/2013-12-10_00h38_30_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/2013-12-10_00h38_30.png)
 
 Note: You must install the Azure PowerShell cmdlets. [http://msdn.microsoft.com/en-us/library/windowsazure/jj156055.aspx](http://msdn.microsoft.com/en-us/library/windowsazure/jj156055.aspx)
 

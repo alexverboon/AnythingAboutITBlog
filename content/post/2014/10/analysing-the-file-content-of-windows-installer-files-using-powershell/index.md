@@ -18,9 +18,7 @@ tags:
 A few weeks ago we have started with the preparation for introducing Microsoft Office 2013 and Internet Explorer 11. As with every introduction of new software it’s all about compatibility. During the course of testing applications we were informed that some of them caused an issue due to hard coded paths. Each application is going to be installed anyway so that application owners can conduct testing, but at the same time I thought, it would be nice if we could identify potentially affected applications upfront without having to go through an actual install.
 
 Here’s an example of an application that has a hard coded path to Microsoft Office 2010. The Directory is defined as Office14 which translates to the Office 2010 Installation directory.
-[
 ![SNAGHTMLeaddfff](images/SNAGHTMLeaddfff_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTMLeaddfff.png)
 
 As most of you probably know, a Windows Installer file is a database that contains all the necessary information for the installation of an application. In order to query the files referenced within the Windows Installer database, we have to look at the following database tables.
 
@@ -33,27 +31,19 @@ As most of you probably know, a Windows Installer file is a database that contai
 
 Let’s start with the File Table. In the below example we see that this Application consists of two files. The File Table contains the following attributes: File, Component_, FileName, FileSize, Version, Language, Attributes and Sequence.
 
-[
 ![SNAGHTMLebbd2f5](images/SNAGHTMLebbd2f5_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTMLebbd2f5.png)
 
 To find out in which directory this file installs, we first have to look at the Component table which has the following attributes: Component, ComponentId, Directory_, Attributes, Condition and KeyPath.
 
-[
 ![SNAGHTMLebf68cd](images/SNAGHTMLebf68cd_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTMLebf68cd.png)
 
 To link these two tables, we use the FileName attribute of the file table and Component attribute of the Component table. So far we know that the file *iPublish_.dotm.lnk* is going to be stored into the *STARTUP* folder. Now we only need to find out where the STARTUP folder is going to be, so we are going to look at the Directory table.
 
-[
 ![SNAGHTMLec3abc6](images/SNAGHTMLec3abc6_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTMLec3abc6.png)
 
 And there it is, the STARTUP directory. But we still don’t know where the file is going to be stored, as we first need to resolve the other Directory entries. If you study the directory table for a while, you notice that there is some logic in here.
 
-[
 ![SNAGHTMLec5a08f](images/SNAGHTMLec5a08f_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/SNAGHTMLec5a08f.png)
 
 To link the Directory table with the File and Component data, we join the Component table Directory_ attribute with the Directory table Directory attribute. However this still doesn’t give us the information where the file is going to be stored on the system, unless we would try to resolve the various entries within the Directory table, that to be honest would end up in a complex script (at least for me).
 
@@ -81,7 +71,7 @@ TargetPath
 *Example:
 *[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/image.png)
+](images/image.png)
 
 The entire script can be downloaded from [here](http://gallery.technet.microsoft.com/Get-MSIFileINfo-Retrieve-db7b6cad)
 

@@ -58,7 +58,5 @@ I write most of my blog posts at home in the evenings. Usually when I find a new
 
   Finally, if you do not want to use batch files, you can also access the system remote power management features through the remote management web site. http://<system IP address>:16992
 
-  [
-![image](images/image-thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image7.png)
+  ![image](images/image-thumb7.png)
 

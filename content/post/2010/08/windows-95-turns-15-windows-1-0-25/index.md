@@ -20,7 +20,5 @@ There’s a lot of talk about Windows 95 in these days as it’s 15 years ago wh
 
   And believe it or not, Windows 1.0 still runs :-)
 
-  [
-![clip_image001](images/clip_image001_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2010/08/clip_image001.jpg)
+  ![clip_image001](images/clip_image001_thumb.jpg)
 

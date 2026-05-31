@@ -46,41 +46,25 @@ Last week Microsoft anounced GA for Azure AD Connect. To get a better understand
 
  Logon to the domain controller and launch the Azure Directory Tool installation and follow the steps as described below. 
 
- [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image2.png)
+ ![image](images/image_thumb2.png)
 
   
 
- [
-![2015-06-27_16h42_35](images/2015-06-27_16h42_35_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_16h42_35.png)
+ ![2015-06-27_16h42_35](images/2015-06-27_16h42_35_thumb.png)
 
- [
-![2015-06-27_16h46_03](images/2015-06-27_16h46_03_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_16h46_03.png)
+ ![2015-06-27_16h46_03](images/2015-06-27_16h46_03_thumb.png)
 
- [
-![2015-06-27_16h50_35](images/2015-06-27_16h50_35_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_16h50_35.png)
+ ![2015-06-27_16h50_35](images/2015-06-27_16h50_35_thumb.png)
 
- [
-![2015-06-27_16h51_11](images/2015-06-27_16h51_11_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_16h51_11.png)
+ ![2015-06-27_16h51_11](images/2015-06-27_16h51_11_thumb.png)
 
- [
-![2015-06-27_16h52_06](images/2015-06-27_16h52_06_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_16h52_06.png)
+ ![2015-06-27_16h52_06](images/2015-06-27_16h52_06_thumb.png)
 
- [
-![2015-06-27_17h02_41](images/2015-06-27_17h02_41_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/2015-06-27_17h02_41.png)
+ ![2015-06-27_17h02_41](images/2015-06-27_17h02_41_thumb.png)
 
  To test the instalaltion open the Active Directory Users and Computers console on the Domain controller and create a test user in the Users OU. 
 
- [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image3.png)
+ ![image](images/image_thumb3.png)
 
  By default the ADSync runs every 3 hours and is triggered via a scheduled Task. To force the synchronization manually open the scheduled task manager and run the scheduled task or open an elevated powershell prompt and run the following command:
 
@@ -88,17 +72,13 @@ Last week Microsoft anounced GA for Azure AD Connect. To get a better understand
 
  After a while the test user that was created in the local Active Directory domain should appear in the Azure Directory. 
 
- [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image4.png)
+ ![image](images/image_thumb4.png)
 
  That’s all it takes to get users synched from Active Directory to Azure Directory. 
 
  To get an insight of what is exactly happening during the sync process open the Synchronization Service Manager that gets installed when installing Azure Directory Connect. 
 
- [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2015/07/image5.png)
+ ![image](images/image_thumb5.png)
 
  That’s it for today, hope you found this useful.
 

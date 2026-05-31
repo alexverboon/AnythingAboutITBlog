@@ -30,39 +30,27 @@ A few weeks ago I wondered why in the Azure Portal some of the resources where f
 
   Open Visual Studio 2015 and select New Project. then select VisualC# / Cloud / **Azure Resource Group**
 
-  [
-![2016-02-29_22h02_33](images/2016-02-29_22h02_33_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_22h02_33.png)
+  ![2016-02-29_22h02_33](images/2016-02-29_22h02_33_thumb.png)
 
   Next Select “**Blank Template**” 
 
-  [
-![2016-02-29_22h31_11](images/2016-02-29_22h31_11_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_22h31_11.png)
+  ![2016-02-29_22h31_11](images/2016-02-29_22h31_11_thumb.png)
 
   Next select the **azuredeploy.json** file. 
 
-  [
-![2016-02-29_23h05_40](images/2016-02-29_23h05_40_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_23h05_40.png)
+  ![2016-02-29_23h05_40](images/2016-02-29_23h05_40_thumb.png)
 
   Select Resources, Add New Resource. 
 
-  [
-![2016-02-29_22h32_24](images/2016-02-29_22h32_24_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_22h32_24.png)
+  ![2016-02-29_22h32_24](images/2016-02-29_22h32_24_thumb.png)
 
   Enter a name for the virtual network 
 
-  [
-![2016-02-29_22h33_42](images/2016-02-29_22h33_42_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_22h33_42.png)
+  ![2016-02-29_22h33_42](images/2016-02-29_22h33_42_thumb.png)
 
   We now have a template file to deploy a virtual network using Azure Resource Manager. 
 
-  [
-![2016-02-29_23h08_24](images/2016-02-29_23h08_24_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/2016-02-29_23h08_24.png)
+  ![2016-02-29_23h08_24](images/2016-02-29_23h08_24_thumb.png)
 
   Next we add the following content into the parameters section
 
@@ -78,47 +66,33 @@ A few weeks ago I wondered why in the Azure Portal some of the resources where f
 
   So now it should look as shown below. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image.png)
+  ![image](images/image_thumb.png)
 
   and we replace the hardcoded names shown below with
 
-  [
-![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-1.png)
+  ![image](images/image_thumb-1.png)
 
   with 
 
   "[parameters('vnetName')]"
 
-  [
-![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-2.png)
+  ![image](images/image_thumb-2.png)
 
   Now let’s deploy the Virtual network we just created using Visual Studio. From the Project Menu, select Deploy, New Deployment. 
 
-  [
-![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-3.png)
+  ![image](images/image_thumb-3.png)
 
   Select an existing Resource Group or create a new one. Optionally you can select “Edit parameters” , so that you can overwrite the default parameter value that is defined in the template file. For this demo, I edited the parameter and entered “**vnetdemo**” as the vnetname. 
 
-  [
-![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-4.png)
+  ![image](images/image_thumb-4.png)
 
   Next select “**Deploy**”  and wait for the deployment to complete. 
 
-  [
-![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-5.png)
+  ![image](images/image_thumb-5.png)
 
   Now let’s head over to the Azure Portal and see how things are there. 
 
-  [
-![image](images/image_thumb-6.png)
-](https://www.verboon.info/wp-content/uploads/2016/02/image-6.png)
+  ![image](images/image_thumb-6.png)
 
   That’s it for today, In Part 2, we’ll take a closer look at using the parameter input file and how to run things directly with PowerShell.
 

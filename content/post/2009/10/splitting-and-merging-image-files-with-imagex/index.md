@@ -25,9 +25,7 @@ ImageX is a command-line tool for capturing, modifying and applying file based d
 
   For the purpose of writing this article, I prepared a simple folder structure to demonstrate the capture, split and merge process. 
 
-              [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2009/10/image2.png)                             
+              ![image](images/image_thumb2.png)                             
 - The folder “Output1” is used to store the initial captured image file which contains the data stored within the “source” folder. The source folder was filled with some wallpapers located in C:\Windows\Web\Wallpaper             
             
 - The folder “Output2” is used to store the splitted image files.              
@@ -84,15 +82,11 @@ ImageX is a command-line tool for capturing, modifying and applying file based d
 
   When comparing the file size of the splitmerge.wim stored in c:\data\splitmerge\output1 with splitmerge.wim stored in c:\data\splitmerge\output3 you will probably notice that the size in bytes differs. The same applies for the total size of the swm files stored in c:\data\splitmerge\output2. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/10/image3.png) 
+  ![image](images/image_thumb3.png) 
 
   Well, forget about these file/folder sizes, to ensure that your final wim file contains the exact same data as the initial wim file, we’ll take a look at the previously created image info files. 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/10/image4.png) 
+  ![image](images/image_thumb4.png) 
 
   All of the 3 image info files have the same value stored for:
 

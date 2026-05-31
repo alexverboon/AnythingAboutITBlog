@@ -47,21 +47,15 @@ Get-GPO –Name “XTestGPO”
 
 which gave the following result:
 
-[
 ![image](images/image_thumb18.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/image18.png)
 
 Now that I had the GUID, I could easily find the Group Policies object folder on the domain controller to get the registry.pol file.
 
-[
 ![image](images/image_thumb19.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/image19.png)
 
 To see the content of the registry.pol file I used the [RegistryPol Reader](http://www.gpoguy.com/FreeTools/FreeToolsLibrary/tabid/67/agentType/View/PropertyID/87/Default.aspx) utility from [gpoguy.com](http://www.gpoguy.com/)
 
-[
 ![image](images/image_thumb20.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/image20.png)
 
 So now that I had the Registry key, value, type and data information I could actually start creating my Group Policy creation PowerShell Script that looks as following:
 
@@ -88,7 +82,5 @@ Side note: Microsoft has used the ScreenSaveTimeOut setting in their CmdLet exam
 
 Here’s the new GPO called A_TestGPO created through PowerShell.
 
-[
 ![2010-10-16 18h50_17](images/2010-10-16-18h50_17_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/2010-10-16-18h50_17.png)
 

@@ -20,9 +20,7 @@ Windows7 comes with Windows Installer 5.0 that has a new installation property c
 
   The table below shows the results of the tests I have performed on Windows7 Enterprise build 7201 with 2 rather small packages. 
 
-  [
-![image](images/image-thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image9.png) 
+  ![image](images/image-thumb9.png) 
 
   I used the following commands:
 

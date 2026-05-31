@@ -37,13 +37,9 @@ Once completed I verify that the C:\migdata folder contained the hard linked dat
 
   The Installation process prompts me with the message shown in the picture below, which i confirm this with *OK*.
 
-  [
-![winold](images/winold_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/winold.png) When Windows Setup is completed its initial phase I boot the system into WinPE, just to see how things are on the local disk. As shown in the picture below, all the folders related to the Windows XP Operating System were moved into the Windows.old folder. Any folders that were created in the root of the drive remain untouched. 
+  ![winold](images/winold_thumb.png) When Windows Setup is completed its initial phase I boot the system into WinPE, just to see how things are on the local disk. As shown in the picture below, all the folders related to the Windows XP Operating System were moved into the Windows.old folder. Any folders that were created in the root of the drive remain untouched. 
 
-  [
-![windows_old](images/windows_old_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/windows_old.png)
+  ![windows_old](images/windows_old_thumb.png)
 
   I then reboot the system and did let Windows 7 complete its installation. Once completed I log on to the system. Now let’s take a look at the status of the hard links. Running the [HardLink Scanner tool](https://www.verboon.info/index.php/2010/04/tooltip-hardlink-scanner/), we can see that he files have a hard link. Below the output from one of the migrated files:
 
@@ -64,9 +60,7 @@ Once completed I verify that the C:\migdata folder contained the hard linked dat
 
   When logging in with John Doe’s account, we can see that his personal data and Favorites are back. 
 
-  [
-![image](images/image_thumb17.png)
-](https://www.verboon.info/wp-content/uploads/2010/04/image17.png) 
+  ![image](images/image_thumb17.png) 
 
   Let’s take a look at the hardlink status of our migrated files. When running the hardlink scanner tool against one of the migrated files we get the following output:
 

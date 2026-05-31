@@ -48,27 +48,27 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   setup.exe /DOWNLOAD [\\configuration.xml">\\configuration.xml">\\<Server>\<Share>\configuration.xml](file://\\<Server>\<Share>\configuration.xml)
 
-  ![1image_thumb](https://www.verboon.info/wp-content/uploads/2012/10/1image_thumb1.png)
+  ![1image_thumb](images/1image_thumb1.png)
 
   Now logon to a Windows 8 or Windows 7 client and run the following command from an elevated prompt
 
   setup.exe /CONFIGURE [\\configuration.xml">\\configuration.xml">\\<Server>\<Share>\configuration.xml](file://\\<Server>\<Share>\configuration.xml)
 
-  ![2image_thumb1](https://www.verboon.info/wp-content/uploads/2012/10/2image_thumb11.png)
+  ![2image_thumb1](images/2image_thumb11.png)
 
    
 
-  ![3image_thumb2](https://www.verboon.info/wp-content/uploads/2012/10/3image_thumb21.png)
+  ![3image_thumb2](images/3image_thumb21.png)
 
-  ![4image_thumb3](https://www.verboon.info/wp-content/uploads/2012/10/4image_thumb31.png)
+  ![4image_thumb3](images/4image_thumb31.png)
 
-  ![5image_thumb4](https://www.verboon.info/wp-content/uploads/2012/10/5image_thumb4.png)
+  ![5image_thumb4](images/5image_thumb4.png)
 
-  ![6image_thumb5](https://www.verboon.info/wp-content/uploads/2012/10/6image_thumb5.png)
+  ![6image_thumb5](images/6image_thumb5.png)
 
   And there we got Office 2013. You can now launch an application, while in the background additional bits are downloaded and installed. At some point all is done and Office 2013 is fully installed.
 
-  ![7image_thumb6](https://www.verboon.info/wp-content/uploads/2012/10/7image_thumb6.png)
+  ![7image_thumb6](images/7image_thumb6.png)
 
   To remove Office 2013, make a copy of your configuration.xml file and change the word “Add” to “Remove” as shown in the example below.
 
@@ -94,11 +94,11 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   And then run setup.exe /CONFIGURE [\\configuration.xml">\\configuration.xml">\\<Server>\<Share>\configuration.xml](file://\\<Server>\<Share>\configuration.xml) from an elevated prompt. . 
 
-  ![8image_thumb7](https://www.verboon.info/wp-content/uploads/2012/10/8image_thumb7.png)
+  ![8image_thumb7](images/8image_thumb7.png)
 
-  ![9image_thumb8](https://www.verboon.info/wp-content/uploads/2012/10/9image_thumb8.png)
+  ![9image_thumb8](images/9image_thumb8.png)
 
-  ![10image_thumb9](https://www.verboon.info/wp-content/uploads/2012/10/10image_thumb9.png)
+  ![10image_thumb9](images/10image_thumb9.png)
 
    
 

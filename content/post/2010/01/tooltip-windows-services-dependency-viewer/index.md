@@ -24,9 +24,7 @@ During my periodic visit on CodePlex I came across the Windows Services Dependen
 
   This tool might come in handy once you start changing a specific Service’s startup mode. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image.png)
+  ![image](images/image_thumb.png)
 
   The Windows Services Dependency Viewer can be downloaded from [here](http://svcdependencyviewer.codeplex.com/) Additional documentation can be found [here](http://svcdependencyviewer.codeplex.com/documentation)
 

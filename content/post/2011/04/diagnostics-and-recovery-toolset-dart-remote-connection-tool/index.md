@@ -22,23 +22,15 @@ Just a few weeks ago Microsoft released a public Beta version of the Diagnostics
               1[           
 
 ![2011-04-28 21h22_21](images/2011-04-28-21h22_21_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h22_21.png)        2[           
+](images/2011-04-28-21h22_21.png)        2[           
 
 ![2011-04-28 21h22_54](images/2011-04-28-21h22_54_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h22_54.png)                  3         
-[
-![2011-04-28 21h23_30](images/2011-04-28-21h23_30_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h23_30.png)        4         
-[
-![2011-04-28 21h24_56](images/2011-04-28-21h24_56_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h24_56.png)          Once the Remote Connection tool has started, the DART Remote Connection Viewer must be launched. After entering the Ticket Number, IP Address and Port number a remote connection can be established. 
+](images/2011-04-28-21h22_54.png)                  3         
+![2011-04-28 21h23_30](images/2011-04-28-21h23_30_thumb.png)        4         
+![2011-04-28 21h24_56](images/2011-04-28-21h24_56_thumb.png)          Once the Remote Connection tool has started, the DART Remote Connection Viewer must be launched. After entering the Ticket Number, IP Address and Port number a remote connection can be established. 
 
               5         
-[
-![2011-04-28 21h26_15](images/2011-04-28-21h26_15_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h26_15.png)          
+![2011-04-28 21h26_15](images/2011-04-28-21h26_15_thumb.png)          
         6         
-[
-![2011-04-28 21h27_48](images/2011-04-28-21h27_48_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-28-21h27_48.png)          According to a [blog post](http://windowsteamblog.com/windows/b/business/archive/2011/04/04/management-and-security-enhancements-for-enterprise-customers-with-dart-and-mbam.aspx) on Windows for your Business DART7 is planned to be made available in Q3 2011.
+![2011-04-28 21h27_48](images/2011-04-28-21h27_48_thumb.png)          According to a [blog post](http://windowsteamblog.com/windows/b/business/archive/2011/04/04/management-and-security-enhancements-for-enterprise-customers-with-dart-and-mbam.aspx) on Windows for your Business DART7 is planned to be made available in Q3 2011.
 

@@ -23,27 +23,19 @@ First download the latest Microsoft Security baseline which is included in the M
 
 Within each ZIP file you will find a folder called GPOs containing the GPO Backup files. Extract these GPOs as shown in the example below:
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image.png)
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image-1.png)
 
 Before continuing, the script uses the Group Policy PowerShell cmdlets that come with the Group Policy Management console, so make sure you have the GPMC console and PowerShell module installed.
 
 Below is a screenshot of the GPMC Console before importing the security baselines.
 
-[
 ![GPOEmpty](images/GPOEmpty_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/GPOEmpty.png)
 
 Next open PowerShell and load the function from the script or copy the function into PowerShell ISE and run it to load it. )whatever is your preferred method).
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image-2.png)
 
 Then run the following commands to import the Windows and Office 365 security baselines:
 
@@ -51,19 +43,13 @@ Import-SecurityBaselineGPO -GPOBackupPath C:\temp\secbaselines\Office365\GPOs â€
 
 Import-SecurityBaselineGPO -GPOBackupPath C:\temp\secbaselines\Windows10_1903\GPOs -verbose
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image-3.png)
 
-[
 ![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image-4.png)
 
 and there we go, all security baselines imported.
 
-[
 ![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2019/10/image-5.png)
 
 Thatâ€™s it for today, hope you enjoyed reading. Till next time.
 

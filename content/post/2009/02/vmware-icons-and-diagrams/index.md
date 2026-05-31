@@ -18,9 +18,7 @@ Need to prepare a presentation for a VMWare based Solution ? Then check out the 
 
    
 
-  [
-![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/02/image1.png) 
+  ![image](images/image-thumb.png) 
 
   And those that work with Visio might be interested in the [Virtualization stencils](http://www.vmguru.com/index.php/component/attachments/download/1) from [vmguru.com](http://www.vmguru.com/)
 

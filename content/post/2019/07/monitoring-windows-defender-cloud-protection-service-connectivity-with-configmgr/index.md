@@ -32,37 +32,23 @@ I am going to assume that you’re familiar with setting up and deploying a conf
 
 Below are the properties of the Configuration Baseline I have in place for Windows Defender.
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-1.png)
 
 The CI for Defender MAPS is configured as following:
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-2.png)
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-3.png)
 
-[
 ![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-4.png)
 
-[
 ![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-5.png)
 
 Script details are shown below.
 
-[
 ![image](images/image_thumb-6.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-6.png)
 
-[
 ![image](images/image_thumb-7.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-7.png)
 
 Below the PowerShell based discovery script used in this configuration item, the script is also stored on GitHub here: [CI_DefenderMAPS_Discovery.ps1](https://github.com/alexverboon/MDATP/blob/master/PowerShell/CI_DefenderMAPS_Discovery.ps1)
 
@@ -121,21 +107,15 @@ Else
 
 Once you’ve setup the configuration baseline, deploy it to all your Windows Defender enabled clients, following your companies change management process and after a while, depending on how often you check the settings compliance you can monitor the compliance within the ConfigMgr console or its reporting.
 
-[
 ![image](images/image_thumb-8.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-8.png)
 
 I recommend that you configure set a threshold and enable alerting for non compliant clients.
 
 On a client, users or local IT support can verify MAPS connectivity as well using the ConfigMgr Agent configuration settings evaluation.
 
-[
 ![image](images/image_thumb-9.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-9.png)
 
-[
 ![image](images/image_thumb-10.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image-10.png)
 
 As always, I hope you enjoyed this article and find it useful, ideas, comments are always welcome.
 

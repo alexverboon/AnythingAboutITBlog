@@ -75,18 +75,14 @@ Import-Module "$env:ProgramFiles\Microsoft Security Client\MpProvider"
 
  Get-MProtThreat
 
- [
-![2014-04-08_15h06_33](images/2014-04-08_15h06_33_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/04/2014-04-08_15h06_33.png)
+ ![2014-04-08_15h06_33](images/2014-04-08_15h06_33_thumb.png)
 
  
 # Removing Threats
 
  Although there is a Remove-MProtThreat cmdlet, it doesn’t seem to recognize the active threat, as i received the following message when executing it. 
 
- [
-![2014-04-08_15h13_13](images/2014-04-08_15h13_13_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/04/2014-04-08_15h13_13.png)
+ ![2014-04-08_15h13_13](images/2014-04-08_15h13_13_thumb.png)
 
  
 # Configuration Changes

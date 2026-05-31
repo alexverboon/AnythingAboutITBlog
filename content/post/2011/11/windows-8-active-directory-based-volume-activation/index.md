@@ -19,15 +19,11 @@ Windows Server 8 comes with a new role called Volume Activation Services. The Vo
 
   Once the Volume Activation Services are installed, the required activation method can be selected within the Volume Activation Services configuration wizard. Since I can’t use a production activation key, I wasn’t able to complete the configuration here. 
 
-  [
-![2011-11-25 14h42_50](images/2011-11-25-14h42_50_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-14h42_50.png)
+  ![2011-11-25 14h42_50](images/2011-11-25-14h42_50_thumb.png)
 
   There is still the slmgr.vbs script that existed already for the management and configuration of KMS, now slmgr.vbs has been extended with additional commands for Activate Directory based activation. 
 
-  [
-![2011-11-25 15h11_15](images/2011-11-25-15h11_15_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/2011-11-25-15h11_15.png)
+  ![2011-11-25 15h11_15](images/2011-11-25-15h11_15_thumb.png)
 
   The below table lists the attributes from the ms-SPP Activation object within Active Directory. 
 

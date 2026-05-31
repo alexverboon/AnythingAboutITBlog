@@ -20,7 +20,7 @@ Windows Server 2008 R2 is available in multiple editions. If you’re planning t
   **Windows Server 2008 R2 BranchCache Features     
 **[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/05/image.png)  
+](images/image.png)  
 Source: [http://www.microsoft.com/windowsserver2008/en/us/r2-differentiated-features.aspx](http://www.microsoft.com/windowsserver2008/en/us/r2-differentiated-features.aspx)
 
   **BranchCache Content Server**    
@@ -33,7 +33,5 @@ When BranchCache is deployed in hosted cache mode, hosted cache servers in branc
 
   So when you plan to use BranCache in **Hosted Cache Mode** you will need to place the server editions as shown in the illustration below
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2010/05/image2.png)
+  ![image](images/image_thumb2.png)
 

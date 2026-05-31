@@ -47,23 +47,17 @@ What regasmt.exe does is creating a new entry under:
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Assessments\Installed      
     
 - When now opening the Assessment Console you will find the new custom PING Assessment Jobs listed under the “Run Individual Assessment” Node.      
-[
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image7.png)      
+![image](images/image_thumb7.png)      
       
 The same for the Folder Test      
       
-[
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image8.png)      
+![image](images/image_thumb8.png)      
       
 Note that when running regasmt it validates the manifest file and if there are errors the registration fails, also if later you edit/update the manifest file, even if it is registered already, when there are syntax issues, the assessment will not be shown in the Assessment console.       
     
 - Now that the Assessments are registered we can execute them directly from the assessment console or package them to be executed on another system.      
       
-[
-![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image9.png) 
+![image](images/image_thumb9.png) 
 
   I hope I could spread some inspiration on what can be done with the Assessment Console. Many thanks to Jason for sharing his example with me.
 

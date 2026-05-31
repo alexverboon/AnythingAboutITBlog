@@ -36,7 +36,7 @@ When a physical device running Windows has problems, you have all sorts of possi
 
   Select “**Run now on this PC**”
 
-        ![image](images/image_thumb4.png)
+  ![image](images/image_thumb4.png)
 
   Select “**Accept**”
 
@@ -83,8 +83,6 @@ When a physical device running Windows has problems, you have all sorts of possi
     Optionally the log files can be saved locally. 
 
   ![image](images/image_thumb15.png)
-
-   
 
   ![image](images/image_thumb16.png)
 

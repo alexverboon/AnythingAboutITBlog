@@ -18,13 +18,9 @@ A while back I wrote about how to [create empty files using FSUTIL](https://www.
 
   You can use the GUI version (dummy.exe) or if you want to include generating dummy files within a script you can use the command-line based version (DummyCMD.exe). 
 
-  [
-![2011-04-22 14h56_20](images/2011-04-22-14h56_20_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-22-14h56_20.png)
+  ![2011-04-22 14h56_20](images/2011-04-22-14h56_20_thumb.png)
 
-  [
-![2011-04-22 14h57_23](images/2011-04-22-14h57_23_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-22-14h57_23.png)
+  ![2011-04-22 14h57_23](images/2011-04-22-14h57_23_thumb.png)
 
   Dummy File Creator can be downloaded from [here](http://www.mynikko.com/dummy/)
 

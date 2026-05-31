@@ -17,9 +17,7 @@ As with almost any solution, one of the time consuming activities is to get the 
 
 There’s now a solution for that, called the **Microsoft Defender ATP Evaluation lab**.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image.png)
 
 When using the MDATP evaluation lab, you get instant access to up to three virtual machines that are hosted in a dedicated instance in Azure that are automatically onboarded and have all the software installed and clients configured to walk through the various scenarios and experience the power of Microsoft Defender Advanced Threat Protection.
 
@@ -27,27 +25,19 @@ All you need to run the MDATP Evaluation lab is an MDATP tenant (production or [
 
 Let’s take a look how easy it is to launch the lab. When you open the evaluation lab page for the first time, you’ll see the **Prepare Lab** button, click it and within seconds your lab is ready to use.
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-1.png)
 
 Then click on the **Add Machine** button. Copy the password, you’ll need this one later to connect to the test machine. Note if you loose the password, you can reset the password.
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-2.png)
 
 Then wait until the test machine provisioning process is complete. Meanwhile you might want to look at the [Simulations and Tutorials](https://securitycenter.windows.com/tutorials) page that provides several hands on scenarios you can run to see MDATP in action.
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-3.png)
 
 As soon as the test machine is provisioned, you can connect to it through RDP, simply click on the **'Connect** button.
 
-[
 ![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-4.png)
 
 As mentioned earlier, these test machines are preconfigured with security configuration settings and have software and utilities pre-installed. For those interested in the details, take a look here:
 
@@ -59,27 +49,19 @@ As mentioned earlier, these test machines are preconfigured with security config
 
 Once connected, run something that triggers MDATP, in the example below  I used the script provided [in scenario 2](https://securitycenter.windows.com/tutorials).
 
-[
 ![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-5.png)
 
 Use the evaluation progress tracker to make sure that you don’t miss out on evaluating any of the important capabilities,
 
-[
 ![image](images/image_thumb-8.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-8.png)
 
 As you continue running simulations, either those provided by Microsoft or you own, the evaluation activities are nicely summarized in a report.
 
-[
 ![image](images/image_thumb-6.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-6.png)
 
 After running a few more simulations, the report is enriched with more information.
 
-[
 ![image](images/image_thumb-7.png)
-](https://www.verboon.info/wp-content/uploads/2019/08/image-7.png)
 
 Note that all your test machines are provisioned within a dedicated Azure virtual network, so that ‘your’ test machines can communicate with each other.
 

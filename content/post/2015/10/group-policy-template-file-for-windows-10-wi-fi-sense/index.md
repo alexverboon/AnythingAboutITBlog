@@ -18,9 +18,7 @@ Wi-FI Sense is a new feature in Windows 10 that automatically connects you to su
 
  Microsoft has published a KB - [How to configure Wi-Fi Sense on Windows 10 in an enterprise](https://support.microsoft.com/en-us/kb/3085719) that describes the registry settings to configure for disabling Wi-FI sense. The recently publsihed Security Compliance Baseline for Windows 10 “ DRAFT”  now also provides a custom Group Policy template for Wi-FI Sense. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/10/image.png)
+ ![image](images/image_thumb.png)
 
   
 

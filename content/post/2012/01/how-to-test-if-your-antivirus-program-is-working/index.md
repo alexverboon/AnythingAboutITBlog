@@ -23,11 +23,7 @@ I was doing some Antivirus stuff this afternoon now let me share with you how to
     
 - Your Antivirus program should now bring an alert  
 
-  [
-![2012-01-20 15h16_08](images/2012-01-20-15h16_08_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-20-15h16_08.png)
+  ![2012-01-20 15h16_08](images/2012-01-20-15h16_08_thumb.png)
 
-  [
-![2012-01-20 15h16_43](images/2012-01-20-15h16_43_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-20-15h16_43.png)
+  ![2012-01-20 15h16_43](images/2012-01-20-15h16_43_thumb.png)
 

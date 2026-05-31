@@ -40,9 +40,7 @@ pause
 
 Just copy paste the above code a batch file like getmse.cmd and launch it.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/image.png)
 
 If you need the 64 bit version, simply replace the above download url with [http://download.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/en-us/amd64/mseinstall.exe](http://download.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/en-us/amd64/mseinstall.exe)
 

@@ -24,9 +24,7 @@ With the release of the Windows7 RC0 build, Microsoft also published a first Bet
 
   **Windows XP**: C:\Documents and Settings\All Users\Start Menu\Programs
 
-  [
-![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/image.png) 
+  ![image](images/image-thumb.png) 
 
   Another thing I noticed is that when you delete a virtual machine from the Virtual Machines list, the sources aren’t deleted from the disk, so you will have to remove the associated files yourself. The Virtual Machine sources by default are stored under: C:\Users\<USERNAME>\AppData\Local\Microsoft\Windows Virtual PC
 
@@ -36,7 +34,5 @@ With the release of the Windows7 RC0 build, Microsoft also published a first Bet
 
   So at the end of the day, I had 3 different command prompts running on my desktop. The Windows XP and Vista ones from the virtualized guests and the Windows7 command prompt from the host system. Just imagine how easy it will be now to test group policy settings or scripts, without having to switch between entire virtual machines. 
 
-  [
-![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/image1.png)
+  ![image](images/image-thumb1.png)
 

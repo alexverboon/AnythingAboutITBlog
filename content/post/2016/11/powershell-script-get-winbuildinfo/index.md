@@ -17,9 +17,7 @@ tags:
 ---
 Here’s a script I wrote that retrieves all the Windows 10 build information, including Insider level when enabled. 
 
- [
-![ss1](images/ss1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/11/ss1.png)
+ ![ss1](images/ss1_thumb.png)
 
   
 

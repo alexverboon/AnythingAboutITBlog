@@ -18,9 +18,7 @@ Back in April i posted an article about [Testing Network Speed](https://www.verb
 
   DownTester allows you to test the download speed via HTTP, FTP, Remote File Shares and any local drives such as your local drive, DVD and USB.
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2010/06/image3.png) 
+  ![image](images/image_thumb3.png) 
 
   The Tool is FREE and does not need to be installed.
 

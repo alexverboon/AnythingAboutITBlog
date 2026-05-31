@@ -20,17 +20,13 @@ If you get tasked to do some system troubleshooting and you just want to get as 
 
   First launch the Microsoft Product Support Tool, which is a self-extracting executable (no installation needed). Once launched you can select the diagnostics you want to execute, then select Next to get the Diagnostic (Data Collection) started. Note that depending on the diagnostics selected, this process can take a while (up to 25 minutes). 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2010/05/image4.png) 
+  ![image](images/image_thumb4.png) 
 
   Once the Diagnostic process has completed you can browse, e-mail or save the results. When saving the results, all data is stored in a single CAB file. 
 
   The Microsoft Product Support Report Viewer provides an interface to view the collected diagnostic data, which consists of several individual XML files. 
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2010/05/image5.png) 
+  ![image](images/image_thumb5.png) 
 
   While the diagnostic tool was running on my client, I copied the content of the temporary folder that the tool creates within the users TEMP folder into another folder. (if you have many folders in your TEMP folder just sort by date, and open the one with the newest date). 
 

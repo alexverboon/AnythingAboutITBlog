@@ -22,9 +22,7 @@ When joining a Computer to an Active Directory domain using the Domain Join UI i
 
   The default Container data for new Computer objects is stored within the wellKnownObjects attribute. 
 
-  [
-![image](images/image_thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image12.png)But when you double click the Attribute, you will get an error that there is no editor registered to handle that attribute type. I did not look any further into this, but assume that this attribute is protected against manual changes. To still get access to the data that is stored within this attribute I used the [Active Directory Explorer](http://technet.microsoft.com/en-us/sysinternals/bb963907.aspx) from the Sysinternals Suite. 
+  ![image](images/image_thumb12.png)But when you double click the Attribute, you will get an error that there is no editor registered to handle that attribute type. I did not look any further into this, but assume that this attribute is protected against manual changes. To still get access to the data that is stored within this attribute I used the [Active Directory Explorer](http://technet.microsoft.com/en-us/sysinternals/bb963907.aspx) from the Sysinternals Suite. 
 
   The wellKnownObjects Attribute contains the following data:
 
@@ -44,9 +42,7 @@ When joining a Computer to an Active Directory domain using the Domain Join UI i
 
   Before running redircomp.exe a new Organizational Unit must be created where we want to store the computer objects. For this example I created an OU called **StagedComputers**. I then ran the following command:  redircmp OU=StagedComputers,DC=LABHOME,DC=local
 
-  [
-![image](images/image_thumb13.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image13.png)
+  ![image](images/image_thumb13.png)
 
   Now let’s go back to the Active Directory Explorer and open the wellKnownObjects Attribute where we will see the change. 
 
@@ -64,9 +60,7 @@ When joining a Computer to an Active Directory domain using the Domain Join UI i
 
   Finally I joined a Windows XP client called VMXP-001 to the LABHOME domain and the Computer object was automatically created within the StagedComputers OU. 
 
-  [
-![image](images/image_thumb14.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image14.png) 
+  ![image](images/image_thumb14.png) 
 
   Note that the same can be done for User Objects as well. For more Information read the Microsoft KB [Redirecting the users and computers containers in Active Directory domains](http://support.microsoft.com/default.aspx?scid=kb;en-us;324949)
 

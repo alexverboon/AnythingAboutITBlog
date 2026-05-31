@@ -20,7 +20,7 @@ The tool is actually just configuring the appropriate system services , therefor
 
 [](file:///C:/Users/Alex/AppData/Local/Temp/WindowsLiveWriter-429641856/supfiles164A48B7/image[9].png)[
 ![](images/image-thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2008/11/image-thumb2.png)
+](images/image-thumb2.png)
 
 The tool can be [downloaded](http://www.dovestones.com/products/usb-drive-manager/disable-usb-cd-floppy-drives.html) from [dovestones software](http://www.dovestones.com/).
 

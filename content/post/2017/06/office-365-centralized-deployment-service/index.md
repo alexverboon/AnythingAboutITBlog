@@ -27,9 +27,7 @@ Within the Office Store I have found an add-in that i want to deploy called the 
 
 [https://store.office.com/en-us/app.aspx?assetid=WA103304320&sourcecorrid=cdbeb6de-e8c1-4e8c-98d4-de57419a0f3d&searchapppos=1&ui=en-US&rs=en-US&ad=US&appredirect=false](https://store.office.com/en-us/app.aspx?assetid=WA103304320&sourcecorrid=cdbeb6de-e8c1-4e8c-98d4-de57419a0f3d&searchapppos=1&ui=en-US&rs=en-US&ad=US&appredirect=false)
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2017/06/image-1.png)
 
 From the URL extract the Office store asset id of the add-in
 
@@ -88,15 +86,11 @@ e69e87c3-de20-491e-b891-0d75e1e1c6bf Geographic Heat Map {Excel}        O
 
 Now lets open Excel, and see if the add-in is available.
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2017/06/image-2.png)
 
 and there we go.
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2017/06/image-3.png)
 
 I told you, it’s super easy.
 

@@ -19,7 +19,7 @@ While reading the [Windows 8 Consumer Preview and Windows Server “8” Beta Co
 
   On Windows 7 client the “Previous Versions” feature is configured through the System Protection Settings as shown in the screenshot below. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image19.png)
+  ![image](images/image19.png)
 
   Users can access the previous versions through the Folder or File properties tab. 
 
@@ -28,11 +28,11 @@ While reading the [Windows 8 Consumer Preview and Windows Server “8” Beta Co
 
   As shown in the screen shot below the option for configuring System Protection - Previous files has been removed and so has the “Previous Versions” tab within the Folder & Files properties.
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image20.png)
+  ![image](images/image20.png)
 
   Windows7 Backup and Restore is still available in Windows 8 but is well hidden within the system, in order to access the feature you must search for “file recovery” or “recovery”. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image21.png)
+  ![image](images/image21.png)
 
   In Windows 8 Microsoft is trying to simplify the creation of user data backups and restore through a new feature called “File History”. File History allows users to backup their data to removable storage such as a USB drive or a network share. 
 
@@ -42,7 +42,7 @@ While reading the [Windows 8 Consumer Preview and Windows Server “8” Beta Co
 
   **The File History Service** - By default the File History Service is configured to start manually, but once a first user enables File History, the Service startup changes to Automatic (Delayed). Windows 8 is intelligent enough to identify multiple users that have File History enabled, so even if a user disables the feature at a later time, the Service remains configured to Start until no user has file history enabled and then sets the service back to start manually. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image22.png)
+  ![image](images/image22.png)
 
   **File History Configuration** - File History Service configuration is stored within the Windows Registry under:
 
@@ -119,23 +119,23 @@ While reading the [Windows 8 Consumer Preview and Windows Server “8” Beta Co
 
   **File History Data** - The data that is being backed up is stored within the specified location e.g the Removable drive or network location. If a user has setup File History on multiple clients, then a subfolder is created per computer. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image23.png)
+  ![image](images/image23.png)
 
   Each time the File History Service starts a copy of each file version is stored within the defined backup location. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image24.png)
+  ![image](images/image24.png)
 
   **File History - Scheduled Task** - In addition to the File History Service that executes a backup based on the defined backup interval, there’s also a Scheduled Task for File History. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image25.png)
+  ![image](images/image25.png)
 
   When looking at the scheduled Task, you might notice that no “Next Run Time” is defined, this is because the File History Task is part of the Windows maintenance task e.g. the Task is executed when the Windows maintenance Task starts. 
 
   **File History Event logs** - For File History there are also a number of event logs. When enabling “Show Analytic and Debug logs” within the Event Viewer the following File History related event logs are displayed. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image26.png)
+  ![image](images/image26.png)
 
   **File History Group Policy Configuration** - Configuration of the File History through group policy is limited At present enterprise administrators can only prevent users from enabling File History. The setting can be found under: Computer Configuration \ Administrative Templates \ Windows Components \ File History. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/04/image27.png)
+  ![image](images/image27.png)
 

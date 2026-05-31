@@ -20,15 +20,13 @@ If you plan to use the Microsoft App-V Stand-Alone Mode some Registry Settings a
 
   Once you have added the ADM Template to your GPO object you can find them under the “Classic Administrative Templates (ADM)” branch as shown in the picture below. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image.png)
+  ![image](images/image_thumb.png)
 
   Then configure the Group Policy Settings as shown below.  [
 ![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image3.png) [
+](images/image3.png) [
 ![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image4.png)
+](images/image4.png)
 
   Once the GPO is enabled run the command  gpupdate /force on the client to ensure that all GPO settings get applied. Then open the Registry Editor and validate that all settings are configured as described [here](http://www.app-v.in/standalone.php)
 

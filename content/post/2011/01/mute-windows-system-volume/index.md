@@ -16,9 +16,7 @@ tags:
 ---
 I came across a forum post where someone asked how to programmatically mute the Windows System volume. So this is what I have found: 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/image1.png)
+  ![image](images/image_thumb1.png)
 
   **NirCmd**
 

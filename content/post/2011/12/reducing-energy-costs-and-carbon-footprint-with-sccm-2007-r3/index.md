@@ -31,39 +31,27 @@ Almost all companies I know do have some sort of a Green-IT policy in place but 
 
   First enable power management on clients as shown in the below picture. 
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image5.png)
+  ![image](images/image_thumb5.png)
 
   On the Client within the Configuration Manager properties tab, ConfigMgr Power Management Agent is enabled within the list of components. 
 
-  [
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image6.png)
+  ![image](images/image_thumb6.png)
 
   I suggest to start with creating a Test Collection and add test clients manually, then configure the Collection Power Management Settings as shown in the picture below. 
 
-  [
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image7.png)
+  ![image](images/image_thumb7.png)
 
   The next time the SCCM receives it’s policy updates, the Power Management settings should be applied and become active. When we look into the SCCM Power Management log file on the Client we see that at 16:00 the power plan is changed. 
 
-  [
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image8.png)
+  ![image](images/image_thumb8.png)
 
   The result is that after 16:00 the Power Plan is now set to “Power Saver”. 
 
-  [
-![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image9.png)
+  ![image](images/image_thumb9.png)
 
   And finally after a few days (depending on your hardware inventory scanning interval) you should get some data out of the Power Management Reports. 
 
-  [
-![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image10.png)
+  ![image](images/image_thumb10.png)
 
   I hope that with this brief overview of the Power Management features within SCCM 2007 R3 was useful to you, if you’re using SCCM consider using this feature, we’re doing it for us today and our next generation tomorrow. 
 

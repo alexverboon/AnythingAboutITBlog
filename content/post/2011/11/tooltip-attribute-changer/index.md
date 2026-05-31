@@ -18,7 +18,5 @@ While writing a script that checks the number of days between now and when a par
 
   Attribute Changer can be downloaded from [here](http://www.petges.lu/products/ac/)
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/11/image.png)
+  ![image](images/image_thumb.png)
 

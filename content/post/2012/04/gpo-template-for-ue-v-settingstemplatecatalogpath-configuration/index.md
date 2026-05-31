@@ -25,11 +25,7 @@ HKEY_CURRENT_USER\Software\Microsoft\UEV\Agent\Configuration
 
   Note that UE-V is still in Beta, well possible that Microsoft will introduce official GPO settings for now feel free to use this (at your own risk). 
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image5.png)
+  ![image](images/image_thumb5.png)
 
-  [
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image6.png)
+  ![image](images/image_thumb6.png)
 

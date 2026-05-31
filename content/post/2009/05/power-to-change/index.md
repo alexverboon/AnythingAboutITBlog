@@ -18,7 +18,5 @@ tags:
 
   Check out the [Power to Change](https://h30470.www3.hp.com/en_index.html) website for more information and download the Widget. 
 
-  [
-![image](images/image-thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/image8.png)
+  ![image](images/image-thumb8.png)
 

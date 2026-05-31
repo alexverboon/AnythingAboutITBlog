@@ -20,9 +20,7 @@ For those of you that do already use Windows 7 DirectAccess or plan to do so in 
 
   DCA adds an icon to the Taskbar and informs users about their DirectAccess Connectivity Status and Configuration. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2010/02/image2.png) 
+  ![image](images/image_thumb2.png) 
 
   More information and download details for DCA can be found [here](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9a87efe8-e254-4473-8a26-678adea6d9e9&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MicrosoftDownloadCenter+(Microsoft+Download+Center))
 

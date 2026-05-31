@@ -22,9 +22,7 @@ In an earlier post [Using BITS for file downloads](Using BITS for file downloads
 
   The tool does not require installation, so just extract the files, update if the bitsadmin.exe if you like  and launch the bitsguiadmin.exe as Administrator. If you don’t see any existing processes running, simply go to Windows Update and select an available optional or security update to be installed or run a bitsadmin.exe command as described in one of [my previous posts](https://www.verboon.info/index.php/2008/08/using-bits-for-file-downloads/). 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image2.png) 
+  ![image](images/image_thumb2.png) 
 
   Bits GUI Admin can be downloaded from [here](http://maton.com.ua/en/bitsguiadmin/screenshots)
 

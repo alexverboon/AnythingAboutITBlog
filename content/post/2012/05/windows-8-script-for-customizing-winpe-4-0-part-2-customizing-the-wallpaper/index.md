@@ -30,7 +30,5 @@ REG UNLOAD "HKLM\Winpe"
 
   And as you can see from the below screen shot, WinPE has now a custom wallpaper set. 
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/image5.png)
+  ![image](images/image_thumb5.png)
 

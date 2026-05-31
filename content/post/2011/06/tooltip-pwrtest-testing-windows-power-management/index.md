@@ -74,9 +74,7 @@ While reading the Microsoft Whitepaper [Diagnosing Application Compatibility Iss
 
                  PwrTest.exe is part of the Windows Driver Kit that can be downloaded from [here](http://www.microsoft.com/download/en/confirmation.aspx?id=11800). You will need to download an ISO file that is approx. 620 MB, but no worries, no need to install the Full Driver Kit to get this utility. When launching the installer, just select the Tools. 
 
-  [
-![2011-06-30 20h09_06](images/2011-06-30-20h09_06_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/06/2011-06-30-20h09_06.png)
+  ![2011-06-30 20h09_06](images/2011-06-30-20h09_06_thumb.png)
 
   When accepting the default path, all tools will install under C:\WinDDK\7600.16385.1\Tools where you also find the Power Management folder that contains the PwrTest utility.
 

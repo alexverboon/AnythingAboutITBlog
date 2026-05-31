@@ -22,25 +22,19 @@ In the past couple of days I have been working on measuring system boot performa
 
    [
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image.png)
+](images/image.png)
 
   When done click on OK. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image1.png)
+  ![image](images/image_thumb1.png)
 
   Prove a Name and Description and then click OK to save the custom view. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image2.png)
+  ![image](images/image_thumb2.png)
 
   Then right click on the new created custom view and select Export Custom View and save the custom view XML file to CV_boot.xml. Once saved, you can delete the custom view within the Event log Viewer. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image3.png)
+  ![image](images/image_thumb3.png)
 
   To recreate the Custom Eventlog View on the same or another system just run the following command:
 
@@ -48,9 +42,7 @@ In the past couple of days I have been working on measuring system boot performa
 
   after a view seconds the Eventlog Viewer will open with the new custom view created. And now that we have template we can easily change this easily into a custom view for System Standby. 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2011/12/image4.png)
+  ![image](images/image_thumb4.png)
 
   Happy Event Viewing!
 

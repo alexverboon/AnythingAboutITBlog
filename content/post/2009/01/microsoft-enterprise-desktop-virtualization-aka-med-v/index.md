@@ -18,9 +18,7 @@ Microsoft Enterprise Desktop Virtualization (MED-V) is Microsoft's new product o
 
 With local desktop virtualization a complete OS is executed on top of the operating system that is installed on the users physical device. Using a client based virtualization solution such as MED-V can help with application compatibility issues when migrating to a new operating system. With MED-V you can continue providing applications to your users in a seamless way without having the user notice that that application runs on another virtualized OS.
 
-[
 ![MED-V](images/medv-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/01/medv.jpg)
 
 One very interesting scenario that is being shown in the demo is the following: Assume you plan to migrate to Windows 7 that comes with Internet Explorer 8, but you have a business critical application that would only run on Internet Explorer 6. With MED-V you can provide IE6 to your end users running on Windows XP.
 

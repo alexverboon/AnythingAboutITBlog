@@ -22,9 +22,7 @@ Unlike other software that come with a complete setup wizard, clipname just cons
 
 When selecting a folder, file or multiple files, the context menu will show you an extra Clipname option, allowing you to copy the name of the selected items to your Windows clipboard.
 
-[
-![clipmenu1](images/clipmenu1-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/01/clipmenu1.jpg) [
+![clipmenu1](images/clipmenu1-thumb.jpg) [
 ![clipmenu2](images/clipmenu2-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/01/clipmenu2.jpg)
+](images/clipmenu2.jpg)
 

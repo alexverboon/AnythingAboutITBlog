@@ -22,7 +22,7 @@ In the past days Microsoft has released additional information around the Window
 
   So let’s assume you are buying a [HP TouchSmart PC](http://www.hp.com/united-states/campaigns/touchsmart/alt/tsalt.html) with Windows7 pre-installed. This PC would then have the Windows7 logo on it and have an additional AQ for Windows Touch and Media Center. A few months later you are buying a new mobile digital camera, this camera then has the Windows7 logo and an additional AQ for Device Stage, meaning that when you connect your camera to your PC running Windows7, the required device drivers get automatically installed through [Device Stage](http://windowsteamblog.com/blogs/windowsexperience/archive/2009/01/08/device-stage-a-new-way-of-interacting-with-devices-in-windows-7.aspx). 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2009/05/image2.png) 
+  ![image](images/image2.png) 
 
   Additional Resources:
 

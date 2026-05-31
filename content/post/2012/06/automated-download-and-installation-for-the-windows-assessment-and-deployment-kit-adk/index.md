@@ -32,9 +32,7 @@ Pause
     
 - Then launch the script with elevated rights and wait for the download to complete.  
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/06/image1.png)
+  ![image](images/image_thumb1.png)
 
   When the ADK setup tool has downloaded all sources, you will find a new folder called Installers and a file called UserExperienceManifest. According to my findings, when the UserExperienceManifest file exists, the ADKSetup.exe assumes that the sources are downloaded and available in the Installers folder. To see the difference in behavior launch ADKSETUP.EXE with and without the file being present.
 

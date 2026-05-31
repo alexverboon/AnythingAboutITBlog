@@ -22,21 +22,15 @@ To get list of all drivers installed (staged) within the driver store, open an e
 Dism /online /get-drivers /all /format:table >drivers2.txt
 [/sourcecode]
 
-[
 ![2010-12-28 14h59_42](images/2010-12-28-14h59_42_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-14h59_42.png)
 
 Note that if you do not specify the /all option, only the 3rd party (non-inbox) drivers are listed. What the command actually does is collecting all the information from each INF file that is stored within each driver package folder within the driver store.
 
-[
 ![2010-12-28 15h10_27](images/2010-12-28-15h10_27_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-15h10_27.png)
 
 When organizing the data from drivers2.txt within Excel we get the following overview.
 
-[
 ![2010-12-28 15h21_02](images/2010-12-28-15h21_02_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-15h21_02.png)
 
 ## **Is my device supported by the Windows 7 in-box drivers?**
 
@@ -44,15 +38,11 @@ The primary goal of the in-box drivers is to allow users install Windows 7 so th
 
 From the above table we see that there are 107 in-box drivers for Printers. So does windows 7 only support 107 different printers out of the box? No, because each printer driver can support multiple devices.
 
-[
 ![2010-12-28 15h50_40](images/2010-12-28-15h50_40_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-15h50_40.png)
 
 From the above list we can see that for HP Printing devices there are 4 INF files included within the in-box drivers.
 
-[
 ![2010-12-28 15h46_15](images/2010-12-28-15h46_15_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-15h46_15.png)
 
 To get the full detail of a particular driver and the devices it supports, run the following command from an elevated command prompt.
 
@@ -75,9 +65,7 @@ Dism /online /get-driverinfo /driver:C:\Windows\System32\DriverStore\FileReposit
 
 If now we open one of the output files we can see all the different HP printers the driver supports.
 
-[
 ![2010-12-28 15h58_00](images/2010-12-28-15h58_00_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-15h58_00.png)
 
 If we want to get this information into a nice Excel sheet, simply run the following command which extracts just the lines that start with “Description”.
 
@@ -88,9 +76,7 @@ FINDSTR /C "Description" c:\temp\drvstore\hp*.txt >>c:\temp\drvstore\hpprinters.
 
 Then open the hpprinters.log and within the Text Import wizard select that this is a delimited file. I won’t go into the detail here, assume that you have some experience with importing text data within Excel. 
 
-[
 ![2010-12-28 16h10_14](images/2010-12-28-16h10_14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-28-16h10_14.png)
 
 Conclusion the Windows 7 in-box drivers support 209 HP Print devices. Okay, now that we know how to get the data, let’s get it for everything” that is in the driver store. Instead of running the command manually for each INF file you can run the following command:
 

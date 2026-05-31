@@ -21,19 +21,15 @@ As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27
 
  0 = White, 1 = Light grey, 2 = Dark Grey. 
 
- [
-![2013-09-30_20h44_13](images/2013-09-30_20h44_13_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/09/2013-09-30_20h44_13.png)
+ ![2013-09-30_20h44_13](images/2013-09-30_20h44_13_thumb.png)
 
  Users can change the Theme settings via File, Options, General or just File, Account. 
 
- [
-![2013-09-30 21h30_14](images/2013-09-30-21h30_14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/09/2013-09-30-21h30_14.png)
+ ![2013-09-30 21h30_14](images/2013-09-30-21h30_14_thumb.png)
 
   [
 ![2013-09-30 22h53_15](images/2013-09-30-22h53_15_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/09/2013-09-30-22h53_15.png)
+](images/2013-09-30-22h53_15.png)
 
  As soon as the user manually configures the Theme, the setting is stored under:
 
@@ -47,13 +43,9 @@ As [announced](http://blogs.technet.com/b/office_resource_kit/archive/2013/09/27
 
  Now as we speak about Theme settings, there is another Setting and Group Policy that could be of interest. If have signed in with a Microsoft Live Account and use multiple devices, you will notice that the Theme setting roams across these devices. To prevent this from happening, users can enable the “Always use these values regardless of sign-in to Office” setting. 
 
- [
-![2013-09-30 23h11_30](images/2013-09-30-23h11_30_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/09/2013-09-30-23h11_30.png)
+ ![2013-09-30 23h11_30](images/2013-09-30-23h11_30_thumb.png)
 
  Administrators can prevent the Theme settings (and more)  from roaming via User Configuration \ Administrative Templates \ Microsoft Office 2013 \ Global Options Customize \ Allow Roaming of all user customizations. Note that this setting also prevents other settings such as the Access Toolbar and Ribbon settings from roaming. 
 
- [
-![2013-09-30 23h16_31](images/2013-09-30-23h16_31_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/09/2013-09-30-23h16_31.png)
+ ![2013-09-30 23h16_31](images/2013-09-30-23h16_31_thumb.png)
 

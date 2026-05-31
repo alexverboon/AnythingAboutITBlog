@@ -33,9 +33,7 @@ IEURLInfo
 
 When running the Get-IETelemetryURLInfo command against a target machine, the script retrieves all information from the above listed WMI Classes. To make reading the results a bit more comprehensive I have extended the information that is returned by the script.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/11/image.png)
 
 ## ActiveXDetail
 
@@ -159,9 +157,7 @@ Untrusted
 
 When launching the script with the optional -ActiveX switch, the script returns detailed information about the identified ActiveX components.
 
-[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2014/11/image1.png)
 
 Following is the full script. You can download this script from the Script Center Repository [Retrieve Internet Explorer Telemetry Information (Get-IETelemetryInfo)](https://gallery.technet.microsoft.com/scriptcenter/Retrieve-Internet-Explorer-39dd08ef)
 

@@ -73,9 +73,7 @@ Most of the Azure OperationalInsights cmdlets require the Resource Group and Wor
 Find-AzureRmResource -ResourceType "Microsoft.OperationalInsights/workspaces"
 ```
 
-[
 ![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-4.png)
 
 So for my further code snippets I define the the following variables:
 
@@ -94,9 +92,7 @@ $query.value |FL
 
  
 
-[
 ![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-5.png)
 
 To see the definition of the saved search  we’ll use the following code, note the **SavedSearchId** value
 
@@ -107,9 +103,7 @@ $query.properties | FL
 
  
 
-[
 ![image](images/image_thumb-6.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-6.png)
 
 Now let’s get the data.
 
@@ -120,9 +114,7 @@ $Drivers = $result.value | ConvertFrom-Json
 
  
 
-[
 ![image](images/image_thumb-7.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-7.png)
 
 Run a query directly without using a saved search? Here you go:
 

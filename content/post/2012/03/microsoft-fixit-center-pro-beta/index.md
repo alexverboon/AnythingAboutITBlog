@@ -21,11 +21,9 @@ If you haven’t heard of this yet, I recommend taking a look at recently launch
   [Microsoft Fix it Center Pro Now Available!](http://blogs.technet.com/b/fix_it_center_pro_blog/archive/2012/02/28/microsoft-fix-it-center-pro-now-available.aspx)    
 [Microsoft Fix it Center Pro automated diagnostic portal](http://support.microsoft.com/kb/2672837)
 
-  [
-![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image11.png)  
+  ![image](images/image_thumb11.png)  
 
    [
 ![image](images/image_thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image12.png)
+](images/image12.png)
 

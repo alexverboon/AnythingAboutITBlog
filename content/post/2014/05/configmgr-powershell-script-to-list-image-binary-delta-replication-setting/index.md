@@ -17,9 +17,7 @@ tags:
 ---
 Here’s a script that lists all Boot and Operating system images stored within Configuration Manager and shows whether the Binary Delta Replication Setting is enabled or not. 
 
- [
-![SNAGHTML3132c3](images/SNAGHTML3132c3_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/05/SNAGHTML3132c3.png)
+ ![SNAGHTML3132c3](images/SNAGHTML3132c3_thumb.png)
 
   
 

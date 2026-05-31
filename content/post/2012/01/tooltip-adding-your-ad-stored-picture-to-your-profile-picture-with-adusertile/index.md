@@ -18,13 +18,9 @@ Back in august 2011 I wrote about a utility called [AD Photo Edit](https://www.v
 
   ADUserTile checks if you have a picture stored within the Active Directory thumbnailPhoto attribute and sets that picture as your profile picture within Windows 7 so it becomes visible at the logon screen and the Windows Desktop. 
 
-  [
-![2012-01-16 09h46_25](images/2012-01-16-09h46_25_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-16-09h46_25.png)
+  ![2012-01-16 09h46_25](images/2012-01-16-09h46_25_thumb.png)
 
-  [
-![2012-01-16 09h17_41](images/2012-01-16-09h17_41_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/01/2012-01-16-09h17_41.png)
+  ![2012-01-16 09h17_41](images/2012-01-16-09h17_41_thumb.png)
 
       ADUserTile is free and can be downloaded from [here](http://adusertile.codeplex.com/). Also read documentation [here](http://adusertile.codeplex.com/documentation) on how to integrate ADUserTile within a GPO so that the tool runs automatically at user logon.
 

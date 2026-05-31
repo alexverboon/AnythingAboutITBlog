@@ -18,9 +18,7 @@ If you ever experience an issue where clients don’t get correct IP addresses o
 
   To get the tool reporting a rogue server I enabled both the Microsoft DHCP server and the integrated DHCP Service on our Wireless Access point.  
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image5.png) 
+  ![image](images/image_thumb5.png) 
 
   The tool provides the following features:
 

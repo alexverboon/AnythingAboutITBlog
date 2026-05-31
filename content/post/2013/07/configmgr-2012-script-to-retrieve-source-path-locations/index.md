@@ -28,9 +28,7 @@ Here’s a PowerShell script we recently wrote to show the source path location 
 
   The output is as shown in the example below. 
 
-  [
-![CMDATASOURCE](images/CMDATASOURCE_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/07/CMDATASOURCE.png)
+  ![CMDATASOURCE](images/CMDATASOURCE_thumb.png)
 
   before executing the script, connect to your site. 
 

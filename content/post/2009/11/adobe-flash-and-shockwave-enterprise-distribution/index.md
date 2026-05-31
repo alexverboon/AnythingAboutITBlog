@@ -20,21 +20,15 @@ Adobe Flash and Shockwave are probably one of those most installed applications 
 
   Many companies seem to create their Adobe Flash and Shockwave installation packages by capturing the installation sources that are used when initiating an end user installation from the Adobe website as shown in the picture below. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image3.png)
+  ![image](images/image_thumb3.png)
 
   The challenge of this method is that you need to capture the sources while the web based installer is running (these are stored temporarily on the system) and that you probably want to get rid of any additional software that is being installed such as the Google Toolbar in this case. 
 
   Many people seem not to be aware that Adobe does provide redistributable media for enterprise deployment of their Adobe Flash and Adobe Shockwave players. On the download pages of the appropriate Player, you will see a link called “*Distribute Flash Player*” or “*Distribute Shockwave Player*”
 
-                       [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image4.png) 
+                       ![image](images/image_thumb4.png) 
 
-                        [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image5.png) 
+                        ![image](images/image_thumb5.png) 
 
                   
 

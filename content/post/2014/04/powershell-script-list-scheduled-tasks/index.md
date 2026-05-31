@@ -35,7 +35,5 @@ $schtasks | Sort-Object "Hidden" -Descending |  Format-list
 
 Within the Scheduled Tasks UI, by default you will not see the contents of Tasks that are set to hidden. But this can be enabled. Open the Task Scheduler with taskschd.msc and within the View Menu select “Show Hidden Tasks”. 
 
-[
 ![2014-04-28_16h41_50](images/2014-04-28_16h41_50_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2014/04/2014-04-28_16h41_50.png)
 

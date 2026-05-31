@@ -35,9 +35,7 @@ This year I have had the opportunity to speak with many customers about Windows 
 
   But despite all these challenges, there are a number of solutions available. Like many other things, device driver installation behavior can be controlled through a number of Group Policies. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/image.png)
+  ![image](images/image_thumb.png)
 
   The settings can be found under Computer Configuration \ Administrative Templates \ System \ Device Installation, the settings under User Configuration \ Administrative Templates \ System \ Driver Installation can be ignored as they do not apply to Windows 7. 
 
@@ -46,18 +44,14 @@ This year I have had the opportunity to speak with many customers about Windows 
 
   To prevent Windows 7 clients from searching for drivers on Windows Update, enable the Group Policy “Specify search order for device driver source locations” and configure it to “Do not search Windows Update”. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/image1.png)
+  ![image](images/image_thumb1.png)
 
   
 ## Allow Standard Users to Install Drivers For Devices from Specified Setup Classes
 
   With the Group Policy Setting “Allow installation of devices using drivers that match these device setup classes” located under Configuration \ Administrative Templates \ System \ Device Installation \ Device Installation Restrictions IT Administrators can allow standard users to stage and install a driver of a specific Setup Class. This means that if the IT department can’t keep up with distributing printer driver packages to their clients, the installation for Printers can be completely enabled for standard users while maintaining the restriction for other types of devices. This means that a standard user can stage a driver into the driver store and install it. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/image2.png)
+  ![image](images/image_thumb2.png)
 
   Note when adding the setup class for printers you should also consider adding the class for imaging devices because a HP all in one inkjet printer has an imaging device class and not the printer class. A complete list of defined setup classes can be found [here](http://msdn.microsoft.com/en-us/library/ff553426(v=vs.85).aspx). A complete step by step guide on how to configure this can be found [here](http://technet.microsoft.com/en-us/library/cc770453(WS.10).aspx). 
 
@@ -79,15 +73,11 @@ This year I have had the opportunity to speak with many customers about Windows 
 
   Unless you do already exactly know what driver you need, a simple method is to just let the device automatically install on a client that has no restrictions and that can access Windows Update. Once the device installation is complete open the folder C:\Windows\System32\Drivers tore and look for the folder that was just added. 
 
-  [
-![2010-12-31 02h11_40](images/2010-12-31-02h11_40_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-31-02h11_40.png)
+  ![2010-12-31 02h11_40](images/2010-12-31-02h11_40_thumb.png)
 
   Now you can just copy away that folder and use that as the source to pre-stage the driver store of your enterprise clients. Another possibility is to download the driver package [directly](http://support.microsoft.com/kb/323166) from the Windows Update Catalogue. 
 
-  [
-![2010-12-31 02h27_04](images/2010-12-31-02h27_04_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-31-02h27_04.png)
+  ![2010-12-31 02h27_04](images/2010-12-31-02h27_04_thumb.png)
 
   Once downloaded you get the X86-ar_bg_zh-tw_cs_da_de_el_en_es_fi_fr_...v_th_tr_sl_et_lv_lt_zh-cn_pt_ja-nec-20060042_b5eca0da489018bbc1930e42252b1034f739af15.cab file. As a next step extract the content from the CAB file. 
 
@@ -95,31 +85,21 @@ This year I have had the opportunity to speak with many customers about Windows 
 
   To add a driver to the driver store we can use the pnputil.exe command line utility as shown in the picture below. 
 
-  [
-![2010-12-31 02h34_16](images/2010-12-31-02h34_16_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-31-02h34_16.png)
+  ![2010-12-31 02h34_16](images/2010-12-31-02h34_16_thumb.png)
 
   For those interested, the setupapi.dev.log located in c:\Windows\INF provides detailed information about what exactly is happening now. 
 
-  [
-![2010-12-31 02h51_23](images/2010-12-31-02h51_23_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-31-02h51_23.png)
+  ![2010-12-31 02h51_23](images/2010-12-31-02h51_23_thumb.png)
 
   Now that the required Device Driver is pre-staged within the driver store, we can logon as a standard user and connect a mobile device. (in this case I used a Samsung Omnia GT8000 running Windows Mobile 6.5). 
 
-  [
-![gt_install](images/gt_install_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/gt_install.png)
+  ![gt_install](images/gt_install_thumb.png)
 
   again the setupapi.dev.log provides more details on what is happening now. 
 
-  [
-![2010-12-31 02h57_10](images/2010-12-31-02h57_10_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/2010-12-31-02h57_10.png)
+  ![2010-12-31 02h57_10](images/2010-12-31-02h57_10_thumb.png)
 
-  [
-![gt_installed2](images/gt_installed2_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/gt_installed2.png)
+  ![gt_installed2](images/gt_installed2_thumb.png)
 
   Since the driver was already pre-staged, the driver gets automatically installed and is ready for use shortly after having connected the device for the first time. 
 

@@ -22,67 +22,67 @@ Hey there, it’s been a while since I wrote the last blog post, but that is bec
 
   I then enabled the Volume Activation Services Role as shown in the following screenshots.
 
-  ![1clip_image002_thumb](https://www.verboon.info/wp-content/uploads/2012/10/1clip_image002_thumb.jpg)
+  ![1clip_image002_thumb](images/1clip_image002_thumb.jpg)
 
-  ![2clip_image004_thumb](https://www.verboon.info/wp-content/uploads/2012/10/2clip_image004_thumb.jpg)
+  ![2clip_image004_thumb](images/2clip_image004_thumb.jpg)
 
-  ![3clip_image006_thumb](https://www.verboon.info/wp-content/uploads/2012/10/3clip_image006_thumb.jpg)
+  ![3clip_image006_thumb](images/3clip_image006_thumb.jpg)
 
-  ![4clip_image008_thumb1](https://www.verboon.info/wp-content/uploads/2012/10/4clip_image008_thumb1.jpg)
+  ![4clip_image008_thumb1](images/4clip_image008_thumb1.jpg)
 
-  ![5clip_image010_thumb1](https://www.verboon.info/wp-content/uploads/2012/10/5clip_image010_thumb1.jpg)
+  ![5clip_image010_thumb1](images/5clip_image010_thumb1.jpg)
 
-  ![6clip_image010_thumb1](https://www.verboon.info/wp-content/uploads/2012/10/6clip_image010_thumb1.jpg)
+  ![6clip_image010_thumb1](images/6clip_image010_thumb1.jpg)
 
-  ![7clip_image012_thumb](https://www.verboon.info/wp-content/uploads/2012/10/7clip_image012_thumb.jpg)
+  ![7clip_image012_thumb](images/7clip_image012_thumb.jpg)
 
-  ![8clip_image014_thumb](https://www.verboon.info/wp-content/uploads/2012/10/8clip_image014_thumb.jpg)
+  ![8clip_image014_thumb](images/8clip_image014_thumb.jpg)
 
   Once the Volume Activation Role is enabled, launch the Microsoft Office 2013 Preview Volume License Pack installation.
 
-  ![9clip_image016_thumb](https://www.verboon.info/wp-content/uploads/2012/10/9clip_image016_thumb.jpg)
+  ![9clip_image016_thumb](images/9clip_image016_thumb.jpg)
 
   When completed the Volume Activation Tools are launched, or in case you closed it launch it manually.
 
-  ![10clip_image018_thumb](https://www.verboon.info/wp-content/uploads/2012/10/10clip_image018_thumb.png)
+  ![10clip_image018_thumb](images/10clip_image018_thumb.png)
 
-  ![11clip_image020_thumb](https://www.verboon.info/wp-content/uploads/2012/10/11clip_image020_thumb.jpg)
+  ![11clip_image020_thumb](images/11clip_image020_thumb.jpg)
 
   Here you can decide whether you want to use KMS or Active Directory based activation. Note that Active Directory based activation will only work for Windows 8 and Server 2012 systems. Because we are most likely going to have both Windows 7 / Office 2010 in our environment I choose KMS.
 
-  ![12clip_image022_thumb](https://www.verboon.info/wp-content/uploads/2012/10/12clip_image022_thumb.jpg)
+  ![12clip_image022_thumb](images/12clip_image022_thumb.jpg)
 
   Next I’ve entered the Test VLK key Microsoft provides [here](http://www.microsoft.com/en-us/download/details.aspx?id=30342)
 
-  ![13clip_image024_thumb](https://www.verboon.info/wp-content/uploads/2012/10/13clip_image024_thumb.jpg)
+  ![13clip_image024_thumb](images/13clip_image024_thumb.jpg)
 
-  ![14clip_image026_thumb](https://www.verboon.info/wp-content/uploads/2012/10/14clip_image026_thumb.jpg)
+  ![14clip_image026_thumb](images/14clip_image026_thumb.jpg)
 
-  ![15clip_image028_thumb](https://www.verboon.info/wp-content/uploads/2012/10/15clip_image028_thumb.jpg)
+  ![15clip_image028_thumb](images/15clip_image028_thumb.jpg)
 
-  ![16clip_image030_thumb](https://www.verboon.info/wp-content/uploads/2012/10/16clip_image030_thumb.jpg)
+  ![16clip_image030_thumb](images/16clip_image030_thumb.jpg)
 
-  ![17clip_image032_thumb](https://www.verboon.info/wp-content/uploads/2012/10/17clip_image032_thumb.jpg)
+  ![17clip_image032_thumb](images/17clip_image032_thumb.jpg)
 
-  ![18clip_image034_thumb](https://www.verboon.info/wp-content/uploads/2012/10/18clip_image034_thumb.jpg)
+  ![18clip_image034_thumb](images/18clip_image034_thumb.jpg)
 
   I then enabled the Firewall options and decided to publish the KMS server into my DNS. I strongly recommend that you do NOT select this option if you are setting up your test KMS server in a production environment where you have other production KMS servers running.
 
-  ![19clip_image036_thumb](https://www.verboon.info/wp-content/uploads/2012/10/19clip_image036_thumb.jpg)
+  ![19clip_image036_thumb](images/19clip_image036_thumb.jpg)
 
-  ![20clip_image038_thumb](https://www.verboon.info/wp-content/uploads/2012/10/20clip_image038_thumb.jpg)
+  ![20clip_image038_thumb](images/20clip_image038_thumb.jpg)
 
-  ![21clip_image040_thumb](https://www.verboon.info/wp-content/uploads/2012/10/21clip_image040_thumb.jpg)
+  ![21clip_image040_thumb](images/21clip_image040_thumb.jpg)
 
   Then a little check if our Windows 8 client sees the KMS server and we’re “almost” done.
 
-  ![22clip_image042_thumb](https://www.verboon.info/wp-content/uploads/2012/10/22clip_image042_thumb.jpg)
+  ![22clip_image042_thumb](images/22clip_image042_thumb.jpg)
 
   Finally I launched Office 2013 Preview and…..ups, not activated, well that’s because like with Office 2010, KMS requires at least 5 clients before activation takes place.
 
-  ![23clip_image044_thumb](https://www.verboon.info/wp-content/uploads/2012/10/23clip_image044_thumb.jpg)
+  ![23clip_image044_thumb](images/23clip_image044_thumb.jpg)
 
   As with the previous version of Office, Office 2013 also has the ospp.vbs script included providing various command line options around product activation.
 
-  ![25clip_image048_thumb](https://www.verboon.info/wp-content/uploads/2012/10/25clip_image048_thumb.jpg)
+  ![25clip_image048_thumb](images/25clip_image048_thumb.jpg)
 

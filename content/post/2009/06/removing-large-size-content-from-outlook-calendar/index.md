@@ -21,7 +21,5 @@ Most companies put storage limits on their users mailboxes. To avoid full mailbo
 
   You should now see the calendar entries sorted by its size and start deleting those items that are not needed anymore. 
 
-  [
-![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/06/image1.png)
+  ![image](images/image-thumb1.png)
 

@@ -17,9 +17,7 @@ tags:
 ---
 When opening the Virtual Machine Settings Integration Services node in Hyper-V running on Windows 8.1 Preview, you will notice that there is now an additional Integration Service listed called **Guest Services**. By default the service is not enabled, 
 
-  [
-![hv01](images/hv01_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/06/hv01.png)
+  ![hv01](images/hv01_thumb.png)
 
   With this integration service enabled, you can now directly copy a file from a remote system into the VM without utilizing a network connection. A new PowerShell cmdlet **Copy-VMFile** has been added for this new feature. 
 

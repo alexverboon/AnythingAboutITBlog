@@ -18,5 +18,5 @@ For those that frequently need access to the Office 2010 Resource Kit, here’s 
 
   In case you can’t open the CHM file, select file properties and Unlock the file. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2008/08/image1.png)
+  ![image](images/image1.png)
 

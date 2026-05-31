@@ -20,23 +20,17 @@ Creating registry settings manually within the Group Policy Preferences editor c
 
   First open the Registry editor and export the settings you want to manage with Group Policy Preferences. 
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   When exported, open the .REG file with notepad and review the settings. Then open a browser and go to [http://colonelpanic.zzl.org/reg2gpp/](http://colonelpanic.zzl.org/reg2gpp/)
 
   Then select the previously exported .REG file and click on Upload
 
-  [
-![clip_image004](images/clip_image004_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image0041.jpg)
+  ![clip_image004](images/clip_image004_thumb1.jpg)
 
   Next provide a meaningful name, configure the Action and Common Options. 
 
-  [
-![clip_image006](images/clip_image006_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image0061.jpg)
+  ![clip_image006](images/clip_image006_thumb1.jpg)
 
   Then click on Convert and Download XML and save the file. 
 
@@ -44,21 +38,15 @@ Creating registry settings manually within the Group Policy Preferences editor c
 
   In previous versions of Windows you could just drag and drop the xml file into the Group Policy Management Editor, but with Windows 8 / Server 2012 this does not seem to work anymore. So just select the file within File Explorer, select Copy and then select Paste within the GP Management Editor. 
 
-  [
-![clip_image008](images/clip_image008_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image0081.jpg)
+  ![clip_image008](images/clip_image008_thumb1.jpg)
 
   And after confirming that we really want to import this, we have our GPP registry settings imported. 
 
-  [
-![clip_image010](images/clip_image010_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image0101.jpg)
+  ![clip_image010](images/clip_image010_thumb1.jpg)
 
   On a client that gets the GP run gpupdate /force and wait for the registry keys to be created. 
 
-  [
-![clip_image012](images/clip_image012_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image0121.jpg)
+  ![clip_image012](images/clip_image012_thumb1.jpg)
 
   Another method to import registry keys is to use the [Registry Wizard](http://technet.microsoft.com/en-us/library/cc771001.aspx) which is build-in within the console. 
 

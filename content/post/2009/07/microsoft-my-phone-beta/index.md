@@ -18,9 +18,7 @@ Yesterday I received my new mobile phone. Everyone that has switched mobile phon
 
   I had heard about the My Phone service from Microsoft, a web based solution that allows you to backup and restore your mobile phone data to a secured web site. 
 
-  [
-![image](images/image-thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image.png)
+  ![image](images/image-thumb.png)
 
   So I signed up to [http://myphone.microsoft.com](http://myphone.microsoft.com). I had all my data synched from my old device to the new device within 15 minutes. This is what i did. 
 

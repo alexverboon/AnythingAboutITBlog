@@ -22,9 +22,7 @@ In preparation of doing some Group Policy related things, I decided to extend my
 
   By searching documentation on how to move FSMO roles, I found the [FSMO Roles](http://www.dovestones.com/active-directory/FSMORoles.html) utility from [dovestones software](http://www.dovestones.com/),, that simply shows you who owns the FSMO roles within your current AD infrastructure.  
 
-  [
-![image](images/image-thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/04/image4.png) 
+  ![image](images/image-thumb3.png) 
 
   Those who prefer scripts use the code described in “[How to Find the FSMO Role Owners Using ADSI and WSH](http://support.microsoft.com/kb/235617)”.
 

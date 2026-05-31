@@ -75,9 +75,7 @@ Get-GPOSize | Sort-object -property GPName | Format-Table -Property * -autosize
 
 [/sourcecode] 
 
-[
 ![GPO_SIZE](images/GPO_SIZE_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/GPO_SIZE.png)
 
 Any comments, thoughts, inputs are welcome.
 

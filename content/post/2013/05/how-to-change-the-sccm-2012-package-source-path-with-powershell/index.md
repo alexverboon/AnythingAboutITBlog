@@ -19,9 +19,7 @@ Let’s assume you’ve just created a larger number of packages within SCCM 201
 
   As you can see from the screen shot below, we have 2 packages, with their Source Folder pointing to **\\labsccm01\sources\Packages\App1** and **\\labsccm01\sources\Packages\App2**
 
-  [
-![package1](images/package1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/05/package1.png)
+  ![package1](images/package1_thumb.png)
 
   Now we want to change the Source path from \\labsccm01\sources\**Packages**\App1 to \\labsccm01\sources\**NewPackages**\App1 and \\labsccm01\sources\**Packages**\App2 to \\labsccm01\sources\**NewPackages**\App2
 
@@ -51,9 +49,7 @@ Get-CMPackage | Select-object Name, PkgSourcePath, PackageID | Where-Object {$_.
 
 The output generated looks as following.
 
-[
 ![packag2](images/packag2_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/05/packag2.png)
 
 If we are sure that these are the packages we want to change, we copy paste the content and store into a new file called Update_Package_SrcPath.txt. Then open CMPackage_Update_SourcePath.ps1 containing the code below. Edit the variables $OldPath, $OldPath1 and $NewPath. If you just want to simulate things, add –whatif to the line that starts with Set-CMPackage 
 
@@ -157,13 +153,9 @@ Write-host "Completed" -ForegroundColor blue
 }
 ```
 
-[
 ![package3](images/package3_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/05/package3.png)
 
 Going back to the Console we see the updated Source folders. 
 
-[
 ![pacakge4](images/pacakge4_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/05/pacakge4.png)
 

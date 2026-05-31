@@ -38,27 +38,19 @@ Windows Virtual PC is a great feature of Windows 7, but unfortunately Microsoft 
 
   When selecting Windows Virtual PC from the Star menu **vmwindows.exe** is launched (you can see this in the shortcut properties) the Virtual Machine explorer window is launched. 
 
-  [
-![2011-01-16 19h13_26](images/2011-01-16-19h13_26_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/2011-01-16-19h13_26.png)
+  ![2011-01-16 19h13_26](images/2011-01-16-19h13_26_thumb.png)
 
   To prevent users from accessing the Virtual Machine explorer window, we create a “Deny” AppLocker rule for **vmwindows.exe** Once the AppLocker rule is active, users will get the following message when trying to access Windows Virtual PC. 
 
-  [
-![2011-01-16 19h16_34](images/2011-01-16-19h16_34_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/2011-01-16-19h16_34.png)
+  ![2011-01-16 19h16_34](images/2011-01-16-19h16_34_thumb.png)
 
   In the following scenario, we let users have access to the Windows Virtual PC explorer explorer window so that they can start existing Virtual Machines, but we do not want them to create new VMs.
 
-  [
-![2011-01-16 19h27_33](images/2011-01-16-19h27_33_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/2011-01-16-19h27_33.png)
+  ![2011-01-16 19h27_33](images/2011-01-16-19h27_33_thumb.png)
 
   To prevent users from creating a new Virtual Machine, create a “Deny” Applocker rule for **vpcwizard.exe**. And finally if we don’t want users to modify the settings for existing VMs and assuming that they also don’t have the right to create new ones, we simply create a “Deny” Applocker rule for **vpcsettings.exe.**
 
-  [
-![2011-01-16 19h33_02](images/2011-01-16-19h33_02_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/01/2011-01-16-19h33_02.png)
+  ![2011-01-16 19h33_02](images/2011-01-16-19h33_02_thumb.png)
 
   That’s it. Any thoughts, inputs are welcome.
 

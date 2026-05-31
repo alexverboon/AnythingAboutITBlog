@@ -16,9 +16,7 @@ tags:
 ---
 Ever wondered how the Group Policy versioning works? Below you find a number of articles and resources that provide a good insight how GPO versioning works. 
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2011/08/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   Group Policy Team Blog – [Understanding the Domain based GPO version number](http://blogs.technet.com/b/grouppolicy/archive/2008/01/08/understanding-the-domain-based-gpo-version-number-scripts-included.aspx)
 

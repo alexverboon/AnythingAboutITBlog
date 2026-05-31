@@ -24,9 +24,7 @@ FORFILES /P %HOTFIXSRC% /M *.MSU /C "cmd /c wusa @file /quiet /norestart"
 
   But if you are using the System Image Manager and want to include security updates or hotfixes in your unattended Windows 7 installation, you can only select CAB files. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2010/09/image3.png)So where are the CAB files? They are included within the MSU file, so all we need to do is extract them. During the Windows Vista timeframe the recommendation was to use the expand.exe utility.
+  ![image](images/image_thumb3.png)So where are the CAB files? They are included within the MSU file, so all we need to do is extract them. During the Windows Vista timeframe the recommendation was to use the expand.exe utility.
 
   expand -f:* "C:\934307\Windows6.0-KB934307-x86.msu" %TEMP%
 

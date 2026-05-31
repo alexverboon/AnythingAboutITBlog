@@ -24,9 +24,7 @@ The first time I became familiar with the term **Bring Your Own** was when I tra
 
   Although BYOC is not a Technology, If we take [Gartner’s Hype Cycle](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp#), I believe we are currently at *Stage 1 – Technology Trigger*. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/07/image.png) Many people are talking about BYOC, some even have serious plans to move towards the BYOC concept, but we haven’t seen many large companies that have implemented it, most likely because there are quite some things to consider. I’ll speak more about these in Bring Your Own Computer – Part 2. 
+  ![image](images/image_thumb.png) Many people are talking about BYOC, some even have serious plans to move towards the BYOC concept, but we haven’t seen many large companies that have implemented it, most likely because there are quite some things to consider. I’ll speak more about these in Bring Your Own Computer – Part 2. 
 
   At present when searching for BYOC information on the web, you will automatically hit on Citrix and Intel who both have or are running BYOC pilots. More information about the Citrix BYOC initiative can be found [here](http://www.citrix.com/site/resources/dynamic/news/ForresterBYOC07082009.pdf) and [here](http://www.citrix.com/tv/#videos/2326). Citrix has been quite smart in taking the lead in the BYOC space, because they do provide the Technology that companies will need to consider when applying the BYOC concept. With Citrix XenApp or XenDesktop you can connect with any device to the corporate network but still get access to all centrally managed applications. Have a look at my other blog post [XenApp Demos from the Cloiud](https://www.verboon.info/index.php/2010/05/xenapp-demos-from-the-cloud/) and you will see how that works. 
 

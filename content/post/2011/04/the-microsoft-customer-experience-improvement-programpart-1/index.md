@@ -55,39 +55,27 @@ The Microsoft Customer Experience Improvement Program ([CEIP](http://www.microso
 
   Let’s start with the Windows Operating System itself. In **Windows 7** type the word “Experience” in the start menu search bar and you should find the Change Customer Experience Improvement Program Settings control panel application. 
 
-  [
-![2011-04-20 11h15_19](images/2011-04-20-11h15_19_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h15_19.png)
+  ![2011-04-20 11h15_19](images/2011-04-20-11h15_19_thumb.png)
 
   For **Microsoft Office 2010**, just open one of the Office applications such as Word. Select File, Options, Trust Center, Trust Center Settings, Privacy Options. 
 
-  [
-![2011-04-20 11h18_46](images/2011-04-20-11h18_46_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h18_46.png)
+  ![2011-04-20 11h18_46](images/2011-04-20-11h18_46_thumb.png)
 
   To configure CEIP in **Windows Live Messenger** start Live Messenger and once signed in open the menu attached to your name, then select More options. 
 
-  [
-![2011-04-20 11h24_38](images/2011-04-20-11h24_38_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h24_38.png)
+  ![2011-04-20 11h24_38](images/2011-04-20-11h24_38_thumb.png)
 
   Then select the Privacy tab.  
 
-  [
-![2011-04-20 11h28_14](images/2011-04-20-11h28_14_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h28_14.png)
+  ![2011-04-20 11h28_14](images/2011-04-20-11h28_14_thumb.png)
 
   **Windows Media Player**. Select Tools, Options, then select the Privacy tab. 
 
-  [
-![2011-04-20 11h46_45](images/2011-04-20-11h46_45_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h46_45.png)
+  ![2011-04-20 11h46_45](images/2011-04-20-11h46_45_thumb.png)
 
   To configure **Microsoft Security Essentials**, select Help, Customer Experience Improvement Program.
 
-  [
-![2011-04-20 11h50_21](images/2011-04-20-11h50_21_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-11h50_21.png)
+  ![2011-04-20 11h50_21](images/2011-04-20-11h50_21_thumb.png)
 
   
 # At the Registry Level

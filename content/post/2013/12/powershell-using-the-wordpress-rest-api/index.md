@@ -23,9 +23,7 @@ $posts.posts | Select-Object @{"Name" = "Title";"e"= {($_.Title)-replace "–","
 
 ```
 
-[
 ![2013-12-29_20h05_20](images/2013-12-29_20h05_20_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/2013-12-29_20h05_20.png)
 
 More details abou the WordPress Rest API can be found [here](http://developer.wordpress.com/docs/api/)
 

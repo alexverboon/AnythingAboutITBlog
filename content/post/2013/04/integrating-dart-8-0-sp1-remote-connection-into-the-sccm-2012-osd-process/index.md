@@ -39,9 +39,7 @@ While preparing for an SCCM 2012 upgrade, I thought it might be a good idea to c
     
 *The below screen shot shows the structure I have in my lab.*  
 
-  [
-![image](images/image_thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image12.png)
+  ![image](images/image_thumb12.png)
 
   4. Extract the following files from the CAB file. (note that I use the 64 Bit version of the CAB file)
 
@@ -67,9 +65,7 @@ ZTIUtility.vbs
 
   6. Since the script was originally written for DaRT 7, the line (124) containing the path to the DaRT Remote Viewer Tool must be updated.Replace the path with ""C:\Program Files\Microsoft DaRT 8\v8\DartRemoteViewer.exe" as shown below. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image1.png)
+  ![image](images/image_thumb1.png)
 
   In order to easily identify the created shortcut we add the following code which creates the OSD environment variable *DartShortCut*
 
@@ -83,33 +79,23 @@ oEnvironment.Item("DaRTShortCut") = oEnvironment.Item("ShortCutShare") & "\" & s
 
   7. Since on some networks not just all ports are open we are going to use a static port. e.g. 3388. Unfortunately this information is stored in a file called DartConfig.dat that can only be generated using the DaRT Recovery Image wizard that we have installed in step 1. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image2.png)
+  ![image](images/image_thumb2.png)
 
   On the next page just select Next. Then select “**Allow remote connections**” and “**specify the port number**”
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image3.png)
+  ![image](images/image_thumb3.png)
 
   Skip through the following Wizard pages until you get here. Select “**Edit Image**”. 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image4.png)
+  ![image](images/image_thumb4.png)
 
   Now wait while the DaRT image is generated. (This can take a while). Then select “**Open in Windows Explorer**”
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image5.png)
+  ![image](images/image_thumb5.png)
 
   From the System32 folder copy the DartConfig.DAT and copy it into the **..\PreStart_x64\CM12Dart\Windows\System32** folder. If you did not extract the files from the CAB file in Step 4, you find them here as well. When done close the Explorer. 
 
-  [
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image6.png)
+  ![image](images/image_thumb6.png)
 
   Going back to the wizard you can either select Cancel or Create. 
 
@@ -135,33 +121,23 @@ Within the Image properties select the “**Customization**” tab. Select “En
       
 **Then Click “**Apply**” to save the changes. 
 
-  [
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image7.png)    
+  ![image](images/image_thumb7.png)    
 
   Now that we have put everything in place, let’s start the OS Deployment Task Sequence. I am using SCCM boot media here, so I have booted my VM with SCCM Boot media that I have previously created. 
 
-  [
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image8.png)
+  ![image](images/image_thumb8.png)
 
   As soon as we hit “Next” the prestart command kicks in and launches the DaRT Remote Connection tool, that sits minimized in the corner of the screen. 
 
-  [
-![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image9.png)
+  ![image](images/image_thumb9.png)
 
   Now heading over to the Server where I have installed the DaRT Remote Viewer Tool and open the Share where the shortcut link is automatically created by the StartRemoteRecovery.wsf script. 
 
-  [
-![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image10.png)
+  ![image](images/image_thumb10.png)
 
   and there you go, we now have a remote connection into our OS Deployment session. 
 
-  [
-![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2013/04/image11.png)
+  ![image](images/image_thumb11.png)
 
   Note that as soon as the client starts into Windows we loose the ability to use the DaRT remote connection tool  
 

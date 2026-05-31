@@ -18,9 +18,7 @@ Follow the below steps to disable Java in Internet Explorer with Group Policy.
 
   Open Internet Explorer, then from the Tools menu select Manage Add-ons. Locate the Java add-on, select and double click on it. 
 
-  [
-![clip_image002](images/clip_image002_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/01/clip_image002.jpg)
+  ![clip_image002](images/clip_image002_thumb.jpg)
 
   Click on the Copy button to copy the content and paste it into notepad
 
@@ -54,9 +52,7 @@ Follow the below steps to disable Java in Internet Explorer with Group Policy.
 
   Open the Add-on list Setting, Enable it and then add the Class IDs of all Java add-on-s to the list. Set the value to 0. Click OK to save the changes. 
 
-  [
-![clip_image004](images/clip_image004_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/01/clip_image004.jpg)
+  ![clip_image004](images/clip_image004_thumb.jpg)
 
   Note that you can also apply the same settings under the User Configuration node. Possible values that can be entered are:
 
@@ -67,9 +63,7 @@ Follow the below steps to disable Java in Internet Explorer with Group Policy.
 
   Once the updates settings have applied to your machine the add-ons should be disabled. 
 
-  [
-![clip_image006](images/clip_image006_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/01/clip_image006.jpg)
+  ![clip_image006](images/clip_image006_thumb.jpg)
 
   To test if it-s working go to the Java applet test page here [http://www.java.com/en/download/testjava.jsp](http://www.java.com/en/download/testjava.jsp)
 

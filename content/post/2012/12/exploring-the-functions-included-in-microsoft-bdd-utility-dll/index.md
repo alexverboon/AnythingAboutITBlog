@@ -28,9 +28,7 @@ While browsing through the MDT 2012 scripts, I noticed that here and there MDT u
 
   So I took Nir Sofer’s [DLL Export Viewer](http://www.nirsoft.net/utils/dll_export_viewer.html) to find out what other functions are included in Microsoft.BDD.Utility.dll
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2012/12/image2.png)
+  ![image](images/image_thumb2.png)
 
   The below table lists the functions included.
 

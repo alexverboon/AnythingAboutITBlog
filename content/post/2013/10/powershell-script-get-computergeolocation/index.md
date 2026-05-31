@@ -31,19 +31,13 @@ tags:
 
  This is why when i run the below script on my desktop that is located in the basement and directly connected to our cable-modem, the result is different as when I run the script on our laptop that has a build-in GPS sensor. On the desktop the Windows Location provider used IP Address resolution whereas the laptop used GPS data to determine its location. 
 
- [
-![image](images/image_thumb9.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image9.png)
+ ![image](images/image_thumb9.png)
 
- [
-![2013-10-27_14h10_32](images/2013-10-27_14h10_32_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/2013-10-27_14h10_32.png)
+ ![2013-10-27_14h10_32](images/2013-10-27_14h10_32_thumb.png)
 
  The GPS information wasn’t very accurate because I am sitting inside. When connecting via cell-phone the information gets more accurate. 
 
- [
-![2013-10-27_14h31_00](images/2013-10-27_14h31_00_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/2013-10-27_14h31_00.png)
+ ![2013-10-27_14h31_00](images/2013-10-27_14h31_00_thumb.png)
 
   
 

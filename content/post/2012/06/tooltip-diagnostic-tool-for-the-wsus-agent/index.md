@@ -26,7 +26,7 @@ If you’re looking for a more advanced version of the [WSUS Client Diagnostic T
 - Test connections to all WSUS resources and help identify probable causes of failures     
 - Get useful descriptions of Windows Update Agent errors and the steps to repair them  
 
-  ![image_thumb7](https://www.verboon.info/wp-content/uploads/2012/10/image_thumb7.png)
+  ![image_thumb7](images/image_thumb7.png)
 
   The Diagnostic Tool for the WSUS Agent can be downloaded from [here](http://www.solarwinds.com/register/index.aspx?Program=12060&c=70150000000PS0q) and [here](http://www.youtube.com/watch?v=5MkqFJnNg7k) you find a tool demonstration video.
 

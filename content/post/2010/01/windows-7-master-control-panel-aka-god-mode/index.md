@@ -18,7 +18,7 @@ Since yesterday there have been a lot of tweets and e-mails about the so-called 
   
 ![godmodeicon](http://blogs.chron.com/techblog/godmodeicon.jpg)
 
-  ![image](https://www.verboon.info/wp-content/uploads/2010/01/image1.png) 
+  ![image](images/image1.png) 
 
   No need to re-write what has been written already, so for more details and how-to’s read the articles listed below. 
 

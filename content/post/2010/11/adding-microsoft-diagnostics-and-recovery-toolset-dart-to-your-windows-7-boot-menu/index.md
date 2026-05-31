@@ -24,21 +24,15 @@ To set this up I have used a VMWare virtual machine, very useful especially when
 
 First we install the Microsoft Diagnostics and Recovery Toolset that is stored on the MDOP DVD on a Windows 7 client.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/11/image.png)
 
 Just follow the instructions to complete the installation. Once installed launch the ERD Commander Boot Media Wizard.
 
-[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2010/11/image1.png)
 
 Again follow the instructions, it’s quite self explaining otherwise read the provided documentation. When completed, you should get a “ERD65.ISO” file that you could burn to a DVD or connect in VMWare / Virtual PC to boot DART. But to boot DART form our local disk we must extract the content from that ISO file. I used [7-Zip](http://www.7-zip.org/), but you can use any tool that allows you to extract data from an ISO file.
 
-[
 ![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2010/11/image2.png)
 
 Copy the entire content from the ISO file to a folder called “**C:\DART**”. In a real world scenario you want to consider to put this somewhere else, but for demonstration purposes this should work. As a last step we must update the BCD so that we get an additional boot menu option. I assume you are familiar with the BCD Store, if not be careful because wrong BCD Store edits can prevent you from booting your system. (this is why I used a virtual machine).
 
@@ -76,15 +70,11 @@ winpe                   Yes
 
 If that worked, restart your system. You should now see the additional Boot Menu option called “IT Support Tools”
 
-[
 ![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2010/11/image3.png)
 
 During the startup of DART you will get a few prompts, finally you should see the following menu.
 
-[
 ![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2010/11/image4.png)
 
 That’s it.
 

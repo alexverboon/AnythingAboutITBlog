@@ -20,21 +20,15 @@ I wanted to launch the Active directory users and computers console, but did not
 
 First, on the windows 2008 system open the server manager. Then select Features, Add features as shown in the picture below.
 
-[
 ![](images/image-thumb-300x133.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb.png)
 
 then select Remote Server Administration tools, Role Administration tools, and then enable Active Directory Domain Services Tools. (*note the screen shot below was taken after installation, that is why it is shown as installed*).
 
-[
-![](images/image1-300x102.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image1.png) 
+![](images/image1-300x102.png) 
 
 confirm the following message boxes and after a while (including a system reboot) the tools are installed and ready to use. Enjoy AD administration !
 
-[
-![](images/image-thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2008/12/image-thumb2.png) 
+![](images/image-thumb2.png) 
 
 Also note that if you want to access the Group Policy Management Console, you must follow the same path, just look out for the GPMC console in the available features list.
 

@@ -25,9 +25,7 @@ Most enterprises take advantage of Group Policies to manage security configurati
 
   For demonstration purposes I have created a new Group Policy object called Company Standard Desktop that contains 4 settings. 
 
-  [
-![clip_image002](images/clip_image002_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image002.png)
+  ![clip_image002](images/clip_image002_thumb.png)
 
   In the above settings you see the Accounts Guest account setting, however after reading the [release notes](http://social.technet.microsoft.com/wiki/contents/articles/1864.microsoft-security-compliance-manager-scm-release-notes.aspx) I had to learn that:
 
@@ -44,105 +42,71 @@ Most enterprises take advantage of Group Policies to manage security configurati
 
   To import the settings into SCM we must first export the GPO e.g. create a Backup. 
 
-  [
-![clip_image004](images/clip_image004_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image004.jpg)
+  ![clip_image004](images/clip_image004_thumb.jpg)
 
   We then launch the Microsoft Security Compliance Manager and select Import – GPO (Backup Folder). When prompted we enter the Name of the baseline. 
 
-  [
-![clip_image006](images/clip_image006_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image006.jpg)
+  ![clip_image006](images/clip_image006_thumb.jpg)
 
   Once imported successfully, we can see the settings within the SCM console. 
 
-  [
-![clip_image008](images/clip_image008_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image008.jpg)
+  ![clip_image008](images/clip_image008_thumb.jpg)
 
   To use this baseline within SCCM we must export it into a DCM cab file. Under the Export node, select SCCM DCM 2007 (cab) and then associate the baseline with a Product. For this demo we select Windows 8. 
 
-  [
-![clip_image010](images/clip_image010_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image010.jpg)
+  ![clip_image010](images/clip_image010_thumb.jpg)
 
   When prompted save the CAB file. 
 
-  [
-![clip_image012](images/clip_image012_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image012.jpg)
+  ![clip_image012](images/clip_image012_thumb.jpg)
 
   Note that **SCCM DCM 2007** relates to the “**format**” of the DCM cab file, but according to Jose Maldonado Security Product Manager at Microsoft for SCM this works with SCCM 2012 Service Pack 1 as well. Without SCCM 2012 SP1 some of the DCM packs have issues. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/02/image.png)
+  ![image](images/image_thumb.png)
 
   Next we open the SCCM Console and under Assets and Compliance \ Compliance Settings \ Configuration Baselines we select **Import Configuration Data. **
 
-  [
-![clip_image013](images/clip_image013_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image013.png)
+  ![clip_image013](images/clip_image013_thumb.png)
 
   We then select **Add** and select the previously exported CAB file. Once imported we see the baseline listed. 
 
-  [
-![clip_image015](images/clip_image015_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image015.jpg)
+  ![clip_image015](images/clip_image015_thumb.jpg)
 
   Then click **Next**, **Next** and if all goes well, we get the following results. 
 
-  [
-![clip_image017](images/clip_image017_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image017.jpg)
+  ![clip_image017](images/clip_image017_thumb.jpg)
 
   We now have a new Baseline
 
-  [
-![clip_image019](images/clip_image019_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image019.jpg)
+  ![clip_image019](images/clip_image019_thumb.jpg)
 
   When we right click on the Configuration Baseline and select **Show Members**
 
-  [
-![clip_image021](images/clip_image021_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image021.jpg)
+  ![clip_image021](images/clip_image021_thumb.jpg)
 
   We see all configuration items associated with this security baseline. 
 
-  [
-![clip_image023](images/clip_image023_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image023.jpg)
+  ![clip_image023](images/clip_image023_thumb.jpg)
 
   Because we know that the Accounts:Guest account configuration item won’t work, we will simply delete this one. 
 
-  [
-![clip_image025](images/clip_image025_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image025.jpg)
+  ![clip_image025](images/clip_image025_thumb.jpg)
 
   Next we are going to deploy this baseline. Select the new created baseline and click on the **Deploy** icon. 
 
-  [
-![clip_image027](images/clip_image027_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image027.jpg)
+  ![clip_image027](images/clip_image027_thumb.jpg)
 
   Select the Configuration Baseline to deploy, then select a Collection and then select the schedule. For demonstration purposes I have this this to once every hour, but within a production environment depending on how important compliance is for your organization you probably want to set this to once a day, every 3 days or once a week. 
 
-  [
-![clip_image029](images/clip_image029_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image029.jpg)
+  ![clip_image029](images/clip_image029_thumb.jpg)
 
   Once all settings are made click OK and you should see the Configuration Baseline deployment within the SCCM console. 
 
-  [
-![clip_image031](images/clip_image031_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image031.jpg)
+  ![clip_image031](images/clip_image031_thumb.jpg)
 
   And once clients have processed the compliance settings task the results are shown in the console. For this demonstration I have only used one client. 
 
-  [
-![clip_image033](images/clip_image033_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2013/02/clip_image033.jpg)
+  ![clip_image033](images/clip_image033_thumb.jpg)
 
   **Additional Information:**
 

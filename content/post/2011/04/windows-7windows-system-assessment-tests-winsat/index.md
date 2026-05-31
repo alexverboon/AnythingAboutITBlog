@@ -27,9 +27,7 @@ Hey there, today I am going to share some information I have gathered about the 
 - Disk
 
 Upon completion of the assessment tests, each component is given a score that is based on the [Windows Experience Index](http://windows.microsoft.com/en-US/windows7/What-is-the-Windows-Experience-Index). The overall score called “Base Score” is based on the lowest subscore of an individual hardware component.
-[
 ![2011-04-17 22h50_13](images/2011-04-17-22h50_13_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-17-22h50_13.png)
 So what does the Base Score mean? Well Microsoft defines it as following:
 
 	
@@ -70,23 +68,15 @@ Run winsat.exe /? to get a detailed syntax overview.
 
 The WinSAT log file and test files are stored under the folder C:\Windows\Performance\WinSAT and the detailed assessment results are stored under C:\Windows\Performance\WinSAT\**DataStore**
 Remember the lengthy setup times with Windows Vista? Well one of the reasons for that was because Windows Vista did perform a full assessment during setup, this has changed with Windows 7 where only the DWM (Desktop Window Manager) assessment is mandatory and is executed during Windows setup unless already prepopulated by the OEM. Running this test is mandatory so that Windows can recognize wither the system is capable of running Aero.
-[
 ![2011-04-17 23h28_44](images/2011-04-17-23h28_44_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-17-23h28_44.png)
 Once a full assessment has ran, the DataStore folder looks about this.
-[
 ![2011-04-18 00h19_18](images/2011-04-18-00h19_18_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-18-00h19_18.png)
 As you can see a separate XML file is created for the various assessment type, but all the results are stored in the file(s) that have the word “Formal.Assessment” in its filename. If you have ran WinSAT several times you will find one file with the word “Initial” and the last with the word “Recent”.
-[
 ![2011-04-18 00h21_22](images/2011-04-18-00h21_22_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-18-00h21_22.png)
 When opening the Performance Information and Tools Control Panel, the presented data is taken from the “Formal.Assessment” file(s) so when you delete these files, no rating data is displayed. As long as the not all assessment tasks have been executed the system is considered as unrated. A full assessment occurs once the system is in [idle state](http://msdn.microsoft.com/en-us/library/aa383561%28v=VS.85%29.aspx) (See scheduled Task below).
 Now that’s not all, Windows also stores the WinSAT data in a WMI class called Win32_WinSAT. To access the data, open a PowerShell prompt and enter the following command:
 gwmi win32_winsat
-[
 ![2011-04-18 00h17_03](images/2011-04-18-00h17_03_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-18-00h17_03.png)
 Note the WinSATAssessmentState value. A detailed description of the possible values can be found [here](http://msdn.microsoft.com/en-us/library/aa969205(v=vs.85).aspx)
 
 # Collecting WinSAT Data
@@ -115,9 +105,7 @@ Next
 # WinSAT Scheduled Task
 
 Windows 7 by default also has a scheduled Task that runs WinSAT on a weekly basis. The reason why this runs on a weekly basis is to adjust any ratings in case of system configuration changes.
-[
 ![2011-04-18 00h49_11](images/2011-04-18-00h49_11_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-18-00h49_11.png)
 **Additional Information**
 [Configure Windows System Assessment Tests Scores](http://technet.microsoft.com/en-us/library/dd744241(WS.10).aspx)
 [Engineering the Windows 7 “Windows Experience Index”](http://blogs.msdn.com/b/e7/archive/2009/01/19/engineering-the-windows-7-windows-experience-index.aspx)

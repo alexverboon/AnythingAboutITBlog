@@ -20,9 +20,7 @@ Not t0o many years ago, when speaking about repartitioning disks most of us woul
 
 So let’s assume your current systems have just one partition.
 
-[
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2010/09/image4.png) For the use of Bitlocker a second partition is required and the BCD store must be moved into that new partition.
+![image](images/image_thumb4.png) For the use of Bitlocker a second partition is required and the BCD store must be moved into that new partition.
 
 It’s simple ! Microsoft included a handy command line tool called **BdeHdCfg.exe** that allows you to create the Bitlocker partition and move the BCD store. The following command shrinks the system partition, creates the new second 300 MB partition, assigns the drive letter S to it and moves the BCD store.
 
@@ -30,7 +28,5 @@ BcdHdCfg.exe –target C: shrink –newdriveletter S: –size 300 –quiet
 
 Once the process is completed the system must be rebooted. The system now has the 2nd partition.
 
-[
 ![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2010/09/image5.png)
 

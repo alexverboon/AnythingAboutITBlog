@@ -24,9 +24,7 @@ Windows Virtual PC requires that your hardware supports hardware-assisted virtua
 
   I was not able to find any command line options for the havtoollauncher.exe itself, so i moved on the to the 32 bit version of the havtool.exe. And yes, indeed the tool does provide command line options, Hura!
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/11/image.png)
+  ![image](images/image_thumb.png)
 
   
 

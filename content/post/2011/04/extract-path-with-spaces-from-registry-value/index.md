@@ -23,9 +23,7 @@ I’ve been browsing through the Microsoft TechNet Forums to see whether I can l
 
   To demonstrate the problem I have created the following registry key, as you can see the PATH value has a folder path with spaces. 
 
-  [
-![2011-04-25 22h26_53](images/2011-04-25-22h26_53_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-25-22h26_53.png)
+  ![2011-04-25 22h26_53](images/2011-04-25-22h26_53_thumb.png)
 
   Now if we run the following command:
 
@@ -33,25 +31,19 @@ I’ve been browsing through the Microsoft TechNet Forums to see whether I can l
 
   the result is as following. 
 
-  [
-![2011-04-25 22h28_53](images/2011-04-25-22h28_53_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-25-22h28_53.png)
+  ![2011-04-25 22h28_53](images/2011-04-25-22h28_53_thumb.png)
 
   Those that are somewhat familiar with the DOS scripting language will automatically think of using the FOR command and create a script that looks as following: 
 
   for /F "Tokens=3" %%a in ('reg query HKEY_CURRENT_USER\Software\FooCorp /v Path') do set xpath=%%a   
 echo %xpath%
 
-  [
-![2011-04-25 22h34_55](images/2011-04-25-22h34_55_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-25-22h34_55.png)
+  ![2011-04-25 22h34_55](images/2011-04-25-22h34_55_thumb.png)
 
   The problem is, that because of the spaces within the path, not the entire path string is returned. The following code does the trick and returns the full path. 
 
   for /F "Tokens=3*" %%a in ('reg query HKEY_CURRENT_USER\Software\FooCorp /v Path') do set xpath=%%a %%b    
 echo %xpath%
 
-  [
-![2011-04-25 22h35_29](images/2011-04-25-22h35_29_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-25-22h35_29.png)
+  ![2011-04-25 22h35_29](images/2011-04-25-22h35_29_thumb.png)
 

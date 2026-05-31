@@ -21,19 +21,19 @@ Last week I noticed that the Boot Time shown on my BGInfo generated desktop wall
 
   Here’s my BGInfo generated desktop wallpaper I had first. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/10/image.png)
+  ![image](images/image.png)
 
   And here the new one that shows the Cold Boot time and the time when the system did a fast startup. 
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/10/image1.png)
+  ![image](images/image1.png)
 
   To add this to your own BGInfo template, copy the code below into a file called bg_wakeuptime.vbs and copy the script file into the BGInfo application folder. Then open BGInfo.exe, select the Custom button
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/10/image7.png)
+  ![image](images/image7.png)
 
   Create a ne field that has the following properties
 
-  ![image](https://www.verboon.info/wp-content/uploads/2012/10/image11.png)
+  ![image](images/image11.png)
 
    
 

@@ -60,9 +60,7 @@ Test-AzureRmResourceGroupDeployment -ResourceGroupName $ResourceGroupName -Templ
 #Test with template and parameter object    
 Test-AzureRmResourceGroupDeployment -ResourceGroupName $ResourceGroupName -TemplateUri $TemplateFile -TemplateParameterObject $paramobj -Verbose
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image.png)
+  ![image](images/image_thumb.png)
 
   So now we know that the template, the template parameter file and the parameter object are valid. Let’s move on and create things.
 
@@ -74,15 +72,11 @@ New-AzureRmResourceGroupDeployment -Name "Example3"  -ResourceGroupName $Resour
 
   Get-AzureRmResourceGroupDeployment -ResourceGroupName $ResourceGroupName 
 
-  [
-![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image-1.png)
+  ![image](images/image_thumb-1.png)
 
   and within the Azure Console. 
 
-  [
-![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image-2.png)
+  ![image](images/image_thumb-2.png)
 
   The New-AzureRmResourceDeployment has an important parameter we didn’t specify before, but that’s worth mentioning. –Mode. The online Azure documentation currently doesn’t say a lot about this option, but I found a good description [here](https://github.com/Azure/azure-content/blob/master/articles/resource-group-template-deploy.md). 
 
@@ -106,19 +100,13 @@ New-AzureRmResourceGroupDeployment -Name "Example3"  -ResourceGroupName $Resour
 
   New-AzureRmResourceGroupDeployment -Name "Example1"  -ResourceGroupName $ResourceGroupName -TemplateUri $TemplateFile -Verbose **-Mode Complete**
 
-  [
-![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image-3.png)
+  ![image](images/image_thumb-3.png)
 
-  [
-![image](images/image_thumb-4.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image-4.png)
+  ![image](images/image_thumb-4.png)
 
   Only VNet1 is leftover, all other deployments are gone. 
 
-  [
-![image](images/image_thumb-5.png)
-](https://www.verboon.info/wp-content/uploads/2016/03/image-5.png)
+  ![image](images/image_thumb-5.png)
 
   The template, template parameter json files and the powershell code snipppets used in this article can be found here:
 

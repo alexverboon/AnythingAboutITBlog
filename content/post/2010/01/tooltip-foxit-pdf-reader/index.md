@@ -20,9 +20,7 @@ Yesterday evening I was reading [Justin Rodino’s](http://www.227volts.com/?pag
 
   To Install the Foxit Reader you must download the Setup package which is only 5.3 MB and once installed the Foxit Reader only uses 9.6 MB. In all fairness I did not look at the functionality differences of the two tools, well possible that the Adobe Reader does provide more functionality and therefore requires a larger footprint. However most of us use the Adobe Reader just to read PDF files and that is what the Foxit Reader allows you to do as well, with just a much smaller application footprint. 
 
-  [
-![image](images/image_thumb17.png)
-](https://www.verboon.info/wp-content/uploads/2010/01/image17.png)
+  ![image](images/image_thumb17.png)
 
   The Foxit Reader can be downloaded from [here](http://www.foxitsoftware.com/downloads/index.php) and a feature overview can be found [here](http://www.foxitsoftware.com/pdf/reader/reader3.php). The Foxit Reader is available for Windows, Linux, and Windows Mobile.
 

@@ -39,9 +39,7 @@ Today I want to share with you a small script I’ve put together for customizin
   **Step 4:** Run the following command: copype.cmd x86 c:\mypex86      
 If all went fine you get an folder that looks like this     
       
-[
 ![image](images/image_thumb21.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image21.png)
 
   **Step 5:** Now run the following command: custpe.cmd mypex86 x86
 
@@ -56,22 +54,16 @@ If all went fine you get an folder that looks like this
 
   Note that this can take a little while. If it all worked out you should see the following output. 
 
-  [
-![image](images/image_thumb22.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image22.png)
+  ![image](images/image_thumb22.png)
 
   **Step 6:** Now let’s make this a bootable ISO file by running the following command:     
 makewinpemedia.cmd /ISO C:\MyPEx86 C:\MyPEx86\MyPEx86.ISO
 
-  [
-![image](images/image_thumb23.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image23.png)
+  ![image](images/image_thumb23.png)
 
   **Step 7**: Boot your virtual machine from the ISO file. 
 
-  [
-![image](images/image_thumb24.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image24.png)
+  ![image](images/image_thumb24.png)
 
   Watch out for a follow post, I’ll do an update if I come across anything new in WinPE 4.0. For now that’s it.    
     

@@ -18,9 +18,7 @@ The issue with learning new stuff is that often you have to spend a lot of time 
 
   The Hands-On labs are prepared within less than 30 seconds. Awesome!
 
-  [
-![2013-06-15_15h54_47](images/2013-06-15_15h54_47_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/06/2013-06-15_15h54_47.png)
+  ![2013-06-15_15h54_47](images/2013-06-15_15h54_47_thumb.png)
 
   Below a list of Hands-on labs now available for Windows Client, Access and Management. Check for updates directly on Channel 9 – TechEd North America 2013   
 [http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013#fbid=6pQTUrStsWU](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013#fbid=6pQTUrStsWU)

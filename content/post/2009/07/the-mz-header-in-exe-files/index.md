@@ -16,9 +16,7 @@ tags:
 ---
 When you open an executable in notepad, you might have noticed that every executable starts with the letters **MZ**
 
-  [
-![image](images/image-thumb13.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image13.png) 
+  ![image](images/image-thumb13.png) 
 
   These story behind these two letters is that these are the initials of [Mark Zbikowski](http://en.wikipedia.org/wiki/Mark_Zbikowski) the designer of the DOS executable file format. These two letters are basically telling the system that this is an executable file. 
 

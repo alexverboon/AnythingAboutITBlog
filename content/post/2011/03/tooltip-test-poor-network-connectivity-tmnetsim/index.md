@@ -18,15 +18,11 @@ A few days ago I found another utility for testing poor network connectivity. TM
 
   So to simulate an RDP connection over a network with delays simply launch the Utility on a server, configure the settings as shown below and then select the Start button. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/03/image.png)
+  ![image](images/image_thumb.png)
 
   As you can see I defined Port 3390 as the Inbound Connection port for RDP, hence to connect to the simulated connection I also add that port number to the connection string. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2011/03/image1.png)
+  ![image](images/image_thumb1.png)
 
   TMNetsim is available for 32 and 64 Bit versions of Windows and can be downloaded from [here](http://tmurgent.com/Tools.aspx) (look into the Other Tools section).
 

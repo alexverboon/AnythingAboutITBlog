@@ -21,21 +21,15 @@ Back in January I wrote a post about [how the Windows Defender Offline Beta Tool
 
   First make sure you have the drivers ready you wish to inject. Note that if you are running a 64 bit version of Windows, you also need the 64 bit drivers and when running a 32 bit version the 32 bit version drivers. Store the downloaded drivers to your local disk. In this case I have stored the Intel network card drivers for the HP 8460p notebook under C:\Temp\WDO\Win7x32
 
-  [
-![image](images/image_thumb13.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image13.png)
+  ![image](images/image_thumb13.png)
 
   Then if you haven’t done so already, download the WDO Tool from [here](http://windows.microsoft.com/en-US/windows/what-is-windows-defender-offline) and then launch the wizard and select the USB option. 
 
-  [
-![image](images/image_thumb14.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image14.png)
+  ![image](images/image_thumb14.png)
 
   When completed, the WDO Tool content is stored on the USB flash disk. The content should look as following. 
 
-  [
-![image](images/image_thumb15.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image15.png)
+  ![image](images/image_thumb15.png)
 
   When navigating to the **Sources** folder you should find a file called **BOOT.WIM**. Copy this file to your local disk. In this example I am copying the file to C:\Temp\WDO\boot.wim. (You could leave the file on the flash drive but editing the WIM file on the local disk is probably faster). Next create a folder called **Mount**, we will use this folder to mount the content of the boot.wim file using the following command that we execute in an elevated command prompt. 
 
@@ -43,25 +37,19 @@ Back in January I wrote a post about [how the Windows Defender Offline Beta Tool
 
   Wait until the command completes and then if everything went fine, you should see the mounted content like this. 
 
-  [
-![image](images/image_thumb16.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image16.png)
+  ![image](images/image_thumb16.png)
 
   Then run the following command: 
 
   dism /image:c:\temp\wdo\mount /add-driver /Driver:c:\temp\wdo\win7x32
 
-  [
-![image](images/image_thumb17.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image17.png)
+  ![image](images/image_thumb17.png)
 
   To double check the driver install type the following command: 
 
   dism /image:c:\temp\wdo\mount /get-drivers
 
-  [
-![image](images/image_thumb18.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image18.png)
+  ![image](images/image_thumb18.png)
 
   To commit the changes and unmount the boot.wim run the following command: 
 

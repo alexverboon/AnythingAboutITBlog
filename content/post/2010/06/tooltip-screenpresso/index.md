@@ -18,7 +18,5 @@ I have seen many FREE Screen Capture tools, but this one beats them all. Screenp
 
   Screenpresso can capture windows, regions, context menus and objects within dialog boxes. Furthermore the tool includes an integrated image editor that allows you to apply various effects such as adding Text, draw a rectangle, blur a selected region and add reflection. 
 
-  [
-![image](images/image_thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2010/06/image4.png) You can download Screenpresso from [here](http://www.screenpresso.com/)
+  ![image](images/image_thumb4.png) You can download Screenpresso from [here](http://www.screenpresso.com/)
 

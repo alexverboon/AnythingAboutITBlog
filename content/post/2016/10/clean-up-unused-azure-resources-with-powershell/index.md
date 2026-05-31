@@ -19,9 +19,7 @@ Today when I opened my Azure portal I had a little surprise. The monthly MSDN su
 
 To get an overview of all disks, I wrote the following script called Get-AzureBlobInfo. The script queries all or the specified storage account name and lists all blob objects stored within the containers.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image.png)
 
 Since I am only interested in VHD files, I use the following command:
 
@@ -29,9 +27,7 @@ Since I am only interested in VHD files, I use the following command:
 Get-AzureBlobInfo | Where-Object {($_.name).split(".")[-1] -like "vhd" } | Select-Object Name,STorageaccount,LeaseStatus,{($_.StorageAccountKey)[0].value} | fl
 ```
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-1.png)
 
 To delete the vhd file, we first must set the Azure storage context.
 
@@ -58,15 +54,11 @@ The scripts basically all work the same, just provide the name of the resource g
 Cleanup-AzureRmNetworkInterfaces -ResourceGroup rg_2 –ListOnly
 ```
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-2.png)
 
 When running the command without the listonly parameter, network interfaces without an association are deleted. Note that I on purpose did not include the confirm switch, so you will be prompted to confirm the deletion.
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2016/10/image-3.png)
 
 All mentioned functions are listed below and can also be found in my GitHub repository here:https://github.com/alexverboon/posh
 

@@ -29,9 +29,7 @@ So whenever implementing Windows Defender, make sure that the service endpoints 
 
 Sometimes I get told “well back then this worked” , so the question is when did it stop working and why? Well we all know, within most IT environments there’s constant change, and sometimes these changes cause things to no longer work, hence it’s important to keep an eye such important things. Because I find it quite annoying to crawl though the folder structure every time I want to run the mpcmdrun.exe – validatemapsconnection, I decided to create PowerShell function for it that is basically a wrapper around the above defender command line tool. 
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2019/07/image.png)
 
 The Module [DefenderMAPS](https://www.powershellgallery.com/packages/DefenderMAPS/1.0.0) (currently with just one cmdlet) is available on the PowerShell Gallery and can be installed using the following command
 

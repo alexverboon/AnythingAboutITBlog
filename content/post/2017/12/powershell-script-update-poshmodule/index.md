@@ -17,9 +17,7 @@ tags:
 ---
 With nowadays rapid development and release cycles it’s a good practice to regularly check whether you have the latest available module versions installed. Using native PowerShell cmdlets you would first list the module installed locally and then search for the latest module online.
 
-[
 ![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2017/12/image.png)
 
 When you have several modules installed, this becomes a laborious task. So I wrote a cmdlet that does all this work for me and you if you like.
 
@@ -31,15 +29,11 @@ To check the local version of Pester and whether there is a newer version availa
 Update-PoshModule -ModulePrefix Pester -RemovePreviousVersions –whatif
 ```
 
-[
 ![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2017/12/image-1.png)
 
 Note that I use the **–whatif** parameter, since I only want to check whether there is a newer version. Next we remove the –whatif parameter to run the update.
 
-[
 ![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2017/12/image-2.png)
 
 Now I’m interested what the status is of my Azure Resource Manager modules. Instead of an exact module name, I just enter the Module prefix “AzureRm”
 
@@ -47,9 +41,7 @@ Now I’m interested what the status is of my Azure Resource Manager modules. In
 Update-PoshModule -ModulePrefix AzureRM –WhatIf
 ```
 
-[
 ![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2017/12/image-3.png)
 
  	
 - The –Scope parameter let’s you define whether you want to install the module for AllUsers or just the CurrentUser.

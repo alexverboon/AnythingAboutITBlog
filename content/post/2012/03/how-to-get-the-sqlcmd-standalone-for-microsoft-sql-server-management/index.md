@@ -18,9 +18,7 @@ In the days that I was an Oracle database admin (long long time ago) the two mos
 
   But this week, I found out that as part of the [Microsoft® SQL Server® 2008 R2 Feature Pack](http://www.microsoft.com/download/en/details.aspx?id=16978), SQLCMD is available as a separate download. So if you get along with just the command line interface all you need to remotely manage an SQL Server Database is to install SQLCMD and the SQL Native Client. 
 
-  [
-![image](images/image_thumb25.png)
-](https://www.verboon.info/wp-content/uploads/2012/03/image25.png)
+  ![image](images/image_thumb25.png)
 
    
 

@@ -20,15 +20,11 @@ In part one of “[Windows Services, What changed from Vista to Windows7](https:
 
   The below table lists those Services where the startup mode was changed from Automatic (Vista) to manual (Win7). 
 
-  [
-![image](images/image-thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/04/image5.png) 
+  ![image](images/image-thumb4.png) 
 
   Note that the “Status” for some Services on your system might be different. The list was produced right after having installed both the  Windows Vista and Windows7 client within Hyper-V guest machines. 
 
   Looking at the table below, we see that in Windows7 less services are configured to start automatically. This is most likely one of the reasons why Windows7 shows improved boot times. 
 
-  [
-![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/04/image6.png)
+  ![image](images/image-thumb5.png)
 

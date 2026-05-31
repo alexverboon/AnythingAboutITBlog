@@ -19,9 +19,7 @@ I’ve had this on my “must do some hands on” list for months, finally found
 
 The Get-GPO CmdLet allows you to list one or all GPOs that exist in a domain. If you know the name and want to know when it was last modified, simply type Get-GPO <Group Policy Name>
 
-[
 ![image](images/image_thumb15.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/image15.png)
 
 The Get-GPOReport CmdLet allows you to create a detailed Group Policy report and save it in HTML or XML format. To generate a report that contains all GPOs with all its settings, simply run the following command:
 
@@ -99,7 +97,5 @@ get-gpo -all | Select-object Displayname,GpoStatus, Description,CreationTime, Mo
 
 The output of the above script looks as following.
 
-[
 ![gporeport](images/gporeport_thumb15.png)
-](https://www.verboon.info/wp-content/uploads/2010/10/gporeport15.png)
 

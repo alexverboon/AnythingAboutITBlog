@@ -20,17 +20,13 @@ If you experience poor performance using a XenDesktop session, video and audio i
 
   *Measured latency (milliseconds): 86*
 
-  [
-![2011-05-20 00h40_32](images/2011-05-20-00h40_32_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-20-00h40_32.png)
+  ![2011-05-20 00h40_32](images/2011-05-20-00h40_32_thumb.png)
 
   Citrix has a FREE tool available to validate the operation of HDX. The Tool is called HDX Monitor for XenDesktop and can be downloaded from [here](http://hdx.citrix.com/hdx-monitor)
 
-              [
-![2011-05-20 00h55_34](images/2011-05-20-00h55_34_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-20-00h55_34.png)        [
+              ![2011-05-20 00h55_34](images/2011-05-20-00h55_34_thumb.png)        [
 ![2011-05-20 00h54_58](images/2011-05-20-00h54_58_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-20-00h54_58.png)        [
+](images/2011-05-20-00h54_58.png)        [
 ![2011-05-20 00h57_18](images/2011-05-20-00h57_18_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-20-00h57_18.png)          *The HDX Monitor is a tool to validate the operation of XenDesktop's HDX stack including the latest HDX MediaStream for Flash and HDX RealTime features. Install this tool on your virtual desktop to obtain helpful technical details about your HDX experience. The tool is organized into sections that cover the various HDX technologies. Use it to view bandwidth usage, session settings and performance metrics.*
+](images/2011-05-20-00h57_18.png)          *The HDX Monitor is a tool to validate the operation of XenDesktop's HDX stack including the latest HDX MediaStream for Flash and HDX RealTime features. Install this tool on your virtual desktop to obtain helpful technical details about your HDX experience. The tool is organized into sections that cover the various HDX technologies. Use it to view bandwidth usage, session settings and performance metrics.*
 

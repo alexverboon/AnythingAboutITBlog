@@ -20,13 +20,9 @@ In my earlier post “[Detect XP Mode support](https://www.verboon.info/index.ph
 
   The following message appears when your system does not support running 64 bit guest operating systems:
 
-  [
-![image](images/image-thumb12.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image12.png)
+  ![image](images/image-thumb12.png)
 
   The following message appears when your system does support running 64 bit guest operating systems:
 
-  [
-![clip_image002](images/clip-image002-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/07/clip-image002.jpg)
+  ![clip_image002](images/clip-image002-thumb.jpg)
 

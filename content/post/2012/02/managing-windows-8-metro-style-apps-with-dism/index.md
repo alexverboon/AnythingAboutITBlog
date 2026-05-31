@@ -77,11 +77,9 @@ PackageName : microsoft.copper_1.0.0.27_x86_neutral_8wekyb3d8bbwe
   DISM.EXE /Online /Remove-ProvisionedAppxPackage /PackageName:microsoft.bitbox_1.0.0.11_neutral_neutral_8wekyb3d8bbwe     
 DISM.EXE /Online /Remove-ProvisionedAppxPackage /PackageName:microsoft.copper_1.0.0.27_x86_neutral_8wekyb3d8bbwe
 
-  [
-![image](images/image_thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image5.png) [
+  ![image](images/image_thumb5.png) [
 ![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image6.png)
+](images/image6.png)
 
   **Adding Metro Style Applications**
 
@@ -89,9 +87,7 @@ DISM.EXE /Online /Remove-ProvisionedAppxPackage /PackageName:microsoft.copper_1.
 
   DISM.EXE /Online /Add-ProvisionedAppxPackage /PackagePath:C:\data\MetroApp01_1.0.0.3_AnyCPU_Debug_Test\MetroApp01_1.0.0.3_AnyCPU_Debug.appx /SkipLicense
 
-  [
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2012/02/image7.png)
+  ![image](images/image_thumb7.png)
 
   When running DISM.EXE /Online /Get-ProvisionedAppxPackages again, we see the entry for the new added metro style app. 
 

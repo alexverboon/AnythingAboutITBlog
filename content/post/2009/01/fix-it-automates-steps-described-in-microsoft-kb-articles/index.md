@@ -18,9 +18,7 @@ Usually when you read a Microsoft Knowledge Base article you find a detailed des
 
 In some KB articles you will find the following picture
 
-[
 ![fixit](images/fixit-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/01/fixit.jpg)
 
 This indicates that the "Fix it Team" has provided a script / package to automate the system modifications required to fix the problem or change the system behavior.
 

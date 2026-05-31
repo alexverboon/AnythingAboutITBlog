@@ -16,9 +16,7 @@ tags:
 ---
 When opening the local Group Policy Editor (gpedit.msc) you will notice that on a default Windows 7 SP1 Enterprise client there is no logging and tracing node for Group Policy Preferences logging underneath the Group Policy node. 
 
- [
-![gp_no_pref](images/gp_no_pref_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/gp_no_pref.png)
+ ![gp_no_pref](images/gp_no_pref_thumb.png)
 
  The reason for this is because Group Policy Preferences can only be managed within domain based Group Policy objects and therefore a Windows 7 SP1 client does not have the Group Policy Preferences related administrative template GroupPolicyPreferences.admx installed that also includes the logging settings. 
 
@@ -26,9 +24,7 @@ When opening the local Group Policy Editor (gpedit.msc) you will notice that on 
 
  Then reopen the Local Group Policy Editor and you will now see the logging and tracing node where you can now enable logging for Group Policy Preferences
 
- [
-![gp_with_pref](images/gp_with_pref_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/gp_with_pref.png)
+ ![gp_with_pref](images/gp_with_pref_thumb.png)
 
  Once enabled, you'll find the logs under C:\ProgramData\GroupPolicy\Preference\Trace. 
 That's it

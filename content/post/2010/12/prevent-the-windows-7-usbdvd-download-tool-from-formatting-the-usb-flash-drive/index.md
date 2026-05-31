@@ -16,17 +16,11 @@ tags:
 ---
 If you want to install Windows 7 from USB you can use Microsoft’s Windows 7 USB/DVD Download Tool which you can download from [here](http://wudt.codeplex.com/). By default the tool requires that the USB disk is being erased before copying the Windows 7 installation media, hence you get the following messages. 
 
-  [
-![win7usb1](images/win7usb1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/win7usb1.png)
+  ![win7usb1](images/win7usb1_thumb.png)
 
-  [
-![win7usb2](images/win7usb2_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/win7usb2.png)
+  ![win7usb2](images/win7usb2_thumb.png)
 
-  [
-![win7usbformat](images/win7usbformat_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/win7usbformat.png)
+  ![win7usbformat](images/win7usbformat_thumb.png)
 
    
 
@@ -37,35 +31,25 @@ If you want to install Windows 7 from USB you can use Microsoft’s Windows 7 US
   1. Ensure the registry key "HKCU\SOFTWARE\Microsoft\ISO Backup Tool" is created.   
 2. Create a new DWORD value named "DisableFormat" in this location and set the value to 1.
 
-  [
-![USB_REGISTRY](images/USB_REGISTRY_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/USB_REGISTRY.png)
+  ![USB_REGISTRY](images/USB_REGISTRY_thumb.png)
 
   So let’s give this a try. I have copied the following 2 files on a pre-formatted USB device. 
 
-  [
-![win7usb_content](images/win7usb_content_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/win7usb_content.png)
+  ![win7usb_content](images/win7usb_content_thumb.png)
 
   If now we run the Tool again, guess what…..you get the same messages about erasing data, but ignore these, instead of first formatting the USB drive, it will immediately start copying the content. 
 
-  [
-![win7usb_copy](images/win7usb_copy_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/win7usb_copy.png)
+  ![win7usb_copy](images/win7usb_copy_thumb.png)
 
   and after a while…..we have a our installation media ready, including our own files. 
 
-  [
-![usbfinal](images/usbfinal_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/usbfinal.png)
+  ![usbfinal](images/usbfinal_thumb.png)
 
   By the way, when I first inserted my brand new 15 GB flash drive to prepare the installation media it wouldn’t work and I got the following message. 
 
   *“We were unable to copy your files. Please check your USB device and the selected ISO file and try again*”. 
 
-  [
-![usb1](images/usb1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/12/usb1.png)
+  ![usb1](images/usb1_thumb.png)
 
   I had assumed that it was because of the size of the USB stick, as till now I had not used any USB sticks larger than 8 GB. We’ve gone down several paths such as creating a smaller partition on it and that then worked, but in the end all that I needed to do to make it work was to once completely clear the USB stick using diskpart  creating a new full partition on it and formatting it.
 

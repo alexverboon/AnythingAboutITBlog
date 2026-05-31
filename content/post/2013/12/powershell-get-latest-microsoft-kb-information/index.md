@@ -64,7 +64,5 @@ Start-Process $kbopen.link
 
 ```
 
-[
 ![2013-12-17_01h34_52](images/2013-12-17_01h34_52_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/2013-12-17_01h34_52.png)
 

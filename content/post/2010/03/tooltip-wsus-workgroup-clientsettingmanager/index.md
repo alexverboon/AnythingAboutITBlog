@@ -16,9 +16,7 @@ tags:
 ---
 I just found another nice FREE Utility that any Systems Engineer should have who deals with WSUS. The Tool allows you to configure a client’s WSUS settings without having to manually apply any registry settings or you can use the Tool for Troubleshooting purposes. If your clients receive WSUS configuration through Group Policy Settings, you can use the tool to see if all settings are applied correctly. 
 
-  [
-![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image11.png) 
+  ![image](images/image_thumb11.png) 
 
   The Tool also provides some additional useful functions such as:
 

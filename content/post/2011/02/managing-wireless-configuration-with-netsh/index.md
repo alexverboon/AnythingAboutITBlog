@@ -46,13 +46,9 @@ stop           - Stop hosted network.
 
   Now let’s add a new Wireless Configuration, the first time I am going to do this manually so open the Wireless Connection window and select a Wireless access point. (there are a lot of them in our neighborhood and unfortunately being the unofficial first line support I know they keys of some of them)
 
-  [
-![2011-02-01 21h49_58](images/2011-02-01-21h49_58_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-01-21h49_58.png)
+  ![2011-02-01 21h49_58](images/2011-02-01-21h49_58_thumb.png)
 
-  [
-![2011-02-02 00h57_04](images/2011-02-02-00h57_04_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/02/2011-02-02-00h57_04.png)
+  ![2011-02-02 00h57_04](images/2011-02-02-00h57_04_thumb.png)
 
   once connected I run the NETSH Wlan Show Profiles again
 

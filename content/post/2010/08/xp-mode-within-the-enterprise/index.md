@@ -16,9 +16,7 @@ tags:
 ---
 Last week I had a Windows 7 planning meeting with one of our clients and like in any other Windows 7 related meeting that i have had in the past months with other customers, the topic about XP Mode was brought up. It appears that when speaking about application compatibility, first thing people think of is XP Mode. To be honest I don’t blame them, because when XP Mode was first introduced in April 2009 during the Windows 7 Beta phase it was promoted as a possible workaround for Application Compatibility issues and therefore got a lot of attention. The message almost sounded like “*There is no barrier to move to Windows 7 because if you run into an application compatibility issue, you can always use XP Mode*”. So what’s your point? Well, while the statement as such is absolutely true, there are a few things to consider when we speak about computers that run in an enterprise environment.
 
-[
 ![XP Mode](images/xpmode2_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2010/08/xpmode2.jpg)
 **What is XP Mode?**
 *Windows Virtual PC is the latest Microsoft virtualization technology for Windows 7. It is the runtime engine for Windows XP Mode to provide a virtual Windows environment for Windows 7. With Windows Virtual PC, Windows XP Mode applications can be seen and accessed from a Windows 7 desktop. *
 *So in simple words, with XP Mode one can run the Windows XP operating system in a virtualized environment on top of Windows 7

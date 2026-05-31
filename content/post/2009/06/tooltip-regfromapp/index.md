@@ -20,23 +20,17 @@ Most Windows Operating System and Application settings are stored within the Win
 
   I actually wanted to find out where Windows7 stores the “use small icons” configuration for the Windows Taskbar. 
 
-  [
-![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/06/image5.png)
+  ![image](images/image-thumb5.png)
 
   After some web searches, I came across a utility called [RegFromApp](http://www.nirsoft.net/utils/reg_file_from_application.html) from [NirSoft](http://www.nirsoft.net/). This utility does not require an installation process and is FREE. 
 
   Like the tool name says it allows you to track changes made to the windows registry per running process. Since we know that Windows Start Menu and Taskbar runs within the explorer process, we select the explorer.exe and start manually applying the system changes. 
 
-  [
-![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2009/06/image6.png) 
+  ![image](images/image-thumb6.png) 
 
   As we make the configuration change, the RegFromApp utility starts capturing the changes made to the Windows Registry. To keep the content of tracked changes as short as possible, we stop recording right after having applied the configuration change. 
 
-  [
-![image](images/image-thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2009/06/image7.png) 
+  ![image](images/image-thumb7.png) 
 
   Finally after browsing through the tracked changes, we identify the registry key that handles the “use small icons” setting.
 

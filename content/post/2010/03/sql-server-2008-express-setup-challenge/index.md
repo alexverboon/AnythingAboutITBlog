@@ -33,7 +33,5 @@ I’ve spend about 2 hours tonight getting SQL Server 2008 Express installed on 
 
   I had to find out that for whatever reason the “Format” within the Regional Settings was not set to English. After setting this to English the installation executed and completed successfully. 
 
-  [
-![image](images/image_thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image6.png)
+  ![image](images/image_thumb6.png)
 

@@ -27,9 +27,7 @@ During the past weeks I have spend a bit of time with Citrix XenDesktop 5 and wh
 - The Citrix Farm name    
 - The version of the master image 
 
-  [
-![2011-05-22 23h58_18](images/2011-05-22-23h58_18_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-22-23h58_18.png)
+  ![2011-05-22 23h58_18](images/2011-05-22-23h58_18_thumb.png)
 
   To avoid any (none) IP Address entries, I used the trick as explained by John Baker [here](http://blogs.technet.com/b/johnbaker/archive/2011/05/04/how-to-remove-none-entries-from-bginfo.aspx) To obtain information about the XenDesktop Group and Citrix Farm I let BGInfo query the following registry keys:
 
@@ -48,21 +46,15 @@ During the past weeks I have spend a bit of time with Citrix XenDesktop 5 and wh
 
   Under Computer Configuration, Preferences I have configured a GP Preference to copy bginfo.exe and the bginfo template to the c:\program files\bginfo folder. 
 
-  [
-![2011-05-23 00h26_53](images/2011-05-23-00h26_53_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-23-00h26_53.png)
+  ![2011-05-23 00h26_53](images/2011-05-23-00h26_53_thumb.png)
 
   Then under Computer Configuration, Policies, Administrative Templates, System, Group Policy I have enabled Group Policy loopback processing mode, this to ensure that the next Preferences setting that I have configured under User Configuration applies correctly. 
 
-  [
-![2011-05-23 00h33_41](images/2011-05-23-00h33_41_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-23-00h33_41.png)
+  ![2011-05-23 00h33_41](images/2011-05-23-00h33_41_thumb.png)
 
   Under User Configuration, Preferences, Windows Settings, Registry I added the following configuration: 
 
-  [
-![2011-05-23 00h37_35](images/2011-05-23-00h37_35_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/05/2011-05-23-00h37_35.png)
+  ![2011-05-23 00h37_35](images/2011-05-23-00h37_35_thumb.png)
 
               Hive        HKEY_CURRENT_USER                  Key Path        Software\Microsoft\Windows\CurrentVersion\Run                  Value Name        BGINFOVDI                  Value Type        REG_SZ                  Value Data        "C:\Program Files\BGINFO\BGINFO.EXE" "C:\Program Files\BGINFO\VDI_BGINFO.bgi" /timer:0 /silent /nolicprompt          That’s it, Enjoy
 

@@ -24,9 +24,7 @@ In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-
 
    
 
-  [
-![2011-04-20 20h55_40](images/2011-04-20-20h55_40_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-20h55_40.png)
+  ![2011-04-20 20h55_40](images/2011-04-20-20h55_40_thumb.png)
 
   Once CEIP is enabled simply run a dir *.sqm /s command and you will see files with an SQM extension being stored in several locations. I haven’t been able to see the files while being processed, but according to the documentation, it should all go through the following folder before it gets uploaded to Microsoft. 
 
@@ -45,21 +43,15 @@ In [Part 1 I](https://www.verboon.info/index.php/2011/04/the-microsoft-customer-
 
   Note that these tasks only collect and transfer data when a user has opted in for the Customer Experience Improvement Program. 
 
-  [
-![2011-04-20 22h59_11](images/2011-04-20-22h59_11_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-22h59_11.png)
+  ![2011-04-20 22h59_11](images/2011-04-20-22h59_11_thumb.png)
 
   If you have opted-in for the Windows Media Player CEIP another scheduled Task is being created. Note that a separate Task is created on a per user basis. So if multiple users opt-in for the Media Player CEIP you will see a separate task for each user. I noticed that the Task is only created at the next logon. 
 
-  [
-![2011-04-20 23h22_27](images/2011-04-20-23h22_27_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-23h22_27.png)
+  ![2011-04-20 23h22_27](images/2011-04-20-23h22_27_thumb.png)
 
   Note the Task name that contains the user account SID of the user that opted-in to the CEIP. 
 
-  [
-![2011-04-20 23h25_49](images/2011-04-20-23h25_49_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-20-23h25_49.png)
+  ![2011-04-20 23h25_49](images/2011-04-20-23h25_49_thumb.png)
 
   Find below a list of resources that have been helpful to me during the past days in trying to get an insight into the CEIP. 
 

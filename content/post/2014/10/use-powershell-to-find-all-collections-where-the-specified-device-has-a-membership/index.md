@@ -19,9 +19,7 @@ Yesterday I deployed a computer with ConfigMgr and then wondered why it got cert
 
 The Get-CMCollectionOfDevice command retrieves all collections where the specified device has a membership
 
-[
 ![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2014/10/image1.png)
 
 The Script can be downloaded from [here](https://gallery.technet.microsoft.com/Get-CMCollectionOfDevice-13a130b3)
 

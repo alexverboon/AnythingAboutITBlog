@@ -16,9 +16,7 @@ tags:
 ---
 Today someone in a forum asked how to programmatically configure an application so that it runs in compatibility mode. Configuring this manually is easy, just open the file’s properties, select the Compatibility tab and apply the required settings. On Windows 7 this then looks as shown in the picture below. 
 
-  [
-![2011-03-31 00h47_29](images/2011-03-31-00h47_29_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/03/2011-03-31-00h47_29.png)
+  ![2011-03-31 00h47_29](images/2011-03-31-00h47_29_thumb.png)
 
   Now whatever we configure here, it all gets written to the following location in the Windows Registry:
 
@@ -30,9 +28,7 @@ Today someone in a forum asked how to programmatically configure an application 
 
   When configuring compatibility mode settings for an application executable, shortcut or batch file, a registry string is created for each item. 
 
-  [
-![2011-03-31 00h14_05](images/2011-03-31-00h14_05_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/03/2011-03-31-00h14_05.png) 
+  ![2011-03-31 00h14_05](images/2011-03-31-00h14_05_thumb.png) 
 
   For each application there are three settings that can be applied. The compatibility mode, (Display) Settings and the Privilege Level. One or multiple values can be set (separated by a space).
 

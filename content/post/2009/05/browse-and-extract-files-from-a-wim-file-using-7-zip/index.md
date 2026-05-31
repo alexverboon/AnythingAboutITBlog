@@ -20,13 +20,9 @@ tags:
 
   When you open a WIM file with 7-Zip, you first get a list of the instances as shown in the picture below.
 
-  [
-![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/image5.png) 
+  ![image](images/image-thumb5.png) 
 
   Double click on the instance in which you want to browse or extract content from.
 
-  [
-![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2009/05/image6.png)
+  ![image](images/image-thumb6.png)
 

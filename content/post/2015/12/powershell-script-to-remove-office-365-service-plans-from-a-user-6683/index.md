@@ -28,15 +28,11 @@ When assigning an Office 365 license to a user, by default several service plans
 
  From an end user perspective the user will see the following options when logging on to Office 365. 
 
- [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2015/12/image.png)
+ ![image](images/image_thumb.png)
 
  When looking at the users settings within the Office 365 Admin portal , things look as following:
 
- [
-![image](images/image_thumb-1.png)
-](https://www.verboon.info/wp-content/uploads/2015/12/image-1.png)
+ ![image](images/image_thumb-1.png)
 
  The below PowerShell function allows an Office 365 user administrator to disable individual services for a registered Office 365 user. 
 
@@ -44,9 +40,7 @@ When assigning an Office 365 license to a user, by default several service plans
 
  Disable-MsolUserServicePlan [alextest@contoso.onmicrosoft.com](mailto:alextest@contoso.onmicrosoft.com) -ServicePlan SkypeforBusiness
 
- [
-![image](images/image_thumb-2.png)
-](https://www.verboon.info/wp-content/uploads/2015/12/image-2.png)
+ ![image](images/image_thumb-2.png)
 
  Now doing the same for Exchange and the Office web apps. 
 
@@ -54,9 +48,7 @@ When assigning an Office 365 license to a user, by default several service plans
 
  Disable-MsolUserServicePlan [alextest@contoso.onmicrosoft.com](mailto:alextest@contoso.onmicrosoft.com) -ServicePlan Exchange -Verbose
 
- [
-![image](images/image_thumb-3.png)
-](https://www.verboon.info/wp-content/uploads/2015/12/image-3.png)
+ ![image](images/image_thumb-3.png)
 
  Note, before running the below command, you must connect to Azure Directory using the connect-msolservice cmdlet.
 

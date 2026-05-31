@@ -26,15 +26,11 @@ Being one of the lucky ones who was able to sign-up to the Microsoft Office 2010
 
   You should then see the following content within the C:\Office2010 folder.
 
-  [
-![office2010point](images/office2010point-thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2009/08/office2010point.jpg)
+  ![office2010point](images/office2010point-thumb.jpg)
 
   As a next step, open the config.xml file located within the folder SingleImage.WW and modify the file as shown below. (replace the product key with the one you received). 
 
-  [
-![image](images/image-thumb4.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image4.png) 
+  ![image](images/image-thumb4.png) 
 
   And finally create a batch file that runs the following command:
 

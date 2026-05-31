@@ -18,15 +18,11 @@ This morning at the [GP Answers community forum](http://www.gpanswers.com/commun
 
   But before jumping into the custom ADMX template, let’s quickly look at the configuration setting itself. When installing an application the new created shortcut within the Start Menu is highlighted. 
 
-  [
-![2011-04-21 14h03_10](images/2011-04-21-14h03_10_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-21-14h03_10.png)
+  ![2011-04-21 14h03_10](images/2011-04-21-14h03_10_thumb.png)
 
   This setting can be customized manually by right clicking on the Start Menu logo, select properties, then select the Start Menu tab and then select customize. 
 
-  [
-![2011-04-21 14h05_58](images/2011-04-21-14h05_58_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-21-14h05_58.png)
+  ![2011-04-21 14h05_58](images/2011-04-21-14h05_58_thumb.png)
 
   At the registry level the following registry settings are made:
 
@@ -42,9 +38,7 @@ This morning at the [GP Answers community forum](http://www.gpanswers.com/commun
 
   You will find the custom GPO Template under Administrative Templates “**Start Menu Customizations**” Note that this is not a real GPO setting, but rather a preference. 
 
-  [
-![2011-04-21 14h08_16](images/2011-04-21-14h08_16_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-21-14h08_16.png)
+  ![2011-04-21 14h08_16](images/2011-04-21-14h08_16_thumb.png)
 
   The Start Menu customization GPO template can be downloaded from [here](https://www.verboon.info/fun/StartmenuCustomization_admx.zip)
 

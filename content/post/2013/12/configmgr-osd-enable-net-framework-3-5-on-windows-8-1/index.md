@@ -21,9 +21,7 @@ Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Fr
 
  On the ConfigMgr package source share create a new folder that acts as the package source folder for the .NET Framework 3.5 content and enabling script. Then copy the **SXS** folder located under the Sources folder on the original Windows 8.1 media into the new created folder. Next copy the enable-net35sp1.ps1 script into the same folder as well. (the content of enable-net35sp1.ps1 is listed below)
 
- [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/image1.png)
+ ![image](images/image_thumb1.png)
 
  Within Configuration Manager create a new package called Windows 8.1 enable .NET Framework 3.5 sp1 with its data source path pointing to the previously created folder. The package does not need a program. 
 
@@ -33,21 +31,15 @@ Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Fr
 - Package: Windows 8.1 enable .NET Framework 3.5 sp1  
 - Script Name: **enable-net35sp1.ps1**
 
- [
-![SNAGHTMLc78dd1](images/SNAGHTMLc78dd1_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/SNAGHTMLc78dd1.png)
+ ![SNAGHTMLc78dd1](images/SNAGHTMLc78dd1_thumb.png)
 
  As a result you should see the following when execution the task sequence. 
 
- [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/image2.png)
+ ![image](images/image_thumb2.png)
 
  The result, .NET Framework 3.5 enabled in Windows 8.1
 
- [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2013/12/image3.png)
+ ![image](images/image_thumb3.png)
 
   
 

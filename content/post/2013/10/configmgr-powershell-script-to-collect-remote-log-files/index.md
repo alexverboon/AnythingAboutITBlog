@@ -35,15 +35,11 @@ Looking at a client’s ConfigMgr Agent log files is inevitable when managing a 
 
  Next you will be prompted to enter your credentials. Enter a username and password that has permissions on the remote and local client. 
 
- [
-![image](images/image_thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image7.png)
+ ![image](images/image_thumb7.png)
 
  Once completed, you will have the log files stored in your Documents \ RemoteCMlogs folder. 
 
- [
-![image](images/image_thumb8.png)
-](https://www.verboon.info/wp-content/uploads/2013/10/image8.png)
+ ![image](images/image_thumb8.png)
 
 ```
 

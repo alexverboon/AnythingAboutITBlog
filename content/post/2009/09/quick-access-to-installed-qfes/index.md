@@ -22,9 +22,7 @@ Instead of opening several windows, here’s an easy way to get a list of instal
 
   **WMIC QFE get caption,hotfixid,installedon**
 
-  [
-![image](images/image_thumb10.png)
-](https://www.verboon.info/wp-content/uploads/2009/09/image10.png) 
+  ![image](images/image_thumb10.png) 
 
   or if you are looking for a specific update, enter the following command:
 
@@ -32,9 +30,7 @@ Instead of opening several windows, here’s an easy way to get a list of instal
 
   where 958559 relates to the MS KB number. If the QFE is installed, it will be listed. 
 
-  [
-![image](images/image_thumb11.png)
-](https://www.verboon.info/wp-content/uploads/2009/09/image11.png) 
+  ![image](images/image_thumb11.png) 
 
   Related posts:
 

@@ -52,9 +52,7 @@ The tool is installed under C:\Program Files\LocalGPO
 
   If you aren’t familiar with the settings in ThinKiosk yet, I suggest that you launch the Offline Configuration Tool first. C:\Program Files\ThinKiosk\OfflineConfigTool.exe
 
-  [
-![clip_image002](images/clip_image002_thumb3.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0023.jpg)
+  ![clip_image002](images/clip_image002_thumb3.jpg)
 
   For this demonstration we will configure the following settings:
 
@@ -158,15 +156,11 @@ The tool is installed under C:\Program Files\LocalGPO
 
   Open the local Group Policy editor (gpedit.msc) and load the ThinKiosk group policy template that is stored under C:\Program Files\ThinKiosk\Resources\thinkiosk.adm
 
-  [
-![clip_image004](images/clip_image004_thumb3.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0043.jpg)
+  ![clip_image004](images/clip_image004_thumb3.jpg)
 
   You should now see the ThinKiosk group policy settings under the Classic Administrative Templates node. 
 
-  [
-![clip_image006](images/clip_image006_thumb2.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0063.jpg)
+  ![clip_image006](images/clip_image006_thumb2.jpg)
 
   **Step 4 – Configure and Export the settings**
 
@@ -176,9 +170,7 @@ The tool is installed under C:\Program Files\LocalGPO
 
   Within the local group policy editor under Computer Settings\Classic Administrative Templates (ADM)\ThinKiosk settings we set the Custom Title to “Anything about IT” and the Unlock Password to “unlock”. ****
 
-  [
-![clip_image008](images/clip_image008_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0081.jpg)
+  ![clip_image008](images/clip_image008_thumb1.jpg)
 
   When we have applied these settings we launch an elevated command prompt and then export the GPO settings using the following command:
 
@@ -186,9 +178,7 @@ The tool is installed under C:\Program Files\LocalGPO
 
   If all worked fine, you should now see something that looks like this. 
 
-  [
-![clip_image010](images/clip_image010_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0101.jpg)
+  ![clip_image010](images/clip_image010_thumb1.jpg)
 
   **Settings for User Blogreader**
 
@@ -196,15 +186,11 @@ The tool is installed under C:\Program Files\LocalGPO
 
   Next we are going to configure the settings for the User Blogreader. Within the local group policy editor under the User Settings\Classic Administrative Templates (ADM)\ThinKiosk settings node we set the web interface URL to [http://www.verboon.info](https://www.verboon.info)
 
-  [
-![clip_image012](images/clip_image012_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0121.jpg)
+  ![clip_image012](images/clip_image012_thumb1.jpg)
 
   Under User Configuration\Administrative Templates\System we set configure the Custom User Interface. 
 
-  [
-![clip_image014](images/clip_image014_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image0141.jpg)
+  ![clip_image014](images/clip_image014_thumb1.jpg)
 
   Then export the settings using the following command:
 
@@ -260,9 +246,7 @@ The tool is installed under C:\Program Files\LocalGPO
 
   Logon on the ThinPC with User Blogreader, Citrix User and Admin and see if the settings apply correctly. 
 
-  [
-![clip_image016](images/clip_image016_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2012/12/clip_image016.png)
+  ![clip_image016](images/clip_image016_thumb.png)
 
   I created this blog post based on the Windows ThinPC + ThinKiosk use case, but as mentioned the same process can be used on Windows 7 and Windows 8. 
 

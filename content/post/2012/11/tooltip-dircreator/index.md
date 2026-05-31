@@ -20,15 +20,11 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   \\server01\data\Projects
 
-  [
-![clip_image002](images/clip_image002_thumb1.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image0021.jpg)
+  ![clip_image002](images/clip_image002_thumb1.jpg)
 
   I also modify the folders permissions
 
-  [
-![clip_image004](images/clip_image004_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image004.jpg)
+  ![clip_image004](images/clip_image004_thumb.jpg)
 
   Next I run DirCreator with the following command line:
 
@@ -38,15 +34,11 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   As a next step, I’ll replace the folder name “Template” 
 
-  [
-![clip_image006](images/clip_image006_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image006.jpg)
+  ![clip_image006](images/clip_image006_thumb.jpg)
 
   With $!{DirectoryName}
 
-  [
-![clip_image008](images/clip_image008_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image008.jpg)
+  ![clip_image008](images/clip_image008_thumb.jpg)
 
   And then save the template.xml. To create a new Project folder called FooProject1 that contains all predefined sub folders, group members and ACL’s, I run the following command:
 
@@ -54,17 +46,11 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   And see, a new Project folder is created, containing all predefined subfolders and folder permissions. 
 
-  [
-![clip_image010](images/clip_image010_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image010.jpg)
+  ![clip_image010](images/clip_image010_thumb.jpg)
 
-  [
-![clip_image012](images/clip_image012_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image012.jpg)
+  ![clip_image012](images/clip_image012_thumb.jpg)
 
-  [
-![clip_image014](images/clip_image014_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2012/11/clip_image014.jpg)
+  ![clip_image014](images/clip_image014_thumb.jpg)
 
   In this example I only used static AD group names, but if you have a little bit of time, you can customize DirCreator to automatically create project specific groups for you. 
 

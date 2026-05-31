@@ -22,19 +22,13 @@ Today I want to share with you a nice FREE tool I’ve just used recently while 
 
   Port Listener is easy to setup, simply launch the utility and enter the port to listen to, then press Start to start listening. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/image1.png)
+  ![image](images/image_thumb1.png)
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/image2.png)
+  ![image](images/image_thumb2.png)
 
   Then on the other end start the Citrix Port check utility. 
 
-  [
-![image](images/image_thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2012/05/image3.png)
+  ![image](images/image_thumb3.png)
 
   Port Listener is developed by [RJL Software](http://www.rjlsoftware.com/) can be downloaded from [here](http://www.rjlsoftware.com/software/utility/portlistener/)
 

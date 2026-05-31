@@ -36,7 +36,5 @@ In Windows 7 Professional and Enterprise the Windows Games are not enabled by de
 
                   
 
-  [
-![image](images/image4_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/image4.png)
+  ![image](images/image4_thumb.png)
 

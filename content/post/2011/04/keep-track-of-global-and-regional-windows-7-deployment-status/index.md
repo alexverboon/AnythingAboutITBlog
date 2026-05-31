@@ -18,9 +18,7 @@ During this week there have been various [reports](http://rcpmag.com/articles/20
 
   **Worldwide Windows 7 Deployment Status**
 
-  [
-![StatCounter-os-ww-monthly-201003-201103](images/StatCounter-os-ww-monthly-201003-201103_thumb.jpg)
-](https://www.verboon.info/wp-content/uploads/2011/04/StatCounter-os-ww-monthly-201003-201103.jpg)
+  ![StatCounter-os-ww-monthly-201003-201103](images/StatCounter-os-ww-monthly-201003-201103_thumb.jpg)
 
   **Source: Global Stats** 
 

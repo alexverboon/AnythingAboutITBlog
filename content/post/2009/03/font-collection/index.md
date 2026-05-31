@@ -19,13 +19,9 @@ Yesterday evening I was helping out my wife with creating some invitation cards 
 
   Finding the right picture wasn’t easy, so we decided to just write text, but to use a cool font. Although Office 2007 already comes with a large number of fonts, we were just looking for something different. 
 
-  [
-![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/03/image1.png) We have found a lot of free cool fonts on [dafont.com](http://www.dafont.com/). The site is well organized and all fonts are categorized. Have a look, it’s amazing what fonts are being used for, not just letters and numbers. 
+  ![image](images/image-thumb1.png) We have found a lot of free cool fonts on [dafont.com](http://www.dafont.com/). The site is well organized and all fonts are categorized. Have a look, it’s amazing what fonts are being used for, not just letters and numbers. 
 
    
 
-  [
-![image](images/image-thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2009/03/image2.png)
+  ![image](images/image-thumb2.png)
 

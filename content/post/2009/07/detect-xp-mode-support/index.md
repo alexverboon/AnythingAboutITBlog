@@ -18,7 +18,7 @@ Does your hardware support the Windows7 [XP Mode](http://www.microsoft.com/windo
 
    [
 ![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/07/image1.png) 
+](images/image1.png) 
 
   Download [here](http://www.grc.com/securable.htm)
 

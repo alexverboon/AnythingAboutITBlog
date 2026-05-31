@@ -20,15 +20,11 @@ As described within the [ConfigMgr 2012 Best Practices Wiki](http://social.techn
 
     **Value** **Description**  1 Manual  2 Periodic  4 CONSTANT_UPDATE But while looking at the data returned by the PowerShell Cmdlet i noticed that there were also collections with a value of 6. As it turns out, when a collection has incremental updates enabled but no schedule the value is 4. 
 
- [
-![col4](images/col4_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/col4.png)
+ ![col4](images/col4_thumb.png)
 
  But when both incremental updates and a schedule is enabled the value is 6. 
 
- [
-![col6](images/col6_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2013/08/col6.png)
+ ![col6](images/col6_thumb.png)
 
  Therefore the list of possible values should be as following. 
 

@@ -30,5 +30,5 @@ BCDEDIT /EXPORT C:\BACKUP\BCDORG.BCD
 Now for those of you who prefer using a GUI to edit the BCD store I recommend using [EasyBCD](http://neosmart.net/dl.php?id=1)provided by Neosmart Technologies. EasyBCD provides a nice GUI to modify, backup and restore your Boot Configuration Data and IT'S FREE !!
  [
 ![image.png](images/image-300x252.png)
-](https://www.verboon.info/wp-content/uploads/2009/01/image.png)
+](images/image.png)
 

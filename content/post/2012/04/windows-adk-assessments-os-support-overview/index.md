@@ -22,17 +22,13 @@ Along with Windows 8 Microsoft also provides a new tool for System Builders and 
 
   These are the predefined Jobs within the Assessment Console that consist of various assessments. 
 
-  [
-![image](images/image_thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image1.png)
+  ![image](images/image_thumb1.png)
 
   **Individual Assessments**
 
   These are all the individual assessments currently available within the Assessment Console. 
 
-  [
-![image](images/image_thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2012/04/image2.png)
+  ![image](images/image_thumb2.png)
 
   For those interested in the detail. When opening an Assessment manifest file like C:\Program Files (x86)\Windows Kits\8.0\Assessment and Deployment Kit\Windows Assessment Toolkit\Windows Core Assessments\WinSAT.Formal.x86x64.asmtx you will find in most cases an element called [VerifyOSVersion](http://msdn.microsoft.com/en-us/library/windows/desktop/hh437703(v=vs.85).aspx). which defines the minimum Operating System version required. 
 

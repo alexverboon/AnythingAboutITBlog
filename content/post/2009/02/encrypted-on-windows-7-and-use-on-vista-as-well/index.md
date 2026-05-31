@@ -24,21 +24,15 @@ With Windows 7 we can not only encrypt our local fixed drives but also USB devic
 
   When you insert a Windows 7 encrypted USB device to a Windows Vista client, you will only see the following content on the device. 
 
-  [
-![image](images/image-thumb1.png)
-](https://www.verboon.info/wp-content/uploads/2009/02/image2.png) 
+  ![image](images/image-thumb1.png) 
 
   To access the encrypted data, you must launch the BitLockerToGo.exe
 
-  [
-![image](images/image-thumb2.png)
-](https://www.verboon.info/wp-content/uploads/2009/02/image3.png) 
+  ![image](images/image-thumb2.png) 
 
   Enter your previously set password, then you’re ready to browse the content of the device. 
 
-  [
-![image](images/image-thumb3.png)
-](https://www.verboon.info/wp-content/uploads/2009/02/image4.png) 
+  ![image](images/image-thumb3.png) 
 
   If you want to remove encryption from your USB device, you must start the Bitlocker Drive Encryption applet within the Control Panel and select “Turn off Bitlocker”. 
 

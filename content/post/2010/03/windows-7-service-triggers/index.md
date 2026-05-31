@@ -20,27 +20,19 @@ When taking a closer look at the Services in Windows 7 you will notice that many
 
   In simple words Service Triggers help improve system performance by not having Services just running in the background if not needed. Let’s have a look at the Computer Browser Service which by default is configured to start manually but when I took the screenshot it was actually started. 
 
-  [
-![image](images/image_thumb15.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image15.png)
+  ![image](images/image_thumb15.png)
 
   So let’s open a command prompt and enter the following command:SC qtriggerinfo BROWSER
 
-  [
-![image](images/image_thumb16.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image16.png)As you can see from the above screenshot this Service has Service Triggers defined. The Computer Browser Service will start as soon as the Firewall port opens and stops when these ports are closed. 
+  ![image](images/image_thumb16.png)As you can see from the above screenshot this Service has Service Triggers defined. The Computer Browser Service will start as soon as the Firewall port opens and stops when these ports are closed. 
 
   I’m writing this article at home where my laptop is connected to the Wireless LAN, so when I disable my Wireless connection, no traffic should go through the firewall anymore, hence the Computer Browser should stop. And indeed 60 seconds after I have disconnected the laptop from the Wireless LAN, the Computer Browser Service is stopped. 
 
-  [
-![image](images/image_thumb17.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image17.png) Reconnecting the laptop to the Wireless LAN immediately triggers the Computer Browser Service to start again. 
+  ![image](images/image_thumb17.png) Reconnecting the laptop to the Wireless LAN immediately triggers the Computer Browser Service to start again. 
 
   Now let’s run the same command against another Service: SC qtriggerinfo DHCP
 
-  [
-![image](images/image_thumb18.png)
-](https://www.verboon.info/wp-content/uploads/2010/03/image18.png) In this case no Service Triggers are defined. 
+  ![image](images/image_thumb18.png) In this case no Service Triggers are defined. 
 
    
 

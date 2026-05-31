@@ -18,9 +18,7 @@ As written in my previous post, I have just finished installing a Server 2008 R2
 
   I’ve come across various portable applications, but at the end I found a really **cool **one called Cool PDF Reader, well *neat* would actually be the better word, as the executable only uses **651KB** and does not require an install. 
 
-  [
-![2010-08-14 03h34_58](images/2010081403h34_58_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2010/08/2010081403h34_58.png) 
+  ![2010-08-14 03h34_58](images/2010081403h34_58_thumb.png) 
 
   Cool PDF Reader is FREE and can be downloaded from [here](http://www.pdf2exe.com/reader.html).
 

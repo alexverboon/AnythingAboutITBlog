@@ -24,13 +24,9 @@ While running the BETA version of the Microsoft DaRT Recovery Image Wizard (part
 
   SUBST F: C:\TEMP\WIN7
 
-  [
-![2011-04-09 01h13_23](images/2011-04-09-01h13_23_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-09-01h13_23.png)
+  ![2011-04-09 01h13_23](images/2011-04-09-01h13_23_thumb.png)
 
   3. I can now select Drive F: and continue my task without burning a Windows 7 DVD (I burned so many of them but never have one available when I need one. 
 
-  [
-![2011-04-09 00h49_46](images/2011-04-09-00h49_46_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2011/04/2011-04-09-00h49_46.png)
+  ![2011-04-09 00h49_46](images/2011-04-09-00h49_46_thumb.png)
 

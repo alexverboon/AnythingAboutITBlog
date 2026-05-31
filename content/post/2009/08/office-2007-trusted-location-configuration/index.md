@@ -18,9 +18,7 @@ tags:
 ---
 When opening an Excel file that contains macros, Microsoft Excel 2007 shows a security warning as shown in the picture below and disables the macros. 
 
-  [
-![image](images/image-thumb5.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image5.png) 
+  ![image](images/image-thumb5.png) 
 
   To continue using the Excel sheet and its macros, you must first enable then by clicking on the "Options…” button and selecting the “Enable this content” option. This is quite annoying if you must use that same file on a regular basis. You could of course completely disable this security warning on your entire system, but then there is a risk of opening content once that could contain unwanted code. 
 
@@ -30,13 +28,13 @@ When opening an Excel file that contains macros, Microsoft Excel 2007 shows a se
 
    [
 ![image](images/image-thumb6.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image6.png) 
+](images/image6.png) 
 
    Then select “Add new location”. I used **C:\data\trust** for this example. 
 
    [
 ![image](images/image-thumb7.png)
-](https://www.verboon.info/wp-content/uploads/2009/08/image7.png)
+](images/image7.png)
 
   Press the “OK” button to confirm your configuration.
 

@@ -26,9 +26,7 @@ When talking about Hyper-V with customers or colleagues, I notice that there is 
 
   The below table provides an overview of the Hyper-V Server and Windows Server products. 
 
-  [
-![image](images/image_thumb.png)
-](https://www.verboon.info/wp-content/uploads/2009/09/image.png) 
+  ![image](images/image_thumb.png) 
 
   Source: Microsoft
 
