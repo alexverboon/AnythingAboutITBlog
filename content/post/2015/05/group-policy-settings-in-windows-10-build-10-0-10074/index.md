@@ -80,14 +80,15 @@ If using a signed and protected policy then disabling this policy setting doesn'
 
  I found the references to these policy settings within the following administrative template files:
 
- "C:\Windows\PolicyDefinitions\AllowBuildPreview.admx"
-"C:\Windows\PolicyDefinitions\AppxPackageManager.admx"
-"C:\Windows\PolicyDefinitions\AppXRuntime.admx"
-"C:\Windows\PolicyDefinitions\DeviceGuard.admx"
-"C:\Windows\PolicyDefinitions\Explorer.admx"
-"C:\Windows\PolicyDefinitions\GroupPolicy.admx"
-"C:\Windows\PolicyDefinitions\VolumeEncryption.admx"
+```text
+C:\Windows\PolicyDefinitions\AllowBuildPreview.admx
+C:\Windows\PolicyDefinitions\AppxPackageManager.admx
+C:\Windows\PolicyDefinitions\AppXRuntime.admx
+C:\Windows\PolicyDefinitions\DeviceGuard.admx
+C:\Windows\PolicyDefinitions\Explorer.admx
+C:\Windows\PolicyDefinitions\GroupPolicy.admx
+C:\Windows\PolicyDefinitions\VolumeEncryption.admx
+```
 
- The following template also contains a reference to Windows 10, but I was unable to find the related setting
-"C:\Windows\PolicyDefinitions\PreviousVersions.admx"  However I noticed that within the file properties, the previous versions tab is back.
+ The following template also contains a reference to Windows 10, but I was unable to find the related setting: `C:\Windows\PolicyDefinitions\PreviousVersions.admx`. However I noticed that within the file properties, the previous versions tab is back.
 

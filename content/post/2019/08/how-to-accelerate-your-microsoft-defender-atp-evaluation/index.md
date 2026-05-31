@@ -41,11 +41,13 @@ As soon as the test machine is provisioned, you can connect to it through RDP, s
 
 As mentioned earlier, these test machines are preconfigured with security configuration settings and have software and utilities pre-installed. For those interested in the details, take a look here:
 
-"C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\RunConfigurations.log"
-"C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\InstallOffice.log"
-"C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\InstallPackages.log"
-"C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\Main.log"
-"C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\onboarding_v5.ps1"
+```text
+C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\RunConfigurations.log
+C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\InstallOffice.log
+C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\InstallPackages.log
+C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\Main.log
+C:\Packages\Plugins\Microsoft.Compute.CustomScriptExtension\1.9.5\Downloads\0\onboarding_v5.ps1
+```
 
 Once connected, run something that triggers MDATP, in the example below  I used the script provided [in scenario 2](https://securitycenter.windows.com/tutorials).
 

@@ -34,7 +34,7 @@ Echo Insalling Microsoft Security Essentials 2.0 (x86)
 start /wait %temp%\mseinstall.exe /s /runwgacheck /o
 
 Echo Updating Microsoft Security Essentials Signatures
-"C:\Program Files\Microsoft Security Client\msseces.exe" /update
+start /wait "" "C:\Program Files\Microsoft Security Client\msseces.exe" /update
 pause
 [/sourcecode]
 

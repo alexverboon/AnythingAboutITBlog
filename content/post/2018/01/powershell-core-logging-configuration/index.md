@@ -41,7 +41,7 @@ https://github.com/PowerShell/PowerShell/blob/d261e1f16692760db4469b44b1ca69155f
 
 Another option to configure these settings , if you do are not enforcing stuff for your users, but don't want to fiddle with registry settings, is to use the confguration file.
 
-"C:\Program Files\PowerShell\6.0.0\powershell.config.json"
+`C:\Program Files\PowerShell\6.0.0\powershell.config.json`
 
 that by default has the following content:
 

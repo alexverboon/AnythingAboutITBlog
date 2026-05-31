@@ -35,7 +35,9 @@ Now we have to [download](https://www.microsoft.com/en-us/software-download/wind
 
 Now because the generic Product key isn't known yet and AutomatedLab looks for product keys here "C:\ProgramData\AutomatedLab\Assets\ProductKeys.xml" we have to tweak one script within the AutomatedLab module to skip the product key check. Depending on when you read this blog post, this step might no longer be necessary.
 
-"C:\Program Files\WindowsPowerShell\Modules\AutomatedLab\5.39.0\AutomatedLabDisks.psm1"
+```text
+C:\Program Files\WindowsPowerShell\Modules\AutomatedLab\5.39.0\AutomatedLabDisks.psm1
+```
 
 And comment out line 28 – 34 as shown below
 

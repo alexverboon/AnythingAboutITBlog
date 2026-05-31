@@ -37,7 +37,7 @@ CreateTaskmedia.cmd
 
 @echo off 
 
-"c:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\i386\CreateMedia.exe" /K:boot /P:labsccm01.labhome.local /S:NL1 /D:LABSCCM01.LABHOME.LOCAL /L:Configuration Manager 2012 /U:True /J:False /Z:False /5:0 /X:SMSTSLocationMPs=http://labsccm01.labhome.local /B:NL100002 /T:CD /F:C:\Sources\TSMedia\batchcreatedmedia2.iso
+call "c:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\i386\CreateMedia.exe" /K:boot /P:labsccm01.labhome.local /S:NL1 /D:LABSCCM01.LABHOME.LOCAL /L:Configuration Manager 2012 /U:True /J:False /Z:False /5:0 /X:SMSTSLocationMPs=http://labsccm01.labhome.local /B:NL100002 /T:CD /F:C:\Sources\TSMedia\batchcreatedmedia2.iso
 
 ```
 
@@ -46,5 +46,7 @@ CreateTaskmedia.cmd
 A detailed description of the command line options available for CreateMedia.exe is documented [here](http://msdn.microsoft.com/en-us/library/jj155402.aspx). 
 
 All Task Sequence Media creation task activities are logged here: 
-  
-"C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\AdminUILog\CreateTsMedia.log"
+
+```text
+C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\AdminUILog\CreateTsMedia.log
+```

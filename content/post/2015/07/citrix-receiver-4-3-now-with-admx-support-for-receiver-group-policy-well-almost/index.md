@@ -18,21 +18,22 @@ Last night Citrix released Citrix Receiver 4.3 that includes ADMX templates to m
 
  After installing the Citrix Receiver 4.3 that can be downloaded from [here](http://www.citrix.com/downloads/citrix-receiver/windows/receiver-for-windows-43.html) you’ll find the new ADMX/ADML files in the following location:
 
- "C:\Program Files (x86)\Citrix\ICA Client\Configuration"
+ ```text
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration
+ ```
 
  But it looks like whoever was in charge of provding the new ADMX templates did not really care about structures. The files are placed all over the place. . 
 
- "C:\Program Files (x86)\Citrix\ICA Client\Configuration\HdxFlash-Client.admx"
-"C:\Program Files (x86)\Citrix\ICA Client\Configuration\ica-file-signing.admx"
-"C:\Program Files (x86)\Citrix\ICA Client\Configuration\receiver.admx"
-
- "C:\Program Files (x86)\Citrix\ICA Client\Configuration\ica-file-signing.adml"
-"C:\Program Files (x86)\Citrix\ICA Client\Configuration\receiver.adml"
-
- "C:\Program Files (x86)\Citrix\ICA Client\Configuration\en-US\HdxFlash-Client.adml"
-
- "C:\Program Files (x86)\Citrix\ICA Client\Configuration\en\receiver_usb.adml"
-"C:\Program Files (x86)\Citrix\ICA Client\Configuration\en\receiver_usb.admx"
+ ```text
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\HdxFlash-Client.admx
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\ica-file-signing.admx
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\receiver.admx
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\ica-file-signing.adml
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\receiver.adml
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\en-US\HdxFlash-Client.adml
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\en\receiver_usb.adml
+ C:\Program Files (x86)\Citrix\ICA Client\Configuration\en\receiver_usb.admx
+ ```
 
   
 

@@ -26,9 +26,11 @@ Before you run the script, you must install the Windows App Certification Kit wh
 
 The script creates a folder **AppCertReports** within the **MyDocuments** folder and stores the report results in there. If you want to look at the reports on a computer that does not have the Windows App Certification Kit installed, copy the following files to that computer.
 
-"C:\ProgramData\Windows App Certification Kit\wslk_strings.xml"
-"C:\ProgramData\Windows App Certification Kit\results.xsl"
-"C:\ProgramData\Windows App Certification Kit\wp-results.xsl"
+```text
+C:\ProgramData\Windows App Certification Kit\wslk_strings.xml
+C:\ProgramData\Windows App Certification Kit\results.xsl
+C:\ProgramData\Windows App Certification Kit\wp-results.xsl
+```
 
 ### Additional Information
 
