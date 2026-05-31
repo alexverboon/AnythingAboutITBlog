@@ -20,107 +20,73 @@ When a physical device running Windows has problems, you have all sorts of possi
 
   First go to [https://home.diagnostics.support.microsoft.com/SelfHelp/](https://home.diagnostics.support.microsoft.com/SelfHelp/) and then search for “IaaS”, you then should find the IaaS Azure Diagnostics Package. 
 
-  [
-![image](images/image_thumb.png)
-](images/image_thumb.png)
+  ![image](images/image_thumb.png)
 
   Next Enter a Tracking ID (optional), then select “**Create**” 
 
-  [
-![image](images/image_thumb1.png)
-](images/image_thumb1.png)
+  ![image](images/image_thumb1.png)
 
   Next select “**Download**” 
 
-  [
-![image](images/image_thumb2.png)
-](images/image_thumb2.png)
+  ![image](images/image_thumb2.png)
 
   Save the file and then select “**Run**”
 
-  [
-![image](images/image_thumb3.png)
-](images/image_thumb3.png)
+  ![image](images/image_thumb3.png)
 
   Select “**Run now on this PC**”
 
-        [
-![image](images/image_thumb4.png)
-      ](images/image_thumb4.png)
+        ![image](images/image_thumb4.png)
 
   Select “**Accept**”
 
-  [
-![image](images/image_thumb5.png)
-](images/image_thumb5.png)
+  ![image](images/image_thumb5.png)
 
   Select “**Start**” and confirm the UAC prompt
 
-  [
-![image](images/image_thumb6.png)
-](images/image_thumb6.png)
+  ![image](images/image_thumb6.png)
 
     A folder c:\WindowsAzure is created on the local client. 
 
   Select “**Next**” 
 
-  [
-![image](images/image_thumb7.png)
-](images/image_thumb7.png)
+  ![image](images/image_thumb7.png)
 
   Next sign-in with your Azure Account. 
 
-  [
-![image](images/image_thumb8.png)
-](images/image_thumb8.png)
+  ![image](images/image_thumb8.png)
 
   Select the Azure Subscription (in case you have multiple)
 
-  [
-![image](images/image_thumb9.png)
-](images/image_thumb9.png)
+  ![image](images/image_thumb9.png)
 
   Next Accept to collect diagnostic data from Azure VMs. 
 
-  [
-![image](images/image_thumb10.png)
-](images/image_thumb10.png)
+  ![image](images/image_thumb10.png)
 
   Select the Azure Storage Account (in case you have multiple)
 
-  [
-![image](images/image_thumb11.png)
-](images/image_thumb11.png)
+  ![image](images/image_thumb11.png)
 
   Next select the issue you are experiencing. 
 
-  [
-![image](images/image_thumb12.png)
-](images/image_thumb12.png)
+  ![image](images/image_thumb12.png)
 
   Next select the VM that experiences an issue. 
 
-  [
-![image](images/image_thumb13.png)
-](images/image_thumb13.png)
+  ![image](images/image_thumb13.png)
 
   When the test / diagnosis is completed, you have the option to view the log files. 
 
-  [
-![image](images/image_thumb14.png)
-](images/image_thumb14.png)
+  ![image](images/image_thumb14.png)
 
     Optionally the log files can be saved locally. 
 
-  [
-![image](images/image_thumb15.png)
-](images/image_thumb15.png)
+  ![image](images/image_thumb15.png)
 
    
 
-  [
-![image](images/image_thumb16.png)
-](images/image_thumb16.png)
+  ![image](images/image_thumb16.png)
 
   In addition to the saved CAB file, the tool also saves an additional file locally. In my case the file name was:
 
