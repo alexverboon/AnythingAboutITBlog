@@ -19,7 +19,7 @@ tags:
  During his [Group Policy: Notes from the Field - Tips, Tricks, and Troubleshooting](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/WIN-B328#fbid=) session at TechEd Group Policy MVP Jeremy Moskowitz demonstrates how to filter the event log using the correlation ID. Now because I love using PowerShell I thought I create a function for that using Jeremy’s XMLquery.
 
  
-`powershell
+```powershell
 function Get-GPEventByCorrelationID
 {
 <#

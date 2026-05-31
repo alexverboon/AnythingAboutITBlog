@@ -58,7 +58,7 @@ When assigning an Office 365 license to a user, by default several service plans
 **[Working with Office 365 User Licenses](https://msdn.microsoft.com/en-us/library/dn568014.aspx)
 [Use Office 365 PowerShell to disable access to services](https://technet.microsoft.com/library/dn771769.aspx)
 
-`powershell
+```powershell
 function Disable-MsolUserServicePlan
 {
 <#

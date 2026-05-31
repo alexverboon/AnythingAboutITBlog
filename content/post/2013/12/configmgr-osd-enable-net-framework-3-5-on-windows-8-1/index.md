@@ -45,8 +45,7 @@ Windows 8.1 has the .NET Framework 4.5.1 enabled by default. If you need .NET Fr
 
  Contents of the Enable-net35sp1.ps1 script. 
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    Enables the .NET Framework Feature on Windows 8.1

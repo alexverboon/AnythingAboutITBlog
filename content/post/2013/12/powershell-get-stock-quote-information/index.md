@@ -16,8 +16,7 @@ tags:
 ---
 The below script makes use of a webservice hosted by webserviceX.net and provides stock quote information. 
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    Retrieve stock information

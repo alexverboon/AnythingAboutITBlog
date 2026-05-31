@@ -61,7 +61,7 @@ When running Get-MCASCredential we can set the credentials for the current Power
 
 Run the following commands (replace the URL and API Token with your information).
 
-`powershell
+```powershell
 # Set the MCAS Credential Variable
 $MCASToken="<YOUR TOKEN>"
 $MCASUrl="<YOUR URL>"

@@ -41,8 +41,7 @@ tags:
 
   
 
-`powershell
-
+```powershell
 <#
 .Synopsis
     Retrieves the Computer's geographical location

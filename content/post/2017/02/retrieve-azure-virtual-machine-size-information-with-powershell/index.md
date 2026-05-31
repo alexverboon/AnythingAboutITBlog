@@ -30,10 +30,9 @@ To keep an overview of the virtual machine size of deployed virtual machines, i 
 
 For example, to get a list of all deployed virtual machines in any resource group in my subscription, I can run the following command:
 
-`powershell
+```powershell
 ForEach ($rg in Get-AzureRmResourceGroup) {Get-AzureRmVMSizeSpecs -ResourceGroupName $rg.ResourceGroupName -Verbose}
-`powershell
-
+```powershell
 The script has two usage modes. When using the **–Location** parameter, it shows all vmsizes available in the Azure regions the command is similar to the native cmdlet Get-AzureRmVmSize, but this version of the script allows you to select the location from all currently known Azure locations.
 
 When using the -**ResourceGroup** parameter the script looks for virtual machine resources within the azure resource group and then retrieves the VM size information.

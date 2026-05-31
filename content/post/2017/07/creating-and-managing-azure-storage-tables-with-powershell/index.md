@@ -25,7 +25,7 @@ Install-Module -Name AzureTableEntity
 
 Next we create an Azure Resource Group and an Azure Storage Account
 
-`powershell
+```powershell
 # Create ResourceGroup
 $Location = "Westeurope"
 $ComputerInventory_ResourceGroup = "rg_CompComputerInventory"
@@ -34,11 +34,10 @@ New-AzureRmResourceGroup -Name $ComputerInventory_ResourceGroup -Location $Locat
 $SkuName = "Standard_LRS"
 $ComputerInventory_StorageAccountName = "sacomputerinventory"
 New-AzureRmStorageAccount -ResourceGroupName $ComputerInventory_ResourceGroup -Name $ComputerInventory_StorageAccountName -SkuName "$SkuName" -Location $Location,
-`powershell
-
+```powershell
 We will need the Storage Account key later so let’s get that one as well.
 
-`powershell
+```powershell
 # Retrieve the first StorageAccountAccessKey
 $StorageAccount = Get-AzureRmStorageAccount -ResourceGroupName $ComputerInventory_ResourceGroup -Name $ComputerInventory_StorageAccountName
 $StorageAccountAccessKey = (Get-AzureRmStorageAccountKey -ResourceGroupName $ComputerInventory_ResourceGroup -Name $ComputerInventory_StorageAccountName).Value[0]
@@ -46,16 +45,15 @@ $StorageAccountAccessKey = (Get-AzureRmStorageAccountKey -ResourceGroupName $Com
 
 Next we create a new Table with the name “Computerinventory”
 
-`powershell
+```powershell
 #Create Table
 $TableName = "ComputerInventory"
 $context = New-AzureStorageContext -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountKey $StorageAccountAccessKey
 New-AzureStorageTable -Name $TableName -Context $context
-`powershell
-
+```powershell
 Now that we have the table created, we can start adding data to it, let’s start with adding just one row first.
 
-`powershell
+```powershell
 # Add one entry
      $data = @{
      RowKey = ([guid]::NewGuid().tostring())
@@ -69,14 +67,11 @@ New-AzureTableEntity -StorageAccountName $ComputerInventory_StorageAccountName -
 
 Let’s take a look what’s in the table now
 
-`powershell
+```powershell
 $querystring = "(PartitionKey eq 'Inventory')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $result
-`powershell
-
- 
-
+```powershell
 ![image](images/image_thumb.png)
 
 Next let’s add some more data to it, the below code creates some random computer inventory data.
@@ -85,7 +80,7 @@ Next let’s add some more data to it, the below code creates some random comput
 
  
 
-`powershell
+```powershell
    $locations = @("Amsterdam","Paris","Stockholm","London","New York","Seatle","Singapure","Hong Kong","The Hague","Barcelona","Madrid","Stockholm","Rome")
      $data = @()
      $count = 2
@@ -105,14 +100,13 @@ Next let’s add some more data to it, the below code creates some random comput
 
 # Add rows to Azure Storage Table
 
-`powershell
+```powershell
 New-AzureTableEntity -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey -TableName $TableName -Verbose -Entities $data
 
-`powershell
-
+```powershell
 If all went fine, we should now have all the data in the table.
 
-`powershell
+```powershell
 $querystring = "(PartitionKey eq 'Inventory')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $result.Count
@@ -125,17 +119,16 @@ We now have 100 records in the table, with “**11**” computers located in Ams
 
 Now let’s look at Computer000001
 
-`powershell
+```powershell
 $querystring = "(ComputerName eq 'Computer000001')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $result
-`powershell
-
+```powershell
 ![image](images/image_thumb-2.png)
 
 It’s located in Amsterdam. Now let’s have a look at how to update a record, let’s say we want to change it to “Rotterdam”
 
-`powershell
+```powershell
 $NewLoczation = "Rotterdam"
 $data = @{
 PartitionKey = $result.PartitionKey
@@ -151,19 +144,18 @@ Let's retrieve the record again.
 
  
 
-`powershell
+```powershell
 $querystring = "(ComputerName eq 'Computer000001')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $result
-`powershell
-
+```powershell
 and there we go, it's now registered in Rotterdam.
 
 ![image](images/image_thumb-3.png)
 
 Let’s query the entire database again.
 
-`powershell
+```powershell
 $querystring = "(PartitionKey eq 'Inventory')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $result.Count
@@ -176,7 +168,7 @@ and finally, let’s remove the Computer000001
 
 I query the information again, as i will re-use the return values to build the remove properties.
 
-`powershell
+```powershell
 $querystring = "(ComputerName eq 'Computer000001')"
 $result = Get-AzureTableEntity -TableName $tableName -StorageAccountName $ComputerInventory_StorageAccountName -StorageAccountAccessKey $StorageAccountAccessKey  -QueryString $querystring -ConvertDateTimeFields $true -GetAll $true -Verbose
 $Remove = @{

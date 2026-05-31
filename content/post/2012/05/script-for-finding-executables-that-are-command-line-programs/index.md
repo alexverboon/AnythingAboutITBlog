@@ -24,8 +24,7 @@ I recently came across a FREE utility called [IsCommandLineApp](http://helgeklei
    
 
   
-`powershell
-
+```powershell
 # =====================================================================
   
 # Script Name : listcommandlineapps.ps1

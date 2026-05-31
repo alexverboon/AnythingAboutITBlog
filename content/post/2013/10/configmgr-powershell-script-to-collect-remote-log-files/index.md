@@ -41,8 +41,7 @@ Looking at a client’s ConfigMgr Agent log files is inevitable when managing a 
 
  ![image](images/image_thumb8.png)
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    Gather Configuration Manager log files from remote systems

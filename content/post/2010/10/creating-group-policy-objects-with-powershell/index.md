@@ -59,7 +59,7 @@ To see the content of the registry.pol file I used the [RegistryPol Reader](http
 
 So now that I had the Registry key, value, type and data information I could actually start creating my Group Policy creation PowerShell Script that looks as following:
 
-`powershell
+```powershell
 import-module -Name grouppolicy
 
 Write-Host "Creating Group Policy Object with name A_TestGPO"

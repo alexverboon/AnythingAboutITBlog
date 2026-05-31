@@ -16,8 +16,7 @@ tags:
 ---
 The below script allows you to select a Configuration Manager software update group and then lists the software updates that are assigned to it. 
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    Lists assigned software updates in a configuration manager 2012 software update group

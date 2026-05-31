@@ -24,7 +24,7 @@ Note that this API is still in preview. I wrote two functions for this.
 
 You will also need the AzureAD PowerShell module installed. The script checks for it's presence.
 
-`powershell
+```powershell
 Function Connect-WindowsATP
 {
 <#
@@ -139,9 +139,8 @@ End{
 }
 }
 
-`powershell
-
-`powershell
+```powershell
+```powershell
 Function Get-WinATPData
 {
 <#

@@ -54,7 +54,7 @@ Below the PowerShell based discovery script used in this configuration item, the
 
  
 
-`powershell
+```powershell
 <#
 .Synopsis
    CI_DefenderMAPS_Discovery

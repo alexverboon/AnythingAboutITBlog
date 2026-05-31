@@ -37,7 +37,7 @@ Get-NetConnectionDetails -Process ftp      
 
 Below is the complete Code is also stored on [GitHub](https://github.com/alexverboon/posh/blob/master/Security/get-netconnectiondetails.ps1)
 
-`powershell
+```powershell
 Function Get-NetConnectionDetails{
 <#
 .SYNOPSIS

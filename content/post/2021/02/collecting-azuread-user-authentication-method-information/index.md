@@ -27,7 +27,7 @@ If you have not done so yet, install the Microsoft Graph PowerShell modules.
 ```powershell
 Find-Module -Name "Microsoft.Graph" | Install-Module -Scope CurrentUser
 Find-Module -Name Microsoft.Graph.Identity.AuthenticationMethods | Install-Module -Scope CurrentUser
-`$lang
+```
 
 Then run the following command.
 

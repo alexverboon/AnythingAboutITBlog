@@ -20,7 +20,7 @@ The Get-CMInstalledSoftware script retrieves all computers that have the specifi
 
  
 
-`powershell
+```powershell
 <#
 .Synopsis
    Get all computers that have the specified software installed

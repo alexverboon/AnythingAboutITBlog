@@ -56,7 +56,7 @@ Usage
 | where IsBillable == true
 | summarize TotalVolumeGB = sum(Quantity) / 1000 by bin(StartTime, 1d), Solution
 | render columnchart
-`$lang
+```
 
 ![](images/052022_2013_Howtoanalyz5.png)
 
@@ -84,7 +84,7 @@ Now let's find the user(s) that cause the high event volume.
 ```kusto
 AADNonInteractiveUserSignInLogs
 | summarize count() by UserPrincipalName
-```kql
+```
 ![](images/052022_2013_Howtoanalyz7.png)
 
 Next, we drill down into events for the user that triggers the most events.

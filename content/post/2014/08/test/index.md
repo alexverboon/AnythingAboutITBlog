@@ -12,7 +12,7 @@ categories:
 tags:
   - 'Uncategorized'
 ---
-`powershell
+```powershell
 	get-process
 
 ```

@@ -26,7 +26,7 @@ The last wakeup date/time is converted from UTC into the client local time.
 
  Important: the script uses PowerShell remoting, it’s therefore required that the targeted clients have WinRM enabled. 
 
-`powershell
+```powershell
 Function Get-SystemStartInfo()
  {
  <#
@@ -144,11 +144,10 @@ End
 }
 }
 
-`powershell
-
+```powershell
 Example:
 
-`powershell
+```powershell
 Get-Systemstartupinfo client1,client2,client3,client4,client5, client6 | format-list
 
 ```

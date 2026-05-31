@@ -32,7 +32,7 @@ Next open the Microsoft Endpoint Configuration Manager and then launch PowerShel
 
 Next load the function that is included in `New-CMCIPrintSpoolerService.ps1` and then run the function that creates the Configuration Item in Microsoft Endpoint Configuration Manager.
 
-`powershell
+```powershell
 . .\New-CMCIPrintSpoolerService.ps1
 
 New-CMCIPrintSpoolerService -SiteCode P01 -SiteServer cm01.corp.net -Verbose

@@ -64,8 +64,7 @@ Process{
     }
 }
 End{}
-`powershell
-
+```powershell
 ![](images/070321_1315_UseMicrosof2.png)
 
 ## Disabling and Stopping the Print Spooler Service

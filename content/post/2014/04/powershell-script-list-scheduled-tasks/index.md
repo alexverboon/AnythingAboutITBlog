@@ -17,7 +17,7 @@ tags:
 ---
 Here’s a simple script I put together to list the scheduled tasks including the description, status and whether the task is set to hidden or not. When deploying a new operating system I find it important to understand what scheduled tasks are enabled to run, as sometimes there might be some potential to improvie the systems performance by disabling those you feel are not needed in your environment. 
 
-`powershell
+```powershell
 $schtasks = @()
 $st = Get-ScheduledTask
 ForEach ($SchTask in $st)

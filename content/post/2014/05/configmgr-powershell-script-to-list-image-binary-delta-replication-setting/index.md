@@ -21,8 +21,7 @@ Here’s a script that lists all Boot and Operating system images stored within 
 
   
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    List Binary Delta Replication Setting for ConfigMgr Boot and Operating System images

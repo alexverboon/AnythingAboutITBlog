@@ -33,8 +33,7 @@ Here’s a PowerShell script we recently wrote to show the source path location 
   before executing the script, connect to your site. 
 
   
-`powershell
-
+```powershell
 clear-host
 
 function GetInfoPackages()

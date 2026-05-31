@@ -161,7 +161,7 @@ When launching the script with the optional -ActiveX switch, the script returns 
 
 Following is the full script. You can download this script from the Script Center Repository [Retrieve Internet Explorer Telemetry Information (Get-IETelemetryInfo)](https://gallery.technet.microsoft.com/scriptcenter/Retrieve-Internet-Explorer-39dd08ef)
 
-`powershell
+```powershell
 <#
 .Synopsis
    The Get-IETelemetryURLInfo retrieves script retrieves the Internet Explorer Telemetry information from the specified computers

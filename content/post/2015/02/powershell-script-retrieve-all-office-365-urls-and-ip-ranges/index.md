@@ -24,7 +24,7 @@ This week I took the [Office 365 Performance Management](http://www.microsoftvir
    
 
   
-`powershell
+```powershell
 function Get-Office365URLIPInfo
 {
 <#

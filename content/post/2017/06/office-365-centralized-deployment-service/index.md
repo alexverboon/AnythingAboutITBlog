@@ -31,13 +31,12 @@ Within the Office Store I have found an add-in that i want to deploy called the 
 
 From the URL extract the Office store asset id of the add-in
 
-`powershell
+```powershell
 New-OrganizationAddIn -AssetId WA103304320 -Locale en-US -ContentMarket en-US -Members "johndoe@contoso.com" –Disabled
-`powershell
-
+```powershell
 Let’s take a look at the add-in details
 
-`powershell
+```powershell
 Get-OrganizationAddIn -ProductId e69e87c3-de20-491e-b891-0d75e1e1c6bf | fl
 
 AssetId                  : WA103304320
@@ -75,7 +74,7 @@ Version                  : 1.1
 
 The add-in is still not enabled, so let’s do that now.
 
-`powershell
+```powershell
 Set-OrganizationAddIn -ProductId e69e87c3-de20-491e-b891-0d75e1e1c6bf -Enabled $true
 ProductId                            DisplayName         OfficeProducts StatusCode
 ---------                            -----------         -------------- ----------

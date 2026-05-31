@@ -25,7 +25,7 @@ I am currently working on a script where I need to create a scheduled task that 
 - Define the time when the scheduled task must run, the below task will only run once.  
 - Create the scheduled task, actions and triggers
 
-`powershell
+```powershell
 # The name of the scheduled task
 $TaskName = "MyScheduledTask"
 # The description of the task
@@ -66,11 +66,10 @@ $action.Arguments = "$TaskArg"
 #http://msdn.microsoft.com/en-us/library/windows/desktop/aa381365(v=vs.85).aspx
 $rootFolder.RegisterTaskDefinition("$TaskName",$TaskDefinition,6,"System",$null,5)
 
-`powershell
-
+```powershell
 Now if we wanted to run the Task more than just once, let’s say on a monthly basis, we have to change and add a bit of code  The code above uses Create(1) which means that the trigger is set to run once. 
 
-`powershell
+```powershell
 $trigger = $triggers.Create(1) # Creates a "One time" trigger
 
 ```powershell
@@ -111,22 +110,21 @@ TASK_TRIGGER_SESSION_STATE_CHANGE
 11
 So let’s suppose we want to run the task the first day of every month, we then have to change the code as following. 
 
-`powershell
+```powershell
 $trigger = $triggers.Create(4)
 $trigger.DaysOfMonth = 1
 
-`powershell
-
+```powershell
 If we want to run the task when the system is idle we set the value of Create to 6.
 
-`powershell
+```powershell
 $trigger = $triggers.Create(6)
 
 ```powershell
 
 If more than one action is required, just add an action, action path and action argument as in the example below. 
 
-`powershell
+```powershell
 $Action = $TaskDefinition.Actions.Create(0)
 $action.Path = "$TaskCommand"
 $action.Arguments = "$TaskArg"
@@ -148,8 +146,7 @@ If the first parameter is set to $null, a random GUID is assigned as the Task na
 ```powershell
 $rootFolder.RegisterTaskDefinition($null,$TaskDefinition,6,"System",$null,5)
 
-`powershell
-
+```powershell
 The $Taskdefinition holds all the previously defined settings for the scheduled task. 
 
 The value 6 referts to the task creation constant which means that Task Scheduler either registers the task as a new task or as an updated version if the task already exists. A complete listing of possible values can be found [here](http://msdn.microsoft.com/en-us/library/windows/desktop/aa381365(v=vs.85).aspx). 
@@ -162,7 +159,7 @@ The last value defines the logon type. The value of 5 Indicates that a Local Sys
 
 With PowerShell version 4 things get a bit simpler, to accomplish the same as in the aboe scrpt only 3 lines of code are needed. 
 
-`powershell
+```powershell
 $TaskAction = New-ScheduledTaskAction -Execute "$TaskCommand" -Argument "$TaskArg" 
 $TaskTrigger = New-ScheduledTaskTrigger -At $TaskStartTime -Once
 Register-ScheduledTask -Action $TaskAction -Trigger $Tasktrigger -TaskName "$TaskName" -User "System" -RunLevel Highest

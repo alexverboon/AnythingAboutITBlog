@@ -35,8 +35,7 @@ Back in 2011 I wrote a blog post on [how to mute Windows System Volume](https://
 
  ****
 
-`powershell
-
+```powershell
  <#   
     .SYNOPSIS   
         Sets the PC Volume to "MUTE"

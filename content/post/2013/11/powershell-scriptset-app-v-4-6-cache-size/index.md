@@ -36,7 +36,7 @@ Background: As part of our migration process from Configuration Manager 2007 to 
 
  Examples of possible execution modes are documented within the Script. 
 
-`powershell
+```powershell
 <#
 .Synopsis
    Configure the App-v 4.6X Cache Size

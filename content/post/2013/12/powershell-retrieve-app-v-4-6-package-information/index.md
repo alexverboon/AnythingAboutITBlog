@@ -23,8 +23,7 @@ Today we’ve been looking at App-V 4.6 package settings before and after migrat
 
   
 
-`powershell
-
+```powershell
 <#
 .Synopsis
    Retrieve local App-V 4.6 Package information

@@ -29,8 +29,7 @@ Here’s a ConfigMgr Compliance baseline that checks the BranchCache configurati
   The following PowerShell commands are included within the configuration items. 
 
   
-`powershell
-
+```powershell
 $bcstat = get-bcstatus | Select-Object -Property BranchCacheIsEnabled
 $($bcstat).BranchCacheIsEnabled
 #True

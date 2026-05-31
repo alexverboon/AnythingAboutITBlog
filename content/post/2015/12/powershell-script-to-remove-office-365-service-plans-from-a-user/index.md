@@ -61,7 +61,7 @@ PICTURE
 
  
 
-`powershell
+```powershell
 function Disable-MsolUserServicePlan
 {
 <#

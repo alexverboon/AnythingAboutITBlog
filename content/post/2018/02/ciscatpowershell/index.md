@@ -40,17 +40,14 @@ Copy paste the invoke-ciscat below into a file called invoke-ciscat.ps1 and load
 
 To ensure that we have the latest vulnerability assessment definitions available, let's start with downloading these.
 
-`powershell
+```powershell
 Invoke-CISCat -Action UpdateVulnerabilityDefinitions -CISCATPath c:\temp\cis
-`powershell
-
- 
-
+```powershell
 ![](images/020618_2102_AutomatingC2.png)
 
 Now let's start the vulnerability assessment.
 
-`powershell
+```powershell
 Invoke-CISCat -Action ScanVulnerabilities -CISCATPath C:\temp\CIS\ -DebugLog -Verbose
 ```powershell
 
@@ -64,15 +61,12 @@ The vulnerability assessment report can be found in the C:\TEMP\CIS\Reports fold
 
 And finally let's run a Benchmark Assessment for Windows 10 and Office Outlook 2016
 
-`powershell
+```powershell
 Invoke-CISCat -Action ConfigBaseline -CISCATPath c:\temp\cis -Benchmark 'Windows 10'
-`powershell
-
- 
-
+```powershell
 ![](images/020618_2102_AutomatingC5.png)
 
-`powershell
+```powershell
 Invoke-CISCat -Action ConfigBaseline -CISCATPath c:\temp\cis -Benchmark 'Outlook 2016'
 ```
 

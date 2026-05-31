@@ -25,8 +25,7 @@ Kind of a long title for a blog post, but I could not come up with something sho
   
 
   
-`powershell
-
+```powershell
 <#
 .Synopsis
     Get Application and Package - Program information regarding Task Sequence support

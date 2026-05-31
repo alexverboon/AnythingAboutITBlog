@@ -18,7 +18,7 @@ Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with
 
   
 
-`powershell
+```powershell
 <#
 .Synopsis
    Download Sysinternals Tools

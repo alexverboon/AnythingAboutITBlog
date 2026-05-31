@@ -22,7 +22,7 @@ To make documenting the configured SCCM Client configuration settings a bit easi
 
 To run this script the Configuration Manager powershell module must be loaded and connected to the site.
 
-`powershell
+```powershell
 # Get the different Client settings Names
 $a = Get-CMClientSetting | select Name
 

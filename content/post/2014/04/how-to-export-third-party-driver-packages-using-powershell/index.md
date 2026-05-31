@@ -17,19 +17,17 @@ tags:
 ---
 Windows 8.1 Update introduces a new cmdlet that allows you to export third-party drivers that are located within the driver store of a Windows client. 
 
-`powershell
+```powershell
 $ExpDrv = Export-WindowsDriver -Online -Destination c:\temp\3rdpartydrivers 
 
-`powershell
-
+```powershell
 The result, all drivers exported into the provided destination directory
 
 ![2014-04-04_21h36_47](images/2014-04-04_21h36_47_thumb.png)
 
 Now we have a whole bunch of folders, but what drivers did we actually export?
 
-`powershell
-
+```powershell
 $ExpDrv | Select-Object ClassName, ProviderName, Date, Version | Sort-Object ClassName
 
 ```

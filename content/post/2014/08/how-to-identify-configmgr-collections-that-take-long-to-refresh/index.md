@@ -18,7 +18,7 @@ I’ve put together the below PowerShell script this week to identify collection
 
   
 
-`powershell
+```powershell
 Function Get-CMCollectionRefreshDuration
 {
 <#
