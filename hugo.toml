@@ -59,7 +59,7 @@ home = ["HTML", "RSS","JSON"]
 
   last_posts = true
 
-  custom_js = ["js/nav-fixes.js"]
+  custom_js = ["js/nav-fixes.js", "js/clarity.js"]
 
   [params.social]
   rss = true

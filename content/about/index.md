@@ -5,6 +5,8 @@ multilingual: false
 
 # About Me
 
+My name is Alex Verboon
+
 My journey into technology started around 1987 during a computer training class at school. The systems were IBM PS/2 computers running MS-DOS, and one of the first things I learned was how to navigate the command line and use basic DOS commands. While the lessons were simple by today's standards, they sparked a curiosity about technology and how computers worked behind the scenes.
 
 The real turning point came in 1990 when I started my apprenticeship in the forwarding department of ABB Power Generation. The workplace used IBM mainframe terminals alongside IBM PS/2 desktop computers. While many colleagues saw computers simply as tools to complete their daily tasks, I quickly discovered they could do much more.
