@@ -19,9 +19,9 @@ I was recently writing some advanced hunting queries for Microsoft Defender ATP 
 
 ```kql
 // Find all machines running a given Powersehll cmdlet.
-let powershellCommandName = "Invoke-RickAscii"; 
-DeviceEvents 
-| where ActionType == "PowerShellCommand" 
+let powershellCommandName = "Invoke-RickAscii";
+DeviceEvents
+| where ActionType == "PowerShellCommand"
 | where AdditionalFields contains powershellCommandName
 ```
 But if you are looking for several functions, then there is going to be a lot of manual editing, and so the idea was born to use PowerShell to help me generate an advanced hunting query. The below function can do the following:
@@ -43,3 +43,4 @@ Below are a few examples how to use the script **New-KQPSModuleFunctions** (sorr
 That's it, have a great day
 
 Alex
+

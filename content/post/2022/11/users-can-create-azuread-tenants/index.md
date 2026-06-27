@@ -95,3 +95,4 @@ AuditLogs
 | where newValue == "true"
 ```
 
+

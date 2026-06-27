@@ -14,30 +14,31 @@ tags:
   - 'Volume'
   - 'Tips-Tools'
 ---
-I came across a forum post where someone asked how to programmatically mute the Windows System volume. So this is what I have found: 
+I came across a forum post where someone asked how to programmatically mute the Windows System volume. So this is what I have found:
 
   ![image](images/image_thumb1.png)
 
   **NirCmd**
 
-  [NirCmd](http://www.nirsoft.net/utils/nircmd.html) from NirSoft is a small command-line utility that contains many smart functions like muting and unmuting the system volume. 
+  [NirCmd](http://www.nirsoft.net/utils/nircmd.html) from NirSoft is a small command-line utility that contains many smart functions like muting and unmuting the system volume.
 
   To mute the system volume, simply run the following command
 
-  nircmd.exe mutesysvolume 1 
+  nircmd.exe mutesysvolume 1
 
-  and to unmute you run 
+  and to unmute you run
 
-  nircmd.exe mutesysvolume 0 
+  nircmd.exe mutesysvolume 0
 
   **With VBScript**
 
   Another option is to use a VBscript, the following code I found [here](http://www.nilpo.com/2008/11/windows-xp/mute-sound-volume-in-wsh/) will mute or unmute the system volume
 
-  Set WshShell = CreateObject("WScript.Shell")   
+  Set WshShell = CreateObject("WScript.Shell")
 WshShell.SendKeys(chr(&hAD))
 
   **SndVolPlus**
 
-  Although it doesn’t allow to automate muting the volume, SndVolPlus is a nice replacement utility for the default volume control in Windows.  SndVolPlus can do everything the standard volume control does, but also allows you to mute / unmute the volume by just double clicking on the volume icon. SndVolPlus can be downloaded from [here](http://factormystic.net/projects/apps/sndvolplus)
+  Although it doesn’t allow to automate muting the volume, SndVolPlus is a nice replacement utility for the default volume control in Windows.  SndVolPlus can do everything the standard volume control does, but also allows you to mute / unmute the volume by just double clicking on the volume icon. SndVolPlus can be downloaded from [here](http://factormystic.net/projects/apps/sndvolplus)
+
 

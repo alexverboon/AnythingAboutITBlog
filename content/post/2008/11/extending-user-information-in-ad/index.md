@@ -29,6 +29,7 @@ Follow the steps below to enable the additional user account information.
 
       ```bash
       regsvr32 C:\windows\system32\acctinfo.dll
-      ```	
+      ```
   5. Launch the Active Directory Users and Computers management console, then select a user object and select the Additional Account Info tab.
+
 

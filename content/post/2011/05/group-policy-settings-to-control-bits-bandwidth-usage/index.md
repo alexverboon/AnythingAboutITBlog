@@ -18,15 +18,15 @@ I just read the article [BITS – More Flexible Bandwidth Limit Policies](http:/
 
   The 2 GPOs can be found under Computer Configuration -> Administrative Templates -> Network -> Background Intelligent Transfer Service
 
-     
-- Set up a maintenance schedule to limit the maximum network bandwidth used for BITS background transfers    
-- Set up a work schedule to limit the maximum network bandwidth used for BITS background transfers 
+
+- Set up a maintenance schedule to limit the maximum network bandwidth used for BITS background transfers
+- Set up a work schedule to limit the maximum network bandwidth used for BITS background transfers
 
   Now let’s have a look how that works. The [sample script](https://www.verboon.info/index.php/2008/08/using-bits-for-file-downloads/) starting a BITS transfer looks as following:
 
-  bitsadmin /TRANSFER waikdl http://download.microsoft.com/download/8/6/d/86d6ba9c-98ff-444e-87ed-3e76772eb2a6/vista_6000.16386.061101-2205-LRMAIK_EN.img C:\temp\waik.img    
+  bitsadmin /TRANSFER waikdl http://download.microsoft.com/download/8/6/d/86d6ba9c-98ff-444e-87ed-3e76772eb2a6/vista_6000.16386.061101-2205-LRMAIK_EN.img C:\temp\waik.img
 
-  With no GPO configured the tasks starts with 1.16 MB/S and an estimated duration of 13 minutes. 
+  With no GPO configured the tasks starts with 1.16 MB/S and an estimated duration of 13 minutes.
 
   ![2011-05-12 00h37_57](images/2011-05-12-00h37_57_thumb.png)
 
@@ -36,7 +36,8 @@ I just read the article [BITS – More Flexible Bandwidth Limit Policies](http:/
 
   ![2011-05-12 00h39_30](images/2011-05-12-00h39_30_thumb.png)
 
-  Setting up a custom Event Log view with the following properties allows you see what’s happening when the GPO is being applied. 
+  Setting up a custom Event Log view with the following properties allows you see what’s happening when the GPO is being applied.
 
   ![2011-05-12 01h22_36](images/2011-05-12-01h22_36_thumb.png)
+
 

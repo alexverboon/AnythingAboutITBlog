@@ -66,3 +66,4 @@ After setting up the scheduled query rule and accessing the application from two
 
 ![](images/101020_1404_MonitoringS9.png)**Additional Information
 **[https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins)[https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/aadserviceprincipalsigninlogs](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/aadserviceprincipalsigninlogs)
+

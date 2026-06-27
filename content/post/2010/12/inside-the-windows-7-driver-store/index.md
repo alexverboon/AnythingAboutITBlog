@@ -74,7 +74,7 @@ If we want to get this information into a nice Excel sheet, simply run the follo
 FINDSTR /C "Description" c:\temp\drvstore\hp*.txt >>c:\temp\drvstore\hpprinters.log
 [/sourcecode]
 
-Then open the hpprinters.log and within the Text Import wizard select that this is a delimited file. I won’t go into the detail here, assume that you have some experience with importing text data within Excel. 
+Then open the hpprinters.log and within the Text Import wizard select that this is a delimited file. I won’t go into the detail here, assume that you have some experience with importing text data within Excel.
 
 ![2010-12-28 16h10_14](images/2010-12-28-16h10_14_thumb.png)
 
@@ -82,8 +82,9 @@ Conclusion the Windows 7 in-box drivers support 209 HP Print devices. Okay, now 
 
 [sourcecode language="plain"]
 
-FOR /R C:\WINDOWS\SYSTEM32\DRIVERSTORE\FILEREPOSITORY %%i IN (*.INF)  DO dism /online /get-driverinfo /driver:%%i >>c:\data\all.txt
+FOR /R C:\WINDOWS\SYSTEM32\DRIVERSTORE\FILEREPOSITORY %%i IN (*.INF)  DO dism /online /get-driverinfo /driver:%%i >>c:\data\all.txt
 [/sourcecode]
 
 The all.txt file will have detailed driver information for any INF file found within the driver store. According to the information I dumped from a clean Windows 7 Enterprise 32 bit installation the Windows 7 in-box drivers support approx. 19’403 devices. I guess that should help most users to get their Windows 7 up and running.
+
 

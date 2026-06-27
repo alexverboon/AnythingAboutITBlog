@@ -23,7 +23,7 @@ Last week I had a Windows 7 planning meeting with one of our clients and like in
 
 *
 
- 
+
 
 **System Requirements**
 
@@ -48,4 +48,5 @@ To keep the Windows XP VM up to date with operating system security patches, com
 If the use of XP Mode is only considered for a small number of clients, the effort of manually installing XP mode or preparing an automated deployment process is acceptable, however if a company plans to deploy XP Mode on several hundreds of clients and in addition plans to use it for a longer period of time they should look at more scalable solutions such as Microsoft Enterprise Desktop Virtualization (MED-V). MED-V provides a more centralized approach for deploying and managing virtual images. However only companies that have access to MDOP which is available through the Software Assurance program can use MED-V.
 
 Running a virtualized Windows XP on top of Windows 7 is probably the easiest way to solve compatibility issues, however companies should not consider the use of XP Mode as a way to get around the effort of testing and remediating their applications for the use with Windows 7. XP Mode should be seen as a short term temporary solution removing potential road blocks for the deployment of Windows 7. In the long run remote desktop virtualization or application virtualization might be a better option.
+
 

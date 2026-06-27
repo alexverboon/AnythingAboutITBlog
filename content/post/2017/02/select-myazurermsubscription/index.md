@@ -21,8 +21,8 @@ I have multiple Azure subscriptions linked to my account, so anytime I connect t
 After entering the -SubscriptionName parameter the script enumerates alll the subscriptions I have access to and generates a dynamic parameter option.
 
 ```
-
 ```
 
 Script location on GitHub: [https://github.com/alexverboon/posh/blob/master/Azure/Utilities/select-MyAzureRmSubscription.ps1](https://github.com/alexverboon/posh/blob/master/Azure/Utilities/select-MyAzureRmSubscription.ps1)
+
 

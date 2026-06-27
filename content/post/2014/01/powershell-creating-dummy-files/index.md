@@ -14,7 +14,7 @@ tags:
   - 'Dummy'
   - 'Files'
 ---
-Here’s a function I wrote to create a large dummy file either filled with zero’s or random characters. The -Target parameter must be eitehr a file including the path or just the path. If the path does not exist, it will be created. If only a path is provided a file with a random file name is generated. 
+Here’s a function I wrote to create a large dummy file either filled with zero’s or random characters. The -Target parameter must be eitehr a file including the path or just the path. If the path does not exist, it will be created. If only a path is provided a file with a random file name is generated.
 
 ```powershell
 Function New-BigFile {
@@ -22,7 +22,7 @@ Function New-BigFile {
 .Synopsis
   Creates a large dummy file with or without random conntent
 .DESCRIPTION
-  Creates a large dummy file with or without random conntent 
+  Creates a large dummy file with or without random conntent
   Credits for the randome content creation logic goes to Robert Robelo
 .PARAMETER Target
    The full path to a folder or file. If the target is a folder a random file name is generated
@@ -30,9 +30,9 @@ Function New-BigFile {
    The size of the random file to be genrated. Default is one MB
 .PARAMETER Filecontent
   Possible values are  or  When  is specified the file is filled with
-  random values. The value  fills the file with nulls. 
+  random values. The value  fills the file with nulls.
 .PARAMETER ShowProgress
- This parameter is optional and shows the progress of the file creation. 
+ This parameter is optional and shows the progress of the file creation.
 .EXAMPLE
  New-Bigfile -Target C:\Temp\LF -Megabyte 10 -Filecontent random
 .EXAMPLE
@@ -40,7 +40,6 @@ Function New-BigFile {
 .EXAMPLE
  New-Bigfile -Target C:\Temp\LF -Megabyte 10 -Filecontent empty
 #>
-
 [CmdletBinding(SupportsShouldProcess=$True)]
 param(
     [Parameter(Mandatory = $true, Position = 0)]
@@ -53,13 +52,11 @@ param(
     [string]$FileContent,
     [Switch]$ShowProgress
 )
-
 If ([string]::IsNullOrEmpty([System.IO.Path]::GetDirectoryName("$target")) -eq $True)
 {
     Write-Output "Specify a directory or file including path!"
     Throw
 }
-
 If([string]::IsNullOrEmpty([System.IO.Path]::GetExtension("$target")))
 {
     Write-Verbose "Provided input $target has no file extension, target is a folder"
@@ -67,9 +64,8 @@ If([string]::IsNullOrEmpty([System.IO.Path]::GetExtension("$target")))
     Write-Verbose "Random generated filename: $fname"
     $Target = Join-path $Target  $fname
     $folder = [System.IO.Path]::GetDirectoryName($target)
-
     If ((Test-path $folder) -eq $false)
-    {If ($PSCmdlet.ShouldProcess("Directory does not exist, creating directory $folder ")) 
+    {If ($PSCmdlet.ShouldProcess("Directory does not exist, creating directory $folder "))
             { New-Item -Path $folder -ItemType Directory | Out-Null}}
 }
 Else
@@ -79,26 +75,21 @@ Else
         Break}
     Else
         {Write-Verbose "File $target does not exist yet"}
-
     # Check if the directory actually exists, if not create it
     $folder = [System.IO.Path]::GetDirectoryName($target)
     If ((Test-path $folder) -eq $false)
-    {If ($PSCmdlet.ShouldProcess("Creating folder $folder")) 
+    {If ($PSCmdlet.ShouldProcess("Creating folder $folder"))
             {New-Item -Path $folder -ItemType Directory | Out-Null}}
 }
-
 $path = $Target
 $total = 1mb * $MegaByte
 $strings = $bytes = 0
-
 If ($FileContent -eq "random")
 {
-If ($PSCmdlet.ShouldProcess("Creating random file $path with $Megabyte MB")) 
+If ($PSCmdlet.ShouldProcess("Creating random file $path with $Megabyte MB"))
 {
-
 # create the stream writer
 $sw = New-Object IO.streamWriter $path
-
 # get a 64 element Char[]; I added the - and _ to have 64 chars
 [char[]]$chars = 'azertyuiopqsdfghjklmwxcvbnAZERTYUIOPQSDFGHJKLMWXCVBN0123456789-_'
 1..$MegaByte | ForEach-Object {
@@ -113,13 +104,11 @@ $str_ = $str * 4kb
 # write 256KB string to file
 $sw.Write($str_)
 # show progress
-
     if ($ShowProgress) {
     $strings++
     $bytes += $str_.Length
     Write-Progress -Activity "Writing String #$strings" -Status "$bytes Bytes written" -PercentComplete ($bytes / $total * 100)
     }
-
 # release resources by clearing string variables
 Clear-Variable str, str_
 }
@@ -130,10 +119,9 @@ $sw.Dispose()
 [GC]::Collect()
 }
 }
-
-Else 
+Else
 {
-    If ($PSCmdlet.ShouldProcess("Creating empty file $path with $Megabyte MB")) 
+    If ($PSCmdlet.ShouldProcess("Creating empty file $path with $Megabyte MB"))
     {
     # write 4K worth of data at a time
     $bufSize = 4096
@@ -141,36 +129,32 @@ Else
     $file = [System.IO.File]::Create("$path")
     # write the first block out to accommodate integer division truncation
     $file.Write($bytes, 0, $bufSize)
-    for ($i = 0; $i -lt $Megabyte*1MB; $i = $i + $bufSize) { $file.Write($bytes, 0, $bufSize) 
-
+    for ($i = 0; $i -lt $Megabyte*1MB; $i = $i + $bufSize) { $file.Write($bytes, 0, $bufSize)
     if ($ShowProgress) {
         Write-Progress -Activity "Writing String #$strings" -Status "Bytes written" -PercentComplete ($i/($megabyte*1MB)*100 )
     }
     }
     $file.Close()
-} 
-} 
-} 
-
+}
+}
+}
 ```powershell
 Run the following command to create a dummy file of 10 MB with random content
 
 ```powershell
-New-bigfile c:\temp\lf 10 random  -Verbose 
-
+New-bigfile c:\temp\lf 10 random  -Verbose
 ```powershell
 
 Run the following command to create a dummy file dummy10mb.txt with random content
 
 ```powershell
-New-bigfile c:\temp\lf\dummy10mb.txt 10 random  -Verbose 
-
+New-bigfile c:\temp\lf\dummy10mb.txt 10 random  -Verbose
 ```powershell
 Run the following command to create a dummy file of 20 MB filled with zeros
 
 ```powershell
-New-bigfile c:\temp\lf 20 empty-Verbose 
-
+New-bigfile c:\temp\lf 20 empty-Verbose
 ```
 
 If you prefer to see what is going on, add the -Showprogress option. And last but not least the function also supports the -whatif option.
+

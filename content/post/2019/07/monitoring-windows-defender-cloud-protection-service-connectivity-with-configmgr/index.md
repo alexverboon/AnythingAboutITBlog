@@ -18,7 +18,7 @@ Hello everyone, earlier this week I wrote a blog post how to test Microsoft Defe
 
 As mentioned in my earlier blogpost in order to take full advantage of Microsoft Defender protection capabilities, it’s important that clients can communicate with MAPS, if the client cannot communicate with MAPS the client will be unable to provide near-instant, automated protection against new and emerging threats, meaning that Windows Defender will only be using the latest protection updates installed locally, depending on the strategy how you deploy these, these might be a couple of hours if not days old.
 
-With  MAPS enabled, your clients will be also be able to use the [block at first sight](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-block-at-first-sight-windows-defender-antivirus) feature and emergency dynamic intelligence updates, which provide near real-time protection from emerging threats.
+With  MAPS enabled, your clients will be also be able to use the [block at first sight](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-block-at-first-sight-windows-defender-antivirus) feature and emergency dynamic intelligence updates, which provide near real-time protection from emerging threats.
 
 Clients that have MAPS enabled, must be able to communicate to the following endpoints:
 
@@ -52,7 +52,7 @@ Script details are shown below.
 
 Below the PowerShell based discovery script used in this configuration item, the script is also stored on GitHub here: [CI_DefenderMAPS_Discovery.ps1](https://github.com/alexverboon/MDATP/blob/master/PowerShell/CI_DefenderMAPS_Discovery.ps1)
 
- 
+
 
 ```powershell
 <#
@@ -60,16 +60,13 @@ Below the PowerShell based discovery script used in this configuration item, the
    CI_DefenderMAPS_Discovery
 .DESCRIPTION
     Script for Configuration Manager - Configuration Item
-
     The CI_DefenderMAPS_Discovery script checks whether the client
-    can successfully communicate communicate with the Windows 
+    can successfully communicate communicate with the Windows
     Defender Antivirus cloud service (MAPS)
-
     https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
 .NOTES
     v1.0, 11.07.2019, alex verboon
 #>
-
 $DefenderPlatformPath = "C:\ProgramData\Microsoft\Windows Defender\Platform"
 $mpcmdrunpath = (Get-ChildItem  -Path "$DefenderPlatformPath\*\mpcmdrun.exe" -ErrorAction SilentlyContinue | Select-Object * -Last 1).FullName
 If ([string]::IsNullOrEmpty($mpcmdrunpath))
@@ -79,7 +76,7 @@ If ([string]::IsNullOrEmpty($mpcmdrunpath))
 Else
 {
     $cmdArg =  "-validatemapsconnection"
-    $CheckResult = Start-Process -FilePath "$mpcmdrunpath" -ArgumentList "$cmdArg" -WindowStyle Hidden -PassThru -Wait 
+    $CheckResult = Start-Process -FilePath "$mpcmdrunpath" -ArgumentList "$cmdArg" -WindowStyle Hidden -PassThru -Wait
     $MAPSConnectivity = switch ($CheckResult.ExitCode)
         {
             0 { $true}
@@ -94,14 +91,13 @@ Else
                 return $false
             }
 }
-
 ```
 
- 
 
- 
 
- 
+
+
+
 
 **Deployment and Monitoring**
 
@@ -127,5 +123,5 @@ Windows Defender Antivirus cloud protection service: Advanced real-time defense 
 [https://www.microsoft.com/security/blog/2017/07/18/windows-defender-antivirus-cloud-protection-service-advanced-real-time-defense-against-never-before-seen-malware/](https://www.microsoft.com/security/blog/2017/07/18/windows-defender-antivirus-cloud-protection-service-advanced-real-time-defense-against-never-before-seen-malware/)
 
 ```
-
 ```
+

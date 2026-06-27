@@ -42,9 +42,9 @@ The picture below illustrates the filter I have defined:
 
 The following Activity Types are enabled:
 
- 	
+
 - Failed logon
- 	
+
 - Logon on
 
 And finally, we define what to do with the alert, in the example below I just send an e-mail and do not take any governance actions.
@@ -66,4 +66,5 @@ And finally, don't forget to also add that emergency account that should not hav
 Hope you found this helpful. Comments, feedback is always welcome.
 
 Alex
+
 

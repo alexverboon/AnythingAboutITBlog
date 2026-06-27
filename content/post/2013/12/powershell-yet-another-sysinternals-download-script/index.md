@@ -14,9 +14,9 @@ tags:
   - 'Download'
   - 'Sysinternals'
 ---
-Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/advanced-tools-scripting-with-powershell-3-0-jump-start) course. If you haven’t looked at it yet, I realy recommend you do so, lots of good stuff there. So for the purpose of applying some of the stuff I’ve learned there regarding the use of -Whatif and -verbose messages i wrote the below script which downloads the sysinternals tools. 
+Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](http://www.microsoftvirtualacademy.com/training-courses/advanced-tools-scripting-with-powershell-3-0-jump-start) course. If you haven’t looked at it yet, I realy recommend you do so, lots of good stuff there. So for the purpose of applying some of the stuff I’ve learned there regarding the use of -Whatif and -verbose messages i wrote the below script which downloads the sysinternals tools.
 
-  
+
 
 ```powershell
 <#
@@ -31,26 +31,22 @@ Today I completed the Microsoft Virtual Academy [Advanced Tools & Scripting with
 .EXAMPLE
    Get-Sysinternals.ps1 -Path C:\Data\Sysinternals -Whatif -verbose
 #>
-
 [CmdletBinding(SupportsShouldProcess=$true)]
 Param(
 [Parameter(Mandatory=$true,ValueFromPipelineByPropertyName=$true,ParameterSetName="Directory",
            HelpMessage= 'The local download folder')]
 [String]$Directory
 )
-
 Begin
     {
     Write-Verbose "Starting Sysinternals Tool download"
     $url="http://live.sysinternals.com/tools/"
-
     if ((Test-path -path $Directory) -eq $False)
          {
         Write-Verbose "Creating Directory $Directory"
         if ($PScmdlet.ShouldProcess("Creating folder $Directory","",""))
         {New-Item -ItemType Directory -Path $Directory}
-        } 
-
+        }
     $siuri = Invoke-WebRequest -Uri $url -EA SilentlyContinue
     if ($siuri.BaseResponse.StatusCode -eq "OK")
         {
@@ -60,9 +56,8 @@ Begin
         {
         Write-Verbose "Unable to reach $url"
         Exit 1
-        }   
+        }
     }
-
 Process
     {
     ForEach ($st in  $sfiles)
@@ -73,10 +68,9 @@ Process
             {Start-BitsTransfer -Description "SysinternalsDownload - $st" -Source $downloadfile -Destination "$Directory\$st"}
         }
     }
-
 End
     {
         Write-Verbose "Download complete"
     }
-
 ```
+

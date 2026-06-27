@@ -14,7 +14,7 @@ tags:
   - 'PowerShell'
   - 'Updates'
 ---
-Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date you deploy the latest updates as soon as possible.  But it is equally important to understand the vulnerabilities being addressed by these updates.
+Nowadays regular deployment of security updates is a must, whether at home or within the enterprise. If you are responsible to keep systems up to date you deploy the latest updates as soon as possible.  But it is equally important to understand the vulnerabilities being addressed by these updates.
 
 The Microsoft Security Update Guide allows you to find detailed information about security updates. Go to [https://portal.msrc.microsoft.com/en-us/](https://portal.msrc.microsoft.com/en-us/) and select “Go to the security update Guide”
 
@@ -47,7 +47,7 @@ $apikey = "<PASTE KEY HERE>"
 Set-MSRCApiKey -ApiKey $apikey
 ```powershell
 
- 
+
 
 Okay, now we are ready to explore security update information through PowerShell.
 
@@ -68,7 +68,7 @@ $explind = Get-MsrcCvrfExploitabilityIndex -Vulnerability $id.Vulnerability
 $explind
 ```powershell
 
- 
+
 
 To generate a report with all CVE details included, we use the following command:
 
@@ -77,19 +77,20 @@ Get-MsrcVulnerabilityReportHtml -Vulnerability $id.Vulnerability -ProductTree $i
 Invoke-Item -Path "C:\temp\$($id.documenttitle).html"
 ```
 
- 
 
- 
+
+
 
 ![image](https://ftp.verboon.info/wp-content/uploads/7cdc1454a08e_9612/image_5.png)
 
 I hope this article provided you with some inspiration as to how to explore security update information through PowerShell.
 
- 	
+
 - Additional Information:
 PowerShell script that uses the Security Update API
 [https://sqljana.wordpress.com/2017/08/31/powershell-get-security-updates-list-from-microsoft-by-monthproductkbcve-with-api/
 ](https://sqljana.wordpress.com/2017/08/31/powershell-get-security-updates-list-from-microsoft-by-monthproductkbcve-with-api/)
- 	
+
 - Security Update API
 [https://portal.msrc.microsoft.com/en-us/developer](https://portal.msrc.microsoft.com/en-us/developer)
+

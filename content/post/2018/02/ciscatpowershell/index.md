@@ -25,11 +25,11 @@ The CIS-CAT tool can be operated in GUI or CLI mode. The GUI mode is great when 
 
 The current version of Invoke-CISCat provides the following functions:
 
- 	
+
 - Run a Benchmark Assessment
- 	
+
 - Run a vulnerability Assessment
- 	
+
 - Download latest Vulnerability Assessment definitions from the OVAL repository
 
 Prerequisites: As mentioned previously only the Pro version has a command line interface, if you're a CIS member, download the latest version of the CIS-CAT Pro toolkit and store the content to C:\TEMP\CIS
@@ -51,7 +51,7 @@ Now let's start the vulnerability assessment.
 Invoke-CISCat -Action ScanVulnerabilities -CISCATPath C:\temp\CIS\ -DebugLog -Verbose
 ```powershell
 
- 
+
 
 ![](images/020618_2102_AutomatingC3.png)
 
@@ -70,11 +70,11 @@ Invoke-CISCat -Action ConfigBaseline -CISCATPath c:\temp\cis -Benchmark 'Windows
 Invoke-CISCat -Action ConfigBaseline -CISCATPath c:\temp\cis -Benchmark 'Outlook 2016'
 ```
 
- 
+
 
 ![](images/020618_2102_AutomatingC6.png)
 
-Again, the results are stored within the C:\TEMP\CIS\Reports folder, there you find the reports in HTML, CSV, TXT and XML format. If you don't need these formats, just change the 
+Again, the results are stored within the C:\TEMP\CIS\Reports folder, there you find the reports in HTML, CSV, TXT and XML format. If you don't need these formats, just change the
 $cis_options Variable within the code.
 
 I have had some issues downloading the vulnerability definitions for Windows when running the script behind a proxy, I have not been able yet to find out why, but as a workaround created a second cmdlet called Update-CISVulnDefinitions that downloads the Windows 7 and Windows 10 definitions directly from the OVAL repository. The code for that cmdlet can be found here: [https://github.com/alexverboon/posh/blob/master/CIS/Update-CISVulnDefinitions.ps1](https://github.com/alexverboon/posh/blob/master/CIS/Update-CISVulnDefinitions.ps1)
@@ -92,3 +92,4 @@ That's it for today, hope you enjoyed this post, and for those that use CIS-CAT 
 Cheers
 
 Alex
+

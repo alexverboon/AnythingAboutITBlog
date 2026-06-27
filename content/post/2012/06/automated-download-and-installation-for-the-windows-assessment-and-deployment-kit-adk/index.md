@@ -20,17 +20,17 @@ Since I am going install the ADK on several clients and servers, I decided to au
 
   Because downloading all the ADK sources from the Microsoft web can take a while, the first task is to only download them and save the locally.
 
-     
-- Create a folder on your local drive, let’s say C:\DATA\ADKSETUP     
-- Then download the ADKSETUP.EXE from the Microsoft download page [here](http://www.microsoft.com/en-us/download/details.aspx?id=29929) and store it into C:\DATA\ADKSETUP (Note that this link will change once the RTM version is released).     
-- Create a batch file called ADK_Download.cmd that has the following content:      
-      
-@ ECHO OFF        
-cd %~dp0  
-adksetup.exe /quiet /installpath %~dp0  /layout %~dp0         
-Pause       
-    
-- Then launch the script with elevated rights and wait for the download to complete.  
+
+- Create a folder on your local drive, let’s say C:\DATA\ADKSETUP
+- Then download the ADKSETUP.EXE from the Microsoft download page [here](http://www.microsoft.com/en-us/download/details.aspx?id=29929) and store it into C:\DATA\ADKSETUP (Note that this link will change once the RTM version is released).
+- Create a batch file called ADK_Download.cmd that has the following content:
+
+@ ECHO OFF
+cd %~dp0
+adksetup.exe /quiet /installpath %~dp0  /layout %~dp0
+Pause
+
+- Then launch the script with elevated rights and wait for the download to complete.
 
   ![image](images/image_thumb1.png)
 
@@ -40,47 +40,48 @@ Pause
 
   For installing all features included in the ADK do the following:
 
-     
-- Create a batch file called adk_install.cmd and add the following content:      
-      
-@ ECHO OFF        
-cd %~dp0  
-adksetup.exe /promptrestart /ceip on /quiet /installpath "c:\program files (x86)\Windows Kits\8.0" /features +  
+
+- Create a batch file called adk_install.cmd and add the following content:
+
+@ ECHO OFF
+cd %~dp0
+adksetup.exe /promptrestart /ceip on /quiet /installpath "c:\program files (x86)\Windows Kits\8.0" /features +
 
   If you only want to install one or more specific features, then only specify those after the /features option.
 
-     
-- Create a batch file called adk_install_winpe.cmd and add the following content:      
-      
-@ ECHO OFF        
-cd %~dp0  
-adksetup.exe /promptrestart /ceip on /quiet /installpath "c:\program files (x86)\Windows Kits\8.0" /features OptionId.WindowsPreinstallationEnvironment  
+
+- Create a batch file called adk_install_winpe.cmd and add the following content:
+
+@ ECHO OFF
+cd %~dp0
+adksetup.exe /promptrestart /ceip on /quiet /installpath "c:\program files (x86)\Windows Kits\8.0" /features OptionId.WindowsPreinstallationEnvironment
 
   For a complete list of all available features run ADKSETUP.EXE /LIST
 
-     OptionId.ApplicationCompatibilityToolkit
+     OptionId.ApplicationCompatibilityToolkit
 
-     OptionId.DeploymentTools
+     OptionId.DeploymentTools
 
-     OptionId.WindowsPreinstallationEnvironment
+     OptionId.WindowsPreinstallationEnvironment
 
-     OptionId.UserStateMigrationTool
+     OptionId.UserStateMigrationTool
 
-     OptionId.VolumeActivationManagementTool
+     OptionId.VolumeActivationManagementTool
 
-     OptionId.WindowsPerformanceToolkit
+     OptionId.WindowsPerformanceToolkit
 
-     OptionId.WindowsAssessmentToolkit
+     OptionId.WindowsAssessmentToolkit
 
-     OptionId.WindowsAssessmentServicesClient
+     OptionId.WindowsAssessmentServicesClient
 
-     OptionId.SqlExpress2012
+     OptionId.SqlExpress2012
 
-   
+
 
   Well and of course what gets installed sometimes must be removed, so to uninstall the ADK just run the following command:
 
   adksetup.exe /promptrestart /ceip on /quiet /uninstall
 
   Have a great day.
+
 

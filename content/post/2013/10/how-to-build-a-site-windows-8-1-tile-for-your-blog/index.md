@@ -14,19 +14,19 @@ tags:
   - 'Desktop'
   - 'Internet-Explorer'
 ---
-With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do. 
+With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 live tile for your blog. Here’s what you need to do.
 
- Navigate to [http://www.buildmypinnedsite.com/en](http://www.buildmypinnedsite.com/en) and fill in the requested information. 
+ Navigate to [http://www.buildmypinnedsite.com/en](http://www.buildmypinnedsite.com/en) and fill in the requested information.
 
  ![2013-10-20_12h32_50](images/2013-10-20_12h32_50_thumb.png)
 
  ![2013-10-20_12h33_26](images/2013-10-20_12h33_26_thumb.png)
 
- Copy the code. 
+ Copy the code.
 
  ![2013-10-20_12h33_57](images/2013-10-20_12h33_57_thumb.png)
 
- Next copy the code into your website. I added the code to the header.php of my WordPress site. If you use another blogging platform, just add to the other meta tags of your website. 
+ Next copy the code into your website. I added the code to the header.php of my WordPress site. If you use another blogging platform, just add to the other meta tags of your website.
 
  ![2013-10-20_12h35_51](images/2013-10-20_12h35_51_thumb.png)
 
@@ -34,7 +34,8 @@ With just a few clicks and pasting 3 lines of code you can create a Windows 8.1 
 
  ![2013-10-20_12h43_29](images/2013-10-20_12h43_29_thumb.png)
 
- And now we have the live tile on the desktop. 
+ And now we have the live tile on the desktop.
 
  ![2013-10-20_12h22_48](images/2013-10-20_12h22_48_thumb.png)
+
 

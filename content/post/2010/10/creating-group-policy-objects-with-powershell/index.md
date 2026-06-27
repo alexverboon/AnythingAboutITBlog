@@ -18,16 +18,16 @@ In my previous post I wrote about how to [create Group Policy reports](https://w
 
 But first, why would one use PowerShell to create Group Policies? Well here are a few use cases:
 
-	
+
 - You are a Consultant and always start your Group Policy Implementation with a set of GPOs including your best practice settings.
-	
+
 - You are an Enterprise Administrator and need to create the same Group Policy in multiple domains
-	
+
 - You are an Enterprise Administrator and need to create similar Group Policy Objects with just different policy values (Example: a GPO that specifies the WSUS server a client must connect to).
 
 If you aren’t loading the grouppolicy module by default already, you must first import it before you can use the CmdLets. To import the Group Policy module simply type
 
-import-module –Name grouppolicy
+import-module –Name grouppolicy
 
 at the PowerShell command prompt.
 
@@ -61,19 +61,14 @@ So now that I had the Registry key, value, type and data information I could act
 
 ```powershell
 import-module -Name grouppolicy
-
 Write-Host "Creating Group Policy Object with name A_TestGPO"
 New-GPO -Name A_TestGPO
-
 Write-Host "Setting Screen saver timeout to 15 minutes"
 Set-GPRegistryValue -Name "A_TestGPO" -key "HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop" -ValueName ScreenSaveTimeOut -Type String -value 900
-
 Write-Host "Enable Screen Saver"
 Set-GPRegistryValue -Name "A_TestGPO" -key "HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop" -ValueName ScreenSaveActive -Type String -value 1
-
 Write-Host "Disable Desktop Cleanup Wizzard"
 Set-GPRegistryValue -Name "A_TestGPO" -key "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" -ValueName NoDesktopCleanupWizard -Type Dword -value 1
-
 Write-Host "Remove MyMusic from Start Menu"
 Set-GPRegistryValue -Name "A_TestGPO" -key "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" -ValueName NoStartMenuMymusic -Type Dword -value 1
 ```
@@ -83,3 +78,4 @@ Side note: Microsoft has used the ScreenSaveTimeOut setting in their CmdLet exam
 Here’s the new GPO called A_TestGPO created through PowerShell.
 
 ![2010-10-16 18h50_17](images/2010-10-16-18h50_17_thumb.png)
+

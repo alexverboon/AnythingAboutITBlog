@@ -14,9 +14,9 @@ tags:
   - 'Add-Ons'
   - 'Disable'
 ---
-Follow the below steps to disable Java in Internet Explorer with Group Policy. 
+Follow the below steps to disable Java in Internet Explorer with Group Policy.
 
-  Open Internet Explorer, then from the Tools menu select Manage Add-ons. Locate the Java add-on, select and double click on it. 
+  Open Internet Explorer, then from the Tools menu select Manage Add-ons. Locate the Java add-on, select and double click on it.
 
   ![clip_image002](images/clip_image002_thumb.jpg)
 
@@ -46,24 +46,25 @@ Follow the below steps to disable Java in Internet Explorer with Group Policy.
 
   Folder: C:\Program Files (x86)\Java\jre7\bin
 
-  Repeat the same for any other Java related add-ons. 
+  Repeat the same for any other Java related add-ons.
 
-  Now open the Group Policy editor and navigate to Computer Configuration \ Administrative Templates \ Windows Components \ Internet Explorer \ Security Features \ Add-on Management. 
+  Now open the Group Policy editor and navigate to Computer Configuration \ Administrative Templates \ Windows Components \ Internet Explorer \ Security Features \ Add-on Management.
 
-  Open the Add-on list Setting, Enable it and then add the Class IDs of all Java add-on-s to the list. Set the value to 0. Click OK to save the changes. 
+  Open the Add-on list Setting, Enable it and then add the Class IDs of all Java add-on-s to the list. Set the value to 0. Click OK to save the changes.
 
   ![clip_image004](images/clip_image004_thumb.jpg)
 
   Note that you can also apply the same settings under the User Configuration node. Possible values that can be entered are:
 
-     
-- 0 - The add-on is disabled, and users cannot manage the add-on from the user interface.     
-- 1 - The add-on is enabled, and users cannot manage the add-on from the user interface.     
-- 2 - The add-on is enabled, and users can manage the add-on from the user interface.  
 
-  Once the updates settings have applied to your machine the add-ons should be disabled. 
+- 0 - The add-on is disabled, and users cannot manage the add-on from the user interface.
+- 1 - The add-on is enabled, and users cannot manage the add-on from the user interface.
+- 2 - The add-on is enabled, and users can manage the add-on from the user interface.
+
+  Once the updates settings have applied to your machine the add-ons should be disabled.
 
   ![clip_image006](images/clip_image006_thumb.jpg)
 
   To test if it-s working go to the Java applet test page here [http://www.java.com/en/download/testjava.jsp](http://www.java.com/en/download/testjava.jsp)
+
 

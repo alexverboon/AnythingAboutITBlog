@@ -16,7 +16,7 @@ tags:
 ---
 Are you an Administrator tired of manually creating folder structures for new projects? Then DirCreator is just what you need. DirCreator is an enterprise-proven tool to automatically generate structured, template-based directory structures, along with groups, members and ACLs.
 
-  You can either create a template from scratch or create a template based on an existing folder structure. For this demonstration I first create a template folder structure on my home lab data share. 
+  You can either create a template from scratch or create a template based on an existing folder structure. For this demonstration I first create a template folder structure on my home lab data share.
 
   \\server01\data\Projects
 
@@ -32,7 +32,7 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   This generates the template file template.xml
 
-  As a next step, I’ll replace the folder name “Template” 
+  As a next step, I’ll replace the folder name “Template”
 
   ![clip_image006](images/clip_image006_thumb.jpg)
 
@@ -44,7 +44,7 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   C:\data\dircreator>DirCreator.exe -t c:\data\template.xml -n "**DirectoryName**=**FooProject1**"
 
-  And see, a new Project folder is created, containing all predefined subfolders and folder permissions. 
+  And see, a new Project folder is created, containing all predefined subfolders and folder permissions.
 
   ![clip_image010](images/clip_image010_thumb.jpg)
 
@@ -52,9 +52,10 @@ Are you an Administrator tired of manually creating folder structures for new pr
 
   ![clip_image014](images/clip_image014_thumb.jpg)
 
-  In this example I only used static AD group names, but if you have a little bit of time, you can customize DirCreator to automatically create project specific groups for you. 
+  In this example I only used static AD group names, but if you have a little bit of time, you can customize DirCreator to automatically create project specific groups for you.
 
-  DirCreator can be used as a standalone command line tool or as a Windows Service where it will automatically process *.job.xml files once stored in the defined directory. 
+  DirCreator can be used as a standalone command line tool or as a Windows Service where it will automatically process *.job.xml files once stored in the defined directory.
 
   More information about DirCreator and download links can be found [here](http://dircreator.codeplex.com/)
+
 

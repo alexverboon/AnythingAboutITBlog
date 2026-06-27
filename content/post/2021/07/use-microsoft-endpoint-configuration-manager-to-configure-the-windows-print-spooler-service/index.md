@@ -34,7 +34,6 @@ Next load the function that is included in `New-CMCIPrintSpoolerService.ps1` and
 
 ```powershell
 . .\New-CMCIPrintSpoolerService.ps1
-
 New-CMCIPrintSpoolerService -SiteCode P01 -SiteServer cm01.corp.net -Verbose
 ```
 
@@ -71,4 +70,5 @@ I would also like to refer to another [blog post from Thijs Lecomte](https://the
 Have a great day
 
 Alex
+
 

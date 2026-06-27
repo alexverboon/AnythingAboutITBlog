@@ -44,7 +44,7 @@ When running the Get-IETelemetryURLInfo command against a target machine, the sc
 
 **
 **The BroswerStateDesc property translates the BroswerStateReason property Code.
-  
+
 
 0
 Unitialized;
@@ -83,7 +83,7 @@ BrowserDefault;
 
 **
 **The DocModeReasonDesc property translates the DocModeReason property code.
-  
+
 
 0
 Uninitialized
@@ -168,74 +168,63 @@ Following is the full script. You can download this script from the Script Cente
 .DESCRIPTION
    The Get-IETelemetryURLInfo retrieves script retrieves the Internet Explorer Telemetry information from the specified computers.
    The script also translates the ActiveX Guid when it's found in the ActiveX reference list. Furthermore the scrpt translates the
-   DocMode Reason, the Browser Mode Reason and the Zone information. 
-
+   DocMode Reason, the Browser Mode Reason and the Zone information.
 .PARAMETER Computername
     One or mutliple computer names
 .EXAMPLE
    Get-IETelemetryURLInfo -Computername Client01,Client02
-
         ComputerName                : chr5bi01
         IESystemInfo                : \\CHR5BI01\ROOT\cimv2\IETelemetry:IESystemInfo.SystemKey="SystemKey"
         IECountInfo                 : \\CHR5BI01\ROOT\cimv2\IETelemetry:IECountInfo.CountKey="CountKey"
-        ActiveXGUID                 : 
+        ActiveXGUID                 :
         ActiveXDetail               : {@{URL=https://www.verboon.info/; ActiveXGUID=No ActiveX detected; Description=}}
         BrowserStateReason          : 12
-        BrowserStateReasonDesc      : 
+        BrowserStateReasonDesc      :
         CrashCount                  : 0
         DocMode                     : 11
         DocModeReason               : 9
         DocModeReasonDesc           : Document mode is the result of the page's doctype and the browser mode
         Domain                      : verboon.info
         HangCount                   : 0
-        MostRecentNavigationFailure : 
+        MostRecentNavigationFailure :
         NavigationFailureCount      : 0
         NumberOfVisits              : 1
         URL                         : https://www.verboon.info/
         Zone                        : 3
         ZoneDescription             : INTERNET
-  
-   This command retrieves the Internet Explorer Telemetry data from the specified computers. 
-
+   This command retrieves the Internet Explorer Telemetry data from the specified computers.
 .EXAMPLE
     Get-IETelemetryURLInfo -ComputerName chr5bi01 -ActiveX
-
-    URL                                      ActiveXGUID                              Description                             
-    ---                                      -----------                              -----------                             
-    http://www.foosample1.com/               No ActiveX detected                                                              
-    https://www.verboon.info/                 No ActiveX detected                                                              
-    http://www.foosample2.com/               No ActiveX detected                                                              
-    http://www.foosample3.com/               {D27CDB6E-AE6D-11CF-96B8-444553540000}   Shockwave Flash Object                  
-    http://intranet.foocorp.com/             {F6D90F16-9C73-11D3-B32E-00C04F990BB4}   XML HTTP                                
-    http://intranet.foocorp.com/             {ED8C108E-4349-11D2-91A4-00C04F7969E8}   XML HTTP Request        
-
+    URL                                      ActiveXGUID                              Description
+    ---                                      -----------                              -----------
+    http://www.foosample1.com/               No ActiveX detected
+    https://www.verboon.info/                 No ActiveX detected
+    http://www.foosample2.com/               No ActiveX detected
+    http://www.foosample3.com/               {D27CDB6E-AE6D-11CF-96B8-444553540000}   Shockwave Flash Object
+    http://intranet.foocorp.com/             {F6D90F16-9C73-11D3-B32E-00C04F990BB4}   XML HTTP
+    http://intranet.foocorp.com/             {ED8C108E-4349-11D2-91A4-00C04F7969E8}   XML HTTP Request
     This command returns URL and ActiveX information. When the ActiveX GUID is found in the ActiveX reference list
-    defined within the script the name is displayed in the Description. 
-  
-
+    defined within the script the name is displayed in the Description.
 .NOTES
-  To use this script clients must be configured to collect Internet Explorer usage data as described in the 
-  articles referenced below. 
-  http://technet.microsoft.com/en-us/library/dn833204.aspx  
+  To use this script clients must be configured to collect Internet Explorer usage data as described in the
+  articles referenced below.
+  http://technet.microsoft.com/en-us/library/dn833204.aspx
   http://blogs.msdn.com/b/ie/archive/2014/10/30/making-it-easier-for-enterprises-to-stay-up-to-date.aspx
-
   version 1.0   29-NOV-2014, Alex Verboon
-
 #>
 function Get-IETelemetryURLInfo
 {
     [CmdletBinding()]
     Param
     (
-        # 
+        #
         [Parameter(Mandatory=$true,ValueFromPipelineByPropertyName=$true,Position=0)]
         [string[]]$ComputerName,
         [switch]$ActiveX
     )
-
     Begin
     {
-        # Collection of known ActiveX     
+        # Collection of known ActiveX
         $activexlist = @{
         "{47833539-D0C5-4125-9FA8-0819E2EAAC93}" = "Adobe Acrobat Create PDF Toolbar"
         #"{47833539-D0C5-4125-9FA8-0819E2EAAC93}" = "Adobe PDF"
@@ -469,7 +458,7 @@ function Get-IETelemetryURLInfo
         "{2E5E4BAC-FEC7-4DD6-AFAF-F4139B1B9FB6}" = "LsiBrowserHook Class"
         "{24DA047B-40C0-4018-841B-6B7409F730FC}" = "Adobe Acrobat Sharepoint OpenDocuments Component"
         "{8075631E-5146-11D5-A672-00B0D022E945}" = "SharepointOpenXMLDocuments"
-        "{36D792B3-CEA5-454E-A7EF-5B045E60EDEF}" = "DBGrid  Control"
+        "{36D792B3-CEA5-454E-A7EF-5B045E60EDEF}" = "DBGrid  Control"
         "{E304B70C-0FCE-4E1B-9C81-CDAAD9F7DA55}" = "Microsoft DBList Control, version 6.0"
         "{783D26D7-B4A4-4CFB-8531-78C5DCF52C8E}" = "WebClass"
         "{47DEF242-7DAF-4828-936A-895FC81D92F8}" = "Microsoft MAPI Session Control, version 6.0"
@@ -537,7 +526,6 @@ function Get-IETelemetryURLInfo
         "{CD3AFA8F-B84F-48F0-9393-7EDC34128127}" = "VIDEO__X_MS_ASF Moniker Class"
         "{CD3AFA9A-B84F-48F0-9393-7EDC34128127}" = "VIDEO__QUICKTIME Moniker Class"
         }
-
         # Doc Mode Reasons
         $docmodereasons = @{
         "0"  = "Uninitialized"
@@ -547,16 +535,15 @@ function Get-IETelemetryURLInfo
         "4"	 = 	"X-UA-Compatible meta tag"
         "5"	 = 	"X-UA-Compatible HTTP header"
         "6"	 = 	"CVList-imposed mode"
-        "7"	 = 	"Native XML Parsing Mode" 
+        "7"	 = 	"Native XML Parsing Mode"
         "8"	 = 	"Toplevel QME FCK was set, and mode was determined by it"
         "9"	 = 	"Document mode is the result of the page's doctype and the browser mode"
         "10" = 	"mode supplied as a hint (not set by a rule)"
         "11" = 	"We've been constrained to a family can only have a single mode (not set by a rule)"
-        "12" = 	"Webplatform version supplied; therefore align doc mode to webplatform version"  
+        "12" = 	"Webplatform version supplied; therefore align doc mode to webplatform version"
         "13" = 	"Top level image file is set, and mode was determined by it"
         "14" = 	"Feed viewer mode determines doc mode"
         }
-
         # Browser State Reasons
         $browserstatereasons = @{
         "0"  = "Unitialized";
@@ -571,7 +558,6 @@ function Get-IETelemetryURLInfo
         "10" = "WebPlatform version supplied";
         "11" = "Browser Default";
         }
-
         $zones = @{
         "-1" = "INVALID"
         "0" = "LOCAL_MACHINE"
@@ -581,13 +567,11 @@ function Get-IETelemetryURLInfo
         "4" = "UNTRUSTED"
         }
     }
-
     Process
     {
     $compcount = $ComputerName.count
     $si=1
     $IEUrlData = @()
-
         ForEach ($comp in $ComputerName)
         {
             Write-Progress -Activity "Retrieving IE Telemetry URL information from $comp" -Status "Processing $si of $compcount" -PercentComplete (($si / $compcount) * 100)
@@ -598,8 +582,7 @@ function Get-IETelemetryURLInfo
                 {
                 $IEUrlInfoDataSrc = Get-WMIObject -ComputerName $comp -namespace root/cimv2/IETelemetry -Class IEURLInfo
                 $IESystemInfoDataSrc = Get-WMIObject -ComputerName $comp -namespace root/cimv2/IETelemetry -Class IESystemInfo
-                $IECountInfoDataSrc = Get-WMIObject -ComputerName $comp -namespace root/cimv2/IETelemetry -Class IECountInfo 
-                
+                $IECountInfoDataSrc = Get-WMIObject -ComputerName $comp -namespace root/cimv2/IETelemetry -Class IECountInfo
                     ForEach ($entry in $IEUrlInfoDataSrc)
                     {
                         $object = New-Object -TypeName PSObject
@@ -607,7 +590,6 @@ function Get-IETelemetryURLInfo
                         $object | Add-Member -MemberType NoteProperty -Name IESystemInfo -Value $IESystemInfoDataSrc
                         $object | Add-Member -MemberType NoteProperty -Name IECountInfo -Value $IECountInfoDataSrc
                         $object | Add-Member -MemberType NoteProperty -Name ActiveXGUID -Value $entry.ActiveXGUID
-
                             $activexdesc = @()
                             ForEach ($guid in $entry.ActiveXGUID -split ",")
                             {
@@ -655,12 +637,11 @@ function Get-IETelemetryURLInfo
             }
             Else
             {
-                Write-verbose "Computer: $comp unreachable"   
+                Write-verbose "Computer: $comp unreachable"
             }
         $si++ # increase progress bar count
         }
     }
-
     End
     {
         if ($PSBoundParameters.ContainsKey("ActiveX"))
@@ -673,5 +654,5 @@ function Get-IETelemetryURLInfo
         }
     }
 }
-
 ```
+

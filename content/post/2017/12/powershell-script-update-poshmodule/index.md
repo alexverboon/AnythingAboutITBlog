@@ -43,11 +43,11 @@ Update-PoshModule -ModulePrefix AzureRM –WhatIf
 
 ![image](images/image_thumb-3.png)
 
- 	
+
 - The –Scope parameter let’s you define whether you want to install the module for AllUsers or just the CurrentUser.
- 	
-- with the  –RemovePreviousVersions parameter enabled the script tries to remove older versions provided the user has access
- 	
+
+- with the  –RemovePreviousVersions parameter enabled the script tries to remove older versions provided the user has access
+
 - The ReturnOutput parameter, best used in combination with –what if returns an object with all the local and remote module informatin.
 
 Note that the Update-PoshModule cmdlet only looks for PowerShell modules installed in Allusers scope i.e. "C:\Program Files\WindowsPowerShell\Modules" and CurrentUserr i.e. "C:\Users\alexv\Documents\WindowsPowerShell"
@@ -55,8 +55,8 @@ Note that the Update-PoshModule cmdlet only looks for PowerShell modules install
 When using the **-RemovePreviousVersions** option I recommend to first run the command with the **-wahtif** command so you're sure about what gets removed.
 
 ```
-
 ```
 
 And as always, feedback is welcome.
+
 

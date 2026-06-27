@@ -14,7 +14,7 @@ tags:
   - 'Transfer'
   - 'Trim-Transfer'
 ---
-Today I have spend some time in taking a look at MED-V. I reviewed MED-V already about a year ago, but had not touched it since then. Microsoft just recently released an updated version of MED-V as part of the MDOP suite. While configuring a Workspace, my attention was caught by the “*Clients should use Trim Transfer when downloading images for this Workspace*” setting that is shown within the Virtual Machine Tab. 
+Today I have spend some time in taking a look at MED-V. I reviewed MED-V already about a year ago, but had not touched it since then. Microsoft just recently released an updated version of MED-V as part of the MDOP suite. While configuring a Workspace, my attention was caught by the “*Clients should use Trim Transfer when downloading images for this Workspace*” setting that is shown within the Virtual Machine Tab.
 
   ![image](images/image_thumb16.png)
 
@@ -28,7 +28,8 @@ Today I have spend some time in taking a look at MED-V. I reviewed MED-V already
 
   OK, just clicking a check box is not enough , I want to see that. I first configured a Workspace called Workspace and assigned a previously created Windows XP image, once the Image was published on the MED-V Server is launched the MED-V client on a second device. As you can see from the screen shot below, the image is downloaded from the server
 
-  ![downloadimage](images/downloadimage_thumb.png) I then created a second Workspace and assigned a slightly different image to it that is based on the first one I created, I just added another application to it. Once that Image was published to the server, I headed over to the MED-V Client device which prompted me that there was another Workspace available, after confirming, it started downloading that other image. But as you can see from the screen shot below, it is actually retrieving the data blocks from the local drive, hence not the complete image is being downloaded from the server again.  
+  ![downloadimage](images/downloadimage_thumb.png) I then created a second Workspace and assigned a slightly different image to it that is based on the first one I created, I just added another application to it. Once that Image was published to the server, I headed over to the MED-V Client device which prompted me that there was another Workspace available, after confirming, it started downloading that other image. But as you can see from the screen shot below, it is actually retrieving the data blocks from the local drive, hence not the complete image is being downloaded from the server again.
 
   ![copyblocks](images/copyblocks_thumb.png)
+
 

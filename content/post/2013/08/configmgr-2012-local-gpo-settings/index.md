@@ -14,17 +14,17 @@ tags:
   - 'Configuration-Manager'
   - 'Group Policy'
 ---
-When configuring ConfigMgr 2012 client settings, notice that some of these settings result in Local Group Policy Settings being applied to the client. If you’re sure that you have not configured any other local GPOs, then a simple way to find out what settings are applied by ConfigMgr is to open the Local Group Policy Editor (gpedit.msc( and filter for configured settings. 
+When configuring ConfigMgr 2012 client settings, notice that some of these settings result in Local Group Policy Settings being applied to the client. If you’re sure that you have not configured any other local GPOs, then a simple way to find out what settings are applied by ConfigMgr is to open the Local Group Policy Editor (gpedit.msc( and filter for configured settings.
 
  ![image](images/image_thumb.png)
 
- When configuring the Background Intelligent Transfer Settings within ConfigMgr, the settings are applied into a local GPO. 
+ When configuring the Background Intelligent Transfer Settings within ConfigMgr, the settings are applied into a local GPO.
 
  ![image](images/image_thumb1.png)
 
  ![image](images/image_thumb2.png)
 
- Also configuring some of the Remote Tools settings result in a local GPO setting. 
+ Also configuring some of the Remote Tools settings result in a local GPO setting.
 
  ![image](images/image_thumb3.png)
 
@@ -38,7 +38,7 @@ When configuring ConfigMgr 2012 client settings, notice that some of these setti
 
  ![image](images/image_thumb7.png)
 
- Conclusion: make sure that there are not conflicts with settings applied via GPO and Configuration Manager. 
+ Conclusion: make sure that there are not conflicts with settings applied via GPO and Configuration Manager.
 
  **Additional information worth reading**
 
@@ -47,4 +47,5 @@ When configuring ConfigMgr 2012 client settings, notice that some of these setti
 Configuration Manager Software Update Management and Group Policy
 [http://blog.configmgrftw.com/?p=88](http://blog.configmgrftw.com/?p=88)
 [http://blog.configmgrftw.com/?p=89](http://blog.configmgrftw.com/?p=89)
+
 

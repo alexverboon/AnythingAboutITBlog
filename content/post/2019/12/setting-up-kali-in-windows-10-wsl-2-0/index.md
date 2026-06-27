@@ -30,9 +30,9 @@ At the time of writing this blog post you must run Windows 10 build 18917 or hig
 
 The following windows features must be enabled to run WSL 2.0
 
- 	
+
 - Virtual Machine Platform
- 	
+
 - Windows subsystem for Linux
 
 ![](images/122719_2017_SettingupKa2.png)
@@ -77,25 +77,25 @@ The Kali Linux distribution that we have just installed has a minimum footprint,
 
 For this demonstration we are going to install the kali-tools-top10 metapackage that contains the most commonly used tools.
 
- 	
+
 - aircrack-ng
- 	
+
 - burpsuite
- 	
+
 - crackmapexec
- 	
+
 - hydra
- 	
+
 - john
- 	
+
 - metasploit-framework
- 	
+
 - nmap
- 	
+
 - responder
- 	
+
 - sqlmap
- 	
+
 - wireshark
 
 Run the following commands to install the kali-top10 tools.
@@ -161,4 +161,5 @@ And we get access to the Kali desktop and can launch tools with a GUI. Below an 
 That's it for today, Bye
 
 Alex
+
 

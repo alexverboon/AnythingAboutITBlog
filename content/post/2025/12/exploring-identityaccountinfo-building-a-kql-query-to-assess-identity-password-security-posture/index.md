@@ -23,13 +23,13 @@ Why am I excited about this? Because it finally allows us to query identity hygi
 
 Think of use cases like:
 
-- **Identify stale passwords**  
+- **Identify stale passwords**
   Detect accounts that have not changed their password for a long period. The query calculates this in days and years for easier reporting.
-- **Assess sensitivity levels**  
+- **Assess sensitivity levels**
   Determine whether accounts are marked sensitive or carry elevated privilege.
-- **Review password configuration flags**  
+- **Review password configuration flags**
   Highlight accounts where `PasswordNeverExpires` or `PasswordNotRequired` is set.
-- **Analyze account status and exposure**  
+- **Analyze account status and exposure**
   Focus on enabled accounts to prioritize active security risks.
 
 The queries can also help when tackling Microsoft Defender for Identity (MDI) security posture recommendations related to account protection, such as:
@@ -49,3 +49,4 @@ Once you run it, a few things stand out quickly: sensitive accounts, passwords t
 You can find the full queries on GitHub:
 
 - [MDI Identity Password Security Posture Assessment](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Defender%20For%20Identity/MDI-Identity-Password%20Security%20Posture%20Assessment.md)
+

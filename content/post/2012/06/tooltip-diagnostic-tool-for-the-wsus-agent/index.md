@@ -17,16 +17,17 @@ If you’re looking for a more advanced version of the [WSUS Client Diagnostic T
 
   Here are the highlights:
 
-     
-- The Diagnostic Tool runs on x64 and x86 systems     
-- Additional validation tests on key configuration options, such as syntax checking on the WSUS URL, and validating the installed version of the Windows Update Agent against the installed version of Windows     
-- Extended connectivity checks to the WSUS server, translation of error codes to human-readable messages, and suggestions for known resolutions to those issues     
-- Both GUI and Command-Line interfaces     
-- Validate key Windows Update Agent configuration values     
-- Test connections to all WSUS resources and help identify probable causes of failures     
-- Get useful descriptions of Windows Update Agent errors and the steps to repair them  
+
+- The Diagnostic Tool runs on x64 and x86 systems
+- Additional validation tests on key configuration options, such as syntax checking on the WSUS URL, and validating the installed version of the Windows Update Agent against the installed version of Windows
+- Extended connectivity checks to the WSUS server, translation of error codes to human-readable messages, and suggestions for known resolutions to those issues
+- Both GUI and Command-Line interfaces
+- Validate key Windows Update Agent configuration values
+- Test connections to all WSUS resources and help identify probable causes of failures
+- Get useful descriptions of Windows Update Agent errors and the steps to repair them
 
   ![image_thumb7](images/image_thumb7.png)
 
   The Diagnostic Tool for the WSUS Agent can be downloaded from [here](http://www.solarwinds.com/register/index.aspx?Program=12060&c=70150000000PS0q) and [here](http://www.youtube.com/watch?v=5MkqFJnNg7k) you find a tool demonstration video.
+
 

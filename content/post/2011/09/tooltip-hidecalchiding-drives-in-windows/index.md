@@ -17,20 +17,20 @@ tags:
 ---
 Want to make a drive disappear in Windows or prevent users from accessing it? then here’s the tool you need. **HIDECALC** allows you to define the drives to hide or prevent access to. HIDECALC does not apply the change on the system itself, but provides various options for exporting the settings into the following formats:
 
-     
-- Group Policy ADMX or ADM format    
-- Registry File    
-- Kix Script    
-- PowerShell Script 
+
+- Group Policy ADMX or ADM format
+- Registry File
+- Kix Script
+- PowerShell Script
 
   ![2011-09-02 18h59_20](images/2011-09-02-18h59_20_thumb.png)
 
-  So here’s how this works. 
+  So here’s how this works.
 
-     
-- Launch HIDECALC,     
-- Define the drives to hide or prevent access to    
-- Apply the script / GPO 
+
+- Launch HIDECALC,
+- Define the drives to hide or prevent access to
+- Apply the script / GPO
 
   **Before**
 
@@ -45,4 +45,5 @@ Want to make a drive disappear in Windows or prevent users from accessing it? th
   ![2011-09-02 19h04_59](images/2011-09-02-19h04_59_thumb.png)
 
   HIDECALC is **FREE** and can be downloaded from [here](http://www.hidecalc.co.uk/)
+
 

@@ -16,9 +16,9 @@ tags:
 ---
 Last Friday I was given the opportunity to present at the Configuration Manager Community Event (CMCE1905) in Bern, Switzerland. Although Microsoft Cloud App Security is not really related to ConfigMgr, many of the attendees are dealing with managing classic and modern workplaces and security is almost on everyone's list of interest. During my session "Unleash the power of Microsoft Cloud App Security" I also demonstrated how one can explore information within Microsoft Cloud App Security through PowerShell. So, for all those interested how to do that, here we go.
 
- 	
+
 - In Part 1 of this blog series I explain how to install the PowerShell Module and set credentials to connect to MCAS with PowerShell, furthermore we take a look at some of the available PowerShell commands to pull data from Microsoft Cloud App Security
- 	
+
 - In Part 2 we drill down into specific Cloud App Security activities and alerts
 
 Microsoft Cloud App Security provides an API interface that's described [here](https://m365x600058.eu2.portal.cloudappsecurity.com/api-docs/). But there's also an Unofficial [Microsoft Cloud App Security PowerShell module](https://github.com/Microsoft/MCAS) hosted on GitHub and hosted as well in the [PowerShell Gallery](https://www.powershellgallery.com/packages/MCAS/3.1.1), so that's what we're going to use here.
@@ -97,3 +97,4 @@ Or if we want to see all events form a partical user we can run
 Get-MCASActivity -UserName "jane@verboon.org"
 
 So that's it for today, in Part 2, we'll look into more details and examples using PowerShell to explore Microsoft Cloud App Security. Stay tuned.
+

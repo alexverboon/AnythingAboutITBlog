@@ -18,12 +18,13 @@ One of my favorite features of Windows 7 is Federated Search allowing users to s
 
               ![2010-12-18 16h35_46](images/2010-12-18-16h35_46_thumb.png)                 The following Windows 7 Search Connectors are included
 
-                     
--              GPO Guy                       
--              GP Answers                       
--              Group Policy Center                       
--              Group Policy Team Blog                       
--              Microsoft TechNet Windows 7                       
--              Anything About IT                       
+
+-              GPO Guy
+-              GP Answers
+-              Group Policy Center
+-              Group Policy Team Blog
+-              Microsoft TechNet Windows 7
+-              Anything About IT
 -              Citrix Knowledge Base
+
 

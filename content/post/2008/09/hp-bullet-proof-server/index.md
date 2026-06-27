@@ -13,8 +13,9 @@ tags:
   - 'HP'
   - 'Fun'
 ---
-No comment, just a funny video. 
+No comment, just a funny video.
 
 [HP Bullet Proof](http://www.youtube.com/watch?v=VFyXlb26ihs&hl=en&fs=1)
 
 {{< youtube VFyXlb26ihs >}}
+

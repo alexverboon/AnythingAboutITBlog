@@ -15,13 +15,13 @@ tags:
   - 'App-V'
   - 'Cachesize'
 ---
-Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App-V mmc console 3x manually…..another script was born. 
+Today we’ve been looking at App-V 4.6 package settings before and after migrating them from ConfigMgr 2007 to ConfigMgr 2012, so after opening the App-V mmc console 3x manually…..another script was born.
 
- The below Get-Appv4PkgInfo.ps1 script retrieves information from the App-V Package WMI class. You can run the script against one or more computers and the optional –View parameter lets you define what information you want to see. 
+ The below Get-Appv4PkgInfo.ps1 script retrieves information from the App-V Package WMI class. You can run the script against one or more computers and the optional –View parameter lets you define what information you want to see.
 
  ![image](images/image_thumb.png)
 
-  
+
 
 ```powershell
 <#
@@ -36,21 +36,16 @@ Today we’ve been looking at App-V 4.6 package settings before and after migrat
    Valid options for the view parameter are Default,Path, Cache, Inuse, Size, GUIDS, Locked,All
 .EXAMPLE
   Get-Appv4PkgInfo.ps1 -Computer TestClient1, TestClient2
-
   Shows the same output as when providing the -View Default parameter
-
 .EXAMPLE
   Get-Appv4PkgInfo.ps1 -Computer TestClient1 -View Default
-
-    Computer                              AppVname                                Version                                    
-    --------                              --------                                -------                                    
+    Computer                              AppVname                                Version
+    --------                              --------                                -------
     TestClient1                           SCCM Client Center 2.0.4.1 x64 R1       5
-
 .EXAMPLE
-  Get-Appv4PkgInfo.ps1 -Computer TestClient1,Testclient2 -View Path    
-     
-    Computer                              AppVname                                SFTPath                                    
-    --------                              --------                                -------                                    
+  Get-Appv4PkgInfo.ps1 -Computer TestClient1,Testclient2 -View Path
+    Computer                              AppVname                                SFTPath
+    --------                              --------                                -------
     TestClient1                           SCCM Client Center 2.0.4.1 x64 R1       FILE://c:\windows\ccmcache\7\sccm client.
 .LINK
   http://technet.microsoft.com/en-us/library/cc843631.aspx
@@ -63,20 +58,17 @@ Param(
      ValueFromPipelineByPropertyName=$true,HelpMessage="Enter Computername(s)",
      Position=0)]
      [Alias("ipaddress","host")]
-     [String[]]$Computer,        
-
+     [String[]]$Computer,
      [Parameter(Mandatory=$false,
      ValueFromPipelineByPropertyName=$true,HelpMessage="Select the type of information to display",
      Position=1)]
-     [ValidateSet("Default","Path","Cache","Inuse","Size","GUIDS","Locked","All")] 
+     [ValidateSet("Default","Path","Cache","Inuse","Size","GUIDS","Locked","All")]
      $View="Default"
 )
-
 Begin{}
-
 Process{
 $appv =@()
-ForEach($c in $Computer) 
+ForEach($c in $Computer)
 {
     $applications = get-wmiobject -ComputerName $c -query "SELECT * FROM Package" -namespace "root\Microsoft\appvirt\client" -ErrorAction SilentlyContinue
     ForEach($app in $applications)
@@ -98,8 +90,7 @@ ForEach($c in $Computer)
      $appv += $object
     } # end foreach application
 } # end foreach computer
-} # end process 
-
+} # end process
 End{
 # Define the properties to display based on -View parameter option
 switch($view)
@@ -113,7 +104,7 @@ switch($view)
     Locked {$selcol = "Computer", "AppVname","Locked"}
     All {$selcol = "*"}
     }
-$appv | Select-Object -Property $selcol 
+$appv | Select-Object -Property $selcol
 }
-
 ```
+

@@ -16,29 +16,29 @@ tags:
 ---
 For my **lab** environment I use the below described approach to generate random computernames for my clients. The script does the following:
 
-	
+
 - Read the Task Sequence Package Name
-	
+
 - Based on the name set the appropriate prefix
-	
+
 - Generate a random number between 100 and 1000
-	
+
 - Generate the new computer name based on Prefix + random number
 
 To implement this do the following:
 
-	
+
 - Put the script listed below into a package
-	
+
 - Add the script to the TS by adding a Run Command Line task *after* Partition Disk and *before* Apply Operating System[
 ![image](images/image_thumb1.png)
 ](images/image1.png)
 
- 
+
 
 **Script: OSDComputername.vbs**
 
- 
+
 
 [sourcecode language="vb"]
 Set env = CreateObject("Microsoft.SMS.TSEnvironment")
@@ -68,4 +68,5 @@ RCompName = CStr(CompName)
 End Function
 
  [/sourcecode]
+
 

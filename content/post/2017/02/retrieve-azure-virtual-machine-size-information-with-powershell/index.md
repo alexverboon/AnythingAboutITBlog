@@ -38,5 +38,4 @@ The script has two usage modes. When using the **–Location** parameter, it sho
 When using the -**ResourceGroup** parameter the script looks for virtual machine resources within the azure resource group and then retrieves the VM size information.
 
 ```
-
 ```

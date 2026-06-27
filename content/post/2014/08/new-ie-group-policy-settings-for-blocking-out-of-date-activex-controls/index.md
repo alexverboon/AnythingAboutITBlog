@@ -13,9 +13,9 @@ tags:
   - 'Activex'
   - 'Group Policy'
 ---
-As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-begins-blocking-out-of-date-activex-controls.aspx) by Microsoft last week on their IEBlog Internet Explorer will start blocking out of date ActiveX controls For managed environments there are updated [administrative templates](http://www.microsoft.com/en-us/download/details.aspx?id=40905) for Internet Explorer to control the behaviour of the ActiveX blocking feature. 
+As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-begins-blocking-out-of-date-activex-controls.aspx) by Microsoft last week on their IEBlog Internet Explorer will start blocking out of date ActiveX controls For managed environments there are updated [administrative templates](http://www.microsoft.com/en-us/download/details.aspx?id=40905) for Internet Explorer to control the behaviour of the ActiveX blocking feature.
 
- Although the link brings you to a site called “Administrative Templates for Internet Explorer 11” the settings are set to work for Internet Explorer 8,9, 10 and 11. If you haven’t updated your administrative templates since a while, beware of the [missing IE maintenance settings](http://msdn.microsoft.com/en-us/library/dn338129.aspx). 
+ Although the link brings you to a site called “Administrative Templates for Internet Explorer 11” the settings are set to work for Internet Explorer 8,9, 10 and 11. If you haven’t updated your administrative templates since a while, beware of the [missing IE maintenance settings](http://msdn.microsoft.com/en-us/library/dn338129.aspx).
 
  The new settings are located under Computer Configuration or User Configuration | Administrative Templates | Windows Components | Internet Explorer | Security Features | Add-In Management
 
@@ -71,9 +71,10 @@ As [anounced](http://blogs.msdn.com/b/ie/archive/2014/08/06/internet-explorer-be
 
  At the registry side the settings are as following (User or Computer)
 
-  
-- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|AuditModeEnabled 
-- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|RunThisTimeEnabled 
-- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|VersionCheckEnabled 
+
+- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|AuditModeEnabled
+- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|RunThisTimeEnabled
+- Software\Microsoft\Windows\CurrentVersion\Policies\Ext|VersionCheckEnabled
 - Software\Microsoft\Windows\CurrentVersion\Policies\Ext|ListBox_DomainAllowlist
+
 

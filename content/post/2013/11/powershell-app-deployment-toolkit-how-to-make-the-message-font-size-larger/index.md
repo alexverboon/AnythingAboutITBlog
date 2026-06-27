@@ -16,14 +16,14 @@ tags:
   - 'App-Deployment-Toolkit'
   - 'Message'
 ---
-I have had a request this week to make the font size of the Message text displayed by the PowerShell App Deployment Tookit function **Show-InstallationPrompt **a bit larger. 
+I have had a request this week to make the font size of the Message text displayed by the PowerShell App Deployment Tookit function **Show-InstallationPrompt **a bit larger.
 
  ![SNAGHTML173a21f](images/SNAGHTML173a21f_thumb.png)
 
- To make the font of the message larger, all you need to do is adding 2 lines of code to the **Function** 
-**Show-InstallationPrompt** that is embedded within the **AppDeployToolkitMain.ps1** file. 
+ To make the font of the message larger, all you need to do is adding 2 lines of code to the **Function**
+**Show-InstallationPrompt** that is embedded within the **AppDeployToolkitMain.ps1** file.
 
- Add the following code just above the “#button left” section. 
+ Add the following code just above the “#button left” section.
 
  #custom - Bigger text size
 $Font = New-Object System.Drawing.Font("Arial",14,[System.Drawing.FontStyle]::Regular)
@@ -32,7 +32,8 @@ $labelText.Font = $Font
 
  ![image](images/image_thumb2.png)
 
- As you can see, now the text size of the message has increased. 
+ As you can see, now the text size of the message has increased.
 
  ![SNAGHTML17b9fcf](images/SNAGHTML17b9fcf_thumb.png)
+
 

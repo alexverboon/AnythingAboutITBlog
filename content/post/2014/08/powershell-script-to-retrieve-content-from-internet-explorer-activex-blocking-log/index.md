@@ -26,7 +26,7 @@ function Get-ActiveXControlLog
 .Synopsis
    Get-ActiveXControlLog
 .DESCRIPTION
-   Get-ActiveXControlLog retrieves the content of the Internet Explorer ActiveX control log stored locally. 
+   Get-ActiveXControlLog retrieves the content of the Internet Explorer ActiveX control log stored locally.
 .EXAMPLE
    Get-ActiveXControlLog
     Shows all entries in the log file
@@ -43,10 +43,9 @@ function Get-ActiveXControlLog
     (
      [Parameter(Mandatory=$false,
      Position=0)]
-     [ValidateSet("All","Allowed","Blocked")] 
+     [ValidateSet("All","Allowed","Blocked")]
      $Show="All"
     )
-
     Begin
     {
         # the default location of the log file
@@ -60,9 +59,8 @@ function Get-ActiveXControlLog
         {
             Write-Verbose "ActiveX out of date blocking control log not found"
             # let's check if the logging policy is enabled at all
-            $lm = (Get-ItemProperty -Path "HKLM:Software\Microsoft\Windows\CurrentVersion\Policies\Ext" -Name "AuditModeEnabled" -ErrorAction SilentlyContinue).AuditModeEnabled 
+            $lm = (Get-ItemProperty -Path "HKLM:Software\Microsoft\Windows\CurrentVersion\Policies\Ext" -Name "AuditModeEnabled" -ErrorAction SilentlyContinue).AuditModeEnabled
             $cu = (Get-ItemProperty -Path "HKCU:Software\Microsoft\Windows\CurrentVersion\Policies\Ext" -Name "AuditModeEnabled" -ErrorAction SilentlyContinue).AuditModeEnabled
-            
             If ($lm -le 0)
             {
                 write-output "ActiveX control logging policy is not enabled at the computer level"
@@ -71,7 +69,6 @@ function Get-ActiveXControlLog
             {
                 Write-Output "Active control logging policy is enabled at the computer level, but there's no log: $VersionAuditLog"
             }
-
             If ($cu -le 0)
             {
                 write-output "ActiveX control logging policy is not enabled at the User level"
@@ -80,12 +77,11 @@ function Get-ActiveXControlLog
             {
                 Write-Output "Active control logging policy is enabled at the user level, but there's no log: $VersionAuditLog"
             }
-            Throw 
+            Throw
         }
     }
     Process
     {
-
     # Get the content of the log file
     $axlog = Import-csv -Delimiter "," -Path $VersionAuditLog -Header URL, Path, ProductVersion, FileVersion, Action, Reason, EPMCompat
     $axlogdata = @()
@@ -97,7 +93,7 @@ function Get-ActiveXControlLog
      $object | Add-Member -MemberType NoteProperty -Name ProductVersion -Value $entry.ProductVersion
      $object | Add-Member -MemberType NoteProperty -Name FileVersion -Value $entry.FileVersion
      $object | Add-Member -MemberType NoteProperty -Name Result -Value $entry.Action
-     $object | Add-Member -MemberType NoteProperty -Name Reason -Value $entry.Reason 
+     $object | Add-Member -MemberType NoteProperty -Name Reason -Value $entry.Reason
      $object | Add-Member -MemberType NoteProperty -Name EPMCompatible -Value $entry.EPMCompat
      $axlogdata += $object
     }
@@ -115,3 +111,4 @@ function Get-ActiveXControlLog
     }
 }
 ```
+

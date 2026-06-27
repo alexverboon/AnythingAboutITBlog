@@ -18,19 +18,19 @@ Windows Defender ATP provides SIEM integration, allowing you to pull alerts from
 
 # Prerequisites
 
- 	
+
 - An active Windows Defender ATP subscription with portal admin access
- 	
+
 - Windows Defender ATP SIEM integration enabled within the portal.
- 	
+
 - A Windows 10 Client onboarded in Windows Defender ATP
- 	
+
 - A Splunk Account used to download the trial software and install Add-ons and Apps.
- 	
+
 - A Splunk Instance with the REST API Modular Input app installed.  I had first signed up for a Splunk Cloud trial since I wanted to avoid the effort for installing Splunk, however the REST API Modular Input app that is required isn't available for Splunk Cloud, therefore I ended up installing Splunk Enterprise locally.
- 	
+
 - A Windows (or another supported OS) to install Splunk (I used a Windows 10 machine for that)
- 	
+
 - An Activation key for the RESTAPI Module input app. You can get the key for free from here: [https://www.baboonbones.com/#appdev](https://www.baboonbones.com/#appdev)
 
 # Splunk Installation
@@ -81,9 +81,9 @@ The REST Configuration page appears and now you have to provide several inputs. 
 
 Basically, what you need now is the following:
 
- 	
+
 - The Activation key for the REST API Modular app
- 	
+
 - The Splunk configuration file that you saved previously
 
 Below some screenshots from my configuration as a reference
@@ -128,4 +128,5 @@ And there we go; we now have our Alerts in Splunk.
 Have a great day
 
 Alex
+
 

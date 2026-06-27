@@ -18,9 +18,9 @@ If you have tried out the Office 2013 Preview you probably noticed the SkyDrive 
 
   ![1image_thumb](images/1image_thumb.png)
 
-   
 
-   
+
+
 
   Well apparently there is a Group Policy setting for this called “Show SkyDrive Sign in” located under User Configuration / Policies / Administrative Templates / Microsoft Office 2013 / Miscellaneous
 
@@ -35,4 +35,5 @@ If you have tried out the Office 2013 Preview you probably noticed the SkyDrive 
   ![4image_thumb3](images/4image_thumb3.png)
 
   So it looks like the option can only be partially disabled, at least within the Microsoft Office 2013 Preview version.
+
 

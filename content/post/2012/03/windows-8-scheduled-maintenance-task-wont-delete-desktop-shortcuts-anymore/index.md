@@ -17,9 +17,10 @@ On Windows 7 many users suffer from disappearing shortcuts on their desktop. I w
 
   The following files have been removed from the C:\Windows\diagnostics\scheduled\Maintenance folder:
 
-     
-- RS_RemoveShortcuts.ps1    
-- RS_RemoveUnusedDesktopIcons.ps1    
-- TS_BrokenShortcuts.ps1    
+
+- RS_RemoveShortcuts.ps1
+- RS_RemoveUnusedDesktopIcons.ps1
+- TS_BrokenShortcuts.ps1
 - TS_UnusedDesktopIcons.ps1
+
 

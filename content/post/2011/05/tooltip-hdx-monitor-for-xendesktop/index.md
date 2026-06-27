@@ -14,9 +14,9 @@ tags:
   - 'Xendesktop'
   - 'Hdx'
 ---
-If you experience poor performance using a XenDesktop session, video and audio is not playing nicely, the Windows Event log is showing messages as shown below, it’s time to take a closer look at what’s going on. 
+If you experience poor performance using a XenDesktop session, video and audio is not playing nicely, the Windows Event log is showing messages as shown below, it’s time to take a closer look at what’s going on.
 
-  *Network latency is above the level supported by HDX MediaStream for Flash.  Server-side Flash rendering will be used if available.*
+  *Network latency is above the level supported by HDX MediaStream for Flash.  Server-side Flash rendering will be used if available.*
 
   *Measured latency (milliseconds): 86*
 
@@ -29,4 +29,5 @@ If you experience poor performance using a XenDesktop session, video and audio i
 ](images/2011-05-20-00h54_58.png)        [
 ![2011-05-20 00h57_18](images/2011-05-20-00h57_18_thumb.png)
 ](images/2011-05-20-00h57_18.png)          *The HDX Monitor is a tool to validate the operation of XenDesktop's HDX stack including the latest HDX MediaStream for Flash and HDX RealTime features. Install this tool on your virtual desktop to obtain helpful technical details about your HDX experience. The tool is organized into sections that cover the various HDX technologies. Use it to view bandwidth usage, session settings and performance metrics.*
+
 

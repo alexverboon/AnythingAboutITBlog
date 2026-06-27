@@ -16,17 +16,17 @@ tags:
 ---
 Hey there, to be honest I had some difficulties to find the right title for todays blog post, so if you are still wondering here's what this is all about. I had a customer asking me "*how can we see what MDATP Respond actions were taken on a particular machine both from a Console and client perspective?*". At the time of writing this blog post we have the following machine response actions that trigger a remote action available for MDATP managed devices.
 
- 	
+
 - Initiate Automated Investigation
- 	
+
 - Initiate Live Response Session
- 	
+
 - Collect investigation package
- 	
+
 - Run antivirus scan
- 	
+
 - Restrict app execution
- 	
+
 - Isolate machine
 
 # Console View
@@ -39,7 +39,7 @@ If you want to see the response actions that were taken on a machine, go to the 
 
 Okay now let's have a look on the client itself. Here we look at the Windows event log provider for Microsoft Defender Advanced Threat Protection that is **Microsoft-Windows-SENSE**
 
-  
+
 
 **Event ID**
 **Description**
@@ -59,7 +59,7 @@ So if now we pull just these events from the MDATP Event log, we see all the ind
 
 The mapping of the response actions to the event message is as following:
 
-  
+
 
 **Console Response Action**
 **Event Message**
@@ -87,4 +87,5 @@ unisolationcommand
 That's it for today, hope you enjoyed reading
 
 Alex
+
 

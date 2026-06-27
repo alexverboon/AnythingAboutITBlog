@@ -21,13 +21,13 @@ At present the maximum retention time can be set to two years, but this of cours
 
 The Logic App will do the following:
 
- 	
+
 - Start the workflow every day at 00:10 AM
- 	
+
 - Run a query in log analytics using the office 365 log data , collect Username, IP Address and Event time from the previous day.
- 	
+
 - Parses the query result into JSON
- 	
+
 - Sends the data to a custom log in Log Analytics.
 
 ![](images/031618_1957_BackupOffic1.png)
@@ -145,4 +145,5 @@ Hope you enjoyed this blog post, as always feedback is welcome.
 Cheers
 
 Alex
+
 

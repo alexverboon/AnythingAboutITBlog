@@ -14,29 +14,27 @@ tags:
   - 'Detect'
   - 'Istouchenabled-Exe'
 ---
-While I was actually looking for something totally different, I stumbled over the **IsTouchEnabled.exe **that is stored within the MDT 2012 \Tools\OSDResults folder. The name says it all, it detects whether the device supports Touch or not. So I copied the utility and ran it on a Samsung Tablet with Windows 7 installed, a HP Workstation with Windows 7 installed, on a HP Mobile workstation with Windows 8 installed and on the HP ElitePad with Windows 8 installed. On both the Tablet devices the utility correctly detected touch being enabled. 
+While I was actually looking for something totally different, I stumbled on `IsTouchEnabled.exe`, which is stored in the MDT 2012 `\Tools\OSDResults` folder. The name says it all: it detects whether the device supports touch or not.
 
-  ![image](images/image_thumb1.png)
+I copied the utility and ran it on a Samsung tablet with Windows 7, an HP workstation with Windows 7, an HP mobile workstation with Windows 8, and an HP ElitePad with Windows 8. On both tablet devices, the utility correctly detected touch support.
 
-  So if you happen to run across a scenario where you need to do this or that depending on whether the device supports Touch or not the IsTouchEnabled.exe might help. 
+![image](images/image_thumb1.png)
 
-  @echo off
+If you run into a scenario where behavior should differ based on touch capability, `IsTouchEnabled.exe` can be useful.
 
-  for /f "delims=" %%a in ('IsTouchEnabled.exe') do set Touch=%%a
+Example batch script:
 
-  If "%Touch%" == "1" (
+```bat
+@echo off
+for /f "delims=" %%a in ('IsTouchEnabled.exe') do set Touch=%%a
+if "%Touch%"=="1" (
+  echo Touch is enabled
+  rem run your code here
+) else (
+  echo Touch is not enabled
+  rem run your code here
+)
+pause
+```
 
-          Echo Touch is enabled
-
-          ‘ run your code here
-
-          ) ELSE (
-
-          Echo Touch is not enabled
-
-          ‘ run your code here
-
-  )
-
-  pause
 

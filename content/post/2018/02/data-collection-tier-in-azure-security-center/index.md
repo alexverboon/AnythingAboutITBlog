@@ -17,13 +17,13 @@ tags:
 ---
 Within the Azure Security Center, Security Policy node, you can select a workspace and there define the data collection configuration for security events.
 
- 	
+
 - All Events
- 	
+
 - Common
- 	
+
 - Minimal
- 	
+
 - None
 
 ![](images/022518_1719_DataCollect1.png)
@@ -37,7 +37,7 @@ To better understand the exact meaning of each Event ID, I've created the below 
 **Event IDs included in "Minimum" Tier
 **
 
-    
+
 
 **ID**
 **Description**
@@ -266,7 +266,7 @@ Error
 **Event IDs included in "Common" Tier
 **
 
-    
+
 
 **ID**
 **Description**
@@ -948,7 +948,7 @@ Microsoft-Windows-Security-Auditing
 Information
 
 **6144**
-Security policy in the group policy objects has been applied successfully. 
+Security policy in the group policy objects has been applied successfully.
 Microsoft-Windows-Security-Auditing
 Information
 
@@ -1066,4 +1066,5 @@ I used the following PowerShell Code to prepare the data for the above lists.
 ```
 <br>
 ```
+
 

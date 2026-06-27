@@ -26,36 +26,36 @@ There are many sources available to start learning PowerShell. Online Trainings,
 
 I really recommend start watching the below two online trainings. They are broken up into separate modules, so you can start and stop as it fits your time. Take them during lunch, while commuting or on a rainy Sunday. Ignore the fact that the courses are based on PowerShell version 3.0 it's all still valid, with the newer versions of PowerShell things just get better.
 
- 	
+
 - Microsoft Virtual Academy - [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276). An online training provided by Jason Helmick and Jeffrey Snover. A great place to start your PowerShell journey.
- 	
+
 - Microsoft Virtual Academy - [Advanced Tools & Scripting with PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/advanced-tools-scripting-with-powershell-30-jump-start-8277?l=WOWaGUWy_8604984382).
- 	
+
 - Microsoft Virtual Academy - [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434?l=Oq4Os59VC_2506218965)
 
 Testing nowadays has become an important topic, especially when writing PowerShell Modules or dealing with Continuous Integration.
 
- 	
+
 - Microsoft Virtual Academy - [Testing PowerShell with Pester](https://mva.microsoft.com/en-US/training-courses/testing-powershell-with-pester-17650?l=mg8oBM9vD_8811787177)
 
 If you are in the business of managing server infrastructure on-premise or in the Cloud, you should definitely take these trainings as well.
 
- 	
+
 - Microsoft Virtual Academy - [Getting Started with PowerShell Desired State Configuration (DSC)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-8672?l=ZwHuclG1_2504984382)
- 	
+
 - Microsoft Virtual Academy - [Advanced PowerShell Desired State Configuration (DSC) and Custom Resources](https://mva.microsoft.com/en-US/training-courses/advanced-powershell-desired-state-configuration-dsc-and-custom-resources-8702?l=3DnsS2H1_1504984382).
 
 Whether you took the first three or all the above online training courses, by now you should have a good idea of what you can do with PowerShell.
 
 Prefer Reading? There are plenty of books about PowerShell. Some I recommend are:
 
- 	
+
 - Learn Windows PowerShell 3 in a Month of Lunches by Don Jones
- 	
+
 - Scripting and Toolmaking, The DSC Book and Become hardcore extreme black belt PowerShell Ninja Rockstar are also authored by [Don Jones](https://leanpub.com/u/donjones).
- 	
+
 - Windows PowerShell Cookbook by Lee Holmes
- 	
+
 - PowerShell.org – more eBooks are available [here](https://powershell.org/ebooks/)
 
 **Blogs** – An absolute great resource for learning PowerShell is the "[Hey, Scripting Guy! Blog](https://blogs.technet.microsoft.com/heyscriptingguy/)". The blog started with tips and trick for Windows Scripting Host, but over time became one of the best sources for PowerShell tips and tricks. Starting with "[How Can I Use Windows PowerShell to Start a Service on a Remote Computer?](https://blogs.technet.microsoft.com/heyscriptingguy/2006/06/21/how-can-i-use-windows-powershell-to-start-a-service-on-a-remote-computer/)" For many years Ed Wilson shared daily tips and tricks and people from the community share their knowledge and experience in the [Weekend Scripter series](https://blogs.technet.microsoft.com/heyscriptingguy/tag/weekend-scripter/).
@@ -91,4 +91,5 @@ To all those that start learning PowerShell, Good Luck!
 [Windows PowerShell: Origin and Future](https://channel9.msdn.com/Blogs/Charles/Windows-PowerShell-Origin-and-Future)
 
 Don Jones and Jeffrey Snover: [The Value of Windows PowerShell for IT Professionals](https://channel9.msdn.com/Blogs/Charles/Don-Jones-and-Jeffrey-Snover-The-Value-of-Windows-PowerShell-for-IT-Professionals)
+
 

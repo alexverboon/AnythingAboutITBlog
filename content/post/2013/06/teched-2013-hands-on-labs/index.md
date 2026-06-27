@@ -14,16 +14,16 @@ tags:
   - 'Hands-On-Labs'
   - 'Teched-2013'
 ---
-The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually start testing out things. I was therefore very pleased to see that Microsoft has made the Hands-On labs from TechEd 2013 available online. 
+The issue with learning new stuff is that often you have to spend a lot of time in getting a test environment up and running before you can actually start testing out things. I was therefore very pleased to see that Microsoft has made the Hands-On labs from TechEd 2013 available online.
 
   The Hands-On labs are prepared within less than 30 seconds. Awesome!
 
   ![2013-06-15_15h54_47](images/2013-06-15_15h54_47_thumb.png)
 
-  Below a list of Hands-on labs now available for Windows Client, Access and Management. Check for updates directly on Channel 9 – TechEd North America 2013   
+  Below a list of Hands-on labs now available for Windows Client, Access and Management. Check for updates directly on Channel 9 – TechEd North America 2013
 [http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013#fbid=6pQTUrStsWU](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013#fbid=6pQTUrStsWU)
 
-   
+
 
   [New for SP1: Upgrading from Microsoft System Center 2012 - Configuration Manager to Configuration Manager 2012 SP1](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/WCA-H200#fbid=6pQTUrStsWU)
 
@@ -62,4 +62,5 @@ The issue with learning new stuff is that often you have to spend a lot of time 
   [Managing Applications](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/WCA-H310#fbid=6pQTUrStsWU)
 
   [Managing Microsoft Software Updates](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/WCA-H313#fbid=6pQTUrStsWU)
+
 

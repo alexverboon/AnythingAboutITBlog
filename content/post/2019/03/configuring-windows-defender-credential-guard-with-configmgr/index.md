@@ -21,13 +21,13 @@ I'm currently engaged in multiple customer projects where Windows 10 is already 
 
 Some of you might think, why wasn't it enabled in the first place when they deployed Windows 10? From speaking to several people, here are some of the reasons.
 
- 	
+
 - We weren't aware of it
- 	
+
 - We had no time to test it
- 	
+
 - It didn't work, i.e. caused issues, so we had to turn it off again, never picked it up again.
- 	
+
 - Hardware issues
 
 With regards to Hardware related issues, I strongly recommend that IT admins use the [Device Guard and Credential Guard hardware readiness tool](https://www.microsoft.com/en-us/download/details.aspx?id=53337) and make sure that they use latest and greatest stable device drives and firmware provided by their hardware vendor. This by the way seems to be another issue in itself, nobody likes the job of maintaining device drivers and firmware updates but believe me it's essential. Device drivers operate at a very low level in the Operating system, hence if they have a vulnerability, the bad guys have an easy way in. Bottom line, do actively maintain device drivers and firmware updates not only for new deployed clients, but also deploy them to those devices already in production.
@@ -52,7 +52,7 @@ To enable Windows Defender Credential Guard , we must configure following settin
 
 **Select Platform Security Level**
 Virtualization Based Security uses the Windows Hypervisor to provide support for security services. Virtualization Based Security requires Secure Boot and can optionally be enabled with the use of DMA Protections. DMA protections require hardware support and will only be enabled on correctly configured devices.
-Secure Boot 
+Secure Boot
 
 **Credential Guard Configuration**
 This setting lets users turn on Credential Guard with virtualization-based security to help protect credentials.
@@ -92,9 +92,9 @@ Okay, now let's head over to the ConfigMgr Console, here I have configured the f
 
 As you can see the Configuration Baseline includes two Configuration Items.
 
- 	
+
 - Virtual Based Security Configuration
- 	
+
 - Windows Defender Credential Guard Configuration
 
 Since I don't want to bore you with 30+ screen shots, I'm just showing one example. They are all setup in the same way, just with different registry keys and values to check.
@@ -168,4 +168,5 @@ Okay, I hope this blog post might be of use for someone one day
 Cheers
 
 Alex
+
 

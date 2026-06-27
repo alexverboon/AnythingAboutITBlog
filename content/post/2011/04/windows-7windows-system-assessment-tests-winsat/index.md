@@ -17,43 +17,43 @@ tags:
 ---
 Hey there, today I am going to share some information I have gathered about the Windows System Assessment Tests aka as WinSAT. When WinSAT runs, various performance tests are executed for the following system components:
 
-	
+
 - CPU
-	
+
 - Memory
-	
+
 - Graphics
-	
+
 - Disk
 
 Upon completion of the assessment tests, each component is given a score that is based on the [Windows Experience Index](http://windows.microsoft.com/en-US/windows7/What-is-the-Windows-Experience-Index). The overall score called “Base Score” is based on the lowest subscore of an individual hardware component.
 ![2011-04-17 22h50_13](images/2011-04-17-22h50_13_thumb.png)
 So what does the Base Score mean? Well Microsoft defines it as following:
 
-	
+
 - *A computer with a base score of 2.0 usually has sufficient performance to do general computing tasks, such as run business programs and search the Internet. However, a computer with this base score is generally not powerful enough to run Aero, or the advanced multimedia experiences that are available with Windows 7.*
-	
+
 - *A computer with a base score of 3.0 can run Aero and many features of Windows 7 at a basic level. Some of the Windows 7 advanced features might not have all of their functionality available. For example, a computer with a base score of 3.0 can display the Windows 7 theme at a resolution of 1280 × 1024, but might struggle to run the theme on multiple monitors. Or, it can play digital TV content but might struggle to play high-definition television (HDTV) content.*
-	
+
 - *A computer with a base score of 4.0 or 5.0 can run new features of Windows 7, and it can support running multiple programs at the same time.*
-	
+
 - *A computer with a base score of 6.0 or 7.0 has a faster hard disk, and can support high-end, graphics-intensive experiences, such as multiplayer and 3‑D gaming and recording and playback of HDTV content.*
 
 # Using the WinSAT command
 
 The WinSAT command line tool which is included with Windows 7 (… and Vista) can be used for various purposes.
 
-	
+
 - Run a full system assessment
-	
+
 - Run an assessment for a certain system component
-	
+
 - Run a specific sub assessment for a certain system component
-	
+
 - Prepopulate assessment results (useful for OEMs)
-	
+
 - Export log WinSAT log files
-	
+
 - Query the WinSAT Datastore
 
 To run a full assessment open a command prompt with administrative rights and run the following command:
@@ -111,4 +111,5 @@ Windows 7 by default also has a scheduled Task that runs WinSAT on a weekly basi
 [Engineering the Windows 7 “Windows Experience Index”](http://blogs.msdn.com/b/e7/archive/2009/01/19/engineering-the-windows-7-windows-experience-index.aspx)
 [Win32_WinSAT Class](http://msdn.microsoft.com/en-us/library/aa969204(v=vs.85).aspx)
 [What is the Windows Experience Index?](http://windows.microsoft.com/en-US/windows7/What-is-the-Windows-Experience-Index)
+
 

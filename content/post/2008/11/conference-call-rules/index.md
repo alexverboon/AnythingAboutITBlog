@@ -40,7 +40,7 @@ So here we go:
   - Avoid wireless phones and cell phones. (You are not that important)
   - If you are alone, do not use a speakerphone.
   - Invest in a good wired headset with adjustable boom microphone.
-  - Never put a conference call on hold. 
+  - Never put a conference call on hold.
 
 ### Mind Your Manners
 
@@ -56,4 +56,5 @@ Source: [http://homeofficeblues.com/14/20-rules-for-better-conference-calls/](ht
 and here some fun on Conference Calls: [http://www.youtube.com/watch?v=rUASw4Kg6PI](http://www.youtube.com/watch?v=rUASw4Kg6PI)
 
 Happy conferencing
+
 

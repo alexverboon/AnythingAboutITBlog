@@ -61,9 +61,7 @@ On the Collect tab, choose Custom and add these XPath queries:
 
 ```text
 Application!*[System[Provider[@Name='Entra Connect Admin Actions'] and (EventID=2523 or EventID=2524 or EventID=2525 or EventID=2526)]]
-
 Application!*[System[Provider[@Name='Entra Connect Admin Actions'] and (EventID=2503 or EventID=2504 or EventID=2505 or EventID=2506 or EventID=2507 or EventID=2508 or EventID=2509 or EventID=2510 or EventID=2511 or EventID=2512 or EventID=2513 or EventID=2514 or EventID=2515 or EventID=2516 or EventID=2517 or EventID=2518 or EventID=2519 or EventID=2520)]]
-
 Application!*[System[Provider[@Name='Entra Connect Admin Actions'] and (EventID=2521 or EventID=2522)]]
 ```
 
@@ -88,3 +86,4 @@ Happy auditing!
 - [Microsoft Entra Connect admin audit logging](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/admin-audit-logging)
 - [Windows Security Events via AMA connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-windows-security-events)
 - [Hunting query: EntraConnectSyncAuditEvents](https://github.com/alexverboon/Hunting-Queries-Detection-Rules/blob/main/Entra%20ID/EntraID-EntraConnectSyncAuditEvents.md)
+

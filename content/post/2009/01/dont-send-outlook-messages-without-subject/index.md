@@ -16,7 +16,7 @@ tags:
 ---
 This probably has happened to each of us, writing an e-mail, then added the recipients and then clicked the send button, and as you clicked it, you notice that you forgot to fill in the subject.
 
-To prevent this from happening, I found the following script today that will bring up an alert when trying to send an e-mail without a subject. 
+To prevent this from happening, I found the following script today that will bring up an alert when trying to send an e-mail without a subject.
 
 To create the macro in Outlook 2003, go to Tools -> Macro -> Visual Basic Editor (this feature has to be installed). In Microsoft Office Outlook Objects -> ThisOutlookSession, then paste the following code:
 
@@ -32,4 +32,5 @@ End If
 End Sub
 
 [](http://searchexchange.techtarget.com/tip/0,,sid43_gci1208873,00.html#)
+
 

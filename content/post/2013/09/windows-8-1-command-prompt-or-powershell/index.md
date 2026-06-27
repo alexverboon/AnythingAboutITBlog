@@ -28,14 +28,15 @@ DontUsePowerShellOnWinX to 0
 
  ![image](images/image_thumb3.png)
 
- And there is also a Group Policy setting to prevent users from changing this setting. It’s located under 
+ And there is also a Group Policy setting to prevent users from changing this setting. It’s located under
 User Configuration \ Administrative Templates \Windows Components \ Edge UI
 
  Prevent users from replacing the Command Prompt with Windows PowerShell in the menu they see when they right-click the lower-left corner or press the Windows logo key+X
 
  ![image](images/image_thumb4.png)
 
- The result is that the option to change the setting is greyed out. 
+ The result is that the option to change the setting is greyed out.
 
  ![image](images/image_thumb5.png)
+
 

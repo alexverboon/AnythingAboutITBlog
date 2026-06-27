@@ -13,7 +13,7 @@ tags:
   - 'Various'
   - 'Virtualization'
 ---
-There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts. 
+There is a lot going on around Virtualization, so it's important to keep up to date. Like other vendors, WMAWRE also provides Webcasts and Podcasts.
 
 Recorded sessions can be found here:
 [http://www.vmware.com/a/webcasts/recorded/](http://www.vmware.com/a/webcasts/recorded/)
@@ -23,4 +23,5 @@ Podcasts here:
 
 and upcomming events are listed here:
 [http://www.vmware.com/a/webcasts/index/](http://www.vmware.com/a/webcasts/index/)
+
 

@@ -13,7 +13,8 @@ tags:
   - 'Appdna'
   - 'Application-Compatibility'
 ---
-Application Compatibility in these days is a hot topic. Watch this Demo and find out how AppTitude from AppDNA can help you to speed up your Application Compatibility analysis and remediation effort. 
+Application Compatibility in these days is a hot topic. Watch this Demo and find out how AppTitude from AppDNA can help you to speed up your Application Compatibility analysis and remediation effort.
 
   Watch the video [here](http://www.brianmadden.com/blogs/videos/archive/2010/05/18/video-demo-of-appdna-from-mms-2010.aspx) Source: [BrianMadden.com](http://www.brianmadden.com/)
+
 

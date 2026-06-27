@@ -23,13 +23,13 @@ First let's get rid of the wrong assumption out of the way that you need a Windo
 
 Windows Defender Exploit guard consist of four components:
 
- 	
+
 - **Attack Surface Reduction (ASR):** A set of controls that enterprises can enable to prevent malware from getting on the machine by blocking Office-, script-, and email-based threats
- 	
+
 - **Network protection:** Protects the endpoint against web-based threats by blocking any outbound process on the device to untrusted hosts/IP through Windows Defender SmartScreen
- 	
+
 - **Controlled folder access:** Protects sensitive data from ransomware by blocking untrusted processes from accessing your protected folders
- 	
+
 - **Exploit protection:** A set of exploit mitigations (replacing EMET) that can be easily configured to protect your system and applications.
 
 If you are totally unfamiliar with Windows Defender Exploit Guard, I suggest you read [Windows Defender Exploit Guard: Reduce the attack surface against next-generation malware](https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/) first and then continue reading here.
@@ -44,26 +44,26 @@ Before looking at each individual component , let's first clarify the topic abou
 
 Depending on how you manage your clients, you can use on of the following methods to configure and deploy Windows Exploit Guard features.
 
- 	
+
 - Group Policy Management
- 	
+
 - System Center Configuration Manager
- 	
+
 - Microsoft Intune
- 	
+
 - PowerShell
- 	
+
 - Windows Security App
 
 For more information see:
 
- 	
+
 - [Enable exploit protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection)
- 	
+
 - [Enable network protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection)
- 	
+
 - [Enable controlled folder access](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-controlled-folders)
- 	
+
 - [Enable attack surface reduction rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-attack-surface-reduction)
 
 ### Monitoring impact and effectiveness
@@ -132,7 +132,7 @@ Code integrity guard audit
 
 If you start experimenting with the various Windows Exploit Guard features on your own computer, you will want to examine the exploit guard event logs. For this I wrote a PowerShell cmdlet that helps you to easily retrieve these logs. When interested read: [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/).
 
-The below example shows the log result of an audited ASR Rule. Take note of the referende ID as it relates to the corresponding ASR Rule, in this case 'Block Office applications from creating executable content'. You find a list of all possible IDs [here](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/attack-surface-reduction). 
+The below example shows the log result of an audited ASR Rule. Take note of the referende ID as it relates to the corresponding ASR Rule, in this case 'Block Office applications from creating executable content'. You find a list of all possible IDs [here](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/attack-surface-reduction).
 
 ![](images/110119_1516_WindowsDefe1.png)
 
@@ -202,18 +202,19 @@ And finally we can use the 'add exclusions' node to see the impact and get the e
 
 Good, now just in case all this has triggered an interest in looking closer at Windows Defender Exploit guard, below are some additional refences , blog posts I recommend reading.
 
- 	
+
 - [Windows Defender Exploit Guard ASR VBScript/JS Rule](https://www.darkoperator.com/blog/2017/11/6/windows-defender-exploit-guard-asr-vbscriptjs-rule)
- 	
+
 - [Windows Defender Exploit Guard ASR Rules for Office](https://www.darkoperator.com/blog/2017/11/11/windows-defender-exploit-guard-asr-rules-for-office)
- 	
+
 - [Windows 10: Windows Defender Exploit Guard-Attack Surface Reduction rules](https://blogs.technet.microsoft.com/yongrhee/2019/02/24/windows-10-windows-defender-exploit-guard-attack-surface-reduction-rules/)
- 	
+
 - [Windows 10: Windows Defender Exploit Guard-Exploit Protection](https://blogs.technet.microsoft.com/yongrhee/2019/02/21/windows-10-windows-defender-exploit-guard-exploit-protection/)
- 	
+
 - [Assessing the effectiveness of a new security data source: Windows Defender Exploit Guard](https://medium.com/palantir/assessing-the-effectiveness-of-a-new-security-data-source-windows-defender-exploit-guard-860b69db2ad2)
- 	
+
 - [Hunting Windows Defender Exploit Guard with ATP](http://blog.sec-labs.com/2019/04/hunting-windows-defender-exploit-guard-with-atp/)
 
 That's it for today, stay tuned for Part 3 of this series anytime soon.
+
 

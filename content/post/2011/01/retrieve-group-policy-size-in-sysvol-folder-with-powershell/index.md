@@ -25,12 +25,12 @@ $startfolder = "**\\lab-dc01\SYSVOL\LAB.NET**\Policies\*"
 
 Change lab-dc01\sysvol\lab.net so it matches your environment. Also make sure you leave the final * in there as it ensures that the script only loops 1 level deep.
 
-[sourcecode language="ps"] 
+[sourcecode language="ps"]
 
 # =====================================================================
-#   
+#
 # Script Name : GetGPSize.ps1
-#  
+#
 # Author: Alex Verboon
 # Date: 24. January 2011
 # Version: 0.1
@@ -57,7 +57,7 @@ if (Test-Path ($fol.fullname + "\gpt.ini"))
 
 	# Get-GPO -Guid $guid1 $GPO.DisplayName
 	# $($fol.fullname)
-	
+
 	}
 else
 	{
@@ -73,9 +73,10 @@ else
 
 Get-GPOSize | Sort-object -property GPName | Format-Table -Property * -autosize
 
-[/sourcecode] 
+[/sourcecode]
 
 ![GPO_SIZE](images/GPO_SIZE_thumb.png)
 
 Any comments, thoughts, inputs are welcome.
+
 

@@ -22,45 +22,46 @@ From the Intel website you can download the [Manageability Developer Tool Kit](h
 
 Part of the Manageability Developer Tool Kit is the Manageability Commander Tool. It is exactly this tool that can give you that first real world experience you are after to see AMT in action.
 
-	
+
 - Gather PC hardware inventory data
-	
+
 - Remote BIOS administration
-	
+
 - Remote Reboot to a redirected DVD
-	
+
 - Remotely power up and power down a machine
 
 To start with the first AMT experience you need the following:
 
-	
+
 - Both clients must be connected to the network
-	
+
 - The client you want to manage must be vPro enabled
-	
+
 - Configure the vPro machine to run in SMB mode, for more details on how to configure the AMT options, refer to your hardware vendor provided configuration manual. On HP business desktops, you would boot the client and then press Alt+P to load the vPro configuration menu..
-	
+
 - On the second PC that runs Windows XP or Vista you install the Intel Manageability Developer Tool Kit.
-	
+
 - Launch the Manageability Commander Tool and add your vPro client to the console as shown in the picture below.
 
-![](images/image-thumb9.png) 
-	
+![](images/image-thumb9.png)
+
 - Connect to the device by clicking on the Connect button.
-	
+
 - Once connected you can start using some AMT functionality that is provided through the console.
 
-![](images/image-thumb10-300x168.png)  
-	
+![](images/image-thumb10-300x168.png)
+
 - Go to the "Remote Control" tab and select take control. The Manageability Terminal tool window will open as shown in the picture below
 
-![](images/image-thumb11-300x190.png) 
-	
+![](images/image-thumb11-300x190.png)
+
 - Then click for example on Remote Reboot to BIOS setup, then after a while you should see the system BIOS configuration screen appearing.
 
-![](images/image-thumb12.png) 
+![](images/image-thumb12.png)
 
 For the rest I suggest, just navigate through the tool and try out the other features yourself, For more demos do a search on Youtube, there are plenty of feature demo videos around vPro and AMT there such as the video below.
 
 Hope you enjoy IT
+
 

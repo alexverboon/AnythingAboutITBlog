@@ -28,19 +28,19 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   <Configuration>
 
-  <Add SourcePath="\\srv010\data\Office2013CTR" OfficeClientEdition="32" >      
-    <Product ID="O365ProPlusRetail">       
-      <Language ID="en-us" />       
-    </Product>       
-  </Add> 
+  <Add SourcePath="\\srv010\data\Office2013CTR" OfficeClientEdition="32" >
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
 
-    <!--  <Updates Enabled="TRUE" UpdatePath="\\Server\Share\Office\" /> -->
+    <!--  <Updates Enabled="TRUE" UpdatePath="\\Server\Share\Office\" /> -->
 
-  <Display Level="Full" AcceptEULA="TRUE" /> 
+  <Display Level="Full" AcceptEULA="TRUE" />
 
-     <Logging Name="OfficeSetup.txt" Path="%temp%" />  
+     <Logging Name="OfficeSetup.txt" Path="%temp%" />
 
-    <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
+    <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
 
   </Configuration>
 
@@ -56,7 +56,7 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   ![2image_thumb1](images/2image_thumb11.png)
 
-   
+
 
   ![3image_thumb2](images/3image_thumb21.png)
 
@@ -74,25 +74,25 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   <Configuration>
 
-  <Remove SourcePath="\\srv010\data\Office2013CTR" OfficeClientEdition="32" >     
-    <Product ID="O365ProPlusRetail">     
-      <Language ID="en-us" />     
-    </Product>     
-  </Remove>
+  <Remove SourcePath="\\srv010\data\Office2013CTR" OfficeClientEdition="32" >
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Remove>
 
-    <!--  <Updates Enabled="TRUE" UpdatePath="\\Server\Share\Office\" /> -->
+    <!--  <Updates Enabled="TRUE" UpdatePath="\\Server\Share\Office\" /> -->
 
   <Display Level="Full" AcceptEULA="TRUE" />
 
-     <Logging Name="OfficeSetup.txt" Path="%temp%" /> 
+     <Logging Name="OfficeSetup.txt" Path="%temp%" />
 
-    <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
+    <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
 
   </Configuration>
 
-   
 
-  And then run setup.exe /CONFIGURE [\\configuration.xml">\\configuration.xml">\\<Server>\<Share>\configuration.xml](file://\\<Server>\<Share>\configuration.xml) from an elevated prompt. . 
+
+  And then run setup.exe /CONFIGURE [\\configuration.xml">\\configuration.xml">\\<Server>\<Share>\configuration.xml](file://\\<Server>\<Share>\configuration.xml) from an elevated prompt. .
 
   ![8image_thumb7](images/8image_thumb7.png)
 
@@ -100,16 +100,17 @@ With the release of the Office 2013 preview Microsoft also made available the Of
 
   ![10image_thumb9](images/10image_thumb9.png)
 
-   
 
-  Additional Resources:    
-[Using Click-to-Run to install the new Office](http://blogs.technet.com/b/office_resource_kit/archive/2012/07/27/using-click-to-run-to-install-the-new-office.aspx)     
-[Customization overview for Click-to-Run](http://go.microsoft.com/fwlink/?LinkId=253344)     
-[Office Deployment Tool for Click-to-Run](http://go.microsoft.com/fwlink/?LinkId=253345)     
-[Click-to-Run for Office 365 Configuration.xml file](http://go.microsoft.com/fwlink/?LinkId=253346)     
-[Download Click to Run for Office 365 products by using the Office Deployment Tool](http://go.microsoft.com/fwlink/?LinkId=253347)     
+
+  Additional Resources:
+[Using Click-to-Run to install the new Office](http://blogs.technet.com/b/office_resource_kit/archive/2012/07/27/using-click-to-run-to-install-the-new-office.aspx)
+[Customization overview for Click-to-Run](http://go.microsoft.com/fwlink/?LinkId=253344)
+[Office Deployment Tool for Click-to-Run](http://go.microsoft.com/fwlink/?LinkId=253345)
+[Click-to-Run for Office 365 Configuration.xml file](http://go.microsoft.com/fwlink/?LinkId=253346)
+[Download Click to Run for Office 365 products by using the Office Deployment Tool](http://go.microsoft.com/fwlink/?LinkId=253347)
 [Deploy Click-to-Run for Office 365 products by using the Office Deployment Tool](http://go.microsoft.com/fwlink/?LinkId=257844)
 
-  [An overview of Microsoft Office Click-to-Run for Office 2010](http://support.microsoft.com/kb/982434)     
+  [An overview of Microsoft Office Click-to-Run for Office 2010](http://support.microsoft.com/kb/982434)
 [Click-to-Run: Delivering Office in the 21st Century](http://blogs.technet.com/b/office2010/archive/2009/11/06/click-to-run-delivering-office-in-the-21st-century.aspx)
+
 

@@ -17,26 +17,26 @@ tags:
 ---
 Group Policies are an essential part of every Windows Client infrastructure and it’s therefore critical to regularly spend some effort to ensure that things are in a healthy state. I would define a healthy Group Policy infrastructure as following:
 
-	
+
 - All Group Policies are correctly synched across all domain controllers
-	
+
 - There are no unlinked Group Policies (unless it’s by purpose because we use them only ad-hoc for testing purposes)
-	
+
 - There are no Group Policies that are completely disabled (unless it’s by purpose because we use them only ad-hoc for testing purposes)
-	
+
 - There are no orphaned Group Policies
-	
+
 - Group Policies do apply correctly on targeted clients.
 
 There are a number of tools and scripts available that can help with the health assessment of your group policy infrastructure.
 
-	
+
 - Group Policy Management Console
-	
+
 - Group Policy Management Console Sample Scripts (download from [here](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=14536))
-	
-- GPOTOOL.exe Included in the Windows Server 2003 Resource Kit Tools, download from [here](http://www.microsoft.com/download/en/details.aspx?id=17657) or a newer version from [here](http://www.microsoft.com/download/en/details.aspx?id=24745) included within the Microsoft Product Support Reporting Tool).
-	
+
+- GPOTOOL.exe Included in the Windows Server 2003 Resource Kit Tools, download from [here](http://www.microsoft.com/download/en/details.aspx?id=17657) or a newer version from [here](http://www.microsoft.com/download/en/details.aspx?id=24745) included within the Microsoft Product Support Reporting Tool).
+
 - PowerShell Console
 
 Before starting your GPO health assessment where most likely you end up deleting GPOs, I recommend that you create a backup of your current GPO state. You can create a backup by using the Group Policy Management Console or the PowerShell Backup-GPO cmdlet. When using the GPMC select the Group Policy Objects branch and select *Backup Up All* from the right context menu, you will then be asked to define the path where the backup will be saved and a description, then click Backup and wait for the process to complete.
@@ -47,30 +47,30 @@ When using PowerShell simply open a PowerShell command prompt and enter the belo
 
 Backup-GPO –All – Path C:\Data\GPO_Backup
 
-Wanna learn more about GPO backup’s? Read the Enable Backup and Restore for Group Policy article from Jeremy Moskowitz [here](http://www.scriptlogic.com/smbit/article/enable-backup-and-restore-for-group-policy) 
+Wanna learn more about GPO backup’s? Read the Enable Backup and Restore for Group Policy article from Jeremy Moskowitz [here](http://www.scriptlogic.com/smbit/article/enable-backup-and-restore-for-group-policy)
 
 Another thing you want to consider doing is to create a report of all your current GPOs for example by running the following command within PowerShell
 
 get-gporeport -All -ReportType HTML -Path c:\data\allgpo.html
 
-OK, so now that we have created a Backup and a report  we’re ready to move on. Let’s first have a look whether all of our GPOs are being replicated nicely across all of our domain controllers. To do so, we are going to use the [GPOTool](http://www.microsoft.com/download/en/details.aspx?id=17657) from Microsoft
+OK, so now that we have created a Backup and a report  we’re ready to move on. Let’s first have a look whether all of our GPOs are being replicated nicely across all of our domain controllers. To do so, we are going to use the [GPOTool](http://www.microsoft.com/download/en/details.aspx?id=17657) from Microsoft
 
-	
+
 - checks the consistency of Group Policy Objects (GPOs) between the Sysvol- and Active Directory (AD)-based portions of GPOs
-	
+
 - checks GPO replication
-	
+
 - searches GPOs
-	
+
 - targets specific domain controllers (DCs) to allow testing of specific DC Group Policy status
-	
+
 - displays GPO information
-	
+
 - checks cross-domain GPOs
 
 (Source of above list: [WindowsITPro Magazine](http://www.windowsitpro.com/article/resource-kit/q-what-s-gpotool-))
 
-I recommend to redirect the GPOTool output into a text file so that you can analyze the results in notepad by simply running  the following command. GPOTool.exe >gposynch.txt
+I recommend to redirect the GPOTool output into a text file so that you can analyze the results in notepad by simply running  the following command. GPOTool.exe >gposynch.txt
 
 Or if you want to get more details use the verbose option.
 
@@ -96,7 +96,7 @@ DC: LAB-DC02.LAB.NET
 Friendly name: VDI_Desktop_Personal
 Created: 5/21/2011 2:18:47 PM
 Changed: 6/25/2011 5:04:13 PM
-DS version:     41(user) 45(machine)
+DS version:     41(user) 45(machine)
 Sysvol version: 41(user) 45(machine)
 Flags: 0 (user side enabled; machine side enabled)
 User extensions: [{00000000-0000-0000-0000-000000000000}{BEE07A6A-EC9F-4659-B8C9-0B1937907C83}][{B087BE9D-ED37-454F-AF9C-04291E351182}{BEE07A6A-EC9F-4659-B8C9-0B1937907C83}]
@@ -108,7 +108,7 @@ DC: LAB-DC01.LAB.NET
 Friendly name: VDI_Desktop_Personal
 Created: 5/21/2011 2:18:47 PM
 Changed: 6/25/2011 5:03:44 PM
-DS version:     41(user) 45(machine)
+DS version:     41(user) 45(machine)
 Sysvol version: 41(user) 45(machine)
 Flags: 0 (user side enabled; machine side enabled)
 User extensions: [{00000000-0000-0000-0000-000000000000}{BEE07A6A-EC9F-4659-B8C9-0B1937907C83}][{B087BE9D-ED37-454F-AF9C-04291E351182}{BEE07A6A-EC9F-4659-B8C9-0B1937907C83}]
@@ -204,7 +204,7 @@ DC: LAB-DC01.LAB.NET
 Friendly name: LAB-SAB-Wireless
 Created: 9/16/2008 11:51:18 AM
 Changed: 4/21/2009 9:26:52 AM
-DS version:     0(user) 1(machine)
+DS version:     0(user) 1(machine)
 Sysvol version: not found
 Flags: 0 (user side enabled; machine side enabled)
 User extensions: not found
@@ -216,7 +216,7 @@ DC: LAB-DC02.LAB.NET
 Friendly name: LAB-SAB-Wireless
 Created: 9/16/2008 11:51:18 AM
 Changed: 4/17/2009 7:52:40 AM
-DS version:     0(user) 1(machine)
+DS version:     0(user) 1(machine)
 Sysvol version: not found
 Flags: 0 (user side enabled; machine side enabled)
 User extensions: not found
@@ -243,4 +243,5 @@ When opening ADSI Edit and navigating to the Policies branch, we see the two dam
 ![2011-07-23 21h38_37](images/2011-07-23-21h38_37_thumb.png)
 
 after deleting the GPOTool didn’t report the errors anymore.
+
 

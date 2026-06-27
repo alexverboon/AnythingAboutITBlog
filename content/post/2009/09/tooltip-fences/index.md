@@ -17,15 +17,16 @@ Do you remember the days where your desktop looked like on the picture below ? I
 
   ![File:Program Manager.png](http://upload.wikimedia.org/wikipedia/en/6/6b/Program_Manager.png)
 
-  With the introduction of Windows 95 Program Manager was replaced by the Windows Explorer as the shell. In simple words, that’s when Microsoft introduced the “Start Menu”. 
+  With the introduction of Windows 95 Program Manager was replaced by the Windows Explorer as the shell. In simple words, that’s when Microsoft introduced the “Start Menu”.
 
-  Today I came across a utility called [Stardock Fences](http://www.stardock.com/products/fences/) that brings back some of the Program Manager user experience for Windows XP, Vista and Woindows7 users. 
+  Today I came across a utility called [Stardock Fences](http://www.stardock.com/products/fences/) that brings back some of the Program Manager user experience for Windows XP, Vista and Woindows7 users.
 
-  The concept is quite simple. With Fences you can organize your desktop shortcuts into individual groups (fences). 
+  The concept is quite simple. With Fences you can organize your desktop shortcuts into individual groups (fences).
 
-  ![image](images/image12.png) 
+  ![image](images/image12.png)
 
-  Using Fences is easy. If you are looking for a utility to organize your desktop, then Fences is definitely a tool you should evaluate. 
+  Using Fences is easy. If you are looking for a utility to organize your desktop, then Fences is definitely a tool you should evaluate.
 
   Download Stardock Fences [here](http://www.stardock.com/products/fences/downloads.asp)
+
 

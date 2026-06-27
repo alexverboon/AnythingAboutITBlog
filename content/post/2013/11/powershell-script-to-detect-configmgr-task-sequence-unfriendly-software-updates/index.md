@@ -29,60 +29,42 @@ tags:
 .DESCRIPTION
   As described witin KB2894518 http://support.microsoft.com/kb/2894518 some software updates that require
       multiple restarts can cuase ConfigMgr Task Sequences to fail
-      If you run the script without any parameters, all KB numbers defined in variable $KB are checked. 
+      If you run the script without any parameters, all KB numbers defined in variable $KB are checked.
       update the $KB variable with additional KB numbers when added in the online KB article
 .EXAMPLE
    Find-TSFailSWUpdates
-.EXAMPLE 
+.EXAMPLE
  Find-TSFailSWUpdates -KB 2862330,2771431
 .NOTES
     Written by Alex Verboon
     Version 1.0, 05.11.2013
 #>
-
 [CmdletBinding()]
-
- 
 param(
- 
- 
     # Software Update Group
     [Parameter(Mandatory = $false, ValueFromPipeline=$true)]
     [String[]] $KB
     )
- 
- 
 $SiteCode = "SR1"
-
-if ($KB.Length -eq 0) 
-    {    
+if ($KB.Length -eq 0)
+    {
         $KB = "2862330","2771431","2871777","2821895","2545698","2529073",”2965788”
     }
-
 Function Find-TSFailSWUpdates
 {
- 
 # Check that youre not running X64
-if ([Environment]::Is64BitProcess -eq $True) 
+if ([Environment]::Is64BitProcess -eq $True)
     {    Throw "Need to run at a X86 PowershellPrompt"
     }
- 
 # Load ConfigMgr module if it isn't loaded already
 if (-not(Get-Module -name ConfigurationManager)) {
         Import-Module ($Env:SMS_ADMIN_UI_PATH.Substring(0,$Env:SMS_ADMIN_UI_PATH.Length-5) + '\ConfigurationManager.psd1')
    }
- 
 # Change to site
     Push-Location
     Set-Location ${SiteCode}:
- 
- 
-
 $UpdateGroups = Get-CMSoftwareUpdateGroup | Select-Object LocalizedDisplayName
-
- 
 $info = @()
- 
 ForEach ($item in $UpdateGroups)
 {
     Write-host "Processing Software Update Group" $($item.LocalizedDisplayName)
@@ -102,13 +84,11 @@ ForEach ($item in $UpdateGroups)
         }
     }
 }
-
 $info | Format-Table
 Pop-Location
 }
- 
 # -----------------------------------------------------------------------------------------------------*
 # Show the updates that cause ConfigMgr TS to fail and the software update group there'in
 Find-TSFailSWUpdates
-
 ```
+

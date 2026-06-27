@@ -19,11 +19,11 @@ In the past weeks Jeremy has put an additional great amount of effort in reworki
 
 There are now 3 different GPO Online University options:
 
-	
+
 - Build your own
-	
+
 - Silver Package
-	
+
 - Gold Package
 
 The Build your own package allows you to select the individual options that just fit for your needs. So for those that already have bought the GPO [books from Jeremy](http://www.gpanswers.com/books) and don’t think they need pre-configured hard drive labs, they can just order the training and documentation material (labs, videos, slides).
@@ -33,4 +33,5 @@ Interested ? Then click [here](http://www.gpanswers.com/online-university/400-st
 Get the latest news around Group Policy Management, subscribe to the [GPAnswers Newsletter](http://www.GPanswers.com/1.html?p=cpqalve&w=TIPS)
 
 Enjoy
+
 

@@ -149,3 +149,4 @@ If you still run Windows 7 or Server 2008 R2 in your environment, this is a good
 - [Endpoint security in the AI era: What is new in Defender](https://www.youtube.com/watch?v=5FvIbLwRqzg)
 - [Known issues and limitations for Windows 7 SP1 and Server 2008 R2 SP1](https://learn.microsoft.com/en-us/defender-endpoint/defender-deployment-tool-windows#known-issues-and-limitations-for-windows-7-sp1-and-windows-server-2008-r2-sp1)
 
+

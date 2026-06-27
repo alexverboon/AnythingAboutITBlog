@@ -23,11 +23,12 @@ Here’s what you need to do to run a silent Silverlight 3 installation:
 
 3. Now extract the silverlight.msp from the silverlight.7z file (you can use the free [7-Zip](http://www.7-zip.org/) tool to do that).
 
-4.  Then create a batch script that has the following command:
+4.  Then create a batch script that has the following command:
 msiexec /i silverlight.msi /update silverlight.msp /qn
 
 **Update April 2010
-**This works as well. 
+**This works as well.
 
 Silverlight.exe /q /ignorewarnings /noupdate
+
 

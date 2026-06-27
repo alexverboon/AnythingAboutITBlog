@@ -15,29 +15,29 @@ tags:
   - 'Log-Files'
   - 'PowerShell'
 ---
-Looking at a client’s ConfigMgr Agent log files is inevitable when managing a Configuration Manager infrastructure. If you are working within a local area network only, then you will most likely just connect to the remote systems configuration manager log folder and drag and drop the appropriate log files into CMTrace.exe. But if your clients are distributed across a WAN network with slow network links opening the log file from a remote location is probably not the most efficient way for analyzing the log files content. And because troubleshooting typically requires looking at multiple log files you finally end up copying multiple log files or just the whole log folder to your client to open them locally. 
+Looking at a client’s ConfigMgr Agent log files is inevitable when managing a Configuration Manager infrastructure. If you are working within a local area network only, then you will most likely just connect to the remote systems configuration manager log folder and drag and drop the appropriate log files into CMTrace.exe. But if your clients are distributed across a WAN network with slow network links opening the log file from a remote location is probably not the most efficient way for analyzing the log files content. And because troubleshooting typically requires looking at multiple log files you finally end up copying multiple log files or just the whole log folder to your client to open them locally.
 
- I have therefore created the  below listed Get-RemoteCMLogs.ps1 PowerShell script that does the following:
+ I have therefore created the  below listed Get-RemoteCMLogs.ps1 PowerShell script that does the following:
 
-  
-- Connect to the remote client via PowerShell Remoting  
-- On the remote client start a process to create a ZIP file containing the ConfigMgr logs folder and windowsupdate.log  
-- From the remote client create a new remote connection back to the host that invoked the script  
+
+- Connect to the remote client via PowerShell Remoting
+- On the remote client start a process to create a ZIP file containing the ConfigMgr logs folder and windowsupdate.log
+- From the remote client create a new remote connection back to the host that invoked the script
 - Transfer the ZIP file through the PowerShell Remoting session and store it locally with the users Documents Folder
 
- The script uses two additional functions written by others. The [ZIP File functions](http://gallery.technet.microsoft.com/ZIP-Files-script-b5374a5d/view/Discussions#content) was written by Ken Sweet and the [Send-File function](http://www.powershellcookbook.com/recipe/ISfp/program-transfer-a-file-to-a-remote-computer) was written by Lee Holmes. 
+ The script uses two additional functions written by others. The [ZIP File functions](http://gallery.technet.microsoft.com/ZIP-Files-script-b5374a5d/view/Discussions#content) was written by Ken Sweet and the [Send-File function](http://www.powershellcookbook.com/recipe/ISfp/program-transfer-a-file-to-a-remote-computer) was written by Lee Holmes.
 
- Note that the use of this script requires that Windows Remote Management (WinRM) is enabled within your environment. 
+ Note that the use of this script requires that Windows Remote Management (WinRM) is enabled within your environment.
 
  After you have downloaded the script from [here](http://sdrv.ms/1gbYXre). Open a PowerShell command prompt and enter
 
  Get-RemotCMLogs.ps1 -Computer <Computername>,<Computername>
 
- Next you will be prompted to enter your credentials. Enter a username and password that has permissions on the remote and local client. 
+ Next you will be prompted to enter your credentials. Enter a username and password that has permissions on the remote and local client.
 
  ![image](images/image_thumb7.png)
 
- Once completed, you will have the log files stored in your Documents \ RemoteCMlogs folder. 
+ Once completed, you will have the log files stored in your Documents \ RemoteCMlogs folder.
 
  ![image](images/image_thumb8.png)
 
@@ -47,7 +47,7 @@ Looking at a client’s ConfigMgr Agent log files is inevitable when managing a 
    Gather Configuration Manager log files from remote systems
 .DESCRIPTION
    The script uses PowerShell remoting to connect to the remote client, then creates a ZIP archive file remotely
-   containing all Configuration Manager log files and then transfers the archive back. 
+   containing all Configuration Manager log files and then transfers the archive back.
 .EXAMPLE
    Get-RemoteCMLogs -Computer computer1, computer2
 .NOTES
@@ -55,14 +55,11 @@ Looking at a client’s ConfigMgr Agent log files is inevitable when managing a 
     Written by Alex Verboon, Zip function written by  Kenneth D. Sweet, Send-File function wirtten by lee holmes
     Requirements: WinRM must be enabled
 #>
-
 [cmdletbinding()]
-
 Param(
  [Parameter(Mandatory=$True,Position=0)]
  [string[]]$Computername
   )
-
 Function Get-CMLogs ($Computername) {
 #--------------------------------------------------------------------------------------
 # Global Variables
@@ -73,17 +70,12 @@ $CMLogFldr = "C:\Windows\CCM\Logs"
 $ThisComputer = [System.Net.Dns]::GetHostByName(($env:computerName)).HostName
 #The folder where the log archive files are stored to
 $localtmpfolder = "$env:USERPROFILE\Documents\RemoteCMLogs"
-
 #Check if the RemoteCMlogs folder already exists othrwise create it
 If (!(Test-path $localtmpfolder)) {New-Item -ItemType directory -Path $localtmpfolder}
-
 $cred = Get-Credential
-
 Function ZIP-CMlogs  ($Computername, $CMLogFldr, $ThisComputer,$cred,$localtmpfolder) {
-
 #--------------------------------------------------------------------------------------
 # ZIP File Function. Credits for this function go to Kenneth D. Sweet
-
 # http://gallery.technet.microsoft.com/ZIP-Files-script-b5374a5d/view/Discussions#content
 #--------------------------------------------------------------------------------------
 Function Zip-File () {
@@ -103,7 +95,7 @@ Function Zip-File () {
       If "Display Delete Confirmation" is enable you will be prompted confirm to Remove each File
     .PARAMETER Extract
       Names of Files or Folders to Extract from Zip Archive
-      Recreates Folders structure when extracting Files, even Folders that have no Matching Files to Extract 
+      Recreates Folders structure when extracting Files, even Folders that have no Matching Files to Extract
     .PARAMETER Destination
       Destination Folder to Extract Files or Folders to
     .PARAMETER Folders
@@ -124,7 +116,7 @@ Function Zip-File () {
     .EXAMPLE
       Zip-File -ZipFile "C:\Test.zip" -Remove "Temp_01" -Folders
     .EXAMPLE
-      Zip-File -ZipFile "C:\Test.zip" -Extract "*.doc", "*.docx"-Destination "C:\Temp" 
+      Zip-File -ZipFile "C:\Test.zip" -Extract "*.doc", "*.docx"-Destination "C:\Temp"
     .EXAMPLE
       Zip-File -ZipFile "C:\Test.zip" -Extract "Temp_02" -Destination "C:\Temp" -Folders
     .EXAMPLE
@@ -201,7 +193,7 @@ Function Zip-File () {
                 if ([String]::IsNullOrEmpty($ParseName)) {
                   if (!$Recurse) {
                     # Write-Host "Adding Folder: $Dir " original line from zip function
-                    Write-Host "Processing Computer: $Computername Adding Folder: $Dir to $filename" # customized message 
+                    Write-Host "Processing Computer: $Computername Adding Folder: $Dir to $filename" # customized message
                   }
                   $ZipArchive.CopyHere($Dir, 0x14)
                   Do {
@@ -322,9 +314,7 @@ Function Zip-File () {
   }
 }
 # end of ZIP-File Function
-
 Function Send-File {
-
 ##############################################################################
 ##
 ## Send-File
@@ -334,41 +324,29 @@ Function Send-File {
 ##
 ## http://www.powershellcookbook.com/recipe/ISfp/program-transfer-a-file-to-a-remote-computer
 ##############################################################################
-
 <#
-
 .SYNOPSIS
-
 Sends a file to a remote session.
-
 .EXAMPLE
-
 PS >$session = New-PsSession leeholmes1c23
 PS >Send-File c:\temp\test.exe c:\temp\test.exe $session
-
 #>
-
 param(
     ## The path on the local computer
     [Parameter(Mandatory = $true)]
     $Source,
-
     ## The target path on the remote computer
     [Parameter(Mandatory = $true)]
     $Destination,
-
     ## The session that represents the remote computer
     [Parameter(Mandatory = $true)]
     [System.Management.Automation.Runspaces.PSSession] $Session
 )
-
 Set-StrictMode -Version Latest
-
 ## Get the source file, and then get its content
 $sourcePath = (Resolve-Path $source).Path
 $sourceBytes = [IO.File]::ReadAllBytes($sourcePath)
 $streamChunks = @()
-
 ## Now break it into chunks to stream
 Write-Progress -Activity "Sending $Source" -Status "Preparing file"
 $streamSize = 1MB
@@ -377,78 +355,61 @@ for($position = 0; $position -lt $sourceBytes.Length;
 {
     $remaining = $sourceBytes.Length - $position
     $remaining = [Math]::Min($remaining, $streamSize)
-
     $nextChunk = New-Object byte[] $remaining
     [Array]::Copy($sourcebytes, $position, $nextChunk, 0, $remaining)
     $streamChunks += ,$nextChunk
 }
-
 $remoteScript = {
     param($destination, $length)
-
     ## Convert the destination path to a full filesytem path (to support
     ## relative paths)
     $Destination = $executionContext.SessionState.`
         Path.GetUnresolvedProviderPathFromPSPath($Destination)
-
     ## Create a new array to hold the file content
     $destBytes = New-Object byte[] $length
     $position = 0
-
     ## Go through the input, and fill in the new array of file content
     foreach($chunk in $input)
     {
         Write-Progress -Activity "Writing $Destination" `
             -Status "Sending file" `
             -PercentComplete ($position / $length * 100)
-
         [GC]::Collect()
         [Array]::Copy($chunk, 0, $destBytes, $position, $chunk.Length)
         $position += $chunk.Length
     }
-
     ## Write the content to the new file
     [IO.File]::WriteAllBytes($destination, $destBytes)
-
     ## Show the result
     Get-Item $destination
     [GC]::Collect()
 }
-
 ## Stream the chunks into the remote script
 $streamChunks | Invoke-Command -Session $session $remoteScript `
     -ArgumentList $destination,$sourceBytes.Length
-
 }
 ### End of Send-File function
-
 # -----------------------------------------------------------------------------------------------------------------------#
 # Below are the commands we execute remotely
 # -----------------------------------------------------------------------------------------------------------------------#
-
 # Get the Windows Temp folder on the remote system
 $tmpfolder = "$env:SystemRoot\TEMP\"
-# create timestamp variable 
+# create timestamp variable
 $timestamp = $((get-date).tostring("MMddyyyyHHmmss"))
 # construct the filename including the path
 $filename =  "cmlog_" + $Computername + "_" + $timestamp + ".zip"
-
-# Generate ZIP file with content from CM log folder. Note the $CMLogFldr variable is defined at the top of the script. 
+# Generate ZIP file with content from CM log folder. Note the $CMLogFldr variable is defined at the top of the script.
 If (Test-path $CMLogFldr) {zip-file -ZipFile "$tmpfolder$filename" -Add $CMLogFldr -Folders} Else {Write-Warning "Could not find folder" $CMLogFldr}
-
 # Because the Windowsupdate.log file is also important we also collect it
 If (Test-path "$env:Systemroot\Windowsupdate.log") {zip-file -ZipFile "$tmpfolder$filename" -Add "$env:Systemroot\Windowsupdate.log"} Else {Write-Warning "Could not find $env:Systemroot\Windowsupdate.log" }
-
 # On the remote machine, start a new remote session back to the script execution host
 $RSession = New-PSSession $ThisComputer -Credential $cred
 # Transfer the logs archive through the open session
 Send-File "$tmpfolder$filename" "$localtmpfolder\$filename" $RSession
 # close the session from the remote host to the script execution host
 Remove-PSSession $RSession
-
 }
 # End of ZIP-CMLogs function
-
 # -----------------------------------------------------------------------------------------------------------------------#
 # Commands from Get-CMLogs Main function
 # -----------------------------------------------------------------------------------------------------------------------#
@@ -456,30 +417,26 @@ Remove-PSSession $RSession
 ForEach ($iComputername in $Computername)
 {
     Function Get-Remotelogs {
-    # Settings this option prevents the creation of the user profile on the remote system 
-    $SesOpt = New-PSSessionOption -NoMachineProfile 
+    # Settings this option prevents the creation of the user profile on the remote system
+    $SesOpt = New-PSSessionOption -NoMachineProfile
     # Start a new Remote Session
     $ses = New-PSSession -ComputerName $iComputername -ErrorAction SilentlyContinue -SessionOption $SesOpt
-    # Execute the ZIP-CMLogs function on the remote machine. 
+    # Execute the ZIP-CMLogs function on the remote machine.
     $ab = Invoke-Command -Session $ses -ScriptBlock ${function:ZIP-CMlogs} -ArgumentList $iComputername, $CMLogFldr,$ThisComputer,$cred,$localtmpfolder
     # Clsoe the session
     Remove-PSSession $ses
     }
-
 Get-Remotelogs $iComputername
 }
-
 }
 # End of Get-CMLogs function
-
 # -----------------------------------------------------------------------------------------------------------------------#
-
 Get-CMLogs $Computername
-
 ```
 
-Note that the script is written to work with Configuration Manager 2012 Clients. I am planning for an updated version that first checks the agent version and then detects the log folder location. If you want to use the script for ConfigMgr 2007 agents simply adjust the **$CMLogFldr** variable at the beginning of the script. 
+Note that the script is written to work with Configuration Manager 2012 Clients. I am planning for an updated version that first checks the agent version and then detects the log folder location. If you want to use the script for ConfigMgr 2007 agents simply adjust the **$CMLogFldr** variable at the beginning of the script.
 
-Any comments, inputs are welcome. 
+Any comments, inputs are welcome.
 
 Happy log file collecting!
+

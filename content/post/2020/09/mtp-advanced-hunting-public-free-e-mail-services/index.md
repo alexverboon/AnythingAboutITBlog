@@ -132,3 +132,4 @@ Change the query as following to identify the users affected
 As always, I hope you enjoyed reading this blog post, comments, suggestions are always welcome
 
 Alex
+

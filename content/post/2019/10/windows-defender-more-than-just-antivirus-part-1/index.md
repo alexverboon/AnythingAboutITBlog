@@ -27,23 +27,23 @@ If you're a long-time reader of my blog, you might know that I'm interested in t
 
 When speaking about Windows Defender, people usually first think of Antivirus, that's absolutely correct, however Windows Defender is far more than just virus a scanner. Here's a summary of features that go with the name Windows Defender.
 
- 	
+
 - Windows Defender SmartScreen
- 	
+
 - Windows Defender Firewall
- 	
+
 - Windows Defender Exploit Guard
- 	
+
 - Windows Defender Credential Guard
- 	
+
 - Windows Defender Application Guard
- 	
+
 - Windows Defender Application Control (prior to Windows 10 1709 known as Defender Device Guard configurable code integrity policies)
- 	
+
 - Windows Defender Security Center
- 	
+
 - Windows Defender System Guard
- 	
+
 - Windows Microsoft Defender Advanced Threat Protection
 
 # Windows Defender or Microsoft Defender?
@@ -82,23 +82,23 @@ If you're interested or need to now the impact of setting restrictive Windows De
 
 Windows Defender SmartScreen Events, when logging is enabled, are written to the following Windows Event Log: Microsoft-Windows-SmartScreen
 
-  
+
 
 **Event ID**
 **Description**
 
 **1000 **
-Application SmartScreen Event 
+Application SmartScreen Event
 
 **1001 **
-Uri SmartScreen Event 
+Uri SmartScreen Event
 
 **1002**
 User Decision SmartScreen Event
 
 When using Microsoft Defender ATP, you can use the following advanced hunting queries:
 
- 
+
 
 **SmartScreen Event Totals**
 
@@ -108,7 +108,7 @@ MiscEvents
 
 | summarize count() by ActionType
 
- 
+
 
 **SmartScreen Event – App Warnings**
 
@@ -132,7 +132,7 @@ Enabling cloud-based protection for Microsoft Defender Antivirus is really simpl
 
 ![](images/101919_1532_WindowsDefe7.png)
 
- 
+
 
 **Enable Cloud protection for Defender Antivirus with PowerShell**
 
@@ -163,7 +163,7 @@ Bottom line I strongly recommend putting in place a solid process for managing D
 
 The below table points to some Microsoft and 3rd party vendor articles related to antivirus exclusions.
 
-  
+
 
 **Vendor / Product**
 **Reference**
@@ -209,4 +209,5 @@ Knowing that many people don't have the time (or patience) to read through long 
 Thanks for reading and have a great day
 
 Alex
+
 

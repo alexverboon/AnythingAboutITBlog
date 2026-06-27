@@ -60,13 +60,13 @@ And more details in the audit log.
 
 Now I can hear some of you thinking that this looks like something that's not secure and users should not be allowed to register applications themselves as the application might require too much permissions. In that case an admin would disable the ability for users to register apps, however this might add additional workload for admins, and there is also a risk that users might decide to simply use other credentials, not visible to the company, to gain access. The "How and why applications are added to Azure AD" article provides a complete overview of how this all works, but I'd like to highlight some considerations that are described in this article – "[Who has permission to add applications to my Azure AD instance?](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-how-applications-are-added)"
 
- 	
+
 - Applications have been able to leverage Windows Server Active Directory for user authentication for many years without requiring the application to be registered or recorded in the directory. Now the organization will have improved visibility to exactly how many applications are using the directory and for what purpose.
- 	
+
 - Delegating these responsibilities to users negates the need for an admin-driven application registration and publishing process.
- 	
+
 - Users signing in to applications using their organization accounts for business purposes is a good thing. If they subsequently leave the organization, they will automatically lose access to their account in the application they were using.
- 	
+
 - Having a record of what data was shared with which application is a good thing. Data is more transportable than ever and it's useful to have a clear record of who shared what data with which applications.
 
 Okay I see, some of you are still not convinced. Now let's bring in Microsoft Cloud App Security. Within the Cloud App Security portal, we have an overview of OAuth applications being used.
@@ -131,12 +131,13 @@ That's it for today, I hoped you enjoyed this blog post and hopefully this helps
 
 Additional References:
 
- 	
+
 - [https://docs.microsoft.com/en-us/cloud-app-security/manage-app-permissions](https://docs.microsoft.com/en-us/cloud-app-security/manage-app-permissions)
- 	
+
 - [https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-how-applications-are-added](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-how-applications-are-added)
- 	
+
 - [https://docs.microsoft.com/en-us/office365/securitycompliance/detect-and-remediate-illicit-consent-grants](https://docs.microsoft.com/en-us/office365/securitycompliance/detect-and-remediate-illicit-consent-grants)
- 	
+
 - [https://docs.microsoft.com/en-us/azure/active-directory/develop/consent-framework](https://docs.microsoft.com/en-us/azure/active-directory/develop/consent-framework)
+
 

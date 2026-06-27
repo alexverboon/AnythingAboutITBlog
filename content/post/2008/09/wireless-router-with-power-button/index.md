@@ -23,9 +23,10 @@ Yesterday i read a local IT magazine where there was a reference to a [Netgrear]
 
 I find having a power on/off button very useful for 2 reasons:
 
-	
+
 - Energy saving
 - Less Wireless signals in the house when not needed
 
 Till now the family just unplugged the power cable , but that isn't as convenient as just pressing a button, so soon this device will replace our current one.
+
 

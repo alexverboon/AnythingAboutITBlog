@@ -14,7 +14,7 @@ tags:
   - 'Hp'
 ---
 Today the following options exist to automate BIOS configuration for HP clients:The Client Management Interface allows you to use WSH to retrieve and set BIOS settings like in the example below which changes the Ownership Tag.
- 
+
 ```vb
 Const wbemFlagReturnImmediately = 16
 Const wbemFlagForwardOnly = 32
@@ -62,11 +62,12 @@ BiosConfigUtility.exe /setconfig:wlan.txt
 
 ```bash
 English
-LAN/WLAN Switching 
+LAN/WLAN Switching
 Disable
 *Enable
 ```
 
 More Information about HP SSM can be found here:
 [http://h20219.www2.hp.com/Hpsub/cache/284133-0-0-225-121.html](http://h20219.www2.hp.com/Hpsub/cache/284133-0-0-225-121.html)
+
 

@@ -22,11 +22,11 @@ Here’s an example of an application that has a hard coded path to Microsoft Of
 
 As most of you probably know, a Windows Installer file is a database that contains all the necessary information for the installation of an application. In order to query the files referenced within the Windows Installer database, we have to look at the following database tables.
 
-	
+
 - [Component Table](http://msdn.microsoft.com/en-us/library/aa368007(v=vs.85).aspx)
-	
+
 - [Directory Table](http://msdn.microsoft.com/en-us/library/aa368295(v=vs.85).aspx)
-	
+
 - [File Table](http://msdn.microsoft.com/en-us/library/aa368596(v=vs.85).aspx)
 
 Let’s start with the File Table. In the below example we see that this Application consists of two files. The File Table contains the following attributes: File, Component_, FileName, FileSize, Version, Language, Attributes and Sequence.
@@ -84,10 +84,8 @@ function Get-MSIFileInfo()
 .DESCRIPTION
     This fucntion uses the Windows Instaler COM object to retrieve file information from the Windows Installer
     database. The script can be used for analyzing content of Windows Installer databases without the need of
-    having to initiate an actual install. 
-
+    having to initiate an actual install.
     The function retrieves the following information for each file referenced in the Windows Installer Database
-
     MSIFileFullname   : C:\TEMP\cmcollctr_1.0.0.11.msi
     MSIProductName    : Collection Commander for Configuration Manager
     MSIProductVersion : 1.0.0.11
@@ -102,35 +100,25 @@ function Get-MSIFileInfo()
     Directory_Parent  : TARGETDIR
     DefaultDir        : APPDIR:.
     TargetPath        : C:\Program Files (x86)\Collection Commander for Configuration Manager
-
 .EXAMPLE
     Get-MSIFileInfo -Installerfile "C:\TEMP\cmcollctr_1.0.0.11.msi"
-
     This command processes the specified file(s) and stores the file information results into a csv file
-    located in the same folder as the script. 
-
+    located in the same folder as the script.
 .EXAMPLE
-    Get-MSIFileInfo -IstallerFolder "C:\TEMP\MSI"    
-
-    This command processes all MSI files stored under c:\temp\msi and stores the file information results 
-    into a csv file located in the same folder as the script. 
-
+    Get-MSIFileInfo -IstallerFolder "C:\TEMP\MSI"
+    This command processes all MSI files stored under c:\temp\msi and stores the file information results
+    into a csv file located in the same folder as the script.
 .EXAMPLE
     Get-MSIFileInfo -Installerfile "C:\TEMP\cmcollctr_1.0.0.11.msi" -OutPutFile "C:\TEMP\msifileresults.csv"
-    
     This command processes the specified file and stores the file informatoin results into the spevified
-    output file.    
-
+    output file.
 .PARAMETER InstallerFile
-    The path to a Windows Installer file. 
-
+    The path to a Windows Installer file.
 .PARAMETER InstallerFolder
     The path of the folder containing Wwindows Installer files
-
 .PARAMETER OutPutFile (Optional)
     The path to the output file. If no Output file is specified the results are stored into a csv file
-    located within the script file folder. 
-
+    located within the script file folder.
 .LINKS
     MSDN Windows Installer
     http://msdn.microsoft.com/en-us/library/aa369432(v=vs.85).aspx
@@ -138,11 +126,10 @@ function Get-MSIFileInfo()
     http://stackoverflow.com/questions/23903254/advanced-installer-powershell-script-set-property
 .NOTES
     Version 1.1.0 by Alex Verboon
-
-    Credits 
+    Credits
     weberik's post at stackoverflow for the vb script code and Claude Henchoy for the conversion into PS
     https://stackoverflow.com/questions/17543132/how-can-i-resolve-msi-paths-in-vbscript#new-answer
-    Adam Bertram's Get-MSIProperties script got me started with how to read content from MSI files 
+    Adam Bertram's Get-MSIProperties script got me started with how to read content from MSI files
     http://gallery.technet.microsoft.com/scriptcenter/Get-all-native-properties-e4e19180
     Trevor Sullivan's memory usage snippet
     http://trevorsullivan.net/2012/01/23/powershell-prompt-function-to-monitor-memory-usage/
@@ -155,7 +142,7 @@ param (
     ValueFromPipelineByPropertyName=$True,
     Position=0,
     HelpMessage='What is the path of the Windows Installer file to query?')]
-    [String[]]$InstallerFile, 
+    [String[]]$InstallerFile,
 [Parameter(ParameterSetName="Directory",
     Mandatory=$True,
     ValueFromPipeline=$True,
@@ -168,35 +155,33 @@ param (
     HelpMessage='What is the path of the output file')]
     [String]$OutPutFile
 )
-      
 begin
 {
     # Check what parameter was used File or Folder
-    switch ($PsCmdlet.ParameterSetName) 
+    switch ($PsCmdlet.ParameterSetName)
     {
     "File" {
             # Check if the Windows Installer file(s) exists, exit if not
             ForEach ($checkfile in $InstallerFile)
                 {
-                    if (!(Test-Path -literalpath $checkfile)) 
+                    if (!(Test-Path -literalpath $checkfile))
                     { throw "File '{0}' does not exist" -f $checkfile}
                 }
             }
     "Directory"{
             # Check if the provided Directory exists, exit if not
-            if (!(Test-Path -Path $InstallerFolder))   
+            if (!(Test-Path -Path $InstallerFolder))
                 {
                     throw "Folder '{0}' does not exist" -f $InstallerFolder
                 }
             Else
                 {
                     # When a folder is provided, retrieve all Windows installer files
-                    # in the folder and subfolders 
+                    # in the folder and subfolders
                     $InstallerFile = (Get-ChildItem -Path "$InstallerFolder\*.MSI" -Recurse -File).FullName
                 }
             }
     } # end switch
-
     # Check if an output file was specified
     if ($PSBoundParameters.ContainsKey("OutPutFile"))
         {
@@ -210,29 +195,25 @@ begin
             $filename =  "MSI_FileInfo" + "_" + $timestamp + ".txt"
             $msifileinfo_output = $PSScriptRoot + "\" + "$filename"
         }
-
     # Windows Installer COM object
     $com_object = New-Object -com WindowsInstaller.Installer
-
-    # construct the temp powershell script file name 
+    # construct the temp powershell script file name
     $tmpfile =   [guid]::NewGuid().Guid + ".ps1"
     $tmpfld = "$env:Temp\"
     $tmpps = $tmpfld + $tmpfile
-
     # $launchmsiscript contains the powershell code used to run the Windows Installer CostInitialize and
     # Costfinalize actions
     # http://msdn.microsoft.com/en-us/library/aa368050(v=vs.85).aspx
     # http://msdn.microsoft.com/en-us/library/aa368048(v=vs.85).aspx
     # we have to launch a separate powershell process as otherwise the Windows Installer process remains open
-    # the below code is stored into a temporary ps1 file that is then launched from the below process.   
-
+    # the below code is stored into a temporary ps1 file that is then launched from the below process.
 $launchmsiscript = @"
 <#
 .Synopsis
    This function invokes the Widnows Installer CostFinalize action
 .DESCRIPTION
    This function invokes the Widnows Installer CostFinalize action
-   and then provides the filename, component and resolved path of the path as output 
+   and then provides the filename, component and resolved path of the path as output
 .EXAMPLE
     Invoke-MSICostFinalize -FileName "C:\TEMP\cmcollctr_1.0.0.11.msi"
 .NOTES
@@ -250,67 +231,51 @@ function Invoke-MSICostFinalize
         [Parameter(Mandatory=`$true,
                    ValueFromPipelineByPropertyName=`$true,
                    Position=0)]
-        [String]`$FileName 
+        [String]`$FileName
     )
-
 Begin
 {
         # Check if the Installer File exists
-        if (!(Test-Path -literalpath `$FileName)) 
+        if (!(Test-Path -literalpath `$FileName))
         { throw "File '{0}' does not exist" -f `$FileName}
 }
-
 Process{
-
     # Installer init, OpenDatabase, OpenPackage
     `$Installer = New-Object -ComObject "WindowsInstaller.Installer"
     `$DB = `$Installer.GetType().InvokeMember("OpenDatabase","InvokeMethod",`$Null,`$Installer,@(`$FileName, 0))
     `$Session = `$Installer.GetType().InvokeMember("OpenPackage","InvokeMethod",`$Null,`$Installer,@(`$DB, 0))
-
     # CostInitialize, CostFinalize
     `$Session.GetType().InvokeMember("DoAction","InvokeMethod",`$Null,`$Session,@("CostInitialize", 0))
     `$Session.GetType().InvokeMember("DoAction","InvokeMethod",`$Null,`$Session,@("CostFinalize", 0))
-
     # Add Query
     `$View = `$DB.GetType().InvokeMember("OpenView","InvokeMethod",`$Null,`$DB,
         @("SELECT File, Directory_, FileName, Component_, Component FROM File,Component WHERE Component=Component_ ORDER BY Directory_", 0)
     )
-
     # Execute Query
     `$View.GetType().InvokeMember("Execute","InvokeMethod",`$Null,`$View,@(0))
-
     # Fetch 1st record
     `$Record = `$View.GetType().InvokeMember("Fetch","InvokeMethod",`$Null,`$View,@(0))
-
     do {
         # Fill variables
         `$File = `$Record.GetType().InvokeMember("StringData","GetProperty",`$Null,`$Record,@(1,0))
         `$DirectoryName = `$Record.GetType().InvokeMember("StringData","GetProperty",`$Null,`$Record,@(2,0))
         `$FileName = `$Record.GetType().InvokeMember("StringData","GetProperty",`$Null,`$Record,@(3,0))
         `$Components = `$Record.GetType().InvokeMember("StringData","GetProperty",`$Null,`$Record,@(4,0))
-    
         # Split filename
         try {
             `$FileName = `$FileName.Split("|")[1]
         } catch {}
-
         # Resolve Directory
         `$ResolvedDirectory = `$Session.GetType().InvokeMember("TargetPath","GetProperty",`$Null,`$Session,@(`$DirectoryName, 0))
-    
         # Output
-
        `$outline =  `$ResolvedDirectory + `$FileName + "," + `$Components
-
         write-output `$outline
-
         # Get next record
         `$Record = `$View.GetType().InvokeMember("Fetch","InvokeMethod",`$Null,`$View,@(0))
     } while (`$Record)
 }
-
 End{}
 } # end function
-
 If ([string]::IsNullOrEmpty(`$args) -ne `$true)
 {
     Invoke-MSICostFinalize -FileName "`$args"
@@ -320,35 +285,28 @@ Else
     "Input Parameter -FileName is missing"
 }
 "@
-
 #write the temporary powershell script file
 $launchmsiscript | Out-File -FilePath $tmpps -NoClobber -Encoding ascii
 }
-
 process
 {
     $ParentID = 1
     $swcount = $InstallerFile.count
     $si=1
-
     ForEach ($msifile in $InstallerFile)
     {
         $FilePath = [IO.FileInfo[]]$msifile
         Write-Progress -id $ParentID -Activity "Processing  $si / $swcount" -Status "$msifile" -PercentComplete (($si / $swcount) * 100)
-
-        # construct the temp resolved path output file 
+        # construct the temp resolved path output file
         $tmpfile =   [guid]::NewGuid().Guid + ".txt"
         $tmpfld = "$env:Temp\"
         $tmprpaths = $tmpfld + $tmpfile
-
         # launch the temp powershell script to resolve the MSI paths
         Write-Progress -ParentId $ParentID -Activity "Initialization" -Status "Resolving paths" -PercentComplete 0
-        $resolvedpath = powershell.exe -NoLogo -file "$tmpps" "$FilePath" 
+        $resolvedpath = powershell.exe -NoLogo -file "$tmpps" "$FilePath"
         Write-Progress -ParentId $ParentID -Activity "Initialization" -Status "Resolving paths completed" -PercentComplete 100
-
         # store the results into a tmp file
         $resolvedpath | Out-File -FilePath $tmprpaths -Encoding ascii
-
         # bulid the resolved paths table
         $in = 0
         $resolvedpathdetails = @()
@@ -362,14 +320,12 @@ process
             $rpath | Add-Member -MemberType NoteProperty -Name "Component" -Value $component
             $resolvedpathdetails += $rpath
         }
-
-        try 
+        try
         {
             # -------------------------------------------------------------------------------------------------#
             # Open Database 1
             # -------------------------------------------------------------------------------------------------#
             Write-Progress -ParentId $ParentID -Activity "Initialization" -Status "Opening Database" -PercentComplete 0
-
             $database = $com_object.GetType().InvokeMember(
                 "OpenDatabase",
                 "InvokeMethod",
@@ -377,7 +333,6 @@ process
                 $com_object,
                 @($FilePath.FullName, 0)
             )
-
             # -------------------------------------------------------------------------------------------------#
             # MSI Property Information 2
             # -------------------------------------------------------------------------------------------------#
@@ -390,9 +345,7 @@ process
                     $database,
                     ($Propertyquery)
             )
-
             $PropertyView.GetType().InvokeMember("Execute", "InvokeMethod", $Null, $PropertyView, $Null)
-
             $Propertyrecord = $PropertyView.GetType().InvokeMember(
                     "Fetch",
                     "InvokeMethod",
@@ -400,14 +353,12 @@ process
                     $PropertyView,
                     $Null
             )
-
             $properties_table = @{}
             while ($Propertyrecord -ne $null)
             {
             $Prop =  $Propertyrecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $Propertyrecord, 1)
             $value = $Propertyrecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $Propertyrecord, 2)
             $properties_table.Add("$($prop)","$($value)")
-
             $Propertyrecord = $PropertyView.GetType().InvokeMember(
                     "Fetch",
                     "InvokeMethod",
@@ -416,7 +367,6 @@ process
                     $Null
                 )
             }
-
             # -------------------------------------------------------------------------------------------------#
             # MSI Directory Information 3
             # -------------------------------------------------------------------------------------------------#
@@ -429,7 +379,6 @@ process
                     $database,
                     ($dirquery)
             )
-
             $dirView.GetType().InvokeMember("Execute", "InvokeMethod", $Null, $dirView, $Null)
             $dirrecord = $dirView.GetType().InvokeMember(
                     "Fetch",
@@ -438,8 +387,6 @@ process
                     $dirView,
                     $Null
             )
-
-            
             $directory_table = @{}
             while ($dirrecord -ne $null)
             {
@@ -455,7 +402,6 @@ process
                 $Null
                 )
             }
-
             # -------------------------------------------------------------------------------------------------#
             # MSI File Information 4
             # -------------------------------------------------------------------------------------------------#
@@ -468,7 +414,6 @@ process
                     $database,
                     ($filequery)
             )
-
             $fileView.GetType().InvokeMember("Execute", "InvokeMethod", $Null, $fileView, $Null)
             $filerecord = $fileView.GetType().InvokeMember(
                     "Fetch",
@@ -477,7 +422,6 @@ process
                     $fileView,
                     $Null
             )
-            
             $files_table = @{}
             while ($filerecord -ne $null)
             {
@@ -486,9 +430,7 @@ process
             $filename = $filerecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $filerecord, 3)
             $filesize = $filerecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $filerecord, 4)
             $fileversion = $filerecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $filerecord, 5)
-
             $files_table.Add("$File",("$Component","$filename","$filesize","$fileversion"))
-
             $filerecord = $fileView.GetType().InvokeMember(
                     "Fetch",
                     "InvokeMethod",
@@ -497,7 +439,6 @@ process
                     $Null
                 )
             }
-
             # -------------------------------------------------------------------------------------------------#
             # MSI Component Information 5
             # -------------------------------------------------------------------------------------------------#
@@ -510,7 +451,6 @@ process
                     $database,
                     ($compquery)
             )
-
             $compView.GetType().InvokeMember("Execute", "InvokeMethod", $Null, $compView, $Null)
             $comprecord = $compView.GetType().InvokeMember(
                     "Fetch",
@@ -519,7 +459,6 @@ process
                     $compView,
                     $Null
             )
-
             $components_table = @{}
             while ($comprecord -ne $null)
             {
@@ -528,7 +467,6 @@ process
             $directory = $comprecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $comprecord, 3)
             $keypath = $comprecord.GetType().InvokeMember("StringData", "GetProperty", $Null, $comprecord, 4)
             $components_table.Add("$component",("$componentid","$directory","$keypath"))
-
             $comprecord = $compView.GetType().InvokeMember(
                     "Fetch",
                     "InvokeMethod",
@@ -537,9 +475,7 @@ process
                     $Null
                 )
             }
-
             Write-Progress -ParentId $ParentID -Activity "Initialization" -Status "Completed Gathering Information" -PercentComplete ((5/100*5) *100)
-
             # ------------------------------------------------------------------------------------------#
             # Putting it together
             # ------------------------------------------------------------------------------------------#
@@ -549,17 +485,14 @@ process
             $MSIProductVersion = $properties_table["ProductVersion"]
             $Manufacturer = $properties_table["Manufacturer"]
             $MSIProductCode = $properties_table["ProductCode"]
-
             # load the tmp resolved paths dat into a variable
             $rpf = Get-Content -Path $tmprpaths
-
             # -------------------------------------------------------------------------------------------------#
             # Create the dataset
             # -------------------------------------------------------------------------------------------------#
             $msi_fileprops = @()
             $fc=1
             $sw = [System.Diagnostics.Stopwatch]::StartNew()
-
             $totalfiles = $files_table.count
             ForEach($item in $files_table.GetEnumerator()){
                 $msifileinfo = New-Object -TypeName psobject
@@ -575,22 +508,17 @@ process
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "FileName" -Value $item.Value[1]
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "FileSize" -Value $item.Value[2]
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "Version" -Value $item.Value[3]
-                
                  # Get the Directory from the components table
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "Directory" -Value ($cd = $components_table["$($msifileinfo.Component)"][1])
                 # Get the Parent Directory from the directory table
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "Directory_Parent" ($dp = $directory_table["$($msifileinfo.Directory)"][0])
                 # Get the Default Diectory from the directory table
                 $msifileinfo | Add-Member -MemberType NoteProperty -Name "DefaultDir" ($dd = $directory_table["$($msifileinfo.Directory)"][1])
-
                 # Get the resolved path information
-
-                #$rp = Get-Content -Path $tmprpaths | Select-String "$($msifileinfo.Component)" | Select-Object -First 1 
-                $rp = $rpf | Select-String "$($msifileinfo.Component)"    | Select-Object -First 1 
-
-                #$rp = Get-Content -Path $tmprpaths  -filter "$($msifileinfo.Component)" | Select-Object -First 1 
+                #$rp = Get-Content -Path $tmprpaths | Select-String "$($msifileinfo.Component)" | Select-Object -First 1
+                $rp = $rpf | Select-String "$($msifileinfo.Component)"    | Select-Object -First 1
+                #$rp = Get-Content -Path $tmprpaths  -filter "$($msifileinfo.Component)" | Select-Object -First 1
                 $rp = $rp.ToString().split(",")[0]
-
                     # because the above command sometimes returns multiple values, we have to check whether we have
                     # just a string or an array, if we get an array we just take the first entry to get the path information
                     if ($rp -is [array] -eq $true)
@@ -602,8 +530,7 @@ process
                         $msifileinfo | Add-Member -MemberType NoteProperty -Name "TargetPath" -Value ([System.IO.Path]::GetDirectoryName($rp))
                     }
                 $msi_fileprops += $msifileinfo
-                $fc++ 
-
+                $fc++
                 # to prevent write-progress from slowing down the process, only display process every 1000 milisecnds
                 if ($sw.Elapsed.TotalMilliseconds -ge 1000)
                      {
@@ -612,16 +539,13 @@ process
                         $sw.Reset(); $sw.Start()
                     }
             } # end while file info
-
             # Delete the temp resolved path output file
             Remove-item -Path "$tmprpaths" -Force
-
             # dump the results into the text file
-
             Write-Progress -ParentId $ParentID -Activity "Processing results" -Status "storing results into log file" -PercentComplete 100
-            $msi_fileprops | Select-Object * | export-csv -Path $msifileinfo_output -NoClobber -NoTypeInformation -Append 
+            $msi_fileprops | Select-Object * | export-csv -Path $msifileinfo_output -NoClobber -NoTypeInformation -Append
             $si++
-        } 
+        }
         catch
         {
             # show the error but continue
@@ -629,7 +553,6 @@ process
         }
     } # end for each msi file
 } # end process
-
 End
 {
         # remove the temp ps script
@@ -637,3 +560,4 @@ End
 }
 } # end function
 ```
+

@@ -14,9 +14,10 @@ tags:
   - 'Vista'
   - 'Vista-Sp2'
 ---
-Note that once you have installed Windows Vista Service Pack 2 you can run the compcln.exe utility to make your installation permanent and remove any sources from the previous state. 
+Note that once you have installed Windows Vista Service Pack 2 you can run the compcln.exe utility to make your installation permanent and remove any sources from the previous state.
 
- ![image](images/image-thumb3.png) 
+ ![image](images/image-thumb3.png)
 
  After you have executed compcln.exe, you will notice that you get some free disk space back.
+
 

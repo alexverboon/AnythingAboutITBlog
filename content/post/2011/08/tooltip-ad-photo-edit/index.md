@@ -14,7 +14,7 @@ tags:
   - 'Photo'
   - 'Active Directory'
 ---
-Last night I came across this FREE utility called AD Photo Edit developed by [Chris Wright](http://cjwdev.wordpress.com/about-me/)  which allows you to upload your picture into Active Directory. The result of doing that is that people who use Outlook 2010 can see your profile picture in the mail you send them. 
+Last night I came across this FREE utility called AD Photo Edit developed by [Chris Wright](http://cjwdev.wordpress.com/about-me/)  which allows you to upload your picture into Active Directory. The result of doing that is that people who use Outlook 2010 can see your profile picture in the mail you send them.
 
   ![2011-08-27 16h18_46](images/2011-08-27-16h18_46_thumb.png)
 
@@ -22,23 +22,24 @@ Last night I came across this FREE utility called AD Photo Edit developed by [Ch
 
   ![2011-08-27 16h08_57](images/2011-08-27-16h08_57_thumb.png)
 
-  Click on the Edit Image button. 
+  Click on the Edit Image button.
 
   ![2011-08-27 16h10_34](images/2011-08-27-16h10_34_thumb.png)
 
-  Select a new Image, then Apply Changes and OK to save the picture in Active Directory. If all goes fine you should get the following message. 
+  Select a new Image, then Apply Changes and OK to save the picture in Active Directory. If all goes fine you should get the following message.
 
   ![2011-08-27 16h11_01](images/2011-08-27-16h11_01_thumb.png)
 
-  and your picture is now loaded in Active Directory. 
+  and your picture is now loaded in Active Directory.
 
   ![2011-08-27 16h11_13](images/2011-08-27-16h11_13_thumb.png)
 
-  Note that your Active Directory forest schema must be 2008, if you’re not sure if this is already the case open the Active Directory Users and Computers console, ensure that Advanced Features is enabled in the View menu and open your user object, then select the Attribute Editor tab and search for the **thumbnailPhoto** Attribute. 
+  Note that your Active Directory forest schema must be 2008, if you’re not sure if this is already the case open the Active Directory Users and Computers console, ensure that Advanced Features is enabled in the View menu and open your user object, then select the Attribute Editor tab and search for the **thumbnailPhoto** Attribute.
 
   ![attribute_after](images/attribute_after_thumb.png)
 
-  **More Information**    
-[GAL Photos: Frequently Asked Questions](http://blogs.technet.com/b/exchange/archive/2010/06/01/3410006.aspx)    
+  **More Information**
+[GAL Photos: Frequently Asked Questions](http://blogs.technet.com/b/exchange/archive/2010/06/01/3410006.aspx)
 [The thumbnailPhoto Active Directory Attribute Explained](http://cjwdev.wordpress.com/2010/11/03/the-thumbnailphoto-attribute-explained/)
+
 

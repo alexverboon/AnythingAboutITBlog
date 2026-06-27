@@ -14,13 +14,13 @@ tags:
   - 'Online'
   - 'Project'
 ---
-Today I received a project plan with the request to review it. Since I haven’t installed MS project yet on my new notebook that I just got last week, I replied that I would look at it as soon as I have installed MS Project. I thought I had a good excuse…… well it just took a few minutes until another colleague pointed me to AmiProject, an online viewer for MS Project files. 
+Today I received a project plan with the request to review it. Since I haven’t installed MS project yet on my new notebook that I just got last week, I replied that I would look at it as soon as I have installed MS Project. I thought I had a good excuse…… well it just took a few minutes until another colleague pointed me to AmiProject, an online viewer for MS Project files.
 
-  AmiProject supports MS Project 2002, 2003, 2007 and 2010 formats and runs in IE7+, Firefox, Chrome, Safari and Opera browsers. 
+  AmiProject supports MS Project 2002, 2003, 2007 and 2010 formats and runs in IE7+, Firefox, Chrome, Safari and Opera browsers.
 
   ![image](images/image_thumb1.png)
 
-  Just go to [http://www.amiproject.com/app.aspx](http://www.amiproject.com/app.aspx) and open the project file. 
+  Just go to [http://www.amiproject.com/app.aspx](http://www.amiproject.com/app.aspx) and open the project file.
 
   Other free Project Viewers
 
@@ -31,4 +31,5 @@ Today I received a project plan with the request to review it. Since I haven’t
   MOOS – [Project Viewer Light](http://www.free-project-viewer.com/)
 
   Happy planning
+
 

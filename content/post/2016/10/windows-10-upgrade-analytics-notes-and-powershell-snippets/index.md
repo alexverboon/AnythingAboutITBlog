@@ -90,14 +90,14 @@ $query.value |FL
 ```powershell
 ![image](images/image_thumb-5.png)
 
-To see the definition of the saved search  we’ll use the following code, note the **SavedSearchId** value
+To see the definition of the saved search  we’ll use the following code, note the **SavedSearchId** value
 
 ```powershell
 $query = Get-AzureRmOperationalInsightsSavedSearch  -ResourceGroupName $ResourceGroupName -WorkspaceName $WorkSpaceName -SavedSearchId "test|Drivers"
 $query.properties | FL
 ```powershell
 
- 
+
 
 ![image](images/image_thumb-6.png)
 
@@ -144,7 +144,8 @@ ForEach($s in $schemas)
 $datainfo
 ```
 
- 
 
-That’s it for today, waiting for more data to come into my workspace 
+
+That’s it for today, waiting for more data to come into my workspace
 ![Smile](images/wlEmoticon-smile.png)
+

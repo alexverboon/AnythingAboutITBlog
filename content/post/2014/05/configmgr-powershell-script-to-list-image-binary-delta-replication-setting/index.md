@@ -15,11 +15,11 @@ tags:
   - 'Binary-Delta-Replication'
   - 'PowerShell'
 ---
-Here’s a script that lists all Boot and Operating system images stored within Configuration Manager and shows whether the Binary Delta Replication Setting is enabled or not. 
+Here’s a script that lists all Boot and Operating system images stored within Configuration Manager and shows whether the Binary Delta Replication Setting is enabled or not.
 
  ![SNAGHTML3132c3](images/SNAGHTML3132c3_thumb.png)
 
-  
+
 
 ```powershell
 <#
@@ -28,13 +28,11 @@ Here’s a script that lists all Boot and Operating system images stored within 
 .DESCRIPTION
    This cmdlet Lists ConfigMgr the Boot image and Operating System image Binary Delta Replication Setting
 .EXAMPLE
-
 .EXAMPLE
    Another example of how to use this cmdlet
 .NOTES
  #http://msdn.microsoft.com/en-us/library/hh948196.aspx
  Version 1.0 by Alex Verboon
-
 #>
 function Get-CMImgBDRSetting
 {
@@ -51,7 +49,6 @@ function Get-CMImgBDRSetting
                    Position=1)]
         $SiteServer
     )
-
     Begin
     {
     [string] $Namespace = "root\SMS\site_$SiteCode"
@@ -76,5 +73,5 @@ function Get-CMImgBDRSetting
         $bdr_images | Sort-Object Name
     }
 }
-
 ```
+

@@ -57,7 +57,6 @@ Process{
         Write-host "Print Spooler is not stopped, stopping it now"
         Stop-Service -Name Spooler -Force
     }
-
     If ($PrintSpoolStartMode -ne "Disabled"){
         Write-host "Print Spooler is not disabled, disabling it now"
         Set-Service -Name Spooler -StartupType Disabled
@@ -99,12 +98,10 @@ Begin{
     $PrintSpoolStartMode =  (Get-Service -Name Spooler).StartType
 }
 Process{
-
     If ($PrintSpoolStartMode -ne "Automatic"){
         Write-host "Print Spooler is not set to autostart, configuring that now"
         Set-Service -Name Spooler -StartupType Automatic
     }
-
     If ($PrintSpoolerState -ne "Running"){
         Write-host "Print Spooler is stopped, starting it now"
         Start-Service -Name Spooler
@@ -116,3 +113,4 @@ End{}
 Hope this helps you with your mitigation actions.
 
 Alex
+

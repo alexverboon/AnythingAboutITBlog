@@ -15,7 +15,7 @@ tags:
   - 'PowerShell'
   - 'Azure-Resource-Manager'
 ---
-Today when I opened my Azure portal I had a little surprise. The monthly MSDN subscription credit was much lower as I expected it to be. Did I eventually forget to turn off a virtual machine? Curious to find out where the cost had come from, I drilled into the subscription details and noticed that the higher costs had come from the Premium storage that I had used recently to deploy a virtual machine using an SSD disk  instead of a HDD disk. But still it wasn’t clear why just that one virtual machine would be that expensive, so i drilled into the premier storage account and noticed that there were several orphaned VHD disks there. A clean up was required.
+Today when I opened my Azure portal I had a little surprise. The monthly MSDN subscription credit was much lower as I expected it to be. Did I eventually forget to turn off a virtual machine? Curious to find out where the cost had come from, I drilled into the subscription details and noticed that the higher costs had come from the Premium storage that I had used recently to deploy a virtual machine using an SSD disk  instead of a HDD disk. But still it wasn’t clear why just that one virtual machine would be that expensive, so i drilled into the premier storage account and noticed that there were several orphaned VHD disks there. A clean up was required.
 
 To get an overview of all disks, I wrote the following script called Get-AzureBlobInfo. The script queries all or the specified storage account name and lists all blob objects stored within the containers.
 
@@ -40,11 +40,11 @@ Remove-AzureStorageBlob -Blob OSDDisk_ALEX04.vhd -Container vhds -Context $ctx
 
 Okay, that’s how we get rid of unused VHDs. Now while I am at it anyway, I thought I take this a step further since I’m aware that I have more orphaned azure resources like Network Interfaces, Public IP Addresses and Network security groups. So I wrote three additional functions
 
- 	
+
 - Cleanup-AzureRmNetworkInterfaces
- 	
+
 - Cleanup-AzureRmPublicIPAddress
- 	
+
 - Cleanup-RmNetworkSecurityGroup
 
 The scripts basically all work the same, just provide the name of the resource group and use the ListOnly switch first to list resources that do not have an association with a virtual machine.

@@ -29,7 +29,8 @@ Running the following command creates a separate WIM (image) file with just Driv
 
 Imagex /capture c:\temp\driverstore\ c:\temp\win7drv.wim "win7driverstore"
 
-The result is that 624 MB Driverstore content now just uses **219 MB**. If we add the /compress max option to the above Command brings the size even down to **197 MB**. 
+The result is that 624 MB Driverstore content now just uses **219 MB**. If we add the /compress max option to the above Command brings the size even down to **197 MB**.
 
 Conclusion: Beside the fact that officially the default driver store cannot be modified anyway (if I am wrong here let me know), I think that carrying those +- 220 MB don't make much of a difference.
+
 

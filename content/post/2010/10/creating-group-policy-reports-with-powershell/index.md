@@ -37,26 +37,26 @@ Import-Module -Name grouppolicy
 # First Create the GPOReports Folder
 if (Test-Path C:\GPOReports)
 {
-    "C:\GPOReports Folder already exists exists"
+    "C:\GPOReports Folder already exists exists"
 }
 else
 {
-    "C:\GPOReports  does not exist, create it"
-     New-Item C:\GPOReports -type directory -Force
+    "C:\GPOReports  does not exist, create it"
+     New-Item C:\GPOReports -type directory -Force
 }
 
 # now generate the reports
 $path = "C:\GPOReports"
 get-gpo -All | ForEach-Object {
-write-host "Generating GPO Report for:"  $($_.displayname)
+write-host "Generating GPO Report for:"  $($_.displayname)
 
 Get-GPOReport -Name $_.displayname -ReportType HTML -Path (join-path -Path $path -ChildPath "$($_.displayname).HTML")
 }
 
 displayname -ReportType HTML -Path (join-path -Path $path -ChildPath "$($_.displayname).HTML")
-  } 
+  }
 
- [/sourcecode]
+ [/sourcecode]
 
 The second script I put together simply lists all GPOs that exist in the domain and generates an HTML report.
 
@@ -68,34 +68,35 @@ Import-Module -Name grouppolicy
 # First Create the GPOReports Folder
 if (Test-Path C:\GPOReports)
 {
-    "C:\GPOReports Folder already exists exists"
+    "C:\GPOReports Folder already exists exists"
 }
 else
 {
-    "C:\GPOReports  does not exist, create it"
-     New-Item C:\GPOReports -type directory -Force
+    "C:\GPOReports  does not exist, create it"
+     New-Item C:\GPOReports -type directory -Force
 }
 
 # now generate the summary report
 
 $a = "<style>"
 
-$a = $a + "body    { background-color:#FFFFFF; border:0px solid #666666; color:#000000; font-size:68%; font-family:MS Shell Dlg; margin:0,0,10px,0; word-break:normal; word-wrap:break-word; }"
+$a = $a + "body    { background-color:#FFFFFF; border:0px solid #666666; color:#000000; font-size:68%; font-family:MS Shell Dlg; margin:0,0,10px,0; word-break:normal; word-wrap:break-word; }"
 
-$a = $a + "table   { background-color:#E8E8E8; font-size:100%; table-layout:fixed; width:100%; }"
+$a = $a + "table   { background-color:#E8E8E8; font-size:100%; table-layout:fixed; width:100%; }"
 
-$a = $a + "H1  { background-color:#FEF7D6; border:1px solid #BBBBBB; color:#3333CC; cursor:hand; display:block; font-family:MS Shell Dlg; font-size:100%; font-weight:bold; height:2.25em; margin-bottom:-1px; margin-left:0px; margin-right:0px; padding-left:8px; padding-right:5em; padding-top:4px; position:relative; width:100%; }"
+$a = $a + "H1  { background-color:#FEF7D6; border:1px solid #BBBBBB; color:#3333CC; cursor:hand; display:block; font-family:MS Shell Dlg; font-size:100%; font-weight:bold; height:2.25em; margin-bottom:-1px; margin-left:0px; margin-right:0px; padding-left:8px; padding-right:5em; padding-top:4px; position:relative; width:100%; }"
 
-$a = $a + "td,th  { overflow:visible; text-align:left; vertical-align:top; white-space:normal; }"
+$a = $a + "td,th  { overflow:visible; text-align:left; vertical-align:top; white-space:normal; }"
 
-$a = $a +".title  { background:#FFFFFF; border:none; color:#333333; display:block; height:24px; margin:0px,0px,-1px,0px; padding-top:4px; position:relative; table-layout:fixed; width:100%; z-index:5; }"
+$a = $a +".title  { background:#FFFFFF; border:none; color:#333333; display:block; height:24px; margin:0px,0px,-1px,0px; padding-top:4px; position:relative; table-layout:fixed; width:100%; z-index:5; }"
 $a = $a + "</style>"
 
-get-gpo -all | Select-object Displayname,GpoStatus, Description,CreationTime, ModificationTime | ConvertTo-HTML  -head $a -body "<H1> All Group Policies.</H1>  " | Out-file C:\GPOReports\GPOSummary.html
+get-gpo -all | Select-object Displayname,GpoStatus, Description,CreationTime, ModificationTime | ConvertTo-HTML  -head $a -body "<H1> All Group Policies.</H1>  " | Out-file C:\GPOReports\GPOSummary.html
 
 [/sourcecode]
 
 The output of the above script looks as following.
 
 ![gporeport](images/gporeport_thumb15.png)
+
 

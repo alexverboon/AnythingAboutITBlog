@@ -14,7 +14,8 @@ tags:
   - 'E-Book'
   - 'Resource-Kit'
 ---
-Microsoft Press is celebrating their 25th anniversary and is therefore giving away the “Windows Vista Resource Kit, Second Edition” E-BOOK. 
+Microsoft Press is celebrating their 25th anniversary and is therefore giving away the “Windows Vista Resource Kit, Second Edition” E-BOOK.
 
   ![vistark2](images/vistark2-thumb.gif) You can download the complete E-Book (44 MB) from [here](http://csna01.libredigital.com/?urws8un4p7).
+
 

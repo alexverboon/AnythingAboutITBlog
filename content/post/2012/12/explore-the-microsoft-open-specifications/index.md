@@ -14,19 +14,19 @@ tags:
   - 'Open-Specifications'
   - 'Description'
 ---
-If you’re interested in reading how things really work, the Microsoft Open Specifications are a great resource. Microsoft Open Specifications is primarily intended for software developers but can also be of interest for anyone else who works with Microsoft products. The reason why these documents are little-known is because it isn’t easy to find them on MSDN where they are published. 
+If you’re interested in reading how things really work, the Microsoft Open Specifications are a great resource. Microsoft Open Specifications is primarily intended for software developers but can also be of interest for anyone else who works with Microsoft products. The reason why these documents are little-known is because it isn’t easy to find them on MSDN where they are published.
 
-  This has changed now. On the Microsoft Open Specifications Developer Center you can now easily find the open specification documents through an intuitive Tiles or Pivot explorer. 
+  This has changed now. On the Microsoft Open Specifications Developer Center you can now easily find the open specification documents through an intuitive Tiles or Pivot explorer.
 
   [http://msdn.microsoft.com/en-us/openspecifications/dd569930.aspx](http://msdn.microsoft.com/en-us/openspecifications/dd569930.aspx)
 
   ![clip_image002](images/clip_image002_thumb2.jpg)
 
-  When opening the Interactive Pivot view, we can search for open specifications using key word search, product family or Product versions. 
+  When opening the Interactive Pivot view, we can search for open specifications using key word search, product family or Product versions.
 
   ![clip_image004](images/clip_image004_thumb2.jpg)
 
-  When selecting a specification, we get a brief description of the specification document. 
+  When selecting a specification, we get a brief description of the specification document.
 
   ![clip_image006](images/clip_image006_thumb1.jpg)
 
@@ -34,7 +34,8 @@ If you’re interested in reading how things really work, the Microsoft Open Spe
 
   ![clip_image007](images/clip_image007_thumb.png)
 
-  From here, the appropriate specification document can be directly downloaded. 
+  From here, the appropriate specification document can be directly downloaded.
 
   ![image](images/image_thumb.png)
+
 

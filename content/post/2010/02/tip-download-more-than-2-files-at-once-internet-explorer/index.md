@@ -13,7 +13,8 @@ tags:
   - 'Download'
   - 'Internet-Explorer'
 ---
-I had thought that by now this is something everybody knows, but unfortunately that is not the case, so that is why I post this one today. 
+I had thought that by now this is something everybody knows, but unfortunately that is not the case, so that is why I post this one today.
 
   By default, Windows Internet Explorer 7 and earlier versions limit the number of files that you can download at one time to **two**. Windows Internet Explorer 8 limits the number of files that you can download at one time to six. More details [here](http://support.microsoft.com/kb/282402)
+
 

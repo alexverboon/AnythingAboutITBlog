@@ -14,11 +14,12 @@ tags:
 ---
 Below are a number of resources
 
- 
 
- 
 
-TechNet Inside the Microsoft Operations Management Suite [e-book] 
+
+
+TechNet Inside the Microsoft Operations Management Suite [e-book]
 
 #
+
 

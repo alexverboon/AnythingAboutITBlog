@@ -17,20 +17,20 @@ tags:
 ---
 With the release of the Office 2007 suite, Microsoft made some radical changes to the UI. Gone were the menus and toolbars, replaced by the “**Ribbon**”
 
-  
+
 ![Ribbon in Word 2007](images/default.aspx?AssetID=ZA102056081033)
 
-  I’ve seen many users (including myself) struggling with the new user interface. It’s not that the concept of the Ribbon isn’t good, it’s rather the time it takes until you find the new location within the Ribbon to do something you have been doing for years with the old classic menu with just a few clicks. 
+  I’ve seen many users (including myself) struggling with the new user interface. It’s not that the concept of the Ribbon isn’t good, it’s rather the time it takes until you find the new location within the Ribbon to do something you have been doing for years with the old classic menu with just a few clicks.
 
-  Once you have familiarized yourself with the new UI, I personally find it quite easy to use and intuitive as well. During one of my web-surfing tours I came across a website where one has created a nice little free utility that adds the classic menu and toolbars back into Word 2007. 
+  Once you have familiarized yourself with the new UI, I personally find it quite easy to use and intuitive as well. During one of my web-surfing tours I came across a website where one has created a nice little free utility that adds the classic menu and toolbars back into Word 2007.
 
-  Although I encourage everyone to get used with the Ribbon, sometimes things just need to go quick, and here the [Word Menu utility](http://indelibleink.com/WordMenu.html) can be really a life and time saver. 
+  Although I encourage everyone to get used with the Ribbon, sometimes things just need to go quick, and here the [Word Menu utility](http://indelibleink.com/WordMenu.html) can be really a life and time saver.
 
-  ![image](images/image-thumb3.png) 
+  ![image](images/image-thumb3.png)
 
-  Talking about WinWord, did you know that Word has a history of nearly 28 years?. 
+  Talking about WinWord, did you know that Word has a history of nearly 28 years?.
 
-  ![image](images/image-thumb4.png) 
+  ![image](images/image-thumb4.png)
 
   I wanted to go back in history a bit and found a couple of interesting links:
 
@@ -43,4 +43,5 @@ With the release of the Office 2007 suite, Microsoft made some radical changes t
   Presentation “[The Story of the Ribbon](http://msstudios.vo.llnwd.net/o21/mix08/08_PPTs/UX09_Harris.pptx)” (I really recommend looking at this one)
 
   [Microsoft Word on Wikipedia](http://en.wikipedia.org/wiki/Microsoft_Office_Word#Word_1981_to_1989)
+
 
