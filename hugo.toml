@@ -78,6 +78,10 @@ home = ["HTML", "RSS","JSON"]
   title = "ABOUT"
   href = "about"
 
+[[params.additional_menus]]
+  title = "PROJECTS"
+  href = "projects"
+
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
